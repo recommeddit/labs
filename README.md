@@ -1,2 +1,2 @@
-# Labs
-Place for testing/experimenting
+# labs
+ML/data experiments for Recommeddit
