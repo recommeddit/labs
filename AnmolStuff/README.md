@@ -27,6 +27,7 @@ ALTER TABLE movies DROP COLUMN "endYear", DROP COLUMN "startYear", DROP COLUMN "
  "index";
 ```
 To ensure that you have duplicated the initialization, please run the following SQL commands to test the output:
+
 [PSQL] -->
 ```SQL
 \CONNECT Recommeddit
@@ -54,6 +55,8 @@ SELECT title FROM Movies LIMIT 10;
 -- (10 rows)
 ```
 Next step: Create a `database.ini` file in the same directory as your execution directory. Fill it with the following text information:
+
+[TEXT] -->
 ```
 [postgresql]
 host=localhost
@@ -64,6 +67,8 @@ password={INSERT YOUR PASSWORD HERE}
 Make sure that this file is listed in your `.gitignore` file.
 
 You can now populate the sample statements table by running the python file `testing_db.py`.
+
+[BASH] -->
 ```BASH
 python3 ./testing_db.py
 ```
