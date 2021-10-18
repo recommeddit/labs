@@ -1,0 +1,16 @@
+nltk==3.4.5
+numpy==1.17.2
+praw==7.1.0
+requests==2.22.0
+monkeylearn==3.5.2
+truecase==0.0.12
+pandas==0.25.1
+functional==0.7.0
+gensim==4.0.1
+google_api_python_client==2.5.0
+Markdown==3.3.4
+python-dotenv==0.17.1
+scikit_learn==0.24.2
+spacy==3.0.6
+vaderSentiment==3.3.2
+YelpAPI==2.4.0

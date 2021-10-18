@@ -1,0 +1,546 @@
+{
+ "metadata": {
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.1-final"
+  },
+  "orig_nbformat": 2,
+  "kernelspec": {
+   "name": "recommeddit",
+   "display_name": "recommeddit",
+   "language": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2,
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import sys\n",
+    "import search\n",
+    "import comments\n",
+    "import markdown_to_plaintext\n",
+    "import MonkeyLearnProductSentiment\n",
+    "import pandas as pd\n",
+    "import html\n",
+    "import os.path as path\n",
+    "\n",
+    "from functional import seq\n",
+    "\n",
+    "%load_ext autoreload\n",
+    "%autoreload 2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "query = \"web development podcasts\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "2"
+      ]
+     },
+     "metadata": {},
+     "execution_count": 3
+    }
+   ],
+   "source": [
+    "len(\"\\n\\n\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 29,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "reddit_urls = [\"https://www.reddit.com/r/git/comments/icptpk/recommend_a_merge_tool/\"]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 32,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "stream",
+     "name": "stdout",
+     "text": [
+      "User: None\n"
+     ]
+    }
+   ],
+   "source": [
+    "# search google reddit.com CSE for \"best <query name> reddit\"\n",
+    "# reddit_urls = search.returnlinks(query)\n",
+    "\n",
+    "# resolve reddit URLs to comments and remove HTML/markdown syntax\n",
+    "reddit = comments.connect()\n",
+    "all_comments = (\n",
+    "    seq(reddit_urls)\n",
+    "    .flat_map(lambda reddit_url: comments.get_comments(reddit, reddit_url))\n",
+    "    .map(markdown_to_plaintext.unmark)\n",
+    ")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 33,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "stream",
+     "name": "stdout",
+     "text": [
+      "Meld is my favourite. I'm sure there are some tutorials out there, but it's easy to use from the start, and there are some keyboard shortcuts that make life easier.\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(all_comments[0])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "error",
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (<ipython-input-4-c6a80f229ae2>, line 16)",
+     "traceback": [
+      "\u001b[0;36m  File \u001b[0;32m\"<ipython-input-4-c6a80f229ae2>\"\u001b[0;36m, line \u001b[0;32m16\u001b[0m\n\u001b[0;31m    separator =\u001b[0m\n\u001b[0m                ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "# search google reddit.com CSE for \"best <query name> reddit\"\n",
+    "reddit_urls = search.returnlinks(query)\n",
+    "\n",
+    "# resolve reddit URLs to comments and remove HTML/markdown syntax\n",
+    "reddit = comments.connect()\n",
+    "all_comments = (\n",
+    "    seq(reddit_urls)\n",
+    "    .flat_map(lambda reddit_url: comments.get_comments(reddit, reddit_url))\n",
+    "    .for_each(lambda comment: comment.comment = html.unescape(comment.comment))\n",
+    "    .for_each(lambda comment: comment.comment = markdown_to_plaintext.unmark(comment.comment))\n",
+    ")\n",
+    "\n",
+    "raw_all_comments = all_comments.map(lambda comment: comment.comment)\n",
+    "\n",
+    "list_of_comment_bounds = []\n",
+    "chunked_all_comments = []\n",
+    "curr_index = 0\n",
+    "separator = \"\\n\\n\"\n",
+    "for comment in raw_all_comments:\n",
+    "    if not chunked_all_comments:\n",
+    "        chunked_all_comments.append(comment)\n",
+    "    else:\n",
+    "        if len(chunked_all_comments[-1] + separator + comment) > MAX_CHARS:\n",
+    "            chunked_all_comments.append(comment)\n",
+    "        else:\n",
+    "            curr_index += len(separator)\n",
+    "            chunked_all_comments[-1] += separator + comment\n",
+    "    list_of_comment_bounds.append((curr_index, curr_index + len(comment)))\n",
+    "    curr_index += len(comment)\n",
+    "\n",
+    "results = MonkeyLearnProductSentiment.keyword_extractor_total(chunked_all_comments, list_of_comment_bounds)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 46,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "{'rapid fire': 0.331,\n",
+       " 'code newbie': 0.331,\n",
+       " 'syntax': 0.371,\n",
+       " 'happy hours': 0.442,\n",
+       " 'developer tea': 0.442,\n",
+       " 'software engineering radio': 0.497,\n",
+       " 'javascript jabber': 0.552,\n",
+       " 'shop talk show': 0.663,\n",
+       " 'frontend happy hours': 0.663,\n",
+       " 'full stack radio': 0.994}"
+      ]
+     },
+     "metadata": {},
+     "execution_count": 46
+    }
+   ],
+   "source": [
+    "results"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 47,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "csv_filename = \"all_comments.csv\"\n",
+    "\n",
+    "if path.exists(csv_filename):\n",
+    "    original = pd.read_csv(csv_filename)\n",
+    "    additional = pd.DataFrame({query: all_comments.to_list()})\n",
+    "    new = pd.concat([original, additional], axis=1)\n",
+    "    new.to_csv(csv_filename, index=False)\n",
+    "else:\n",
+    "    pd.DataFrame({query: all_comments.to_list()}).to_csv(csv_filename, index=False)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "941"
+      ]
+     },
+     "metadata": {},
+     "execution_count": 12
+    }
+   ],
+   "source": [
+    "len(all_comments)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "concatenated_comments = '\\n\\n'.join(all_comments)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "metadata": {
+    "tags": [
+     "outputPrepend"
+    ]
+   },
+   "outputs": [
+    {
+     "output_type": "stream",
+     "name": "stdout",
+     "text": [
+      " it\n\nSo you're making conclusive judgments about things you've never even tried. I've actually used both, and I've found Qt Creator plus Linux to be an overall better development experience.\nI won't deny that there exists \"better\" intellisense than what Qt Creator offers, depending on what kind of metrics you use. For example, CLion has far more comprehensive intellisense because it uses a stronger code model; in particular, it offers much more complete intellisense for templates than what Qt Creator does. But I don't use it because that stronger code model takes much longer to build up and causes the whole editor to do things slowly. I've run into this issue with Visual Studio as well, where the time it takes to parse the code model results in frequent hiccups which impact my productivity. So in that sense, Qt Creator's intellisense is better for me, because it's not as taxing and gives me what I need 95% of the time, which is good plenty.\nNow you'll probably argue that beginners won't be working with giant code bases so that's a non-issue. And that's probably true, but that still has nothing to do with why I recommend Qt Creator for beginners. I recommend it because I find it to be an overall cleaner and simpler experience than Visual Studio. I find it easier to get going, easier to find all the settings you'll ever need to find, and more compatible with a wider range of third-party libraries (especially open source libraries, which is a main focus for me).\n\nVS is widely accepted to be the best debugger out there\n\nThis is purely a matter of opinion, not fact. I've never struggled to debug difficult problems with the Qt Creator frontend for GDB, and I've never found Visual Studio to be any more helpful than Qt Creator + GDB.\n\nI'm just going to stop responding now\n\nI won't lose any sleep over this.\n\nall you do, and did from the start, is arguing for the sense of arguing,\n\nMy impassioned arguments come from hours and days of accumulated frustration over getting basic shit to just compile under Visual Studio's terrible build system. If you haven't had to suffer through that, then I can only assume that you've never tried to put together a particularly complex project in Visual Studio before. Even just getting a Visual Studio project to link to Boost has been a headache on numerous occasions.\n\nwithout even reading properly\n\nI admit that I may have misinterpreted the original parent comment. Other than that, I think my reading performance has been satisfactory.\n\nqtcreator\n\nemacs does everything I need in an programming editor.\n\nI really like KDevelop. Nothing beats it's highlighting and integration with CMake. I recently had some problem with it (due to a crash in clang) but otherwise it's a great ide.\nI also tried QtCreator, which also have a great integration with CMake and it's recent integration with clang makes it even better (but suffers from the same clang crash).\nThat said, I've been told that as a power user, a good vim setup with the right plugins is hard to beat.\nEdit: typo\n\nI've been using CLion for the past 6 months or so. It requires a license and it's early days, so there are bugs. But it functions very similarly to IntelliJ which is hands down the best Java IDE on the market.\n\nVS Code is fantastic.\n\n+1 Clion.\n\nI used to use Clion. It is good but it is not free for commercial and the licensing is yearly basis. Move to Qt Creator. Its free with decent tools and finctionalities.\n\nCodeLite is an actively maintained and feature-rich C++ IDE. It's similar to Code::Blocks but easier to use and works better out-of-the-box. I used to use it for my C++ development but moved to VS Code with mixed success. I strongly recommend checking out both CodeLite and (for a less visual-oriented IDE) VS Code.\n\nMy recommendation - CLion. Its paid but if you are investing a lot of time developing in C++ on Linux then its worth it.\n\nAs already suggested, give VScode a try. It's pretty much Atom but more stable. I only used Atom for about 5 months last year and it felt like in pre-alpha, although it had a lot of potential.\nAtom used to crash when opening large projects, as well as when adding some plugins. I think VScode have never crashed yet and I've been using it for about 10 months. I've even changed Notepad++ by VScode in Windows.\nWhat I love about both Atom and VScode is the versatility they have adding plugins. You can configure them as whatever you want much easier than in classic IDEs (I've never tried CLion but people say it's awesome).\nVScode is greatly integrate with Git, for example. And you want to edit some extra Python files? Just add 1 extension and quickly reload it to have syntax highlighting/error checking for Python.\nBesides that (completely personal preference), I find the GUI very comfortable and really 21st Century, not like Eclipse for example.\nThe only thing I miss is more easiness in indexing files, although I have to admit that working with embedded I had terrible times configuring Eclipse in the past as well, and I blame the project structure more than the IDE in this particular case.\n\nIf you are looking for the best out-of-the-box experience, without any configuration necessary: CLion.\nIf you are willing to google a bit and install a couple of plugins and edit 1-2 config settings, then VSCode is a really good option too.\n\nThere are some options today, and you will get at least these, but even more suggestions:\n\nQt creator\nCLion\neclipse CDT\nKDevelop\nVS Code with the C++ addon\n\nYou can try them all, a subset, or pick one and stuck with it, that's up to you\n&#x200B;\n\nYou can pry Kdevelop from my cold dead hands. What a fantastic piece of software. CMake and gdb integration are just perfect, I've used it for years and do not really miss anything.\nBefore this, I used Qtcreator and that is a very comparable package. I prefer Kdev because it integrates well with KDE which is my DE, and I don't use Qt libs nor make Qt guis (when I do, I'll check it out again).\nQuite frankly, I think Kdevelop is not very well known and quite underrated.\n\nHey man you might want to give Emacs a try. It has a steep learning curve, but it's something worth mastering. By that I mean you will be much more productive and will learn a lot more. Also vim is a good substitute, but Emacs is in my heart. There are a lot of tutorials all over the internet how to integrate Emacs with cmake and many other things to make your life easy. \nHappy hacking!\n\neclipse is very nice imo.\n\nEclipse CDT\n\nYou might want to try the lightweight C++ IDE juCi++. It is also one of the few IDE's that is written in newer C++.\n\nI would recommend trying VSCode with cquery or ccls\n\nFor C++ look hard at Qt Creator (and I say that as a VS Code fanboy for non-C++ work).\nIt’s very subjective, though. VS Code, CLion, Qt Creator, Emacs ... try them all, pick the one that feels comfortable.\n\nNothing could beat Clion now. Otherwise invest your time in learning Emacs - be warned it is a life-long investment.\n\nvscode + cquery\n\nI used NetBeans and Eclipse. There's also Cevelop, build on eclipse (https://cevelop.com/)\n\ncquery, a language server for C++ offers advanced IDE functionality to any editor that speaks its protocol. Many editors have plugins for it: emacs, VSCode, vim... I use kakoune myself.\n\nI also use atom/terminal.  What's missing from it?\n\nIf you are using cmake, ive found vscode to actually be an excellent c++ ide on linux\n\nWell to start out with there is one I can safely say you need to stay away form and that is Eclipse.   Eclipse consistently breaks itself and has done so for me on Linux, Mac OS and Windows.\nYou may already be past this level but it never hurts to learn to program using the command line and a text editor like VIM.  \nAs for IDE's and more advance editors you actually have many choices out there.  Examples:\nGeany\nAnjuta\nCode::Blocks\nEMACS\nSciTE\nThese are not mentioned extensively here but worth your consideration.   \nI should note that many of the free IDE's or advanced editors out there are very buggy in my opinion.   If you want reliability turn to software that has been around for awhile such as EMACS.\n\nI really like SlickEdit IDE. It is very zippy especially with large projects (30000+ files) where I found using Eclipse was very slow. It does code indexing very quickly and I find it very easy to use and intuitive. And whenever have any questions about it the forum is monitored by the developers/enthusiastic users and they are very responsive.\n\nCheck out Visual Studio Code\n\ncodeblocks with the plugins package\n\nVisual Studio 2017 remote development\\debug\\compilation\n\nAtom, afaik, isn't an ide, it's just a very nice text editor with more tools\nTry codeblocks or Eclipse, I'm loving em\n\nalso, don't use the QtCreator version in the ubuntu repos. Even in the latest Ubuntu releases it is fairly outdated. Use the official Qt packages instead : https://www1.qt.io/offline-installers/#section-11\n\nSame here. I haven't found another editor that's as fast, has the features I want and also allows me to disable features that I find annoying. I have a customized .emacs file I've been carrying around with me since the mid-90's. There's surprisingly little in there, though. Mostly just a function to do vi-style paran matching in the editor buffer. I've used a lot of editors over the years, with my two favorites still being emacs and vi.\n\nmy problem with emacs is that you can program it. \"I'll automate this with just a bit of this elisp\". A week later I get back to what I was working on :)\n&#x200B;\nfwiw, I've been using it since the 80s. It's very useful and flexible.\n\nemacs can turn off those attached to mouse interaction and those who want a ready, out-of-the-box experience.\nThat said, after putting in the time to learn it and customize it, it allows you to run circles around VS Code, QtCreator, etc..  \nFor intellisense look at cquery or ccls (forked):\nhttps://github.com/cquery-project/cquery\nhttps://github.com/MaskRay/ccls\n\nBut op is looking for an IDE. Can you debug with emacs? Editing is only half of the job...\n\n[deleted]\n\nFellow KDevelop user. Both at home for Python and at work for C++.\nUnfortunately clang seems to crash on our source files in any version above 5.2.0 for some reason (but only when running the appimage). I really want to upgrade though.\n\nCould you elaborate on the vim setup? I’ve never heard of that term\n\nI love KDevelop with its great array of plugins to help with productivity and catching bugs early on. One problem I have with it is the dark theme isn't the best and that there aren't a lot to pick from. It's low priority issue but I hope it gets fixed eventually.\n\nHonestly, vim is not great compared to qtcreator. YCM requires generation of an extra configuration file to work correctly with headers as the compilation database is not sufficient, and you need a different tool like rtags to be able to follow links. Rtags can be restrictively slow on larger codebases though as it takes hours to index all the files. Clangd based plugins also rely on the compilation database which makes it unsuitable for jumping between header/source and interpreting headers in general. Qtcreator's interaction with cmake server mode and the clang code model make it more reliable than any vim plugin. The only advantage of vim is the key bindings which almost every IDE and code editor supports nowadays anyway.\n\nWhat sort of cmake integration does it have?\n\nCLion was going to be my recommendation. It has native integration with CMake which it uses for it's code completion. I've only made small networking projects using it but JetBrains git features are a godsend for simplifying the VCS model. It's worth noting I also use a Vim plugin on CLion/PyCharm/IntelliJ which is absolutely fantastic.\nCLion is, as mentioned, a licensed product but it's free for hobbists.\n\nI use Clion because I have an open source jetbrains license and I'm used to intellij and pycharm\n\nI recently decided to give VS Code a chance. I find it less user friendly than other IDEs I've tried such as Eclipse or QTCreator.  Also not a fan of their \"tasks\" system.\n\nI really love VSCode.\nI've been using it from the beginning and the tooling has become so much better.\nThe CMake plugin (props to /u/vector-of-bool) has really matured and from my point of view covers most use cases.\ncpptools plugin was a little hard to configure in the beginning, but now works very well and integrates nicely with the CMake plugin. Sometimes I have some performance issues with intellisense though (but that's on my VM).\nWorks even nice with SCL environments on RedHat/CentOS.\n\nI've tried a few VS Code versions in the last couple of years and never managed to get the C++ plugins working, always had some issues with code navigation or bogus compile errors.\n\nI know this is old. I tried to use KDevelop but it felt somewhat lacking and not as mature as other IDEs (or even text editors with plugins such as VS Code).\nJust as an example, I want my editor to have a nice color scheme that I like, and KDevelop doesn't have many of those. There aren't many on the internet made by the community either so you're kinda stuck with what the IDE offers.\nAlso, I found the autocompletion a tad \"bloated\". Like, when I start typing it pulls out all sorts of symbols and macros which I know nothing about (I'm guessing from the standard library).\nI switched to QtCreator after literally 3 minutes of use :/\n\n+1\nInvestment in your tools multiplies productivity.\n\nHow does CLion handle new and/or complex Code ? Last time i tried it it had problems with code that is not trivial.\n\ncheckout ccls too. Which is a fork of cquery which makes use of C++17 features, has less third-party dependencies and slimmed-down code base.\n\nDoesn't it run on Wine anyway?\n\nCorrect, atom can be converted into an IDE but all of my compiling is done through the terminal\n\nEmacs supports mice just fine, and is ready out of the box? Only change I've ever made from the defaults are a keybinding to run the current buffer through clang-format.\n\nhttps://www.gnu.org/software/emacs/manual/html_node/emacs/Debuggers.html\n(That's a yes)\n\nI want to like KDevelop, but I find the UI distractingly busy. QtCreator has one of the best UIs of any IDE I have ever used. I really wish it did the inline integration stuff that KDevelop did though.\n\nWe'll see with clang 7.0.0 how things goes. I reported the bug but if it's in clang, it's harder to fix and updates are show. Also, it's good to know which appimage works, thanks.\n\nVim is a very popular, and can be a very powerful, text editor. But, out of the box, it is only a text editor. There are numerous plugins to give it IDE like abilities.\n\nVim is a command line based text editor. It is known for being beginner unfriendly, but really powerful when mastered. I'm personally okay with graphical based IDE.\n\nWhat do you mean the dark theme is not the best? I'm working using the dark theme for years! Here's a screenshot of my dark setup\nI only selected the breeze dark scheme in the color theme, and tweaked a bit the color schema of the editor.\n\nVim is an editor, so we are not comparing apples with apples. But if the user wants IDE capabilities in vim, Language Server Protocols are the way to go. For c++ in particular, cquery has been working really good for me, including completion in headers. Clangd has a bright future, but not as mature as cquery right now (I tried a few months ago).  \n\nThe only advantage of vim is the key bindings which almost every IDE and code editor supports nowadays anyway.\n\nNah, not close to reality, try to see a video on how to use vim by a power user.\n\nWell... The parsing is done correctly using the compilation database, there's also a full configuration and cache editor, and the whole project configuration is done through it.\n\nYou should try CMake plugin.\n\nI have used both Qt Creator and VS Code fairly extensively, and can't think of a single advantage that Qt Creator has except for native integration of qmake and graphical .ui editing.\n\nIts not IDE though\n\nTry reinstalling them? I've never had this issue\n\nYea that's the thing I was mentioning - last time I tried it was similar, but it was 6+ months ago. It may or may not have gotten better since then - not sure!\n\nI mostly work with legacy code, but so far it is doing well, recognizing lambdas etc.\nSometimes coloring is broken for a while on a heavy-templated code i.e. using boost::msm.\nTo format the code I'm using clang-format anyway, but build-in formatter works just fine.\nHints about unused functions etc are not always accurate but extremely useful anyway.\nIn general just give it a try, it greatly improved my productivity working with the C++ code.\n\nNever heard about it, and will check it out today! Seems much more active then cquery.\n\nThanks, gotta give it a go for vs code.\nDeveloper himself maintains AUR packages (tagged + git), very nice!\n\nVS Code has native integrated terminal. Atom can have it via a plugin afaik.\n\nI'm not sure what you mean, you're entirely in control of the buttons and panels shown at any given time.\n\nFunny thing is that when used without appImage everything seems to work. Might be a problem with the packaging.\n\nyou can enable vi-keybindings in both qt creator and kdevelop to get a taste of it\n\nYou are vastly understating it's perceived difficulty, no other editor feels the same, it is super weird if you haven't been exposed to something like that.  I would highly recommend he watch many tutorials on VIM to get used to it\n\nThank you very much\n\nThe color scheme of the text editor isn't to my liking. I like softer colors that match closer to a material palette.\n\nfull configuration and cache editor\n\nFull configuration editor? What do you mean by that? My laptop is Darwin and their Darwin release crashes looking for a library not included in the package, so can't check it out right now.\n\ncan't think of a single advantage that Qt Creator has \n\n\nCode completion is better (Microsoft C++ plugin never worked for me, both cquery and clangd are still incomplete).\nMemory view during debugging.\nLittle things like showing the type of auto variable.\n\nI don't disagree with that. I'm still getting used to VS so take my opinion with a grain of salt\n\nThese extensions (cpp extension, clangd, cquery) became much better in the past half-year, especially if you have compile_commands.json\n\nYes, and it also has slightly more features. Checkout the wiki page\nI use it with emacs and it works damn well\n\nYeah, it is possible to configure it to not be as bad, but by default it has a ton of stuff going on in the GUI that is at best marginally useful. The top menu is also a bit confusing, with what basically feels like 3 separate application menus present at the same time. The fact that it pulls in whatever you have for the main toolbar in Kate into the main toolbar in a confusing way doesn't help either. It makes a great deal of sense to have a \"New\" button in kate, but that in no way means I want one in my IDE.\n\nI have two setup. One with the arch package and another with their git master, both are crashing. You might have an older clang on your distro?\n\nThese young whippersnappers of today with their YouTube videos and what not.. Back in my day we just fired up vimtutor and learned our stuff hands on.\n\nWell... You can download additional one (maybe even with the add-on downloader) or you can also roll your own, good thing there is a configuration editor in kate\n\nYou can edit/add configuration variables for CMake cache with a GUI\n\nAppImage should mask the version installed on my system shouldn't it? The crash happened both on Ubuntu 18.04 and 12.04.\nThe bug report I submitted contains a minimal file that reproduces the issue: https://bugs.kde.org/show_bug.cgi?id=396310\n\nConfiguring a theme would take a long time to get everything looking good for me. How popular is KDeveloper compared to other IDEs? That would explain why there aren't they many good themes (at least for me) around.\n"
+     ]
+    }
+   ],
+   "source": [
+    "print([concatenated_comments])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 53,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "text_file = open(\"cleaned.txt\", \"w\")\n",
+    "n = text_file.write(cleaned_concatenated_comments)\n",
+    "text_file.close()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 25,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "line = concatenated_comments\n",
+    "n = 200000\n",
+    "split_fo_comments = [line[i:i+n] for i in range(0, len(line), n)]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 26,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "7"
+      ]
+     },
+     "metadata": {},
+     "execution_count": 26
+    }
+   ],
+   "source": [
+    "len(split_for_opinion_comments)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 35,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "'VS Code'"
+      ]
+     },
+     "metadata": {},
+     "execution_count": 35
+    }
+   ],
+   "source": [
+    "concatenated_comments[64597:64604]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "error",
+     "ename": "NameError",
+     "evalue": "name 'all_comments' is not defined",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "\u001b[0;32m<ipython-input-1-1a06683ee533>\u001b[0m in \u001b[0;36m<module>\u001b[0;34m\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0mall_comments\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m: name 'all_comments' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "all_comments"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 51,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "cleaned_concatenated_comments = html.unescape(concatenated_comments)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 52,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "nsive intellisense because it uses a stronger code model; in particular, it offers much more complete intellisense for templates than what Qt Creator does. But I don\\'t use it because that stronger code model takes much longer to build up and causes the whole editor to do things slowly. I\\'ve run into this issue with Visual Studio as well, where the time it takes to parse the code model results in frequent hiccups which impact my productivity. So in that sense, Qt Creator\\'s intellisense is better for me, because it\\'s not as taxing and gives me what I need 95% of the time, which is good plenty.\\nNow you\\'ll probably argue that beginners won\\'t be working with giant code bases so that\\'s a non-issue. And that\\'s probably true, but that still has nothing to do with why I recommend Qt Creator for beginners. I recommend it because I find it to be an overall cleaner and simpler experience than Visual Studio. I find it easier to get going, easier to find all the settings you\\'ll ever need to find, and more compatible with a wider range of third-party libraries (especially open source libraries, which is a main focus for me).\\n\\nVS is widely accepted to be the best debugger out there\\n\\nThis is purely a matter of opinion, not fact. I\\'ve never struggled to debug difficult problems with the Qt Creator frontend for GDB, and I\\'ve never found Visual Studio to be any more helpful than Qt Creator + GDB.\\n\\nI\\'m just going to stop responding now\\n\\nI won\\'t lose any sleep over this.\\n\\nall you do, and did from the start, is arguing for the sense of arguing,\\n\\nMy impassioned arguments come from hours and days of accumulated frustration over getting basic shit to just compile under Visual Studio\\'s terrible build system. If you haven\\'t had to suffer through that, then I can only assume that you\\'ve never tried to put together a particularly complex project in Visual Studio before. Even just getting a Visual Studio project to link to Boost has been a headache on numerous occasions.\\n\\nwithout even reading properly\\n\\nI admit that I may have misinterpreted the original parent comment. Other than that, I think my reading performance has been satisfactory.\\n\\nqtcreator\\n\\nemacs does everything I need in an programming editor.\\n\\nI really like KDevelop. Nothing beats it\\'s highlighting and integration with CMake. I recently had some problem with it (due to a crash in clang) but otherwise it\\'s a great ide.\\nI also tried QtCreator, which also have a great integration with CMake and it\\'s recent integration with clang makes it even better (but suffers from the same clang crash).\\nThat said, I\\'ve been told that as a power user, a good vim setup with the right plugins is hard to beat.\\nEdit: typo\\n\\nI\\'ve been using CLion for the past 6 months or so. It requires a license and it\\'s early days, so there are bugs. But it functions very similarly to IntelliJ which is hands down the best Java IDE on the market.\\n\\nVS Code is fantastic.\\n\\n+1 Clion.\\n\\nI used to use Clion. It is good but it is not free for commercial and the licensing is yearly basis. Move to Qt Creator. Its free with decent tools and finctionalities.\\n\\nCodeLite is an actively maintained and feature-rich C++ IDE. It\\'s similar to Code::Blocks but easier to use and works better out-of-the-box. I used to use it for my C++ development but moved to VS Code with mixed success. I strongly recommend checking out both CodeLite and (for a less visual-oriented IDE) VS Code.\\n\\nMy recommendation - CLion. Its paid but if you are investing a lot of time developing in C++ on Linux then its worth it.\\n\\nAs already suggested, give VScode a try. It\\'s pretty much Atom but more stable. I only used Atom for about 5 months last year and it felt like in pre-alpha, although it had a lot of potential.\\nAtom used to crash when opening large projects, as well as when adding some plugins. I think VScode have never crashed yet and I\\'ve been using it for about 10 months. I\\'ve even changed Notepad++ by VScode in Windows.\\nWhat I love about both Atom and VScode is the versatility they have adding plugins. You can configure them as whatever you want much easier than in classic IDEs (I\\'ve never tried CLion but people say it\\'s awesome).\\nVScode is greatly integrate with Git, for example. And you want to edit some extra Python files? Just add 1 extension and quickly reload it to have syntax highlighting/error checking for Python.\\nBesides that (completely personal preference), I find the GUI very comfortable and really 21st Century, not like Eclipse for example.\\nThe only thing I miss is more easiness in indexing files, although I have to admit that working with embedded I had terrible times configuring Eclipse in the past as well, and I blame the project structure more than the IDE in this particular case.\\n\\nIf you are looking for the best out-of-the-box experience, without any configuration necessary: CLion.\\nIf you are willing to google a bit and install a couple of plugins and edit 1-2 config settings, then VSCode is a really good option too.\\n\\nThere are some options today, and you will get at least these, but even more suggestions:\\n\\nQt creator\\nCLion\\neclipse CDT\\nKDevelop\\nVS Code with the C++ addon\\n\\nYou can try them all, a subset, or pick one and stuck with it, that\\'s up to you\\n\\u200b\\n\\nYou can pry Kdevelop from my cold dead hands. What a fantastic piece of software. CMake and gdb integration are just perfect, I\\'ve used it for years and do not really miss anything.\\nBefore this, I used Qtcreator and that is a very comparable package. I prefer Kdev because it integrates well with KDE which is my DE, and I don\\'t use Qt libs nor make Qt guis (when I do, I\\'ll check it out again).\\nQuite frankly, I think Kdevelop is not very well known and quite underrated.\\n\\nHey man you might want to give Emacs a try. It has a steep learning curve, but it\\'s something worth mastering. By that I mean you will be much more productive and will learn a lot more. Also vim is a good substitute, but Emacs is in my heart. There are a lot of tutorials all over the internet how to integrate Emacs with cmake and many other things to make your life easy. \\nHappy hacking!\\n\\neclipse is very nice imo.\\n\\nEclipse CDT\\n\\nYou might want to try the lightweight C++ IDE juCi++. It is also one of the few IDE\\'s that is written in newer C++.\\n\\nI would recommend trying VSCode with cquery or ccls\\n\\nFor C++ look hard at Qt Creator (and I say that as a VS Code fanboy for non-C++ work).\\nIt’s very subjective, though. VS Code, CLion, Qt Creator, Emacs ... try them all, pick the one that feels comfortable.\\n\\nNothing could beat Clion now. Otherwise invest your time in learning Emacs - be warned it is a life-long investment.\\n\\nvscode + cquery\\n\\nI used NetBeans and Eclipse. There\\'s also Cevelop, build on eclipse (https://cevelop.com/)\\n\\ncquery, a language server for C++ offers advanced IDE functionality to any editor that speaks its protocol. Many editors have plugins for it: emacs, VSCode, vim... I use kakoune myself.\\n\\nI also use atom/terminal.  What\\'s missing from it?\\n\\nIf you are using cmake, ive found vscode to actually be an excellent c++ ide on linux\\n\\nWell to start out with there is one I can safely say you need to stay away form and that is Eclipse.   Eclipse consistently breaks itself and has done so for me on Linux, Mac OS and Windows.\\nYou may already be past this level but it never hurts to learn to program using the command line and a text editor like VIM.  \\nAs for IDE\\'s and more advance editors you actually have many choices out there.  Examples:\\nGeany\\nAnjuta\\nCode::Blocks\\nEMACS\\nSciTE\\nThese are not mentioned extensively here but worth your consideration.   \\nI should note that many of the free IDE\\'s or advanced editors out there are very buggy in my opinion.   If you want reliability turn to software that has been around for awhile such as EMACS.\\n\\nI really like SlickEdit IDE. It is very zippy especially with large projects (30000+ files) where I found using Eclipse was very slow. It does code indexing very quickly and I find it very easy to use and intuitive. And whenever have any questions about it the forum is monitored by the developers/enthusiastic users and they are very responsive.\\n\\nCheck out Visual Studio Code\\n\\ncodeblocks with the plugins package\\n\\nVisual Studio 2017 remote development\\\\debug\\\\compilation\\n\\nAtom, afaik, isn\\'t an ide, it\\'s just a very nice text editor with more tools\\nTry codeblocks or Eclipse, I\\'m loving em\\n\\nalso, don\\'t use the QtCreator version in the ubuntu repos. Even in the latest Ubuntu releases it is fairly outdated. Use the official Qt packages instead : https://www1.qt.io/offline-installers/#section-11\\n\\nSame here. I haven\\'t found another editor that\\'s as fast, has the features I want and also allows me to disable features that I find annoying. I have a customized .emacs file I\\'ve been carrying around with me since the mid-90\\'s. There\\'s surprisingly little in there, though. Mostly just a function to do vi-style paran matching in the editor buffer. I\\'ve used a lot of editors over the years, with my two favorites still being emacs and vi.\\n\\nmy problem with emacs is that you can program it. \"I\\'ll automate this with just a bit of this elisp\". A week later I get back to what I was working on :)\\n\\u200b\\nfwiw, I\\'ve been using it since the 80s. It\\'s very useful and flexible.\\n\\nemacs can turn off those attached to mouse interaction and those who want a ready, out-of-the-box experience.\\nThat said, after putting in the time to learn it and customize it, it allows you to run circles around VS Code, QtCreator, etc..  \\nFor intellisense look at cquery or ccls (forked):\\nhttps://github.com/cquery-project/cquery\\nhttps://github.com/MaskRay/ccls\\n\\nBut op is looking for an IDE. Can you debug with emacs? Editing is only half of the job...\\n\\n[deleted]\\n\\nFellow KDevelop user. Both at home for Python and at work for C++.\\nUnfortunately clang seems to crash on our source files in any version above 5.2.0 for some reason (but only when running the appimage). I really want to upgrade though.\\n\\nCould you elaborate on the vim setup? I’ve never heard of that term\\n\\nI love KDevelop with its great array of plugins to help with productivity and catching bugs early on. One problem I have with it is the dark theme isn\\'t the best and that there aren\\'t a lot to pick from. It\\'s low priority issue but I hope it gets fixed eventually.\\n\\nHonestly, vim is not great compared to qtcreator. YCM requires generation of an extra configuration file to work correctly with headers as the compilation database is not sufficient, and you need a different tool like rtags to be able to follow links. Rtags can be restrictively slow on larger codebases though as it takes hours to index all the files. Clangd based plugins also rely on the compilation database which makes it unsuitable for jumping between header/source and interpreting headers in general. Qtcreator\\'s interaction with cmake server mode and the clang code model make it more reliable than any vim plugin. The only advantage of vim is the key bindings which almost every IDE and code editor supports nowadays anyway.\\n\\nWhat sort of cmake integration does it have?\\n\\nCLion was going to be my recommendation. It has native integration with CMake which it uses for it\\'s code completion. I\\'ve only made small networking projects using it but JetBrains git features are a godsend for simplifying the VCS model. It\\'s worth noting I also use a Vim plugin on CLion/PyCharm/IntelliJ which is absolutely fantastic.\\nCLion is, as mentioned, a licensed product but it\\'s free for hobbists.\\n\\nI use Clion because I have an open source jetbrains license and I\\'m used to intellij and pycharm\\n\\nI recently decided to give VS Code a chance. I find it less user friendly than other IDEs I\\'ve tried such as Eclipse or QTCreator.  Also not a fan of their \"tasks\" system.\\n\\nI really love VSCode.\\nI\\'ve been using it from the beginning and the tooling has become so much better.\\nThe CMake plugin (props to /u/vector-of-bool) has really matured and from my point of view covers most use cases.\\ncpptools plugin was a little hard to configure in the beginning, but now works very well and integrates nicely with the CMake plugin. Sometimes I have some performance issues with intellisense though (but that\\'s on my VM).\\nWorks even nice with SCL environments on RedHat/CentOS.\\n\\nI\\'ve tried a few VS Code versions in the last couple of years and never managed to get the C++ plugins working, always had some issues with code navigation or bogus compile errors.\\n\\nI know this is old. I tried to use KDevelop but it felt somewhat lacking and not as mature as other IDEs (or even text editors with plugins such as VS Code).\\nJust as an example, I want my editor to have a nice color scheme that I like, and KDevelop doesn\\'t have many of those. There aren\\'t many on the internet made by the community either so you\\'re kinda stuck with what the IDE offers.\\nAlso, I found the autocompletion a tad \"bloated\". Like, when I start typing it pulls out all sorts of symbols and macros which I know nothing about (I\\'m guessing from the standard library).\\nI switched to QtCreator after literally 3 minutes of use :/\\n\\n+1\\nInvestment in your tools multiplies productivity.\\n\\nHow does CLion handle new and/or complex Code ? Last time i tried it it had problems with code that is not trivial.\\n\\ncheckout ccls too. Which is a fork of cquery which makes use of C++17 features, has less third-party dependencies and slimmed-down code base.\\n\\nDoesn\\'t it run on Wine anyway?\\n\\nCorrect, atom can be converted into an IDE but all of my compiling is done through the terminal\\n\\nEmacs supports mice just fine, and is ready out of the box? Only change I\\'ve ever made from the defaults are a keybinding to run the current buffer through clang-format.\\n\\nhttps://www.gnu.org/software/emacs/manual/html_node/emacs/Debuggers.html\\n(That\\'s a yes)\\n\\nI want to like KDevelop, but I find the UI distractingly busy. QtCreator has one of the best UIs of any IDE I have ever used. I really wish it did the inline integration stuff that KDevelop did though.\\n\\nWe\\'ll see with clang 7.0.0 how things goes. I reported the bug but if it\\'s in clang, it\\'s harder to fix and updates are show. Also, it\\'s good to know which appimage works, thanks.\\n\\nVim is a very popular, and can be a very powerful, text editor. But, out of the box, it is only a text editor. There are numerous plugins to give it IDE like abilities.\\n\\nVim is a command line based text editor. It is known for being beginner unfriendly, but really powerful when mastered. I\\'m personally okay with graphical based IDE.\\n\\nWhat do you mean the dark theme is not the best? I\\'m working using the dark theme for years! Here\\'s a screenshot of my dark setup\\nI only selected the breeze dark scheme in the color theme, and tweaked a bit the color schema of the editor.\\n\\nVim is an editor, so we are not comparing apples with apples. But if the user wants IDE capabilities in vim, Language Server Protocols are the way to go. For c++ in particular, cquery has been working really good for me, including completion in headers. Clangd has a bright future, but not as mature as cquery right now (I tried a few months ago).  \\n\\nThe only advantage of vim is the key bindings which almost every IDE and code editor supports nowadays anyway.\\n\\nNah, not close to reality, try to see a video on how to use vim by a power user.\\n\\nWell... The parsing is done correctly using the compilation database, there\\'s also a full configuration and cache editor, and the whole project configuration is done through it.\\n\\nYou should try CMake plugin.\\n\\nI have used both Qt Creator and VS Code fairly extensively, and can\\'t think of a single advantage that Qt Creator has except for native integration of qmake and graphical .ui editing.\\n\\nIts not IDE though\\n\\nTry reinstalling them? I\\'ve never had this issue\\n\\nYea that\\'s the thing I was mentioning - last time I tried it was similar, but it was 6+ months ago. It may or may not have gotten better since then - not sure!\\n\\nI mostly work with legacy code, but so far it is doing well, recognizing lambdas etc.\\nSometimes coloring is broken for a while on a heavy-templated code i.e. using boost::msm.\\nTo format the code I\\'m using clang-format anyway, but build-in formatter works just fine.\\nHints about unused functions etc are not always accurate but extremely useful anyway.\\nIn general just give it a try, it greatly improved my productivity working with the C++ code.\\n\\nNever heard about it, and will check it out today! Seems much more active then cquery.\\n\\nThanks, gotta give it a go for vs code.\\nDeveloper himself maintains AUR packages (tagged + git), very nice!\\n\\nVS Code has native integrated terminal. Atom can have it via a plugin afaik.\\n\\nI\\'m not sure what you mean, you\\'re entirely in control of the buttons and panels shown at any given time.\\n\\nFunny thing is that when used without appImage everything seems to work. Might be a problem with the packaging.\\n\\nyou can enable vi-keybindings in both qt creator and kdevelop to get a taste of it\\n\\nYou are vastly understating it\\'s perceived difficulty, no other editor feels the same, it is super weird if you haven\\'t been exposed to something like that.  I would highly recommend he watch many tutorials on VIM to get used to it\\n\\nThank you very much\\n\\nThe color scheme of the text editor isn\\'t to my liking. I like softer colors that match closer to a material palette.\\n\\nfull configuration and cache editor\\n\\nFull configuration editor? What do you mean by that? My laptop is Darwin and their Darwin release crashes looking for a library not included in the package, so can\\'t check it out right now.\\n\\ncan\\'t think of a single advantage that Qt Creator has \\n\\n\\nCode completion is better (Microsoft C++ plugin never worked for me, both cquery and clangd are still incomplete).\\nMemory view during debugging.\\nLittle things like showing the type of auto variable.\\n\\nI don\\'t disagree with that. I\\'m still getting used to VS so take my opinion with a grain of salt\\n\\nThese extensions (cpp extension, clangd, cquery) became much better in the past half-year, especially if you have compile_commands.json\\n\\nYes, and it also has slightly more features. Checkout the wiki page\\nI use it with emacs and it works damn well\\n\\nYeah, it is possible to configure it to not be as bad, but by default it has a ton of stuff going on in the GUI that is at best marginally useful. The top menu is also a bit confusing, with what basically feels like 3 separate application menus present at the same time. The fact that it pulls in whatever you have for the main toolbar in Kate into the main toolbar in a confusing way doesn\\'t help either. It makes a great deal of sense to have a \"New\" button in kate, but that in no way means I want one in my IDE.\\n\\nI have two setup. One with the arch package and another with their git master, both are crashing. You might have an older clang on your distro?\\n\\nThese young whippersnappers of today with their YouTube videos and what not.. Back in my day we just fired up vimtutor and learned our stuff hands on.\\n\\nWell... You can download additional one (maybe even with the add-on downloader) or you can also roll your own, good thing there is a configuration editor in kate\\n\\nYou can edit/add configuration variables for CMake cache with a GUI\\n\\nAppImage should mask the version installed on my system shouldn\\'t it? The crash happened both on Ubuntu 18.04 and 12.04.\\nThe bug report I submitted contains a minimal file that reproduces the issue: https://bugs.kde.org/show_bug.cgi?id=396310\\n\\nConfiguring a theme would take a long time to get everything looking good for me. How popular is KDeveloper compared to other IDEs? That would explain why there aren\\'t they many good themes (at least for me) around.'"
+      ]
+     },
+     "metadata": {},
+     "execution_count": 52
+    }
+   ],
+   "source": [
+    "cleaned_concatenated_comments"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 45,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "cleaned = unquote('&#x200B;&amp;')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 46,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "'&#x200B;&amp;'"
+      ]
+     },
+     "metadata": {},
+     "execution_count": 46
+    }
+   ],
+   "source": [
+    "cleaned"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 63,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "test_clean_backticks = \"you can also do something like so.\\nvim `grep -iRl \\\"thing2Change\\\" ./directory/to/search`\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 64,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "stream",
+     "name": "stdout",
+     "text": [
+      "you can also do something like so.\nvim `grep -iRl \"thing2Change\" ./directory/to/search`\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(test_clean_backticks)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 65,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "test_clean_backticks = markdown_to_plaintext.unmark(test_clean_backticks)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 66,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "stream",
+     "name": "stdout",
+     "text": [
+      "you can also do something like so.\nvim grep -iRl \"thing2Change\" ./directory/to/search\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(test_clean_backticks)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 122,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import re\n",
+    "\n",
+    "def opinion_unit_extractor(str):\n",
+    "  return re.split(r'\\. |but ', str)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 123,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "['I hope you are a good person', 'I like cheese, ', 'it smells bad']"
+      ]
+     },
+     "metadata": {},
+     "execution_count": 123
+    }
+   ],
+   "source": [
+    "opinion_unit_extractor(\"I hope you are a good person. I like cheese, but it smells bad\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 127,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "941"
+      ]
+     },
+     "metadata": {},
+     "execution_count": 127
+    }
+   ],
+   "source": [
+    "len(all_comments.to_list())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 134,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "2"
+      ]
+     },
+     "metadata": {},
+     "execution_count": 134
+    }
+   ],
+   "source": [
+    "len(chunked_all_comments)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "len(\"\\n\\n\".join(all_comments.to_list())) / 42000"
+   ]
+  }
+ ]
+}
