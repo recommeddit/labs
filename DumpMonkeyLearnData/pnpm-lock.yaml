@@ -3,11 +3,13 @@ lockfileVersion: 5.3
 specifiers:
   dotenv: ^10.0.0
   fs-jetpack: ^4.2.0
+  just-truncate: ^1.2.0
   playwright: ^1.15.2
 
 dependencies:
   dotenv: 10.0.0
   fs-jetpack: 4.2.0
+  just-truncate: 1.2.0
   playwright: 1.15.2
 
 packages:
@@ -162,6 +164,10 @@ packages:
 
   /jpeg-js/0.4.3:
     resolution: {integrity: sha512-ru1HWKek8octvUHFHvE5ZzQ1yAsJmIvRdGWvSoKV52XKyuyYA437QWDttXT8eZXDSbuMpHlLzPDZUPd6idIz+Q==}
+    dev: false
+
+  /just-truncate/1.2.0:
+    resolution: {integrity: sha512-d+aKL4CdOoQPfwr0ngIR7LdjyOoZcs06hU+n4QD9OgNvBNSjCpiCt3OEWldtMsTGDsjuTxfl9zUE/Xa1OemR6w==}
     dev: false
 
   /mime/2.5.2:
