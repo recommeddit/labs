@@ -102,7 +102,7 @@ const MAX_LEN = 35;
 
   (async () => {
     await jetpack.writeAsync('./dataset.json', JSON.stringify(dataset, null, 2));
-    console.log("successfully wrote dataset to dataset.json!");
+    console.log("Successfully wrote dataset to dataset.json!");
   })();
 
   try {
