@@ -1,0 +1,16 @@
+{
+  "name": "dump-monkeylearn-data",
+  "version": "1.0.0",
+  "description": "Dumps MonkeyLearn custom model data with labels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SwiftWinds",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "fs-jetpack": "^4.2.0",
+    "playwright": "^1.15.2"
+  }
+}
