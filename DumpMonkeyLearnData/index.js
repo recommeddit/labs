@@ -80,25 +80,3 @@ const { chromium } = require('playwright');
   await context.close();
   await browser.close();
 })();
-
-// const { chromium } = require('playwright');
-//
-// const scrapeDataWithLabels = async () => {
-//   const browser = await chromium.launch();
-//   const page = await browser.newPage();
-//
-//   await page.goto('https://app.monkeylearn.com/accounts/login/');
-//
-//   await page.fill('[name=auth-username]', process.env.MONKEYLEARN_USERNAME);
-//   await page.fill('[name=auth-password]', process.env.MONKEYLEARN_PASSWORD);
-//
-//   await page.click('[type=submit]');
-//
-//   await page.click('.panel.panel-default');
-//
-//   await page.click("#build-tab a");
-//
-//   await page.screenshot({ path: 'about to switch to data.png' })
-// };
-//
-// scrapeDataWithLabels();
