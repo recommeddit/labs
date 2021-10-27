@@ -2,7 +2,7 @@
 ML/data experiments for Recommeddit
 
 Targeted Sentiment Analysis Papers: 
-1) https://arxiv.org/pdf/1903.09588v1.pdf --> BERT-NLI performs well in aspect detection
+1) https://arxiv.org/pdf/1903.09588v1.pdf
   a) Source Code: https://github.com/HSLCY/ABSA-BERT-pair
   b) targets are the specific entities (VSCode, Microsoft, iPhone, etc.)
   c) aspects are common descriptors (price, safety, availability, location, etc.)
