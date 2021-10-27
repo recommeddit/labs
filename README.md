@@ -2,7 +2,12 @@
 ML/data experiments for Recommeddit
 
 Targeted Sentiment Analysis Papers: 
-1) https://arxiv.org/pdf/1903.09588v1.pdf --> pg 4
+1) https://arxiv.org/pdf/1903.09588v1.pdf --> BERT-NLI performs well in aspect detection
+  a) Source Code: https://github.com/HSLCY/ABSA-BERT-pair
+  b) targets are the specific entities (VSCode, Microsoft, iPhone, etc.)
+  c) aspects are common descriptors (price, safety, availability, location, etc.)
+  d) BERT-NLI performs well in aspect detection while BERT-QA performs well in sentiment classification
+  e) BERT-NLI-B and BERT-QA-B have best AUC in sentiment classification
 2) https://arxiv.org/pdf/1905.03423.pdf
 3) https://arxiv.org/pdf/1902.09314v2.pdf from https://paperswithcode.com/paper/attentional-encoder-network-for-targeted
 4) https://arxiv.org/pdf/2011.00169v1.pdf from https://paperswithcode.com/paper/understanding-pre-trained-bert-for-aspect
