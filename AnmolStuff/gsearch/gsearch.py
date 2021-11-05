@@ -13,21 +13,26 @@ def with_serp(query_string):
     input:
         query_string : type = str, some google search query you want
     output:
-        proccessed_results : type = bool, True if queried results provide reputable answers
+        processed_results : type = bool, True if queried results provide reputable answers
                                          False if not
+    WARNING: limited queries (100 - 10000)
     """
-    configuration = config()
+    configuration = config() # pulls data from project.ini file
+
+    if "apikey" not in configuration.keys():
+        raise KeyError("Please provide an apikey in an initialization file. Contact Anmol for more info.")
+
     params = {
         "q" : query_string,
         "api_key" : configuration["apikey"]
     }
 
-    search = GoogleSearch(params)
+    search = GoogleSearch(params) # complete Google search with params
 
     del configuration, params # delete the configuration dictionaries that hold the api key
 
     results = search.get_dict()
-    return process_results(query_string, results)
+    return process_results(query_string, results) # check if results are good
 
 def process_results(query_string, results):
     """
@@ -46,6 +51,8 @@ def process_results(query_string, results):
     """
     if "knowledge_graph" in results:
         return True
+    if "see_results_about" in results:
+        return True
     return False
 
 def clean_string(s):
@@ -57,10 +64,10 @@ def clean_string(s):
     output:
         str : the processed string
     """
-    s = re.sub('["!#$%*]', '', query_string)
+    s = re.sub('["!#$%*]', '', s) # remove bad chars
     return s
 
-def gkg_query(query_string, threshold=1):
+def gkg_query(query_string, threshold=1, print_results=False):
     """
     Use Google's Knowledge Graph Search API call and analyze the results to check
     if the output is reasonable for our search query
@@ -71,7 +78,10 @@ def gkg_query(query_string, threshold=1):
                     many words in their detailed description from the query string,
                     default = 1 -- only one missing word will be tolerated
     """
-    configuration = config(section='kgsearch')
+    configuration = config(section='kgsearch') # get config data from project.ini
+
+    if "api_key" not in configuration.keys():
+        raise KeyError("Please provide an apikey in an initialization file. Contact Anmol for more info.")
 
     params = {
         'query' : query_string,
@@ -80,20 +90,38 @@ def gkg_query(query_string, threshold=1):
         'key' : configuration['api_key']
     }
 
+    # query KG
     url = 'https://kgsearch.googleapis.com/v1/entities:search' + '?' + urllib.parse.urlencode(params)
+    if print_results:
+        print(url, end="\n\n")
     response = json.loads(urllib.request.urlopen(url).read())
+
+    # process results
     query_string = clean_string(query_string)
-    print('Query:', query_string, end='\n\n\n\n')
+    if print_results:
+        print(response)
     for result in response['itemListElement']:
         if result['resultScore'] < 1:
             continue
-        word_count = len(query_string)
-        for word in query_string:
-            if word.lower() in clean_string(result['result']['detailedDescription']['articleBody'].lower()).split():
-                word_count += 1
-        if word_count == len(query_string) - threshold:
+        word_count = 0
+        for word in query_string.split():
+            try:
+                if word.lower() in clean_string(result['result']['detailedDescription']['articleBody'].lower()).split():
+                    word_count += 1
+                    continue
+            except:
+                return False
+        if word_count >= len(query_string.split()) - threshold:
+            if print_results:
+                print(f"Query of `{query_string}` found TRUE by the following search result:\n")
+                print(result)
             return True
     return False
 
 if __name__ == '__main__':
-    gkg_query('"PyCharm" Java IDE')
+    query_string = 'syntax podcast'
+    print('Query:', query_string, end='\n\n\n\n')
+    if gkg_query(query_string, threshold=1, print_results=True):
+        print("SUCCESS")
+    else:
+        print("FAILURE")
