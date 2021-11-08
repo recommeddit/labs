@@ -1,4 +1,5 @@
 Paper: https://arxiv.org/pdf/1903.09588v1.pdf
+Github: https://github.com/HSLCY/ABSA-BERT-pair
 1) Source Code: https://github.com/HSLCY/ABSA-BERT-pair
 2) targets are the specific entities (VSCode, Microsoft, iPhone, etc.)
 3) aspects are common descriptors (price, safety, availability, location, etc.)
