@@ -1,0 +1,21 @@
+import spacy 
+import json
+import random
+def load_data(file):
+    with open (file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    return (data)
+def save_data(file, data):
+    with open (file, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4)
+TRAIN_DATA = []
+x=load_data('/Users/christianmatthewgarduno/Desktop/dataset.json')
+for example in x:
+    text = example["text"]
+    entities = []
+    for annotation in example["annotations"]:
+        formatted_annotation = (annotation["start_idx"], annotation["end_idx"], "RECOMMENDATION")
+        entities.append(formatted_annotation)
+    formatted_example = (text, {"entities": entities})
+    TRAIN_DATA.append(formatted_example)
+print(TRAIN_DATA[0])
