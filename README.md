@@ -3,9 +3,10 @@ ML/data experiments for Recommeddit
 
 Targeted Sentiment Analysis Papers: 
 1) https://arxiv.org/pdf/1903.09588v1.pdf --> 3/22/2019
-2) https://arxiv.org/pdf/1905.03423.pdf --> 5/9/2019 --> pg. 2
+2) https://arxiv.org/pdf/1905.03423.pdf --> 5/9/2019
 3) https://arxiv.org/pdf/1902.09314v2.pdf from https://paperswithcode.com/paper/attentional-encoder-network-for-targeted
-4) https://arxiv.org/pdf/2011.00169v1.pdf from https://paperswithcode.com/paper/understanding-pre-trained-bert-for-aspect
+4) https://arxiv.org/pdf/2011.00169v1.pdf from https://paperswithcode.com/paper/understanding-pre-trained-bert-for-aspect --> pg. 2
+5) https://www.aclweb.org/anthology/N19-1242.pdf
 
 NER Algorithm Papers:
 1) https://www.proquest.com/docview/2549258112?OpenUrlRefId=info:xri/sid:primo&accountid=14522
