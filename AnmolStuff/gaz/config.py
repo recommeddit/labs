@@ -1,6 +1,6 @@
 from configparser import ConfigParser
 
-def config(filename="project.ini", section='serpapi'):
+def config(filename="../database.ini", section='postgresql'):
     parser = ConfigParser()
     parser.read(filename)
 
@@ -10,6 +10,6 @@ def config(filename="project.ini", section='serpapi'):
         for param in params:
             info[param[0]] = param[1]
     else:
-        raise ValueError(f'Section {section} not found in the {filename} file.')
+        raise Exception(f'Section {section} not found in the {filename} file.')
 
     return info

@@ -442,3 +442,5 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,jetbrains,windows,python,node
 
 AnmolStuff/database.ini
+AnmolStuff/project.ini
+AnmolStuff/gsearch/project.ini
