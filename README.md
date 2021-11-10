@@ -8,6 +8,10 @@ Targeted Sentiment Analysis Papers:
 4) https://arxiv.org/pdf/2011.00169v1.pdf from https://paperswithcode.com/paper/understanding-pre-trained-bert-for-aspect --> pg. 2
 5) https://www.aclweb.org/anthology/N19-1242.pdf
 
+Datasets to use:
+1) SemEval 2016 Task 5 (Laptop + Restaurants Reviews for aspect annotations): https://alt.qcri.org/semeval2016/task5/index.php?id=data-and-tools
+2) 
+
 NER Algorithm Papers:
 1) https://www.proquest.com/docview/2549258112?OpenUrlRefId=info:xri/sid:primo&accountid=14522
 2) https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1776-8
