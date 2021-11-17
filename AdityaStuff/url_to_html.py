@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv(".env")
 my_api_key = os.getenv("URL_SCRAPE_API_KEY")
 url_model_id = "ex_owGiMc4z"
-html_model_id = "ex_RK5ApHnN"
+html_model_id = "ex_GdG2eQyy" # html to text model
 ##############################################################
 
 # return url from comment#
