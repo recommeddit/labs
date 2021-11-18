@@ -1,4 +1,4 @@
-import requests, pandas as pd, re
+import requests, pandas as pd, re, html
 
 """
 This reads from a csv to generate lists of queries
@@ -6,7 +6,7 @@ This reads from a csv to generate lists of queries
 def get_queries(path):
     df = pd.read_csv(path, skiprows=[1])
     # return list(df.iloc[:1,0])  # DEBUG; REMOVE
-    return (i for i in df.iloc[:20,1])
+    return (i for i in df.iloc[:,0])
 
 """
 This parses google search results given a query
@@ -41,7 +41,10 @@ def recursive_parse_comments(json_tree):
     return comments
 
 def parse_comments_step_1(url):
-    json_tree = requests.get(url + '.json', headers = {'User-agent': 'testing 0.1'}).json()
+    try:
+        json_tree = requests.get(url + '.json', headers = {'User-agent': 'testing 0.1'}).json()
+    except:
+        return []
     comments = []
     try:
         children = json_tree[1]['data']['children']
@@ -68,15 +71,17 @@ def create_data(queries_path, save_path):
     for query in get_queries(queries_path):
         for link in get_links(query):
             print(f'parsing {link}')
-            all_comments.extend(parse_comments_step_1(link))
+            all_comments.extend(
+                [(query, html.unescape(comment)) for comment in parse_comments_step_1(link)]
+            )
 
-    df = pd.DataFrame(all_comments)
+    df = pd.DataFrame(all_comments, columns=['query', 'comment'])
     df.to_csv(save_path)
 
 """
 Main method
 """
 def main():
-    create_data('pos_data.csv', 'comments.csv')
+    create_data('pos_queries.csv', 'comments.csv')
 
 main()
