@@ -47,7 +47,7 @@ of lists of the form [[title, text, score, num comments, comment] x N].
 def assemble_thread_info(url):
     global HEADER
     try:
-        json_tree = requests.get(url + '.json?limit=500', headers=HEADER)
+        json_tree = requests.get(url + '.json?limit=200', headers=HEADER)
     except:
         print('caught a bad url')
         return None
@@ -83,7 +83,7 @@ def main():
     global URLS
     global OUTPUT_FILE
     rows = thread_builder(URLS)
-    print(f'parsed {len(rows)} comments in ', end='')
+    print(f'parsed {len(rows)} comments in ', end='')  # Debug
     df = pd.DataFrame(rows, columns=[
         'title', 'text', 'score', 'num comments', 'comment'])
     df.to_csv(OUTPUT_FILE)
@@ -92,7 +92,7 @@ def main():
 Prints time taken and comments parsed to stdout.
 """
 if __name__ == '__main__':
-    start = time.time()
+    start = time.time()  # Debug
     main()
-    end = time.time()
-    print(f'{end-start} seconds')
+    end = time.time()  # Debug
+    print(f'{end-start} seconds')  # Debug
