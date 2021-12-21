@@ -42,10 +42,10 @@ def process_results(query_string, results):
     Currently, this implementation of process_results only checks if a knowledge
     graph result exists or not.
 
-    input:
+    Input:
         query_string : type = str, the google search query which provided results
         results : type = dict, the results of the Google Search
-    output:
+    Output:
         boolean : True if this candidate is acceptable and exists
                   False if not
     """
