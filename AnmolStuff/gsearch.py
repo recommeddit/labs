@@ -1,4 +1,4 @@
-#!/user/bin/env python3
+#!/usr/bin/env python3
 
 from __future__ import print_function
 from serpapi import GoogleSearch
@@ -23,7 +23,7 @@ def with_serp(query_string):
         raise KeyError("Please provide an apikey in an initialization file. Contact Anmol for more info.")
 
     params = {
-        "q" : query_string,
+        "q" : query_string.lower(),
         "api_key" : configuration["apikey"]
     }
 
@@ -32,28 +32,33 @@ def with_serp(query_string):
     del configuration, params # delete the configuration dictionaries that hold the api key
 
     results = search.get_dict()
-    return process_results(query_string, results) # check if results are good
+    return process_results(query_string, results)[0] # check if results are good
 
 def process_results(query_string, results):
     """
     Process the results from the google search query to determine if the queried
     recommendation candidate is acceptable.
 
-    Currently, this implementation of process_results only checks if a knowledge
-    graph result exists or not.
+    This implementation of process_results checks to see if all query terms are
+    included in the web result. This does not consider knowledge graph results.
 
-    Input:
+    input:
         query_string : type = str, the google search query which provided results
         results : type = dict, the results of the Google Search
-    Output:
+    output:
         boolean : True if this candidate is acceptable and exists
                   False if not
+        link    : type = str, the search result that trusts this candidate
     """
-    if "knowledge_graph" in results:
-        return True
-    if "see_results_about" in results:
-        return True
-    return False
+    words = query_string.split(' ')
+    for web_result in results['organic_results']:
+        count = 0
+        for word in words:
+            if word in web_result['about_this_result']['keywords'].lower() or word in web_result['title'].lower() or word in web_result['snippet'].lower():
+                count += 1
+        if count == len(words):
+            return (True, web_result['link'])
+    return (False, None)
 
 def clean_string(s):
     """
@@ -121,7 +126,7 @@ def gkg_query(query_string, threshold=1, print_results=False):
 if __name__ == '__main__':
     query_string = 'syntax podcast'
     print('Query:', query_string, end='\n\n\n\n')
-    if gkg_query(query_string):#, threshold=1, print_results=False):
+    if gkg_query(query_string, threshold=1, print_results=True):
         print("SUCCESS")
     else:
         print("FAILURE")
