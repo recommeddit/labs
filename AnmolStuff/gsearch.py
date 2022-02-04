@@ -32,7 +32,7 @@ def with_serp(query_string):
     del configuration, params # delete the configuration dictionaries that hold the api key
 
     results = search.get_dict()
-    return process_results(query_string, results)[0] # check if results are good
+    return process_results(query_string, results) # check if results are good
 
 def process_results(query_string, results):
     """
@@ -54,9 +54,10 @@ def process_results(query_string, results):
     for web_result in results['organic_results']:
         count = 0
         for word in words:
-            if word in web_result['about_this_result']['keywords'].lower() or word in web_result['title'].lower() or word in web_result['snippet'].lower():
+            if word in ' '.join(web_result['about_this_result']['keywords']).lower() or word in web_result['title'].lower() or word in web_result['snippet'].lower():
                 count += 1
         if count == len(words):
+            print(web_result['link'])
             return (True, web_result['link'])
     return (False, None)
 
@@ -115,18 +116,23 @@ def gkg_query(query_string, threshold=1, print_results=False):
                     word_count += 1
                     continue
             except:
-                return False
+                return (False, None)
         if word_count >= len(query_string.split()) - threshold:
             if print_results:
                 print(f"Query of `{query_string}` found TRUE by the following search result:\n")
                 print(result)
-            return True
-    return False
+            return (True, )
+    return (False, None)
 
 if __name__ == '__main__':
-    query_string = 'syntax podcast'
+    query_string = 'vscode ide'
     print('Query:', query_string, end='\n\n\n\n')
-    if gkg_query(query_string, threshold=1, print_results=True):
-        print("SUCCESS")
+
+    res1 = gkg_query(query_string, threshold=1, print_results=True)
+    res2 = False #with_serp(query_string)
+    if res1:
+        print("SUCCESS 1")
+    elif res2[0]:
+        print("SUCCESS 2")
     else:
         print("FAILURE")
