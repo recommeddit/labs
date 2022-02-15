@@ -1,12 +1,14 @@
 lockfileVersion: 5.3
 
 specifiers:
+  delay: ^5.0.0
   dotenv: ^10.0.0
   fs-jetpack: ^4.2.0
   just-truncate: ^1.2.0
   playwright: ^1.15.2
 
 dependencies:
+  delay: 5.0.0
   dotenv: 10.0.0
   fs-jetpack: 4.2.0
   just-truncate: 1.2.0
@@ -70,6 +72,11 @@ packages:
         optional: true
     dependencies:
       ms: 2.1.2
+    dev: false
+
+  /delay/5.0.0:
+    resolution: {integrity: sha512-ReEBKkIfe4ya47wlPYf/gu5ib6yUG0/Aez0JQZQz94kiWtRQvZIQbTiehsnwHvLSWJnQdhVeqYue7Id1dKr0qw==}
+    engines: {node: '>=10'}
     dev: false
 
   /dotenv/10.0.0:
