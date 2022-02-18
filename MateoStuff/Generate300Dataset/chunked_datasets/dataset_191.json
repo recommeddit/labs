@@ -1,0 +1,655 @@
+idx,text
+62919,There are two books with that title. Who wrote the book you are refering to?
+62920,Joel Grus
+62921,"Bayesian statistics: Bayesian Data Analysis is the best book, Statistical Rethinking is good for beginners
+Machine Learning: Elements of statistical Learning is the best, Introduction to statistical learning is a little easier
+
+Neural Networks: Deep Learning
+
+Time Series: this one is a tough call, Time Series Analysis and Its Applications: With R Examples is a good one,  Forecasting: principles and practice is easy and free online. 
+
+Reinforcement Learning: people seem to like Reinforcement Learning: An Introduction, I learned from reading Google deep mind papers. 
+
+I recommend the Andrew Gelman blog. I like The signal and the noise as far as non theoretical books go."
+62922,">The signal and the noise
+
+hmm, if we're going into the territory of non\-fiction, \*Moneyball\* by Michael Lewis could be a good one. it's a page turner for sure."
+62923,Might be good to include some stuff specifically for languages that aren't python too
+62924,More like data science with Python books to read in 2020
+62925,"For me the only item on the list I’d  might be interested in is the data science job one. By the look of it, all Of the others are focused on learning specific techniques and I don’t need a list to find a good book in machine learning. 
+
+I think what I was hoping to get were some books outlining and discussing trends and developments in the industry, asking interesting questions or talking about data science in a more abstract level then code. 
+
+
+But that’s just my opinion! Might be because I don’t feel like there are many resources with those topics in mind (glad to be proven wrong!)"
+62926,If you find anything on what you have mentioned above please share it with me as well. Thanks.
+62927,"Good to hear that as I've written Data Science Job myself, basically because of the same reasons you mention: I haven't seen anything on trends or more abstract level than the code. I'm planning to write another book just about those things which are not discussed at all."
+62928,"That link doesnt work   
+ 
+EDIT: Its working now."
+62929,Happy to know your feedback on my list. What is missing?
+62930,Hands-on Machine Learning with Scikit-Learn Keras and TensorFlow - Concepts Tools and Techniques
+62931,"[R for Data Science](https://www.amazon.com/gp/product/B01NAJAEN5/ref=dbs_a_def_rwt_bibl_vppi_i2) - to learn how to manipulate data.
+
+[An Introduction to Statistical Learning](https://www.amazon.com/gp/product/1461471370/ref=dbs_a_def_rwt_bibl_vppi_i0) - for an introduction to statistics and machine learning.
+
+[Deep Learning with R](https://www.amazon.com/gp/product/161729554X/ref=dbs_a_def_rwt_bibl_vppi_i0) - for an introduction to deep learning."
+62932,"Cheers to ISL!
+
+I havent look at that Deep Learning with R, but I have been slowly working through this from MIT press:[deep learning book](https://www.deeplearningbook.org/)"
+62933,That book looks a lot more math-focused than Deep Learning with R. Deep Learning with R is more about explaining the intuition behind deep learning and about how to do it in practice with the Keras package.
+62934,"I'll put Deep Learning with R on my list!
+
+I picked up the Goodfellow text because I'm a big fan of MIT Press for all the cog neuroscience books they have (that's where my background is). Plus i get a discount on their stuff at conferences."
+62935,Thanks for the recommendations!
+62936,"Python Data Science Handbook.
+
+Practical SQL."
+62937,Thank you for the recommendations!
+62938,I'm fond of The Signal and the Noise by Nate Silver.
+62939,"Seconding ISL, R for Data Science, and Python Data Science Handbook - great resources.
+
+On a different note - How to Win Friends and Influence People + similar.
+
+It's easier than ever to get a grad who is strong technically - which  means it's starting to become a poor way to stand-out.
+
+What's still relatively uncommon is somebody who can conduct themselves effectively.
+
+In my experience - way more fresh analysts fail from developing a poor reputation leading to their recommendations being ignored than from needing to be better with Pandas and sklearn."
+62940,"Thanks for the recommendations, I'm finishing my mostly not-related bachelor degree, so I  will have to catch up on the technical aspects quick"
+62941,"[Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) \- I was initially skeptical of its content (seemed like a cookbook) but as an applied text (with a pretty strong theory reference list) it goes a long way in explaining how to actually implement ML and DL with modern packages. I think its a particularly strong companion text to the more theoretical tomes like [Murphy](https://www.cs.ubc.ca/~murphyk/MLbook/) and [Goodfellow](http://www.deeplearningbook.org/) if you're starting out (Helps that it's updated for TF2.0 and was completely free a couple of weeks ago)."
+62942,If you‘re looking for entertainment: flash boys. Not a book to learn from but rather a „vacation book“.
+62943,Applied Predictive Modeling by Kuhn
+62944,I think that's a better book than ISL.
+62946,"Elements of Statistical Learning by Hastie et all, also available online: http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf"
+62947,That's the book I used to learn machine learning. A very accessible handbook that gives a brief overview of many different ideas.
+62948,You might be  thinking of Introduction to Statistical Learning
+62950,It is tough but it's so so important and full of incredible information. I kind of think of it as the machine learning equivalent of a Knuth book. Tough but incredibly rewarding.
+62951,"> Introduction to Statistical Learning by Hastie and someone else
+
+http://www-bcf.usc.edu/~gareth/ISL/
+
+There is a free download on that site. Good book, I've read bits of it myself"
+62952,"""All of Statistics"" is a hilarious title for a textbook."
+62953,And the first line of the preface addresses that.
+62954,"As much as I'd like to say there is ""the book"" to read (which is probably what you are looking for), there isn't. You should focus on doing analysis and writing code."
+62955,"I am pretty confident you can do both. (: Jokes aside, I am not searching for a ""holy bible"", more like some recommendations for my next readings."
+62956,Try 'Doing Data Science'
+62958,"This can't be emphasized enough. 
+
+Not sure why so many people hear things like ""shortage of workers"" and ""six figure salaries"" and think ""I bet I could break into that field if I just read a few books or do a three-week bootcamp.""
+
+(This isn't an attack on you kugkfokj, just a minor rant)"
+62959,"People in general either make it seems impossible to get into data science or make it seem like its the easiest thing in the world, depending on their agenda. At the end of the day its just another job."
+62960,Well said.
+62961,"I came into data science less than two months ago, but I can recommend a few things from my experience so far.
+
+* NoSQL technologies: I'm working with a lot of graph databases (try Neo4J) and MongoDB.
+* SQL - [Try this book](http://www.amazon.co.uk/Sams-Teach-Yourself-SQL-Minutes/dp/0672321289)
+* Work on your 'storytelling', or in other words, learn to explain the results of your analyses in a way that your client will actually understand and in a way that they can actually see the value in what you are doing. i.e. will it make them money? Perhaps get into making good visualisations - I have been tinkering with D3JS
+
+
+
+
+Getting a Big Data Job for Dummies - don't worry about the title, it turned out to be an excellent book for me."
+62962,"check out the open source data science masters - there's enough reading there to keep you busy for quite awhile.
+
+i also love the art of data science, which was just released on leanpub."
+62963,Data Science for Business
+62964,"Highly recommended.  Designed for business types, etc that haven't studied advanced analytics yet.  Should also be great for beginners.  I am a Ph.D. employed as a Data Scientist and I wish I had this book earlier in my career."
+62965,I'd recommend the Black Swan by Tassib. Interesting read on overconfidence in mathematical models and underestimating uncertainty built in.
+62966,I just picked up The Flaw of Averages by Sam Savage. Its a pretty interesting read from the statistics side.
+62967,"The Visual Display of Quantitative Information, Tufte"
+62968,Read some classic papers. The Stanford PageRank algorithm (that spawned google) is a good one
+62969,"What kind of data science are we talking about? Intro to Statistical Learning is a reference book on the foundations of machine learning, and may or may not be useful depending what you end up doing. It also won't be useful if you don't have a statistical background, and the book does not go over said background. 
+
+In general I think the question needs to be narrowed down a bit based on educational background and interests."
+62970,"Obvious bias alert, but I wrote [The Data Science Handbook](https://www.amazon.com/Data-Science-Handbook-Field-Cady/dp/1119092949) and I think it gives a really unusually good overview of the field, and particularly a lot of practical insights ""from the trenches"".  It's not great for deep dives on particular subjects, but I really do think it's about the best overview you'll find.  Sorry it's a little pricey - that was the publisher's call!"
+62971,thank you definitely sounds like a good read! I ordered a ebook copy because the book is abit dearer in AU
+62972,"Awesome, thanks so much and I hope you enjoy it!"
+62973,"I like the Think Stats book by Allen Downey. It discusses basic statistics useful for Data Science. It uses Python.
+
+http://greenteapress.com/wp/think-stats-2e/"
+62975,"OMG, you missed an actual legit useful data-science (tending more towards data-engineer) humble-bundle package.  Here's what it included for like $25!:
+
+  * Data Science at the Command Line (Joren Janssens)
+  * Cassandra: The Definitive Guide (Jeff Carpenter et al)
+  * Doing Data Science (Cathy O'Neil and Rachel Schutt)
+  * Graph Databases (Ian Robinson et al)
+  * Learning Spark (Holden Karau...)
+  * Head First Data Analysis (Michael Milton)
+  * High Performance Spark (Holden Karau and Rachel Schutt)
+  * Hadoop: The Definitive Guide (Tom White)
+  * Practical Machine Learning with H20 (Darren Cook)
+  * Practical Machine Learning: A New Look at Anomaly Detection (Ted Dunning & Ellen Friedman)
+  * Practical Machine Learning: Innovations in Recommendation (Dunning, Friedman)
+  * Think Bayes (Allen B. Downey)
+  * Thoughtful Machine Learning with Python (Matthew Kirk)
+  * Time Series Databases (Dunning, Friedman)
+
+Dunno which is the most useful yet.  Right now I'm tooling up to support data scientists on the back-end, so I'm focusing on the kind-of-boring aspects like Spark, Hadoop and Cassandra.  Which aren't really boring if you like playing with Legos.  Or, if you have some other projects in mind that will use all those pieces parts to do something interesting!  ;-)
+
+Edit:  I also highly recommend the podcast ""Linear Digressions."""
+62976,"Wow, where was that from?"
+62977,"it was a [humble-bundle](https://www.humblebundle.com/) package.  They put together digital content packages and basically give them away for a really low price, to support a charity.
+
+edit:  I think they were recently bought out by someone.  hopefully not E.A."
+62978,"To answer your edit, Humble Bundle is being acquired by IGN.
+https://www.polygon.com/2017/10/13/16473542/ign-buys-humble-bundle"
+62979,"wow thats a steal! Thanks for the recommendation, and ill see if learning spark, and hadoop: def guide are on sale elsewhere (most of the others are still foreign to me). Good luck with your project - doesnt sound boring at all!"
+62980,"Introduction to Statistical Learning, goes over a lot of the foundational statistical/machine learning methods without all the rigorous math."
+62981,"You can never go wrong with reading anything. If you went through your list, you'd know what you need to read next. You'd be amazed what you can find in PDFs with some googling.
+
+
+Here's the Deep Learning book on that list.
+
+https://github.com/janishar/mit-deep-learning-book-pdf
+
+Data Science with R - not on the list, but hey, it's free
+
+http://r4ds.had.co.nz/
+
+Machine Learning with R - not the one on the list, but hey, it's free
+
+http://books.tarsoit.com/Machine%20Learning%20with%20R%20-%20Second%20Edition.pdf"
+62982,"absolutely agree - im thinking of starting with python & r for data, and the data science handbook (comments above). I'll see where that takes me. Thank you very much for the links!"
+62983,"One more bundle deal I just found: 
+
+http://mashable.com/2017/11/17/data-scientist-online-ebook/#iaFfmNs7fiqY"
+62985,[(づ｡◕‿‿◕｡)づ](https://tylermcginnis.com/reviews/)
+62986,"I learnt react from your free course, have been working for more than 2 years now. Can't thank you enough for it :)"
+62987,"How long until you found work after it? I'm looking at getting back into web development, was pursuing it several years ago but opportunities elsewhere came up. I did get to do a bit of React and I'm glad it's still around, just not sure how long it'll take to be employable.
+
+Does 3 months seem reasonable? I have plenty of programming experience elsewhere and still remember webdev before React/Angular became well established, though I'm not sure how relevant that knowledge is these days."
+62988,"I mean it really depends. I do work as full stack dev now with more focus towards back-end, but if you know programming and have a couple of react projects I don't see why you should have any troubles getting an interview for front-end/full stack position."
+62989,"I would recommend this. Also, when you completed all of the courses there, you MUST read through his blog. Amazing content."
+62990,lolll i love how you plug it
+62991,It still makes me uncomfortable recommending my paid stuff so the emoticon helps :)
+62992,"Courses look great, just one thing, why no option for a one time purchase? I’d gladly pay much more for a one time purchase since I only require one course right now. 
+
+But I totally get the reasoning behind a subscription model, it’s just usually they still offer the ability to purchase courses “a la carte”."
+62993,"Totally reasonable. It was a huge debate of mine. Ultimately the biggest benefits were it helped me sleep at night having some recurring revenue and it made my stuff more accessible to those who can't pay a ton of money up front to access a course. If you're diligent, you can get through all the courses in a month for $20."
+62994,"Great reply! Looks like online learning is absolutely the future, I got my CS degree a few months back and I swear I've learned more online in 4 months than 4 years in school (practically speaking).
+Best of luck!"
+62995,I'm with you there. Thanks for the kind words!
+62996,"Agree with what others have said, Tyler is a great teacher. I learned React way back from a course he had on egghead. Not only did I learn react but the course had you first build an app in ES5 then convert it to ES6 so you got to learn that too, along with webpack in the pre create-react-app days. Was a fantastic resource. Unfortunately I think it's out of date so it's been removed from the site. Can't thank you enough Tyler."
+62997,"If you’re new to React Tyler’s free React Bootcamp on YouTube is really good. https://www.youtube.com/playlist?list=PLqrUy7kON1mfWjiu0GWQhefWSx38v0UGo 
+
+It really helped me understand what is happening internally in React."
+62998,Andrew Mead on Udemy
+62999,"He’s really the best I’ve had and I’ve took the courses everyone else on here has like Wes Bos, Max, and Stephen"
+63000,Same. He's great. His Node and React classes got me my first job. Going to do his new graphql course soon
+63001,there are also plenty of free and good courses and beginner resources we’ve listed on the sidebar
+63002,"I started with minimal JavaScript experience, and followed this course: https://www.udemy.com/react-the-complete-guide-incl-redux/
+
+By the end of the course I was able to make a react front end application fairly easily.
+https://github.com/deranjer/goTorrent"
+63003,Wes Bos’s React for Beginners is great. All of his stuff is.
+63005,"His advanced react course have adjusted for this, just a two second title screen and a whoosh sound, no music. I really enjoyed it!"
+63006,"I agree. I've also taken several [Udemy.com](https://Udemy.com) courses (not on React) and found many to be excellent. I took Wes Bos' React course and I'm now working through his React + Redux. His courses cost a little more than other options, but he is an excellent teacher so I consider the money well spent."
+63007,You can go ahead with the react course on Udemy by Stephen grider .
+63008,"*Grider
+
+Freudian slip?"
+63009,"I agree. He does a great job of breaking things down, and giving you examples of applied concepts. $10 a course isn't bad either."
+63010,"[Stephen Grider](https://www.udemy.com/user/sgslo/) and [Andrew Mead](https://www.udemy.com/user/andrewmead/) are by far the best teachers I've ever seen. Also [Wes Bos](https://wesbos.com/courses/). I can recommend all of their courses without hesitation, they're brilliant.
+
+If you're looking for the one best place to start, I recommend [this one](https://www.udemy.com/react-redux/)."
+63011,"+1 for Wes Bos, he is the best in my opinion."
+63012,I know it has been 2 years but Does the course made by Stephen Grider has Applications Projects ?
+63013,"I’m fairly new to react myself so I can’t comment much on other courses, but I am taking the Udemy course you linked. I find it great, he starts from a clean slate and it’s always easy to follow along but your knowledge increases. Seeing how long the course is it can be daunting but so far it’s well worth it. The course costs nothing more than buying lunch and it offers 35 hours of quality content. I’m only around a third in but I feel so much more confident in my react knowledge compared to when I tried other tutorials/courses"
+63014,"Wes Bos's React For Beginners. However, I suggest you don't try to take the entire course in a single bite, you won't internalize the concepts and end up forgetting everything.  Pay full attention in each of the videos,  and if you feel overwhelmed and lost, that's a good sign you didn't grasp the concepts, so watch the video from the beginning all over again.
+
+I would have been great if Wes had included third party API fetching.  
+
+&#x200B;
+
+Also, start making a list of MINI projects, REALLY SIMPLE and basic projects, even if they have no meaning, don't yet think of a shopping site, or a complex fitness webapp, because as long as you don't know the core react concepts you will spend hours trying to figure out how each component should work, receive or send data.
+
+After taking that course, you could also follow other simple youtube tutorials that make basic apps, each one with different functionalities."
+63015,"Read the documentation. Seriously, it helped me out **a lot**. It’s so well written tbh"
+63016,"I did Stephen Griders udemy course and on Andrew Mead's React course now. Both well worth the purchase. I knew no modern Javascript before this, last time I had touched Javascript was like Jquery stuff in 08.
+
+And with all the Udemy sales, ten bucks is more than worth it."
+63017,The official docs are a good place to start with React. Everything else can be learned individually from Google Searches
+63018,"[egghead.io](https://egghead.io/browse/frameworks/react) also has a large amount of free react courses - in the format I like screencasts to be...very fast and concise.
+
+When I was starting out with Redux and testing react apps I found the tutorials to be very helpful, not sure how good the entry-level course is...but Kent Dodds is a good instructor."
+63019,"Complete Intro to React on Frontend Masters. 
+
+I think it’s one of the most popular courses on FM and they just updated it to v4. 
+
+https://frontendmasters.com/courses/react/"
+63020,Codeacademy has two pretty good introductory courses on React.
+63021,"Totally agree! As an experienced Angular developer  I find them much more appealing to developer my level, since Udemy needs to attend beginners, and it feels to me like a big waste of time.
+Codecademy courses focus on what count & I really liking it!"
+63022,"I was searching for good React courses and here are the best courses i found:
+
+1. [https://www.udemy.com/react-the-complete-guide-incl-redux/](https://www.udemy.com/react-the-complete-guide-incl-redux/) by Maximillian. Currently very cheap.
+2. [https://codewithmosh.com/p/mastering-react](https://codewithmosh.com/p/mastering-react) by Mosh. It is 150$ or 15$/m sub (You will also have access to his other [courses](https://programmingwithmosh.com/courses/) for a month if you sub).
+3. [https://advancedreact.com/](https://advancedreact.com/) by Wes Bos. It is currently 30$ for me with extra discounts.
+4. [https://tylermcginnis.com/courses/react-fundamentals/](https://tylermcginnis.com/courses/react-fundamentals/) by Tyler Mcginnis. It is 20$/m sub (You will also have access to his other [courses](https://tylermcginnis.com/courses/) for a month).
+
+I just bought Maximillian's course because it is like 4$ for me right now. But i am also thinking about subbing to Mosh because of his Javascript/React courses.
+
+Also you can check their youtube videos/free courses to see how they are teaching. I really liked Mosh's teaching style."
+63023,Can not recommend Maximillian’s course enough. He does a great job of explaining and progressing concepts
+63024,"I too have taken 3 courses by Max, including his React course, and have nothing but positive opinions of it!"
+63025,"Get ""Pure React"" by david ceddia, by far my best source of learning."
+63026,"\+100 for Wes Bos. Even if you do other tutorials, his courses are great overviews and refreshers.
+
+To get started quickly, I recommend taking what you learn from his beginner course and using the create-react-app seed: https://github.com/facebook/create-react-app."
+63028,He is indeed! Liked his course way above Grinders'
+63029,I'm another Stephen Grider fan.
+63030,"This is one of the best resources for an intro to react.  I like it, because you can play with the code while learning. Stephen Grider Udemy course was amazing also!
+
+https://scrimba.com/g/glearnreact"
+63031,I’m a big fan of codingwithmosh. He has a lot of videos in youtube
+63032,"I have nothing against the paid courses, they are great and a lot of work goes into it, but its also many times not needed.
+
+There are so many (literally too many) great blog posts, youtube videos at all levels - talks, people doing live coding etc, the official React docs are great too. 
+
+If you've really worked through all of those, its hard to imagine you won't know React very well.
+
+If you are complete beginner to programming in general, then its a different matter."
+63033,I guess that's (React 16 - The Complete Guide) the best one..
+63034,"If you're coming from a HTML & CSS, Sass background, starting with Gatsby, Styled Components & Polished could be a way to go. 
+
+As web designer you can immediately *see* why it can be useful and use your existing skills to create stuff, just with React added for convenience. The're many Gatsby starters and their source code that you can study.
+You may not want to start with webapps and the ""boring"" stuff most React courses teach, but just create more interactive websites or landing pages and enhance your existing skills first."
+63035,"I’m getting hooked on Traversy’s teaching style. I think he could teach basket weaving and it would be an enjoyable course lol.
+I saw a 2021 crash course on YouTube that covers what looks like fairly modern React. (I spotted hooks in there) .. but otherwise it’s straight React. No Redux or other libraries.. just React.  
+I’m taking Traversy’s CSS3 course at the moment on uDemy and I’m learning a lot in a short amount of time. If his React course is done as well, then I’d highly recommend it."
+63036,"I agree Brad is a great teacher, i didn't knew about new crash course, will check it our, thanks"
+63037,"Yep, him and I also enjoyed John Smilga's React - [https://www.youtube.com/watch?v=4UZrsTqkcW4&t=12919s](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=12919s)
+
+The reason is he goes under the hood on a lot of topics and explains why certain things are resulting into certain outputs. As opposed to just writing a useEffect hook and saying: ""oh this is a an effect hook, lets move on."""
+63038,"[University of Helsinki](https://fullstackopen.com/en/#course-contents) It's comprehensive and free. Covers React, Express, ESLint, React Native, CI/CD, Typescript...."
+63040,"thanks, i will check it out"
+63041,Hi! There are plenty of courses and getting started threads about react in the „About“ section of this subreddit. Scroll down to the Sidebar and “New to React?”
+63042,">Coding addict 
+
+Thanks"
+63043,This mooc is also good: https://fullstackopen.com/en/
+63044,Thank you for the suggestion!
+63045,"I'm familiar with and agree with your #1 and #2, which means I'm going to have to check out your other recommendations.  Thank you!"
+63046,"Hey, I personally feel that Maximilian's course which I mentioned on my list will be painful. He is a great Instructor, he explains everything in depth. He is a great instructor, that's why I included it on my list.
+
+Some people very much like his course while others don't. I don't know what is your learning style. It may/may not suit you. Besides that, the other courses are definitely worth checking/buying."
+63047,I had to watch his course over several months.  Felt like I hit a point where things just stopped making sense.  Had to revisit his course months later once I had a bit more experience.  Made much more sense then and was able to complete some more of it.
+63048,You are awesome thank you for this!
+63049,Thank you my friend!
+63051,Thank you for the suggestion friend!
+63052,Wish I had better German (should had done better in my classes)
+63053,"Hi search for **Stephen Grider's** course :
+
+Modern React with Redux [2020 Update]
+
+I can say that it is pretty elaborate and explains in depth  various react concepts / project setup / deploying application to netlify etc. , 
+
+If you are a beginner you could begin from very start , but if you know react or have been working on it , you could skip some videos and start working on projects mentioned in the video series. 
+
+There is some discount thing going on its available for 455 rupees ..."
+63054,Everyone is shouting that redux is the past. Is it history? Is it worth learning. I remember doing redux several years ago and wondering if it is the right thing to learn for a person who is just starting out with frontend and react specifically
+63055,Yeah I suggest to use React hook instead (combination of react Reducers and React Context). It will be faster and will have much less boilerplate and config. You can achieve the same design pattern with react hook than with Redux. I couldn’t recommend more this tutorial to learn React.Js [react Js tuto](https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d). It is recent and thus uses new React functionality and is really clear!
+63056,"to be 100% you mean still learn this Stephen Grider's course but use hooks instead?
+
+or what do you mean by ""this tutorial""?"
+63057,Oups I meant this tuto https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+63058,"Wow. thanks so much. Going to dive into this real soon. THANK YOU, totof04"
+63059,"A pleasure. You will even save a few bucks. I used his 2018 tutorial version to learn React back then and got a job with it!
+
+I  would still suggest to maybe look up redux a thad. Not long ago Redux was the standard so lots of ongoing project will continue to use it. Therefor, you might come across apps that use Redux (even maybe flux) in a future job!
+
+Bottom line, React evolve really fast haha!"
+63060,"Well, to be clear. I am a Python/Django developer. 
+
+Several years ago I got a job as Django dev. 
+
+3 weeks later they said they have no more job for Django dev and I should start learning React ASAP.
+
+What a nice opportunity, I thought. 
+
+So I learned plenty of things in a couple of weeks and was contributing to very complex parts of the app. There was a layers image editor with undo/redo, image transformations and so on. Of course Redux was the only thing back then.
+
+It was so different from my python/backend that I am pretty sure some people in my state would go to rehab :D
+
+But it was a lifetime ago.
+
+Before that, thanks to Ionicframework I was exposed to Angular. So I built my SaaS frontend with Angular.
+
+So I am seeking react tutorials for myself to refresh my knowledge of modern react. Plus need something for a complete beginner who just starting out as a frontend dev.
+
+&#x200B;
+
+Sorry if history-lesson-of-me took a while, but wanted to give some context. Thanks again, wish you a great week!"
+63061,"Nice man, still use django rest API from times to times for the BE for some projects. It’s use quite a lot here in Montreal! But right now I mostly use React.Js and Svelte.Js for the FE and work with Node.Js and AWS CDK for the BE (serverless)!
+
+Follow me on GitHub, cdash04 🙂"
+63062,">cdash04
+
+Followed.
+
+Yeah serverless is interesting thing. i have moved one project to zappa/lambda.
+
+It works so well so far.
+
+&#x200B;
+
+Will drop you DM, since you are aware of python :) I need your opinion on something if you don't mind."
+63063,Whats the alternative of Redux? Is it good to learn redux in 2021?
+63064,If you want to work in a company that is not a startup. you need Redux. and tbh Redux is awesome.
+63065,"The bigger problem with Redux in the course is that the Redux team specifically says it should not be used by new React developers and is an advanced pattern. But Grider teaches it as part of a beginners course, which turns a lot of people off with its complexity. I had a conversation about a year ago on HN with a Redux dev and Grider himself where the Redux dev asked Grider to stop teaching Redux to newbies because the advanced topic and complexity leads people to hate Redux."
+63066,"I went through the Redux lessons on FreeCodeCamp and was totally lost, but then I went through Grider's course (as a newbie) and it made sense. I thought his insurance company analogy was fantastic"
+63067,"it looks that Grider clearly does a great service to our community by including Redux into the main course. Without it, the course won't be complete and this would be a ""defective"" course."
+63068,"There are loads of companies that require Redux, if you've got the time, learn it as well. It'll open up more jobs in your search."
+63069,I don't even think that it's feasible to search for jobs in react without redux rn.
+63070,I don’t know. That’s why I ask. Everyone is saying redux is past. Use hooks instead.
+63071,"Maybe XState , MobX , even React Context to some extent."
+63072,"Redux is overkill for small projects , but if you are going to work on large scale commercial projects , you will probably not rely only on context , but redux is helpful if there is a large codebase , or same data is shared across many components , need to update data across various components..."
+63073,"I have large codebase with Redux and I can tell you it tend to slow down a lot when you relie to much on it. Now much of our reducers are legacy and I hate to touch it. Of corse, some dev decisions made before me were wrong and the redux could have been faster, but sometimes you just don’t realize of fast it is growing!"
+63074,"Oh this is an interesting take. Thanks. I think i will buy that course, let's see what it is worth in 2021 :D 1 year is a lifetime in frontend as far as I heard :D"
+63075,Have you done this course bro?
+63076,"Yeah , actually I am almost done with it ..."
+63077,"I’m taking this course, Stephen is great at explaining things and the course is very thorough. That being said I absolutely HATE how little code yourself/challenges there are. Like in the span of 30 hours maybe 2 very small code sections. 
+
+The vast majority is just watch him code and follow along. I personally hate that style of teaching. Because of this I’m stopping and switching over to Andrew Meads React course. I took his js bootcamp which was packed with code challenges."
+63078,"I can see your point, but Mead's course looks too... superficially complete. When I look through the section headings, that he was trying to make it sexy. Reacting isn't that sexy, it's the devil in details"
+63079,"I am doing it and it's the best crap out there. yes, it uses class components, but this is what it takes to survive in this niche. I always convert his class components into functional components and move forward with my strategy proudly"
+63080,Easily **Stephen Grider's Modern React/Redux** course. I'm taking it at the moment and it's been extremely helpful.
+63081,I've just started the navigation section and I'm loving it. Some say Redux should not be taught but I was able to understand everything quite well. Stephen is a great communicator.
+63082,"Everyone recommends Stephen and Max, but I think think both are outdated. They mostly rely on class based components, with small hooks sections. The most up to date course I have taken is John Smilga's course, it is pure hooks and also the highest rated React course on Udemy. Has tons of amazing projects."
+63083,"This right here. Class based components are terrible, and confusing."
+63084,"Agreed. Only good reason to learn them is so you can convert them to functional components easily. Hooks are amazing, helps to write very clean code."
+63085,"I would suggest Maximilian Schwarzmüller’s React.js course (it’s worth mentioning that he has a react native course as well),he really dives deep into the concepts and you’ll learn from scratch, everything is explained clearly and you can follow along nicely, he also has a couple of videos on youtube however those are less comprehensive when compared to the Udemy courses.
+
+Hope this helps!"
+63086,"Totally agree, I’ve done a few of the Udemy courses and Maximilian’s is by far the best. Couldn’t recommend it more."
+63087,"Maximilian's course is great but for a complete beginner, I would still recommend Stephen's course for a complete beginner because the file system he organized made me leave the course although I know that it is the right way but that's not beginner-friendly. I decided to do it again after Stephen's"
+63088,"One thing that bothered me about Maximilian's course was that he taught you old ways of doing things first, and those lectures felt dragged out.  
+
+
+I took Brad Traversey's course, which essentially covered the ""footnotes"" versions of older React approaches, and dove straight into hooks by refactoring the few class-based components we built. SO good.   
+
+
+TL : DR - Max S. is WAY thorough but the lectures bore. Brad T. is lighter on the lecture side but SO much more fun to follow along."
+63089,"I want to write out this message so that I can refer my future colleagues to it in the future:   
+
+
+I. 
+
+I did 20% of Grider's course. It was great. Yes, he uses class components and this is wrong since the class components aren't used anymore. But, hey, it's not that hard to convert them, right? 
+
+II. 
+
+I did 25% of Schwarzmuller's course, right up to video 116, which is about useReducer. Right up to this video I was liking the course. It was such a great time. 
+
+The point is that I was hardly learning anything new but I was just reinforcing the easy things I learned in the [Web Ninja's course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) which is the best course for a complete beginner. 
+
+But starting from the video on useReducer, I needed to start learning completely new things. And here's where Schwarzmuller failed me! 
+
+No, you are not an idiot if you don't understand him. No, he is not a good teacher. He is a terrible teacher. The whole thing is bad. It's the course with the highest amount of votes. So, is it the best/good? No, it's really bad. I didn't want to have Section III in this post. I wanted to complete Schwarzmuller's course and move on with my business strategy, but I have to go back to Grider. 
+
+III. 
+
+Now I will complete the Grider's course and move on with my strategy. Yes, there will be class components. Yes, there's not enough info on hooks. But you can't imagine how it feels for us, complete newb's in here, to watch Schwarzmuller's videos and slowly start realizing that this is not a place for us. Lots of people quit react for these reasons. Additionally, I WILL NEVER EVER EVER EVER EVER use the most highly voted course on anything in my life!!! The second highest voted course is the best. 
+
+P.S. 
+
+I am not an idiot. I understand that I need to code my own projects, but I am also a newb coder and I need to complete one video course."
+63090,Do you mean Shwarzmuller's MERN course?
+63091,"Hey, no I meant the react course - [https://www.udemy.com/course/react-the-complete-guide-incl-redux/](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)"
+63092,Okay
+63093,why?
+63094,"I want to do a MERN course, but confused which one I should opt for. Can you help?"
+63095,"ummm, stay the heck away from Schwarzummer - this is my life strategy. Grider is very good. Figure out whether Grider has a course on MERN."
+63096,"He has, but he uses class based components which I don't like so does the industry"
+63097,"This is completely on point man. I know - I have done 30% of his course. I would really be happy to do the Schwarzmuller's course, but the problem is that the Schwarzmuller's course has huge problems:
+
+a. He is coding on his own without explaining anything to me and I can't follow him.
+
+b. He introduces useReducer prior to talking for hours about hooks.
+
+While a. might be my own problem, b. is not my own problem, i.e. this problem will affect everybody who interacts with this course.
+
+Thus, what I am doing as follows:
+
+1. I watch videos from Grider and I AM LEARNING STUFF FROM EACH OF THEM, AND I AM ABLE TO FOLLOW EACH OF THEM.
+2. Then I create my own codebase based on the section in question. in my own codebase, I use FC instead of CC (Class Components). Whenever I use FC, I find some problems with some solutions he uses for CC, so I google through those problems and I mentor with the mentor. (The CC-FC concversion skill is useless accounting for the current conditions. But it's the price I have to pay in this case. Like, I like rollerstaking. And there's a great stretch of road on the enbankment where I can rollerstake 30km. In order to get there, I need to travel for 20 minutes by bus and 20 minutes by  underground. A friend said that I am an idiot because I could easily rollerstake in the district where I live. I live in Bibirevo Moscow and I travel to Mendeleevskaya Train Station and then I go to the Kremlin and then to Vorobyovy Hills and then back to Kremlin on the other side of the river. The point is that I train for the marathon that I wanna do in the spring 2022. And thus the ancilliary investment of traviling for 1H to the starting point and then 1H back home is completely justified. Why? Because I would not be able to do the same thing in my own district. I tried, and it sucks in terms of enablers for this action plan. My friend doesn't have the same action plan, and thus it's difficult for him to understand me. But, uknow, after I've done my first marathon, I will win. The question here is ""win over whom"" and ""win what""? Google the locations I am talking about and think through this case. This will expland your mentality and you might start thinking about coding in a more utilitarian way which is good coz coding and coding careering is so freaking abstract. Who are trying to win over and what exactly are you trying to win? )
+
+As a result, I get the following outcome:
+
+1. I love every minute of this journey, and I eagerly start the working day every day. I will start today's working day in 5 minutes and I am actually looking forward to it - I don't self-zombify myself.
+2. I am learning something every day, I am doing whole projects.
+3. There were 3-4 cases when I lost track and I wasn't able to follow the lessons by Grider. In those cases, I needed to stop the course and do the training in specific subjects (CSS Grid, refs in React). After investing the sufficiently large amounts of time into those scopes, I was able to completely follow the course. Thus, ""followability"" is 100%.
+4. I don't persist CC into my own codebase and it has only FC. Thus, whenever i do the first interview, I will be talking about FC and not CC. If somebody asks me about the course I did, I will explain my stragegy and how I was doing it. And that person might say that it's BS and I should've done Schwarzmuller, to which I will retort that the Schwarzmuller's course had the bigger problems which I wasn't able to solve. And what do you do when you can't solve a problem? You just sidestep it, and you keep on moving toward the goal. My goal is to find the job opportunity in React within 2 months. I am already going to ""informal interviews"" and I already know 3 Leads, 2 Juns and 3 Seniros. How many do you know? If I had decided to stick with Schwarz, I might have stopped learning coding completely. Seriously. He's that bad. I got to know those folks thanks to me doing the Grider course.
+
+Share you opinions, fears and considerations. As you can see, I invested heavily into writing this post, so you can - and should - come back with a detailed list of considerations, so that we can mastermind together. Also, DM me and I will give you my Telegram so that we can set up a mastermind group and keep on sharing.
+
+&#x200B;
+
+P.S. In my POV, there's 97% chance that you are camoufaging another problem by trying to pick the best course. You are afraid that you won't be able to get employed and thus you are fretting that going react might not be the best solution. Whatever course you choose, the decisions in this scope won't enable you to solve this problem. 
+
+I am going to informal interviews and I am getting to know 1-2 React devs every week while I only did 30% of the udemy course. 
+
+how many react dev do you get to know per weekl. Your goal should be one. Networking is the most important skill of any dev. Otherwise, you'll be an Indian with $300 salary working internally."
+63098,Wow🤯
+63099,"And btw a big additional comment - i have done around 25% of the course, and I am at Section 12 (Hooks). Grider teaches Hooks using naturally FC. And he sometimes goes back to CC in order to show the evoluion of CC >>> FC with Hooks, so it looks like we were studying the CC only in order to get a good look at how these processes were used to be done. I am not sure about the rest of the course as to whether we are going to delve back into CC or not, but at this point there's no way that I am going to switch to another course. 
+
+And, ofc, all courses are crap, and naked docs are the best but this is my first lang."
+63100,"Max updated his course on may 3rd, it's still that bad?"
+63101,"Hey, I was using the official updated course. I am an opinionated user, and Max sucks big time. The first 10 hours are super great, then the BS starts. I don't understand anything and I can't follow that guy."
+63102,"oh i see, i'm in the very first hours of the course and i found it kind of ""meh"", i mean not bad and not so good either but yeah still hard to follow compared with other instructors such as colt steele or angela. I'll give a try with stephen tho."
+63103,"Thank you a lot.  
+Unfortunately, I already bought max a while ago but still didn't started."
+63104,"I have taken Stephen Griders, and Maxmillian Schwarzmullers, and they are probably the best two on Udemy? Griders edges it for me. However, they can be a struggle at times due to the sheer delving into every minute detail. It can make the learning process tiresome. Often something relatively simple will take 3 lectures? (useState) In all honesty you are probably better off learning from YouTube
+
+  https://youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
+
+https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+
+And reading the docs."
+63105,"Yeah , I agree on that , i just use 1.5x speed .."
+63106,Kent c dodds’ epicreact.dev is the best one out there IMO
+63107,"I was going to mention this, but OP wanted Udemy.
+But, epic react does come up time and again as a highly recommended course."
+63108,Yeah I originally was going to stick to the Udemy prompt but then I saw a bunch of other outside suggestions
+63109,"does it have to be udemy? because i'd actually recommend kent c. dodds course on egghead: https://egghead.io/courses/the-beginner-s-guide-to-react
+
+he's an excellent teacher and author of the de facto standard framework for testing react components, the ""react testing library"".
+
+
+if you're new to (modern) javascript in general, i'd recommend a course that goes over the basic language constructs first though. for example:
+- https://egghead.io/courses/learn-es6-ecmascript-2015
+- https://es6.io/"
+63110,"If you are really searching for ""best"" courses, you should search for it on Frontend Masters, not Udemy. [This](https://frontendmasters.com/courses/complete-react-v5/) one for example."
+63111,"Yup its awesome, frontend masters is one of the best , but OP requested for Udemy , so had to suggest him the best one I know."
+63112,"I subbed to FEM but I'm torn on how I feel about it. A lot of the courses are really old, and there doesn't seem to be all that much content for how much you pay."
+63114,"Oh yeah, I know they do a lot of workshops, I was simply referring to the age of what is up there for past content, not the quality. A lot of stuff is from 2018 or even older, especially for the basic HTML/CSS/Javascript stuff.
+
+The instructor resume is definitely the biggest reason why I signed up... and I definitely hear you about the length of Udemy courses, one of the JS courses I dived into was 60 hours long.
+
+I will say I definitely like the teacher/classroom learning style a lot more than the video watchalongs of places like Udemy. I've only done Jen Kramer's advanced CSS courses so far and I'm pretty excited to jump into Brian Holt's new React workshop after it goes live."
+63115,"You can’t buy a course, only always the subscription?"
+63116,"Yeah, that's the catch here. I usually like to purchase monthly subscription, watch as much content as I can in that period and then cancel it afterwards."
+63118,"Yeah, sorry I misinterpreted the OP's question here. Now I realize he meant the best course for begginers - which this course isn't for (I believe). For the begginers there are surely plenty of courses which others posted here, but if you want to learn advanced stuff, then FEM is your way to go. Also, author of this course I linked is a Microsoft developer, so yeah I can say he is a very good teacher."
+63119,"I learned react with Brad Traversy.
+He is more fast paced than Muller or Schwartz
+Really helped me get a job a year ago"
+63120,Can you comment on Grider?
+63121,"No, sorry.
+I never watched him"
+63122,Check out Colt Steele and/or Stephen Grider!
+63123,"1.	Sileo
+2.	Zebra
+3.	Installer
+4.	Cydia"
+63124,Sileo is the best?
+63125,"Yes. It’s modern, fast, and very stable."
+63126,Ok thanks dude hoping to jailbreak really soon is xenhtml compatible on iOS 14.3?
+63127,Yes it’s fully compatible.
+63128,Ok appreciate it last question does tweak compatible work with sileo?
+63129,I honestly don’t like sileo I prefer Cydia or zebra I use both usually
+63130,Yeah jailbreak is the best I wish gravity worked on iOS 14.3😂
+63131,I honestly use zebra because it has many features
+63132,how do you install sileo on unc0ver?
+63133,You use Cydia and I don’t know the exact repo here is a link to a tutorial https://youtu.be/5mzIe51vrLo
+63134,"yeah the repo he links to doesn’t work... repo.getsileo.app
+
+ah well, ill figure it out. was hoping someone had a link handy"
+63135,Here found another one samgisaninja.github.io
+63136,Try this repo also if that does not work https://diatr.us/sileo/
+63137,You can’t anymore. You can only use Sileo if you’re using odyssey/odysseyra1n.
+63138,"Sileo is okay, definitely better than Cydia, but I like Zebra the most. Didn't really like the Installer UI enough to try it for very long."
+63139,If you're willing to migrate check out Taurine. Taurine includes Sileo and it's a lightning fast jailbreak. Not many cons.
+63140,Cydia is not pretty but it works and is most dependable I’m also XR 13.3
+63141,Cydia the most reliable.
+63142,I been skeptical of zebra. Tried it. Love it. Best IMO
+63143,"In my opinion 
+
+1. Zebra
+2. Sileo
+3. Installer
+4. Cydia 
+5. Saily"
+63144,I have zebra installed along Cydia
+63145,"Cydia is still *”king of the hill”*, but it's not maintaned by anyone and it will slowly deteriorate to an unusable state.
+
+Zebra and Installer 5 are two promising new package managers that are still pretty buggy and can’t fully replace Cydia yet.
+
+There's also Sileo, which looks like the Appstore, but that’s all it has going for it."
+63146,"Wait, what do you mean it's not maintained by anyone? Saurik is the maintainer isn't he? What happened?"
+63147,https://www.idownloadblog.com/2019/04/19/saurik-to-jailbreak-community-on-a12x-cydia-substrate-etas-knock-it-off/
+63148,Yeah but isn't it open source? Nobody took it up again?
+63149,Zebra is the best imo. It coexists with Cydia very well (jailbreak with unc0ver)
+63150,Where is no best just different choices. It also depends on the Jailbreak you're running
+63151,It does? How do I know which I'm gonna get beforehand?
+63152,"if you use chimera/electra you will not be able to use Cydia but you can use Sileo and Zebra and Installer 5
+
+if you use unc0ver you can use Cydia and Zebra and Installer 5 but not Sileo"
+63153,Is it worth getting Chimera/electra then? Or should I use unc0ver?
+63154,its on you. for me its not worth
+63155,"Zebra and Sileo, though the latter is only for Chimera atm until it goes open source."
+63156,You can't install it through cydia or such then?
+63157,For Zebra add this repo to Cydia https://xtm3x.github.io/repo/.
+63158,Oh I meant Sileo! Also isn't there lots of drama about Sileo actually? Is it worth it to install it?
+63159,"Yeah, there is a lot of drama surrounding it and the dev. Personally I don’t care. It’s pretty, fast and works well.
+
+As for installing it on a jailbreak other than Electra/Chimera I would wait for it to go open source so it’s easier to maintain. The dev of Sileo doesn’t officially support it for other jailbreaks which is understandable."
+63160,"I’m on Chimera and personally love Sileo. It’s all personal preference tho. I’ve tried Zebra and like that too, as far as the drama there is mainly Drama around CoolStar, Who is the lead dev of Chimera and Sileo."
+63161,If you have chimera I’d recommend you don’t install zebra. Last version of sileo broke compatibility and I almost lost my jailbreak if it wasn’t for unc0ver rootfs.
+63162,Did Coolstar do that on purpose again?
+63163,I can’t say for sure. Look for cy+cpu.arm64 in this sub. It sure seems like it though.
+63164,Good old Cydia. Staying OG.
+63165,👏👏👏
+63166,"I like Cydia too. But after using zebra, you can actually realize that Cydia is becoming deprecated. But it is still very good and stable."
+63168,"I’ve been doing pretty much the same as you, just with zebra tho.
+Think i’ll give a try to Installer 5."
+63194,Zebra
+63170,I use zebra too. Loving it since i’ve installed
+63171,Same. I installed it on release and haven’t looked back since.
+63172,"Personally I’m using Zebra with Checkra1n. iOS 13.3.
+I’d like to switch to Installer 5 because it have more options (like backing up sources etc), but I did not had time yet."
+63173,"Installer 5 is hella buggy, despite the developers best intentions."
+63174,really? even now that is out of beta?
+63175,"Yes, look at the “out of beta” thread, and you’ll see. When refreshing the sources it slows the app, and makes it insanely hard to use."
+63176,that is bad :(
+63177,Just stick with Zebra. I rarely have issues with it.
+63178,I just want to try Installer’s great features.
+63179,"You do you, I’m just saying, zebra won’t fail you, installer might. At least keep Zebra installed."
+63180,“zebra won’t fail you” why does it mismatch dependencies for multiple tweaks then
+63181,I’ve never had that problem.
+63182,"I always prefer cydia. It may not be the fastest but it's always worked for me. 
+
+Actually though, over the past couple weeks, I have tried zebra, and even installer the last couple days. I really like installer. I don't know if I'm going to replace cydia with either of those but they're definitely giving cydia a run for its money"
+63183,"that’s cool, i’m willing to install installer, very good to hear that."
+63184,CYDIA
+63185,OH YEAH :p
+63186,Cydia 📦🤩
+63187,pacman
+63189,Cydia and Sileo and Installer all win over my heart :)
+63190,"I like Sileo, but it is very limited by the devs, and that’s sad :("
+63191,"I’m really enjoying Sileo. Zebra is also my second most used manager, but Sileo is my favourite."
+63192,"I mainly use zebra 75% of the time but on occasion it has issues with some repos or packages mainly because of the way it handles dependencies differently than Cydia. I love cydia, never have any problems and is my go to should I encounter any issues with other package managers. It is a little slow to launch/load to get into the app which is one of the main issues I have with it. I really like installer and am still tryna acclimate to the odd organization of it. I’d like to be able to use the queue without having to wait for all my repos to update, it’s inconvenient if you simply want to remove something. I also use saily which is pretty cool, it reminds me of rock (rock your iPhone) if it had a baby with sileo. It has a lot of potential but a few things aren’t in English, like the news source but you could make your own as they give you the info to do so. Would like someone to port the zebra or installer news sources to saily. I don’t fck with anything coolstar creates. I have used sileo but my experience with it was awful. 
+All that said, anyone know if Lime is still in development?
+I’m staying on 12.2 because the whole point in jailbreaking for me is to use my device however I see fit and iOS 13 isn’t feature rich enough to compensate for the lack of tweak compatibility and I depend on many unsupported tweaks that will not be updated. I absolutely love unc0ver but on occasion I will use checkra1n. Checkra1n definitely runs more like stock but I don’t have any issues with any of the 335 packages I have installed using either unc0ver or checkra1n.
+I’ve been tweaking my setup a lot and as is with everything enabled my scores in Geekbench are higher than a stock iPhone X. I plan on making different setups via flashback for aesthetics and for performance but I haven’t gotten around to it just yet."
+63193,Zebra and sileo 😍😍
+63195,"Zebra is by far my favourite. The customizations and speed are great for what I need. Cydia is still OG, but lacking some features in my opinion."
+63196,I agree with you. Cydia is becoming very old nowadays and zebra is a very good replacement...
+63197,Definitely Zebra
+63198,"count me in for 🦓 too.
+
+BTW: I use all 4 (Cyd, Inst5, Sil and Zeb) at the same time."
+63199,"Have you tried saily?
+https://lakrowo.gitee.io/repo/"
+63200,What is this? Another Package Manager? I heard of another one called Lime
+63201,"Yes, it’s another package manager.
+Lime is in closed development."
+63202,Lime is gonna be dope.
+63203,i would vote for zebra
+63204,"IMO Sileo. I’ve used Cydia since its creation. It’s a wonderful package manager and honestly still does its jobs. But obviously it’s wide open for improvement. It’s slow compared to others and lacks a few other things.
+
+Zebra is also a good one, game change actually. It’s quick and intuitive but crashes randomly for me and has trouble refreshing sources or installing packages sometimes it just freezes or sitting there.
+
+Sileo is best imo. Although it lacks dark mode everything is top of the line. It’s being rewritten also in swift which means it’ll just get faster. It has batch adding of tweaks and a much more modern design. Also intuitive and easy to use"
+63205,"Sileo fucks up BigBoss and a lot of other repos that work fine on Cydia (*not* referring to piracy repos)
+
+Faster does not mean better"
+63206,"Well firstly I didn’t say faster is better. Secondly I said in my opinion, thirdly the only damage Sileo does to BB is not using the same as Cydia. Nothing is broken with BB on Sileo"
+63207,"First off, You’re using speed as a point for why you prefer Sileo.
+
+Second, you have your opinion, and I have mine
+
+Third, the way BigBoss is depicted in Sileo blocks their ads, which is a huge revenue loss for them since so many people are moving to Sileo"
+63208,"Firstly the OP asked for pros and cons. Speed is a pro. It’s not to prove my opinion that’s just fact
+
+Second I didn’t ask for your opinion the OP did
+
+Thirdly I’m well aware of that but that’s not breaking any of BB functionality. No matter how bad or unethical it is BB still functions properly on Sileo"
+63209,"Can anyone give a better explanation for a beginner or someone trying too get a hang of this more.  I installed Zebra and have yet to use it.
+
+I find Cydia very simple too use but i do notice it can be slow.  Can you use two package managers at the same time? Is it advisable?"
+63210,"Package managers are just a graphical front end to APT, which is used to install packages to your device.
+
+There is nothing wrong with having more than one on your device, they all do basically the same thing just with some being more or less buggy and having some other features. 
+
+I personally use cydia, just because what i've had for years and don't have any reason to change it. I have zebra installed and use it occasionally though. It's all personal preference."
+63211,Zebra working fine for me on a 6S+ (iOS14.1)
+63212,don't know why it's not working for me just crashes
+63213,"May be a tweak conflict. Or a theme icon issue. Use iCleaner Pro to disable 50% of the Cydia Substrate Addons and try Zebra again. If ok, the cause is in one of the 50% you disabled, so work through until you find it.
+
+If not, re-enable the 50% and turn off the other 50% - then follow above."
+63214,Well it's working know! i installed zebra first  rebooted my phone and rejailbreaked with checkrain guess what it worked! i swear yesterday i tried the same thing didn't worked! jailbreaking is stressful.
+63215,Cydia and sileo should work.
+63216,"yeah true i'm currently using cydia jailbroken with checkrain iph6s! but you know cydia is kinda slow and old, and Sileo's repo is not working i added it to my sources but it gives me error"
+63217,Are you attempting to use the getsileo repo? That method is no longer supported and the repo was taken down. If you want to use sileo you have to switch to odysseyra1n.
+63218,well now the problem is getting a little bigger Lol ! if i restore rootfs and try to install odysseynra1n it's not gonna work Sileo app keeps crashing i tried this many times the only way is too restore my iphone and jailbreak with Sileo!! i know it's wierd but that's it
+63219,"I've never had that issue although I jailbroke with odysseyra1n from a fresh restore, I did not use checkra1n first. 
+
+How exactly did you jailbreak with odysseyra1n? Did you try it recently or was it a while ago?
+
+You could also ask for help in the sileo discord: https://discord.gg/Udn4kQg. This discord is meant for CS's tools so you may get better help there."
+63220,no not while ago 2 days ago i attempted to switch from checkrain to odysseynra1n but Sileo kept crashing so i went back to checkrain and now cydia is boring i wanted something fresh if possible. i will check it out. thank you mate!
+63221,"zebra is hecking fast like wayyy faster than Sileo and Cydia. Might switch to that, but ima just stay with Cydia"
+63222,Yea that’s what I’m using right now
+63223,"Whichever makes its way to A12 first.
+
+But in all seriousness, I prefer Sileo from the demo I tried. It’s very fast, smooth, modern looking and updated with newest stuff."
+63224,Yea I’m just hoping for a release soon
+63225,what is the benefit of having these?
+63226,"Right now I’m just testing them all out to see which one I like the best. The way I see them right now is:
+
+-Cydia is of course Cydia. 
+
+-Zebra acts like a proper successor to Cydia. 
+
+-Sileo tries to be a spin-off of Cydia with inspiration from the App Store. 
+
+-Installer 5 is its own thing with inspiration from the App Store."
+63227,"didn’t even know installer existed for ios12/a12. downloaded. omg it’s great!!! my only gripe is it not letting me use repos that say “not compatible with your device” when i know it is. installer is everything that sileo should’ve been, as they said it has no web views. that’s my biggest concern and they fixed it"
+63228,"I haven’t tried it yet but I think this can be fixed by hitting the info icon on the installer main page, then tap the settings icon, and enable show incompatible packages."
+63229,"since it’s so much like the app store, it almost reminds me of white door 5.1...? or 6.0 because it combined cydia and the app store. obviously that would be cool now (installer instead or choice of package manager) but idk how useful it’d be because of the lack of an untethered jailbreak"
+63230,My biggest concern about Sileo is its bugs. It's buggy  af.
+63231,Name a few bugs I can’t seem to find any
+63232,"They are nearly all fixed, but if you click the ""Get"" button, it takes a little time."

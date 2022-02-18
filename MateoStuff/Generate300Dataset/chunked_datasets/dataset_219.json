@@ -1,0 +1,628 @@
+idx,text
+72198,Running Scared
+72199,"Arlington Road, the ending was like a punch in the gut."
+72200,You guys would love Sleuth.
+72201,Oldboy.
+72202,"No Way Out, saw it when I was younger, and still think of it as the most shocking twist I have seen."
+72203,"This is kind of a cheesy one, but I when I was 12 I rented Kill Bill Vol. 1 and watched it for the first time. When Bill said to Sophie ""Does she know her daughter is still alive?"" I went crazy."
+72204,The Machinist has a pretty good one.
+72205,Oldboy. Twisted shit right thur.
+72207,"Ublock Origin, hands down. It is fully operational out-of-the-box, allows for deeper tweaking for those who desire it (quite easy), and is reliable. I trust it over all others currently available. I have experienced no slowdown in Chrome or Firefox, and have been using it for years."
+72208,And it can be combined with uMatrix for even more control.  The configuration of that is not for the faint of heart though.
+72209,"What tweaking do people need?  I am genuinely curious because as you said, it works right out of the box.  I am just wondering why people would need to mess with it?  So they can see ads on specific sites?"
+72210,"Generally is is very user specific. When I say it works out of the box, I mean that 99% of people want it to block ads they see on the screen and it does that at the flip of a switch. The settings allow a user to go very in-depth, tweaking detailed technical elements to block specific scripts or analytics or trackers. Most people have zero desire to do so. I tried for a few minutes to find a thread that detailed some of those changes one can choose to make, but couldn't find it. [https://github.com/gorhill/uBlock/wiki](https://github.com/gorhill/uBlock/wiki) has info on it in a less step-by-step presentation."
+72211,"Plus it removes any reason for having Malware Bytes. Turning on the malware options, all MB has had to remove is a half dozen tracking cookies once a year."
+72212,This is bad advice. Ublock Origin doesn't do heuristic analysis and won't receive updates as quickly for known malware. Plus if someone just uploads the malware to a new url you lose all protection.
+72213,"It wasn't really meant as advice, just an observation over 5 years.
+
+Most malware is delivered now via compromised ad delivery services, blocking the ads blocks the malware."
+72214,"I'm sorry but if you think that's the way most malware gets on your pc, you're truly deserving of being called an idiot lol."
+72215,Privacy Badger is nice
+72216,"Not really an adblock though, more of an anti-tracker. I run uBlock, Privacy Badger, and HTTPS Everywhere."
+72217,"Ad blocker: uBlock Origin
+
+Privacy & Securtiy : HTTPS everywhere + Facebook Container + Privacy Badger
+
+For YouTube: SponsorBlock for in-videos ads
+
+&#x200B;
+
+I heard that some adblockers don't always blocks all the ads because they are paid by compagnies to let them pass... I don't know at which it is true."
+72218,"uBlock Origin for all basic things. If you just want the ads gone
+Add uMatrix for the eye opening experience on how much crap web pages actually load. Painful to setup but I wouldn’t want to browse without it anymore"
+72219,Overwhelmingly ublock. It's Reddit's defacto ad blocker.
+72220,[uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)*. It's the original and it's different from ublock.
+72221,"uOrigin is not as good as before, more ADs and redirects have been happening lately"
+72222,"Most Ad Blockers sold out, I've been seeing ads on twitch and youtube and found this post.   
+AdGuard is something I just tested and it works like a charm.  
+>!https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg!<"
+72223,"My man, The only comment that makes sense."
+72224,I use adblocker Ultimate and it is pretty good
+72225,"Make sure your post is flaired properly or it will be removed, support posts need to be flaired with ""HELP"" or will be removed. There are also new user flairs to add your main browser next to your username.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/chrome) if you have any questions or concerns.*"
+72226,GoFuckYourself is a ublock fork. Check it out
+72227,"[uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en).  Is much more [resource friendly than Adblock Plus](https://github.com/chrisaljoudi/uBlock/wiki/uBlock-vs.-ABP:-efficiency-compared).  
+
+Adblock has an ""Acceptable Ads"" program, which lets advertisers pay Adblock to allow adverts though: [Google, Microsoft, and Amazon are paying Adblock Plus huge fees to get their ads unblocked](http://uk.businessinsider.com/google-microsoft-amazon-taboola-pay-adblock-plus-to-stop-blocking-their-ads-2015-2?r=US&IR=T) (that was in Feb 2015, and I'm sure others are paying now)."
+72228,"Second uBlock origin. It's what every plugin should be - simple, effective, and bug free.  
+edit; also check out [noscript, umatrix, and ghostery](http://adamantine.me/index.php/2017/02/06/adblocker-and-privacy-plugins-for-firefox-and-chrome/)"
+72229,Try Fast BA.net AdBlock https://chrome.google.com/webstore/detail/fast-adblock-banet/dmknehchbeeinfhjmggbfmdiflbifgjd
+72230,The received wisdom appears to be ublock origin
+72231,ok
+72232,"I would recommend — AdGuard. Along with ads, if you take the time to configure its filters, it can block trackers, cookies, cookie pop ups and so much more. 
+
+I use it on android and windows. Works like a charm. 
+
+Disclaimer, it is not open source. But in my research I found it to be very privacy friendly."
+72233,Ublock Origin
+72234,oh ok
+72235,Which extension on chrome web store is the legit one
+72236,https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+72237,ok thanks
+72238,"uBlock origin, low cpu usage and doesnt deliberatley allow ""acceptable"" ads through."
+72239,[https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+72240,"There have been reports of a bug in the latest update to Adblock. An update is promised soon to fix it.
+
+The best adblocker available, by popularity here and web reviews, is uBlock Origin."
+72242,My PC has always done this to me. It would randomly stop loading Chrome but everything else worked. It just did it to me a little bit ago and I realized it said waiting for Adblock so I disabled it and chrome was perfect again so I think that was the culprit too. Definitely trying something else in the meantime.
+72243,Nano Adblocker + Nano Defender.
+72244,"There's no way to block everything and stay undetected, but uBO's team and community are very responsive about handling of problems.
+
+If you do run into anti-adblocks, etc., just make a post here* and it'll get fixed asap. No need to whitelist websites long term.
+
+\* Actually, first purge and update filter list caches, then search the sub, then make a report here or on github."
+72245,Okay 👍
+72246,You are a good man.
+72248,"Exactly, OP made it sound like you can't have both. You can just have a PiHole running on your network plus uBlock browser extension on devices that allow it."
+72249,Good to know. Ublock really is the best at blocking ads and even if some ads get thruogh u can just post it here on the subreddit or on github and ull find some solution or it will be fixed in the next update as gorhill is very active at making it better and u can also use the dev version of u block for some extra features tho i wouldnt recommend it as it is a dev vrsion and is prone to bugs so its better to use the normal stable release and just make sure its updated to the latest stable version
+72250,"the ""undetectable-adblocker"" blocks almost everything and will never get detected. check it out.
+
+link: https://chrome.google.com/webstore/detail/undetectable-adblocker/gcfcpohokifjldeandkfjoboemihipmb?hl=en-GB"
+72251,"It's not just the ads. You can also customize/modify app features you don't like.
+
+Example 1: I'm still using Yahoo webmail. Their current design hogs space on the right for ads and for icons for address book and calendar. Not too bad on a widescreen, but my favorite laptop has an old 1024x68, 4:3 screen. This left very little space for the actual email list or text. Using the simple point-and-click element picker made it easy to hide the screen hogs. (When I need to access the Address Book, I simply disable uBO.
+
+Example 2: I have never been a Facebook subscriber, but I occasionally need to look at a Facebook page. A couple of clicks made the intrusive ""Join or Login"" overlay go away. This was a need that Facebook users would never ask for.
+
+Example 3: This one does not apply to me. Facebook users often seem to request their specific preferences: Hide this feed or that news or whatever that other users would not wish to hide. There always seems to be a way to do it and satisfy that individual need."
+72252,">  (When I need to access the Address Book, I simply disable uBO.
+
+Better to just disable cosmetic filtering (click the eye icon)."
+72253,"Thanks! That's quicker and safer.
+
+I clicked Cosmetic filtering off followed by uBO's Refresh button and got my icons back.
+
+Going back the other way, I turned Cosmetic filtering back in and clicked uBO's Refresh button and the icons remained. I then hit F5 and they disappeared.
+
+I don't mind this behavior. Please don't expend any resources on it. It's an action I probably only do once a month. It might even be an interaction with Webmail Ad Blocker which also helps to corral Yahoo's misbehavior."
+72254,"although I agree, I found Adguard was better at blocking Facebook ads. And sites often detect uBlock, in my experience."
+72255,stupid question but can't you just adguard filters into Ublock origin and it performs the same way?
+72256,"That's actually a good question, I never thought of that. Does this work for you? There's often posts about how Facebook ads return and a lot of advice for adding filters, but never that. Last time I tried to get help here, I was faced with a lot of cultish bullshit about how it's all Google's fault (I use Chrome) and therefore there's nothing possible to do and what a jerk I was for not believing Google has it in for me. That's what prompted me to try Adguard, a lo and behold, it worked flawlessly. I can't remember why, but I eventually came back to uBlock - probably for lower resource usage. And I stopped bothering to ask for help."
+72257,The adguard filterlist is already available in uBlock. You only need to enable it.
+72258,Sorry can’t be more helpful I don’t use Facebook but I noticed there was an option for using AdGuard filters within ublock origin so thought maybe you could try it out
+72259,How hard is it to download firefox
+72260,how hard is it to understand I don't want firefox
+72261,Its incomprehensible
+72263,I don't know about other os. But in android you can use firefox and add this extension.
+72264,"I don't wanna agree, but I gotta somewhat."
+72265,"I agree that uBlock is great, but can’t agree that AdGuard doesn’t block all Ads. It’s even based on Easylist like uBlock. Personally I think AdGuard is even better in cosmetic filtering, but you can subscribe AG filterlists in uBlock."
+72266,I used to use Adblock plus  but it  doesn’t block pop ups and the acceptable ads system is greedy soo i switched to ublock orgin and it is way more op than adblock plus and its doesn’t have any acceptable ads system
+72267,"In terms of active development, policies, and overheads, ublock origin is by far the best for me.
+
+I do also use umatrix to supplement it."
+72268,You should try _Advanced Mode_. Just read the guide properly so you understand.
+72269,uBlockOrigin is not a Adblocker.
+72270,"true, but it's effectively an adblocker (at minimum)."
+72271,"From the GitHub page, so words from the creator of the extension:
+
+>uBlock Origin is **NOT** an ""ad blocker"": [it is a wide-spectrum blocker](https://github.com/gorhill/uBlock/wiki/Blocking-mode)  \-- which happens to be able to function as a mere ""ad blocker"". The  default behavior of uBlock Origin when newly installed is to block ads,  trackers and malware sites -- through [*EasyList*](https://easylist.github.io/#easylist), [*EasyPrivacy*](https://easylist.github.io/#easyprivacy), [*Peter Lowe’s ad/tracking/malware servers*](https://pgl.yoyo.org/adservers/policy.php), [*Online Malicious URL Blocklist*](https://gitlab.com/curben/urlhaus-filter#urlhaus-malicious-url-blocklist), and uBlock Origin's [own filter lists](https://github.com/uBlockOrigin/uAssets/tree/master/filters).  
+>  
+>uBlock Origin (or uBlock₀) is not an *ad blocker*; it's a general-purpose blocker. uBlock Origin blocks ads through its support of the [Adblock Plus filter syntax](https://adblockplus.org/en/filters). uBlock Origin [extends](https://github.com/gorhill/uBlock/wiki/Filter-syntax-extensions) the syntax and is designed to work with custom rules and filters. Furthermore, advanced mode allows uBlock Origin to work in [default-deny mode](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-default-deny), which mode will cause [all 3rd-party network requests](https://requestpolicycontinued.github.io/#what-are-cross-site-requests) to be blocked by default, unless allowed by the user.  
+>  
+>That said, it's important to note that using a blocker is **NOT** [theft](https://twitter.com/LeaVerou/status/518154828166725632). Don't fall for this creepy idea. The *ultimate* logical consequence of blocking = theftis the criminalisation of the inalienable right to privacy.  
+>  
+>Ads, ""unintrusive"" or not, are just the visible portions of  privacy-invading apparatus entering your browser when you visit most  sites nowadays. **uBlock Origin's main goal is to help users neutralize such privacy-invading apparatus** — in a way that welcomes those users who don't wish to use more technical, involved means (such as [uMatrix](https://github.com/gorhill/uMatrix)).  
+>  
+>*EasyList*, *EasyPrivacy*, *Peter Lowe's*, *Online Malicious URL Blocklist*  and uBO's own lists are enabled by default when you install uBlock  Origin. Many more lists are readily available to block trackers,  analytics, and more. Hosts files are also supported.  
+>  
+>Once you install uBlock Origin, you may easily un-select any of the  pre-selected filter lists if you think uBlock Origin blocks too much.  For reference, Adblock Plus installs with only *EasyList* enabled by default."
+72272,"Thanks, had stands ad blocker which was great but then no matter what settings I changed I still got ads. And so thanks for this golden find, haven’t seen any ads since I started using uBlock Origin"
+72273,https://github.com/gorhill/uBO-Extra/releases
+72274,"I'm no expert but unless they're faking the developer, it's from the same person
+
+https://chrome.google.com/webstore/search/ublock%20origin
+
+Seems like it might be legit."
+72275,It’s legit.
+72276,It is.
+72277,Has anyone ported this for Safari yet?
+72278,It has no use on safari. Its purpose it to deal with a few problems caused by chrome restrictions.
+72279,"Oh, I see, it appears that Instart Logic's console-detecting code works only for Chromium-based browsers.  Thanks for the head's up."
+72280,Currently there is a port for safari but Safari 12 disables this. However you can force install it by following this steps [https://georgegarside.com/blog/macos/install-any-safari-extension-macos-mojave/](https://georgegarside.com/blog/macos/install-any-safari-extension-macos-mojave/)
+72281,"I'm referring to uBlock Origin Extra, not uBlock Origin."
+72282,"Yes, it's safe. It's supposed to be used together with uBlock Origin on Chrome / Chromium based browsers."
+72283,This is old news. Just a reminder - use uBlock Origin instead.
+72284,"That’s step 2. Step 1 is to make sure that your browser’s built-in tracking protection is enabled and set up correctly.
+
+If you use Chrome, you’re doing it wrong (no tracking protection). In Safari, it should be already be enabled by default (but it doesn’t hurt to check). In Firefox, the custom Content Blocking setup that I recommend is this: https://imgur.com/a/yLAUP2q."
+72285,"> If you use Chrome, you’re doing it wrong (no tracking protection). 
+
+Not necessarily chrome specific, but configure it to delete all site data on exit. Fresh browsing experience each time you launch it."
+72286,"That's a pain in the ass. If you give the remotest shit about privacy and your data, just stop using chrome. The fact that they are axing adblock api is enough to drop it altogether. Chrome exists solely to collect your data and spy on you. Clear what you want, locally, it's not stopping google from saving it on their end."
+72287,"> That's a pain in the ass.
+
+Why? It's done automatically."
+72288,"Because it wipes everything out. I'm lazy af, I like password and site history left intact. But, again, clearing that data does nothing since it's local only. The tracking is done remotely, and they aren't going to allow you to clear that data. Just do private browsing, it does the same thing and you can switch back and forth without messing with settings. Only real point in doing this is if you want to keep your significant other (or in some cases, mom) from seeing what you've been doing online."
+72289,">  I'm lazy af, I like password and site history left intact.
+
+Get a password manager, regardless if you want to keep the history or not.
+
+> The tracking is done remotely, and they aren't going to allow you to clear that data.
+
+Clearing the local data makes you look like a completely new person to trackers each time you open the browser because the things they store on your computer to track you are gone.
+
+> Only real point in doing this is if you want to keep your significant other (or in some cases, mom) from seeing what you've been doing online.
+
+It's actually very useful for website development."
+72290,"\>  makes you look like a completely new person  
+
+&#x200B;
+
+Not precisely. [https://en.wikipedia.org/wiki/Device\_fingerprint](https://en.wikipedia.org/wiki/Device_fingerprint)"
+72291,It's simply not necessary if you use a good browser.
+72292,"For you Chrome lovers out there, I highly recommend [Brave](https://brave.com). It's based off of Chromium."
+72293,"I recently became fed up with the data harvesting that Google does through Chrome. I mean, I knew they did it, but I think that on some level, I was *probably* okay with it... or at least unaware? But they made it too effing obvious with ads for things that I had looked at on Amazon or whimsically researched elsewhere.
+
+So, I installed Microsoft's version of Chrome, don't sign in to it, switched over to uBlock Origin, and block cookies. Then I use extensions to whitelist cookies from sites I want, disable JavaScript on the fly for sites that bitch about cookie blocking, and block videos from autoplaying.
+
+It's been real nice since all those changes.
+
+I wanted to like Firefox, but it's not ready for touch input on Windows, so I had to quit using it after a couple of days testing.
+
+I may end up going to straight Chromium if Microsoft starts getting carried away with tracking and privacy."
+72295,"Exactly. Trusting Microsoft to guard your data is like trusting a wolf to guard the henhouse. If you like Chrome but want to use something similar that protects your privacy, use Brave."
+72297,Use Ublock Origin instead. It's developed by a guy who isn't interested in your money. He flat out doesn't want donations.
+72298,Is he independently wealthy?
+72299,"Most people who go into a venture being 'independently wealthy' have plenty of interest in taking your money, so I don't see why this would be a good indicator of his intentions."
+72300,Yeah that’s prob true. I just want to imagine some dude who made a bunch of money making bricks or something super not tech related but he just HATES ads on the internet so he’s taken this up as his cause. Modern day Robbin Hood or what have you.
+72301,How about 5 things no one gives a shit about because AdBlock isn’t a real ad blocker. Ublock Origin is the one and only
+72305,"This was the past. Most filters work on the network level now.
+
+Filters to hide elements are applied too to cover up empty areas left behind by the failed ad. They are considered ""cosmetic"" filters and can be turned off for whatever bizarre reason you might have.
+
+The advantage over DNS level blocking is that it works for sites that deliver ad-code and tracking scripts from their main domain."
+72306,"uBlock Origin seems to be still a browser plugin, so the ads enter your network at least once. To your point, though, pi-hole doesn't really cover same-domain ads. I definitely use a layered approach for ad-blocking with a browser plugin and pi-hole for these reasons."
+72307,"> uBlock Origin seems to be still a browser plugin, so the ads enter your network at least once
+
+They don't. You can actually observe this in [the console tab](https://i.imgur.com/TsCUSOt.png) and [the network tab](https://i.imgur.com/u04I4IG.png) in your browser. The request is outright blocked and prevented from even happening.
+
+[The browser doesn't even gets to make a DNS lookup at all](https://i.imgur.com/xGGigsz.png), otherwise there would be a `p.imgur.com` in the cache now. It's actually important for it to be this way, otherwise I could still communicate somewhat with an ad-server by making requests to dynamically generated DNS names that are essentially the base64 data of what I want to send to the ad-server. While this communication method is largely unidirectional, it would still allow for limited tracking of the user."
+72308,"Aha! I had not considered that point, my bad. TIL; Thank you!"
+72309,https://i.imgur.com/c7NJRa2.gif
+72310,And https://technitium.com/dns for those that don't want/have a pi. Still in development but fully working. They just added a DHCP server not too long ago.
+72311,Pi-hole runs on standard linux too. I run mine within docker.
+72312,The backbone of the Internet is ads. The sooner people realize this the closer we will be to finding a solution.
+72313,lmao if you are using Adblock Plus you are about 5-6 years behind.
+72314,"This is all ancient news.  ABP is perfectly fine with ads that play by their rules and pay to get vetted and whitelisted .  They just block everything else.  And, of course, you can change the default settings to block the vetted ads too."
+72315,"ABP sucks and always has, you should change."
+72316,"Oh, I never said I use it, just that I know how it works and it’s not all that bad an idea.
+
+uBlock Origin is the way to go."
+72321,"Holy pandas and Zealios are the two popular options right now,  but really it all is preference.  If you can,  go to a local meet so you can try other people's builds. It is absolutely worth it, and if you can't manage that, it is absolutely worth spending a bit of cash on a sample pack or tester of switches. These are both much better options than dropping cash on a whole board that you ultimately may not be happy with. Take your time and have fun exploring the options."
+72322,Yeah okay thats fair enough
+72323,Zealios have a more jarring bump and the one for the Pandas is more rounded if that helps.
+72324,"oh thats interesting, thanks"
+72325,"If you can get a board with hot swappable switches, you can almost use it like a switch tester. If there is a switch that I'm interested in, I'll beluy a set of 10 online(usually from Novelkeys because of fast shipping,good prices, excellent selection) and plug them into my board and try them out."
+72326,"It will be completely dependent on what YOU like. Here's some of my experience with them:
+
+* Zealios 65g: my go-to. Just great
+* Zealios 62g: a little bit lighter, but it's definitely noticeable. I also REALLY enjoy these and built a KB for my girlfriend with these
+* Zilents 62g: ditty the 62, but quieter. Honestly, feel is 95% of the way there. A fantastic option if you're in a crowded office
+* Kailh box Royals: a little bit lighter feeling to me, and a tad more tactile. Very interesting combo: I REALLY like them. It just makes typing FUN. For noise and general thockiness, I'd go Zealios. For tactility and fun, I'd go with the Royals
+* Hako Clears: too heavy for me... super tactile too. Interesting switch, but most-likely just not for me
+
+&#x200B;
+
+These are all non-clicky. As folks below talked clickies, my favorites there are the Kailh Speed Thick Gold. I tried the Navies and they're too heavy for me: the Golds fix it, but are speed switches which are very different to type on. I have some Jades coming soon which will hopefully fix this. 
+
+At home I'm also waiting to test out the Halo Clears (from Massdrop).
+
+&#x200B;
+
+To go through all these possibilities, I got myself a UT47.2 kit, which is hotswap and is the only 40% layout I enjoy. This way I can try any switches I like with a keyboard I'm familiar with."
+72327,"I rotate V2 Zealios, Holy Pandas, and T1s on my boards. All are incredible tactile switches."
+72328,"kbd t1's can still be purchased on amazon. I like mine a lot with mda caps!
+
+&#x200B;
+
+Although, I do have like 3 sets of holy pandas soooooo"
+72329,"Just bought a board with KBD fans T1s off /mm and I really am enjoying them. I've usually been one for clicky switches (I have a model m I used exclusively for years) but I am beginning to understand why people like these holy panda esque switches. 
+
+They take enough force to be noticably tactile (makes my roomies browns feel linear), but are still kinda round and smooth feeling which makes typing pleasant. Also they are factory lubes so that's a +"
+72330,"If you want to do Holy Pandas start with these housing. 
+https://novelkeys.xyz/collections/frontpage/products/yok-purple-trash-pandas
+
+Basically feel like a T1 or Holy panda as is.
+
+If they aren’t enough for you just swap out the stems with halo trues to get the actual holy panda"
+72331,"Hi, it appears you may be new to this subreddit!  Please check out the [wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index) for general information about mechanical keyboards and consider posting questions in the [daily sticky post at the top of the page](https://old.reddit.com/r/mechanicalkeyboards/about/sticky) for any smaller questions.  
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/MechanicalKeyboards) if you have any questions or concerns.*"
+72333,Pretty tactile? How heavy/light are they relative to other switches youve tried?
+72334,"Navy is a clicky switch, and about as heavy as stock switches come (you can by springs much heavier than their 90 grams, but you're modding the switch). The click bar of the Navy (and lighter weight box jade) is very distinct though.
+
+I know you said you didn't want to, but I still think a switch sampler is still the right move here."
+72335,"OP asked for tactile, not clicky. (Navy is my clicky of choice though)"
+72337,"This probably would be the difference in language-they do have an aspect of tactility that I think is important for preference, but that they click (and for navies, a lot!) which changes their designation with switch taxonomy.
+
+I use novelias (almost the same spring as a navy, but in a box royal for a similar tactile bump without the noise."
+72338,">y as stock switc
+
+Well I don't mind mx blues, clicky is probably my second choice so If I am inevitably pressured into getting a sampler pack Ill throw in some navys I suppose"
+72339,"Oh! Navy is a 90gm spring. Box jade is a lighter spring, somewhere in the 60s. I have a lot of them with shaved stems, they're not the best for using but are fine for testing. Pm me your address and I can put one of each in the mail if you don't have them in a sampler."
+72340,"Haha nah its alright Thank you though, I ended up finding a site which sold some reasonably priced switches that ship to Australia(my country) which are now on their way, thank you though I did order some navy switches which I am excited to try out"
+72341,"Yeah, would recommend Holy Pandas or Zealios. However, I do have to say that Kailh Speed Coppers are pretty amazing: tactile with no pre-travel; put em on your alphas and it feels like you're typing on clouds."
+72342,Cherry MX brown.
+72343,"Certainly haven't tried everything, but:
+
+Linear: Tealios, Gat Yellows
+
+Tactile: Zealios 67
+
+Clicky: Box Navy (or Box White if gaming)"
+72344,Have you tried Hako royals? Using some Hako royal true and I like them. Wondering if it’s worth the cost to move to zealio 67g. I love box navy so far too but have them on the number row and F key to avoid too much noise.
+72345,"Absolutely love these with 70g gold springs!! Omg they are beautiful!! 
+
+If you like box navies then zealios will almost feel linear to you(in comparison) They are so smooth but not nearly the tactility of royals, hako royals or even navies."
+72346,"No I haven't, sorry. Been meaning to. Maybe once they get remade with the correct size stems
+
+I'm not a huge fan on the bump being right at top like the box tactiles are, so idk if I'd like them. Zealios have it after a little bit which is why I tend to prefer them"
+72347,That makes sense. Yeah maybe I can grab a few just for the alphas to test. They’re also dropping right now 🤔. Thanks for your input
+72348,"I’m mainly into tactiles, so MOD-M’s are my current favorite. Also really like Ergo Clears, Zealios 67g, and the new Outemu SKY v2.2. 
+
+For clickies, I like BOX Whites and BOX Jades. 
+
+I have yet to try linears I like. I couldn’t get used to Reds or Tealios (although I liked how smooth they felt). I’ll have to give Vintage Blacks a try considering how many people recommend them. Thinking about Gateron Yellows too. Any recommendations would be appreciated!"
+72349,Ooooohhhhh I forgot about ergo clears. I have a few of them sitting around and one of them is a 100g ergo clear and I absolutely love the feel of them.
+72350,"Give some box blacks a try.  Nice and cheap, they've been restemmed, and the first linear switch I've liked and you seem to like the lighter and medium weightings. I thought reds were ok, yellows were a bit much, Goldilocks was the blacks."
+72351,"Oh yes, forgot about BOX Blacks! I like most BOX switches, so I’ll give them a try. Thanks for the recommendation!"
+72352,"I am going to follow this. I am new to mech boards and currently putting one together with 67g Zealios. I have tried Kailh blue, Gat brown, Gat clear. The Gat clears are way too light and Kailh blues too loud (according to others lol). The Gat browns are okay but a little light and not enough bump. Should have the Zealios Friday!"
+72353,"I mean, you're starting out with Zealios, in many respects it's going to be downhill from here, you'll have some sidways choices, though."
+72354,"Not exactly new to mechanicals, but newer hobbyist. So I haven't tried every commercially available switch and zero customs.
+
+My favorites now are as follows:
+>Linear: not really a fan of no feedback
+
+>Tactile: Zeal 67g, Hako Trues
+
+>Clicky: Novelkeys Box Navy and Pale Blues, Outemu Ice Blue
+
+Have some new switches coming in today and tomorrow including the new Outemu Sky, Novelkeys Hako True Royal, and Aliaz 70g."
+72355,"Haven't tried lubed vintage blacks, but lubed Tealios are like typing on nipples (because you asked 'why?')."
+72356,Reds. Even though they’re meant for gaming I can type on them pretty well.
+72357,Blue. Why bother if there's no noise?
+72358,Hoping you mean blue alps not MX blue
+72360,Tied between Beamspring and capacitive buckling springs.
+72361,Reds.
+72362,"Linear all the way.
+Gateron Reds, blacks. Box blacks.
+Been wanting to try tealios and vintage black."
+72363,"Linear: Gat Yellow with thick lube 55g springs
+
+Tactile: Stock MX Clear (unlubed). Tried zealios, browns, box tactiles never tried Box Royals and Holy Pandas before tho.
+
+Clicky: Box Navy"
+72364,"Clicky: box pale blues or misc click stems in outemu sky housings. 
+
+Tactile: 62g Outemu sky v2.2s lubed and retooled or 67g Zilents 
+
+Linear: lubed box blacks"
+72365,"Browns, tbh"
+72366,"Haven't tried many switches, so far: 
+
+Tactile - Kalih Pro Purple, I also really like Romer G despite the unanimous hatred for them in this community. The keycaps are dog shit so I don't use them anymore. 
+
+Linear - Cherry Speed
+
+Clicky - Kalih Box White. And I have to say these are my most favorite of all, although I still prefer a linear switch for gaming I rarely find myself switching keyboards anymore."
+72367,"68g unlubed Clear-minded Pandas. Nothing else I've tried comes close to sheer tactility and together with a brass plate they're almost, if not louder, than clicky switches. Looking forward to making some Holy Pandas soon."
+72368,"Couple things I would change about this. 
+
+1. ""Are you a fan of vintage/retro products"" has no merit, and I don't quite understand how that would make me buy a Buckling Spring over a MX Green...
+
+2. MX Clears have a much larger tactile bumb then browns, they aren't just heavier due to the spring.
+
+3. I wouldn't include Ergo Clears on the list. If you do you should also include Panda Clears, and Ghetto Greens, and all of the other combinations.
+
+4. Although it is heavily debated (when it comes to the very very small differences), the Blue, Red, and Brown switches are all ""Light"" springs. 
+
+5. Although I wouldn't bother adding ALPS, you should definitely add Topre switches.
+
+6. The force of the switch is not increased when you are going over the tactile bump. The spring is providing the same force it just takes more force to get over the bump. (even what I wrote is confusing, I know what you are trying to say but I just mean the wording on the chart is a little too confusing)
+
+7. Red and Black switches are both very popular for gaming. Many people prefer the heavier linear springs to the light springs."
+72369,"Thanks for the feedback.  I feel like I can address many of your points.
+
+1. Buckling spring and Cherry MX Green are fairly similar.  By no means are they exactly alike; unfortunately, it's not too easy to describe the intricate differences in a flowchart.  But there's no question--if you're after a heavy, clicky switch, you're deciding between buckling spring and greens.  If you think it would be cool to own a vintage board, you'll get a heavy/clicky experience from a Model M.  If you want a modern board, you'll have to go with greens.
+
+2. I know that clears are more tactile than browns.  Look carefully--the flowchart specifically states that.  Browns are listed as ""somewhat tactile"" while clears are listed as ""tactile.""
+
+3. I included ergo-clears because they are by far the most common Cherry MX switch mod.  Panda clears and ghetto greens are much less common.
+
+4. Since I limited this flowchart to only the most common switches, I did not list any of Cherry MX's super-heavy switches like Cherry MX Click Grey.  That means actuation forces on this flowchart range from 45g-80g.  On that scale, I consider reds/browns to be light and blues/blacks/clears to be closer to medium.  I think the best argument could be made for blues--they could be listed as light/medium.  I set an upper bound for 80g as ""heavy"" even though they are typically seen as medium since there are switches that are heavier than they are, albeit rare ones.
+
+5. I would have added Topre if I knew better how to describe them, but I've never used Topre.
+
+6. I never said the spring force is increased at the bump.  The spring force increases constantly due to Hooke's law.  I said ""keypress"" force is increased, meaning the force you must apply to the keycap is increased.  Everyone has a different description for how it feels, but I don't think the way I worded it was particularly misleading.
+
+7. Black switches are actually quite unpopular compared to reds.  See the most recent /r/mechanicalkeyboards [survey results.](http://imgur.com/a/dFiBW)"
+72370,"> Buckling spring and Cherry MX Green are fairly similar. By no means are they exactly alike; unfortunately, it's not too easy to describe the intricate differences in a flowchart. But there's no question--if you're after a heavy, clicky switch, you're deciding between buckling spring and greens. If you think it would be cool to own a vintage board, you'll get a heavy/clicky experience from a Model M. If you want a modern board, you'll have to go with greens.
+
+I strongly disagree with this. Greens are rated 80g while buckling springs are only 65g. While heavier than most other options, they're far enough apart from each other that they shouldn't be grouped together like that . Furthermore, the feel of the click is *very* different, with buckling springs feeling more solid/substantial than a cherry switch. To say you should only go with them for retro charm is doing them a huge disservice. Unicomp sells boards with USB, window keys and in black so the only ""modern"" thing you miss out on would be backlighting."
+72371,"Look, I don't disagree with you, but it's a flowchart.  They're both clicky and stiff.  This was the most practical format I could come up with.  If you have a good suggestion for a flowchart format that incorporates any necessary changes, I'm all ears."
+72372,"The only solution to that is to not use an over-simplified flowchart, then."
+72373,"Of course that would be the best choice for thoroughness.  However, we have a whole wiki that people don't turn to because it's messy and complicated.  We're talking about beginners here--people who have never typed on a mechanical keyboard before and want a decent idea of which one or two switches would best suit them.  I think there's nothing better for that than a flowchart."
+72374,"Hey /r/mechanicalkeyboards!  Given /u/ripster55's recent addition of a [keyboard suggestion thread](http://www.reddit.com/r/MechanicalKeyboards/comments/1uk1wb/official_rmechanicalkeyboards_keyboard_suggestion/) and the constant barrage of new threads we see where the OP asks which keyboard or switch is right for him/her, I figured it would be nice to have a good flowchart to help out beginners.  I've seen a few before, but none that were too thorough.
+
+I could really use your feedback so that if there's anything you disagree with, I can make changes and add this guide to the wiki.  This flowchart includes the most common Cherry MX switches as well as buckling springs.  Topre and ALPS are not as common so I did not include them.  Similarly, I decided not to include the rarer Cherry MX switches, figuring beginners tend not to go looking for them.
+
+I might make more flowcharts in the future, as well.  Maybe a flowchart for specific keyboard models, including size (fullsize/tenkeyless/compact), backlit, etc.
+
+Let me know what you think!  Thanks!"
+72375,"These are just my opinions but: anything other than blue/green, brown/clear and red/black might be too rare for a first-time buyer. Buckling springs are something I'd only suggest if you are a heavy typer (this is for the first-timers after all). Personally I also think this chart too easily tells gamers to get a linear switch. At first when I tried out a mx black board, none of my friends could see why gamers would even consider something like that. Of course, that's just me and my friends (more than ten people total) who all currently use rubber domes. It might just need time to adapt to that, but all in all I did find it a bit weird that it was so universally hated in that group."
+72376,"I chose my wording very carefully.  I didn't say linears are ""ideal"" for gaming, or ""better"" for gaming, or anything like that.  I said many people prefer them for gaming.  This is a yes/no flowchart; its format is rigid and its very nature makes it very black and white.  Humans aren't machines.  They should read the descriptions for linear/tactile/clicky switches and do some thinking on their own to decide what feeling they might like.
+
+> Buckling springs are something I'd only suggest if you are a heavy typer (this is for the first-timers after all).
+
+Greens are heavier than buckling springs, so you've contradicted yourself."
+72377,"Fair point. However, I meant heavy typer as in someone who types a lot, not someone who needs heavier switches for typing."
+72378,THERE IS NO BEST SWITCH ^^^navy
+72379,"Also, when you’re done discussing that, what is the best religion? :)"
+72380,For people outside of the religion or for the people believing?
+72381,"Get yourself some Invyr Panda housings and create Holy Pandas with your halo true stems.
+
+Or get yourself some greetech razer switches or greetech RGB greens/blues and create Holy Razers with your halo true stems.
+
+Or get Outemu Ice v2 dark purples and create Salmon on Ice with your your halo true stems.
+
+There is no objectively best tactile switch, as this hobby is basically all subjective preference, but it's no mystery that meme switches created with the Halo stems are are a community favorite for tactiles. People will argue otherwise and shame the meme switches, but the second anyone makes a 'Sell' thread over on /r/mechmarket that has either Halo's or Pandas, everyone shits themselves and starts watering at the mouth."
+72382,">Get yourself some Invyr Panda housings
+
+Or some Greetech Blue/Razer Green housings and not have to sell a kidney"
+72383,"Truth be told, give me the pepsi challenge with holy pandas and properly lubed holy razers and I wouldn't be able to tell one from the other"
+72384,Have razer green and greetech blues been shown to have the same housing?
+72386,"This is really the only way to answer the question without opening a door to the pitchfork emporium. There is also the point of spring swapping, living, or otherwise modifying the switches to get a different feel.
+
+
+Edit: lubing, not living."
+72387,"Ah yes, I also live my switches. It's like a lifestyle at this point."
+72388,Thwarted by autocorrect while on mobile yet again.
+72389,"The best switch is no switch, or i.e. as few switches as possible. Whatever switch you go for, as long as you can fit all the key codes you want into layers directly under the home row, you will be most effective due to not having to move your hands around the board as much as regular users have to."
+72390,"Seriously though the best switches are probably Outemu v2, Aliaz, and Zeal (in that order), not necessarily because of the tactility, but because the tolerances of the housings are very tight, and because the housings are also PCB mount, so all-around least likely to wobble. You can put whatever stems you like in them. I didn't list Invyr Panda just because they aren't in production anymore."
+72391,"Whatever you feel comfortable with, it’s not gonna make that big of a difference"
+72392,I've never had a mechanical keyboard. Idk what they feel like.
+72393,COVID might make this difficult but try going to your local computer store and try the demo keyboards and find which you like best. If you don’t care to test out keyboards browns are most common for gaming (but test them because you might not like them)
+72394,"You could try out a [switch tester](https://kbdfans.com/collections/switches-tester/products/kbdfans-72-switches-tester-with-cherry-profile-keycaps), this one doesn't have everything, but covers most of the different feels there are."
+72396,I've got noise gate and noise suppression so I'd be fine 😂
+72397,"dude just get a cheap one off amazon they have no latency difference between expensive ones and then a bit later down the line u can upgrade to like a opto mech e.g. steelseries apex pro and huntsman.
+
+(edit) Redragon K552 has 4.5 stars and is only 50 bucks"
+72398,I had a couple and went back to rubberdome. They are mainly louder
+72399,"The type of switch matters less for the game itself and more for your preference and surroundings. Do you want straight linear switches that just go down to the body of the keyboard or do you want tactile keys that make an audible and sensory click when they actuate? Is your setup close to other people or do you talk to other people in discord as you play, because tactile clicky switches like browns and blues might be satisfying to the touch, they are loud and blast everyone else with their sound as opposed to linear switches like the reds.
+
+Personally I have red switches and after some getting used to they work fine for siege, and in the end any switch of quality will do, it’s just up to you.
+
+If you really aren’t sure order a tester board off of Amazon that has all the types of switches on it so you can try them out in real life and decide.
+
+PS the switches I refer to are the Cherry MX switches."
+72400,"I’m a brown man myself, you could order a sample pack of a bunch of different colors so you could see which you like most"
+72401,You're a brown man?
+72402,Lol idk why this is being downvoted
+72403,I got blues without knowing and I regret the decision so much because of the sound. But ngl I do like how it feels so imma stick with it
+72404,"If you like blues for the feel, get a Hotswap board and some brown switches. Similar force, no noise. Plenty of inexpensive Hotswap boards out there too."
+72405,"I dod get my kbd on a budgett so when I get the chance I might do this, the feels nice but the damn noise is too loud all my friends complain"
+72406,"Yeah, blues are super noisy. If you like that tactile feel on the blues, but don't want noise, browns or another tactile switch are great. If you want something smooth, linear are perfect. There are some great, inexpensive keyboards out there that are hotswap capable, some even sub $100. Check out r/mechanicalkeyboards for more info on boards and switches. It's a bit of an expensive hobby once you start, but it's super fun."
+72407,"Here's a sneak peek of /r/MechanicalKeyboards using the [top posts](https://np.reddit.com/r/MechanicalKeyboards/top/?sort=top&t=year) of the year!
+
+\#1: [GMK Demon Sword - Giveaway!](https://i.redd.it/eaxin2qezns51.png) | [10830 comments](https://np.reddit.com/r/MechanicalKeyboards/comments/j9qxjt/gmk_demon_sword_giveaway/)  
+\#2: [\[Giveaway\] The Eagle Has Landed keyboard Wrist rest.](https://v.redd.it/3jrxtf3z8s261) | [10854 comments](https://np.reddit.com/r/MechanicalKeyboards/comments/k5akjo/giveaway_the_eagle_has_landed_keyboard_wrist_rest/)  
+\#3: [KAT Refined giveaway!](https://i.redd.it/7kzzn78p51s51.jpg) | [17548 comments](https://np.reddit.com/r/MechanicalKeyboards/comments/j7vaxe/kat_refined_giveaway/)
+
+----
+^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/o8wk1r/blacklist_ix/)"
+72408,"Same hahahahaha, I didn't knew anything about mecanical keyboards and I got a blue one. It's hard to play at night."
+72409,I believe the general idea is that lower actuation force is preferred for gaming. So linear switches like Cherry MX Reds and Speed Silvers are good for that.   A lot of it comes down to personal preference though. I like having a tactile feel without the click so I go with Browns and they are more than adequate for gaming purposes.
+72410,"Not exactly. Cherry speed silvers are wayy too reactive. I always press W without knowing it, just resting my hand on the key."
+72411,Yeah I've tried my friend's speed switches and I cannot stand them I ended up pressing all the buttons by accident
+72412,"I used cherry reds which were very nice.
+I'm on kahli boxed whites atm. More force needed for clicks but I don't click anything by accident. 
+I recommend going to a store and test switches before buying."
+72413,"I use Kailh box jade thick clicks which have a pretty high actuation force needed for the keyboard to register that you actually pressed it. A lot of people dislike this, but I found that it has helped me tremendously with partial clicks/misclicks because I can stop myself in time and it doesn’t register that I hit it a little. If you’re looking to build I recommend the mechanical keyboard subreddit! Personally I find my switches on NovelKeys :)"
+72414,"Whichever you feel most comfortable with tbh although switches with lower actuation are generally better, i recomend mx speed silver switches"
+72415,"Doesn't really matter. While there's switches that are ""focused"" on gaming (Speed switches and most modern contactless switches) there's pretty much no difference in actual in-game performance."
+72416,depends what you feel like to use. Like do you prefer heavy switches or light switches. if you are not sure than go on youtube and watch some videos.
+72417,"When it comes to mech keyboards its always about what you'd prefer to type on all day and whether the noises bother you/others. Linear switches (e.g. Cherry MX Red) is a common option for people who play FPS games. But if you're more of a typist than a gamer, you might prefer something more tactile.
+
+Personally, my favourite switches I've landed on are Sakurio switches, which are linear, low force and very quiet."
+72418,"I use razer orange switch, seems pretty satisfying to press."
+72419,"Depends on what you like. Liners provide a smooth feel, tactile can give you response based on actuation, and clicky over that heightened with audible feedback (useless if headphones are being used). 
+
+
+Actuation force matters too. If you press lightly or don't wrest your fingers on your keys, lighter switches like Gateron White are great. If you're lightly wresting your hands, Cherry or Gateron Red switches are great, as are Cherry Speed, which require the same weight as Cherry Red, but have a higher actuation distance (about 0.7mm), so they have less travel before the stroke reads. If you are heavier in your strokes, or like wresting your hand on the keys, Gateron Yellows or Blacks can be great since they require more force. 
+
+
+I myself use Gateron Yellows, a linear switch with about 50cN of required force. They feel super smooth and are easy to push, but not so easy that I mispress by wresting my fingertips."
+72420,"It literally makes no difference, the differences between different switches are pretty negligible, the only really noticeable one being either that they’re quiet or clicky. Reds are quiet and blues are clicky.
+
+Generally speaking, red switches are the most common for gaming as they are linear and are quiet."
+72421,I love my cherry mx silent reds (also sometimes called pink). I like how reactive they are. I also don’t have to feel any bumps and hardly any sound.
+72422,100% preference.
+72423,"Any switch you feel comfortable with really. I'm sure there's a bit of mechanical optimization in actuation to reaction times with short stroke linear switches, but I can't imagine they actually make a difference to anyone that doesn't have nearly inhumane reaction speeds anyhow. If they key works when you press it, it's good.
+
+Something that can make a notable difference is n-key rollover, i.e.: how many (n) buttons you can press at the same time whilst each press being individually registered and translated into action. Most proper keyboards have no issues with that but cheap ones made for office work may not have it and if you press several keys at the same time, but if you're looking to get a mechanical keyboard I would assume that to be included given the now typical target audience and price range for that gear.
+
+&#x200B;
+
+You could go to a local hardware store and go through the exhibition keyboards and just type away until you find something that feels comfortable, then check which keys that model uses and search for whatever keyboard using the same switch you fancy.
+
+Or you can get extra fancy and get something like the QPAD Mk-95 keyboard which has linear AND tactile+clicky switches at the same time that you switch between with a mechanical lever. No idea if there's other keyboards like this around. That's a wee bit expensive though, the keyboard retails for \~200 bucks and I only got it since I could score it at significantly lower price, ... plus my current keyboard was starting to have a couple switches giving out and all the other keyboards I was eyeing were out-of-stock. Can't say I'm disappointed though.
+
+Personally I can say I don't really ""feel"" any difference between playing with the linear or clicky switches, I just use the linear ones for gaming because they're quieter (and honestly, if I can switch key types on-the-fly, I'm gonna use it!).
+
+&#x200B;
+
+One thing I would generally advise: for gear like keyboards, don't go cheap. A solid build quality keyboard will last you for years. If you get cheap ones with poor build quality that you have to replace in relatively short order you may end up paying more over the same timeframe. Last keyboard (QPAD Mk-85) I had lasted for \~5 years before some switches started getting mushy/failing to register key strokes every now and then."
+72424,"makes no odds whatsoever, find a switch you like to type with and stick with it.  
+The only switch I would probably not recommend are Cherry & Gatreon Blues because they are considerably louder than others."
+72425,"Silver and  red are pretty commonly used especially on FPS's
+I prefer the silvers but I would try them out before ordering a board with them because they can feel too light and awkward to use."
+72426,"I like a light tactile switch personally, could never get on board with linears. I tried holy pandas and some heavier tactiles but after awhile it became fatiguing. I previously used browns, but switched to using naevies and I enjoy them."
+72427,"Honestly it's all personal preference. Some websites will try to sell you on ""reds for gaming, blues for typing, etc."", but the best thing to do is to try out the switches yourself, either buy a switch tester or see if any of your friends have a  keyboard you could try. Educate yourself on the difference of switches and see what you think you would like yourself. I'm an advocate for MX Browns myself, or any tactile switch for typing (Brown, Clear, Blue, Green)."
+72428,"I've heard a lot about greens compared to blues, what's the difference between the two?"
+72429,"Greens are heavier and the click sound has a lower tone than blues, the stiffness difference is similar to the brown-clear difference."
+72430,"Due to the stiffness, many people feel that greens tire out their fingers faster than typing on a lighter switch, but your mileage may vary."
+72431,All of them.
+72432,"I'm a journalist and prefer Cherry MX Clears. I've owned boards with Blues and Browns as well and have a switch tester. Clears are a bit heavier than blues or browns, and don't have the extra audible click as blues/greens, but I find their sound to be plenty. Clears have a bit more of a bump than browns too."
+72433,Blues.
+72434,Loud and proud. [represent](http://img.memecdn.com/say-it-loud-i-amp-039-m-smart-and-i-amp-039-m-proud_o_6256701.jpg)
+72435,"Everyone has given you options from Mx to Topre. Now I don't want to throw too much into this pot of stew but you may want to consider a IBM Model M/F with buckling springs/Capacitive buckling springs. Can be bought very cheaply(only second hand unless you want a unicomp model) and are widely loved for their typing experience. That said if you plan to game on them they do only have 2KRO so you won't be able to ""type with your face"" so to speak."
+72436,"It's completely preferential^^Topre, I definitely prefer some kind of tactile feedback when I type though.^^Topre"
+72437,"he's looking specifically for cherry mx switches, but i guess it can't hurt to mention some other switches^Topre. I also highly prefer tactile feedback when I type.^Topre"
+72438,"I didn't want to fan this flame but yeah, some switches^^Topre are better than others for typing.^^Topre
+
+But I'm not going to get into my preferences^^Topre"
+72439,What is a topre switch? Is it like cherry mx?
+72440,"They're a capacitive rubber dome switch,  considered by many to be one of the best switches you can buy. They're also deadly expensive, which puts a lot of people off. Personally? I think they're better for typing than any of the MX switches! 
+
+But again, completely opinion based.^^^topre"
+72441,Basically springs added to a rubber dome.
+72442,"Well, yes and no. The spring has very little to do with the resistance of the switch. The dome being what gives it the tactile feel that makes it so nice for typing. 
+
+The capacitive nature of it also means you don't have to worry about N-Key Rollover and the likes."
+72443,"The one you like the most.  Personally, I like switching it up on the fly, so I have a Cherry MX clear board and a Gateron board at my disposal.  I have Zealios coming soon which I am very excited to type on."
+72444,"I personally like Greens the best, but those tend to bother those around you. I like heavier actions while typing because it helps avoid accidental keystrokes"
+72445,"Buckling springs. Each word you type has extra gravity with those. Basically typing on buckling springs just screams ""manly"". It's like hammering nails.
+
+But, if you do not have the stamina for it, Topre is the best. Cherry is just meh compared to those."
+72446,"I would like to try some of those by I do not know of any company that makes either of switches on a Danish Keyboard (one with æ, ø, å). Since I am Danish and I use those characters everyday when talking to family/friends or when using the internet it would not be a good idea for to buy a US English layout board just for a different kind of switch. I am moving back to Denmark at the end of April so I will check and see if they have anything there when get settled in back home. But given how hard it is to find anything other than a Razer or a Cherry Switch on a Danish Mechanical Keyboard I think it would be unlikely they would have any."
+72447,"For starters, go to you local electronics store and buy a red, brown, then a blue board. Return them all after you've spent an evening with them in your home. The way keyboards sound in the store doesn't do a great job of explaining how they'll sound in your home.
+
+I thought I wanted blue's at first but had to return it when the neighbors started complaining that my ~~music~~ keyboard was too loud. 
+
+edit: what would be even better is if you went to a keyboard meetup in your area so you could try all kinds of switches and setups."
+72448,"> The way keyboards sound in the store doesn't do a great job of explaining how they'll sound in your home.
+
+Not to mention how they feel when you're sitting as opposed to standing and trying to type in a less that optimal position when they are on a display stand."
+72449,"Are there any coming up in Atlanta, GA?"
+72450,Maybe talk to someone in this [atlanta meetup thread](https://www.reddit.com/r/MechanicalKeyboards/comments/3e5iqu/atlanta_meetup_official_thread/)
+72451,"Unfortunately I will be back in København, Denmark by that time."
+72452,T1 switches
+72453,Gat Yellows
+72454,Go on [Novelkeys.xyz](https://Novelkeys.xyz) and try out all the switches. :)
+72455,Kailh Noble Yellow
+72456,Is that the same as the China Yellows? I think there was had China yellows and Greens in a group buy once?
+72457,"Yeah they're China yellows, I happen to live in HK so they're readily available on Taobao for me"
+72458,"Nice, do you recommend lubibg them? I felt like the Pinks were slightly more directionally what I wanted but the yellows are so close."
+72459,"I like them a lot, I was using box whites with 15g clickbars and these feel like a noticeable upgrade"
+72460,But do you recommend lube for the yellows?
+72461,"Oh sorry I missed that part, I can't say because I've never tried them with lube"
+72462,No worries! Go Hong Kong!
+72463,Zealios v2 67g
+72464,Tealios!!!
+72465,Vint blacks - with Gat yellow springs - lubed with GHv4.
+72466,Kailh Speed Pinks and Box Whites
+72467,Blues from lgitech or silver speed
+72468,Box navies are tactile af
+72469,Another switch I liked were Box Blacks but the lure of clickies drew me back
+72470,box navies
+72471,"I really like Zealios V2 -- great tactility and smoothness at the same time. That said, I am finding the clicky Box Navies I am trying out to be a lot of noisy fun :)."
+72472,"Healios, Holy Panda"
+72473,Holy Pandas by far.
+72474,"It all comes down to  p r e f e r e n c e  as they say, but the wiki is a good place to start.  If you’re looking for linears, I came up with this a while back:
+
+Lightweights:
+-	Cherry Red Clones: Kailh, Kailh Choc, Gateron, BSUN, Greetech
+-	YOK Trash Pandas
+-	Kailh Burgundy
+-	Kailh China Reg
+-	Gateron Clear
+-	MOD-L Linear
+-	MOD-M Linear
+-	Cherry Natural White
+-	Kailh & Cherry Speed Silver
+-	Gateron Yellow
+-	Gateron Glow
+Midweights:
+-	Cherry Black Clones: Kailh, Gateron, BSUN
+-	Kailh Dark Yellow (Choc, Box, Speed)
+-	MOD-H Linear
+-	Gateron Ink
+-	Gateron Linjär
+-	Gateron FEI Chouyu
+-	Tangerines
+Heavyweights:
+-	Kailh Ancient Gray
+-	Cherry Linear Gray"
+72475,Holy mint pandas
+72476,Box whites.
+72477,"Zealios v1s are my favorite, which sucks because they aren't made anymore! At least now I'm trying to move to something new, giving T1s and sakurios a try."
+72478,Bungholios
+72480,Browns are a good compromise between Reds and Blues.
+72481,Try MX Clears. It has a much more pronounced bump than the brown. IMO they feel a lot better.
+72482,"When I got my first (and only mech so far) I managed to snag the last MX Clear keyboard the store had in stock. They don't even stock any MX Clear ones anymore. I love them, perfect compromise between blues and browns for me."
+72483,Yup. They sound so much better in my opinion too.
+72484,"I, too, am a Brown key proponent.  I do a lot of typing in addition to gaming; I found Reds to be too soft for typing purposes and Blues to be much too stiff for gaming.  Browns are just right.
+
+But it's up to you.  If possible, get some sample keys and test for yourself.  If you do any amount of typing, I personally wouldn't recommend Red switches, and if you do go that route I'd recommend having a dedicated typing keyboard on the side."
+72485,"I second this, browns are also my favorite. But again, it's all preference."
+72486,"Another vote for browns!
+Love my G610!"
+72487,"Only had black and browns as my own for a long period of time, and browns are far superior. I've tried reds and blue, but not enough to really have an opinion on them."
+72488,"I have browns and I like them fine, but if you have a significant other, get quieter switches. Trust me. My girlfriend hates my keyboard with such passion I'm considering getting reds or whites"
+72489,"I don't find them too loud but I can see why someone would say otherwise. To be honest when I have someone in the same room I usually play games that go better with a controller anyway. If I am using my keyboard for gaming that means I am playing battlefield 1 or league of legends with my friends and you know what?  The sound that comes from the keyboard is irrelevant compared to all the talking and sometimes screaming and cursing hehe. So yeah, I don't want my SO anywhere near me when I am playing with my friends online."
+72490,"I bought some o-ring silencers for my browns and while they impact the feeling a bit, the sound is very well dampened."
+72491,"I prefer Cherry MX Reds and Romer G's from Logitech. I know I may get a bunch of shit for liking Romer G's, but they are seriously one nice switch (made by Omeron). I freaking love typing on my G810, and I believe that my room-mates appreciate it too!"
+72492,"Most people I've talked to about RomerG switches who didn't like them complained about the squish at the bottom and compared them to membrane keyboards. That, and the first keyboard to use them (G910) had those awful keycaps. So glad my G410 has the standard smooth tops - it's a great keyboard and it's been on sale lately for $60."
+72493,I can understand why people may not like Romer-Gs but I absolutely love them for gaming. Near perfect weight and just enough tactility.
+72494,Same! Love my 910 Orion Spark!
+72495,"I am head over heals in love with my G810 with Romer-G switches.
+
+Their actuation point is so quick, and it's not needlessly loud like a lot of cherry switches.
+
+Plus the cherry switches look like garbage with all the LED bleedout, where as romer-g the LED light comes from the key instead of bleeding out from underneth it."
+72496,Made by omeron? I'm going to have to try them out! The omeron switches on my m65 rgb are the greatest feeling buttons I've ever used thus far
+72497,I used romer-Gs for over a year and loved every second of it. I only recently went back to browns because I missed them.
+72498,"Whatever you prefer is the most common answer because it's the only answer. Some people like smooth, light Reds. Some like clicky, more sturdy Blues or Browns.
+
+I personally like Reds. I don't need a click (mechanical keyboards tend to be louder anyways, no need to add to that) and I like the smoothness for button mashing in MMOs or quick double taps in FPS games. A lot of people say Reds are worse for typing, but I haven't noticed any real issue with it over the last 2 years."
+72499,"I know what you mean when you say it's 100% preference. I had used regular dome keyboards for probably 15 years so when I researched the different mechanical keys by reading about it, I thought for sure I'd like red or browns the best. That being said, once I actually felt the red and brown key switches, I hated it. They were far too soft with no tactile response which I didn't like at all. After much more research I settled on clear keys and am more than happy about it. So to OP, all you can really do is try some out at your nearest pc place and find what you like best for your needs."
+72500,"> double taps in FPS 
+
+explain please?"
+72501,Mashing a key twice very quickly to do things like weapon swap animation canceling in CoD4.
+72502,"I like MX Blues, that loud audible click is just so satisfying."
+72503,"Cherry MX Nature White switches.
+
+Reds were too light, Blacks seemed too heavy. Nature White feels just right to me."
+72504,"Picked up a Pok3r recently with Nature White switches. I've been in love with them, it has just the right amount of resistance in each key press!"
+72505,"This exactly. I have 3 boards, one with Blacks, one Reds and one with Nature Whites. I use the Reds at home to game, but the nature whites at work where I actually do the most typing. They're perfect."
+72506,"Cherry MX Silents. They are linear like Reds, but quieter."
+72507,"what do you think of [this](https://www.youtube.com/watch?v=R939TYKyZUE) sound review? Does it misrepresent the switches? Both still sound unacceptably loud to me, with barely any difference in volume."
+72508,of course mx silent can hear them less and in the video i can hear them less but i would recommend to get a mini keyboard with different switches on and test all of them or look if there is any shop or if you know anyone with a mechanical keyboard to test
+72509,"I've used Topre (NovaTouch), MX Clears (Pok3r), MX browns (QuickFire Rapid), and finally, buckling springs (IBM Model M).
+
+I prefer the IBM Model M bucking spring keyboard to all others for both gaming and productivity."
+72510,Someone's going to say something dumb about 2-key rollover on the M that doesn't actually matter 99% of the time.
+72511,"Worst case is 2 Key. I have no issue holding down all of the keys I need to in order to play the games I do. StarCraft, heroes of the storm, civilization 6, and rocket league."
+72512,"i dont know how i managed this but while running an analyser i was using 2 keys on average at any one time in csgo the most being 5, did this a few times during the one game"
+72513,walking forward and left whilst crouching then jumping and changing weapon :D
+72514,Model f has nkro if you care about that
+72515,"lol I know, I own one along with several Model Ms.  I was just preempting the dumb comment."
+72516,"""for gaming""
+
+> ""2-key rollover on the M""
+
+> ""doesn't actually matter 99% of the time""
+
+Wait...what?"

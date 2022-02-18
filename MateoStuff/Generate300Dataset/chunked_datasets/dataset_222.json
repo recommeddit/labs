@@ -1,0 +1,863 @@
+idx,text
+73144,Pop OS
+73145,Any that comes with KDE Plasma desktop environment (interface) like Kubuntu / KDE Neon / Manjaro KDE.
+73146,"As others have said, there's not really any reason to get hung up on which distribution you pick out for your first stab at Linux -- the main differences in distributions are:
+
+* What are they based on?
+* What package manager do they use?
+* What packages do they come with?
+* What are you looking to do with it?
+
+For most end-users, just about any relatively modern distribution will be more than adequate to start with.  Pretty much all software is, in one way or another, usable on *most* distributions--though some make it easier than others, for sure.
+
+Still, to get started, I'd recommend Ubuntu or one of its' derivatives:
+
+* [Ubuntu 18.04 LTS](http://releases.ubuntu.com/18.04/)
+* [XUbuntu 18.04 LTS](https://xubuntu.org/download/)
+* [LUbuntu 18.04 LTS](https://lubuntu.net/downloads/)
+* [KUbuntu 18.04LTS](https://kubuntu.org/getkubuntu/)
+* [Ubuntu MATE 18.04.1 LTS](https://ubuntu-mate.org/download/)
+* [Linux Mint 19.1 LTS](https://linuxmint.com/download.php)
+
+Ubuntu, and its derivatives are a pretty common recommendation for most new folks to Linux; both because a lot of the backend gets handled for you, and because there's such a huge plethora of documentation/forums/etc available already.  Each of the above distributions come with one Desktop Environment (or several options), but it should be noted that you can install whatever DE you wanted later and switch to it at any time, should you want to experiment:
+
+* Ubuntu: [GNOME 3
+](https://www.gnome.org/gnome-3/)
+* XUbuntu: [XFCE4](https://www.xfce.org/)
+* LUbuntu 18.04: [LXDE
+](https://lxde.org/)
+* LUbuntu 18.10: [LXQt](https://lxqt.org/)
+* KUbuntu: [KDE Plasma](https://www.kde.org/plasma-desktop)
+* Ubuntu MATE: [MATE \(GNOME 2\)](https://mate-desktop.org/)
+* Linux Mint: [Cinnamon](https://en.wikipedia.org/wiki/Cinnamon_\(software\)), MATE, XFCE4
+
+Desktop Environments (and also Window Managers) are interchangeable on Linux, as is the case with just about everything else in the OS.  So if you start out with Ubuntu 18.04 LTS and GNOME 3; but later decide you want to try XFCE4; you can just install it like any other piece of software...then when you wanna try it, you log into the desktop with that DE active -- and you're done.
+
+So, as far as which DE to recommend...it largely comes down to personal preference.  As such, I'd recommend looking into the following to see which *you like the look/feel of*:
+
+1. XFCE4 -- this is my preferred DE, if I use one at all
+2. GNOME3 -- having used this in CentOS 7.x && Ubuntu 18.04, I'm pretty happy with it...even if it can be a little slow on limited hardware
+3. Cinnamon -- this is about as close to the Windows environment as you'll get out of the box; which is one of the reasons Mint is recommended so often (though, not the only reason).
+
+---
+
+Personally, when I get to use Linux with a GUI (VMs only at work, sadly), I end up using the following:
+
+* Arch or Manjaro
+* No Desktop Environment
+* Xorg + i3wm or i3-gaps
+* Largely using terminal applications
+
+I'm used to running Linux on my 2010 Toshiba Satellite A665-S6070; or VMs with a single CPU core and 2GB RAM or less...so I'm always about getting as much performance out of my hardware as possible, while also having the freedom to customize whatever I want.  Its not necessary, and I could definitely use any prebuilt distribution like a sane person...but what can I say; I always prefer to use Arch (or a derivative) on personal hardware.
+
+Production, though, CentOS or Ubuntu Server as of late.  
+
+---
+
+I'd recommend just grabbing one of the above Ubuntu derivatives (or Ubuntu itself), installing it onto a VM, and seeing which DE you prefer.  Really though--just play around and have fun with it.  After the concept of interchangeable software sets in; it'll be no hassle changing your environment or distribution."
+73148,Unless they are running arch for no good reason. Source: am using arch for no good reason.
+73149,Everyone uses arch btw.
+73150,"Wow, like, everyone???"
+73151,BRING ME EVERRYYYOOONNNEEEE!!
+73152,Gary Oldman is Arch.
+73153,What's a good reason to use Arch?
+73154,I use gentoo for some good reasons.
+73155,Most people who use Arch use it for no good reason
+73156,"The aur is my reason. Anything I've found for bsd or git packages or Debian packages are Lal there ready to use. 
+
+To me it seems like doing any one thing is 20% more difficult than on it's ""best"" distro, but I've yet to find something that doesn't work at all. On Ubuntu/mint or Alpine I've ran into basically unsolvable problems."
+73157,Rightly said. I recommend Linux Mint after many experiments with beginners.
+73161,Nice one mate.
+73160,"More seriously - the value of the welcome screen can't be stated enough.  It's unlike any welcome screen I've ever seen elsewhere.
+
+On your first post-install boot (you can also run it manually) you will be greeted with what is almost more of a control center than welcome screen.
+
+It will give you point-and-click capability for many common tasks, some of which would normally require some CLI fiddling, including some very significant one-click look and feel changes.  It's super helpful for new users, and super convenient for more experienced users."
+73162,N❄️ 1 m8.
+73163,Nice mate one.
+73164,Linux Mint or Ubuntu will give you an easy start.
+73165,"For a newer computer, I'd recommend Kubuntu. For older hardware, I'd recommend Xubuntu.
+
+From there I'd recommend Manjaro.
+
+After that, I'd recommend Arch if you're trying to learn. Then Gentoo."
+73166,"Linux Mint, Ubuntu, elementary OS – there isn't much difference between them, all of them are Ubuntu-based. Use any desktop environment that looks good to you."
+73167,"**Dont use Linux Mint, here is why (Source: The official linux discord server):**
+
+**• Not a recommended Linux distro due to providing little to no benefit over using an Ubuntu flavor and being generally more broken than Ubuntu and its flavors.** 
+
+**• Has been known to mix Ubuntu and Debian packages, resulting in a** [**FrankenDebian**](https://wiki.debian.org/DontBreakDebian#Don.27t_make_a_FrankenDebian)**.** 
+
+**• Has been known to have issues with upgrading between releases.** 
+
+**• Website has been hacked twice; one of these times resulted in malware being distributed in Linux Mint's ISOs.** 
+
+  
+**Instead of using Linux Mint, we highly recommend using** [**Ubuntu MATE**](https://ubuntu-mate.org/)**.**"
+73168,"If you're gonna ditch Mint, you might as well look at Kubuntu too.  I'm currently running Mint KDE(I've also tried and liked mint cinnamon) but I just got an SSD and I'm probably going to install Kubuntu on it.
+
+Mint isn't terrible or unstable or unusable by any means, and they do some really cool stuff, but it is starting to seem like about time to move back to Ubuntu. It happens a lot with forks, someone makes a fork to solve a problem, the original distro also solves it, and then everyone goes back.
+
+I suspect it's gonna happen with B4Artists, with everyone going back to Blender."
+73169,"On the other hand... Linux Mint Cinnamon is beautiful. It's very easy to use. And is generally great for beginners. 
+
+That said, bring on the downvotes!"
+73170,Fortunately you can use cinnamon in Ubuntu or derivatives
+73171,"That's what I'm doing. But not as easy as booting up mint and hitting the road. Guy's a beginner, Mint is a good (read: easy) place to start."
+73172,"I agree, but here have a downvote regardless"
+73173,"Piffle.
+
+Mint provides plenty of benefits over Ubuntu. For one thing it offers a better choice of UIs than Ubuntu has done for years, with its efforts to try to ram Unity down our throats, now finally abandoned. The Mint developers have not repeatedly tried to monetise their efforts by sharing user information with 3rd parties, unlike Canonical. It's a genuine non-profit operation run by people who believe in open source -- very different from a corporation seeking to co-opt it for profit.
+
+You have no idea how many (few) were affected by downloading compromised ISOs years ago and to go on bleating about it years later is ridiculous."
+73174,Kubuntu. all the ease of use and compatibility of Ubuntu but with the KDE Plasma desktop.
+73175,"Use Ubuntu MATE, it's good for beginners. After getting some experience you could go to Arch (""pure"" or Manjaro)."
+73176,"The important thing to understand is that it's fairly easy to hop between distros.  So don't sweat the choice much, and don't spend too much time trying to make a given distro do something its not good at.
+
+That being said—start with Fedora.  It's sexier than Ubuntu."
+73177,"Certainly better than Ubuntu (at least in my opinion), but not as easy to get software on."
+73178,"So why is it better, then?"
+73179,"It's got newer packages, it ships with vanilla GNOME, some system apps in Ubuntu 18.10 take a long time to launch as they're installed as snaps."
+73180,"I think Linux mint and Ubuntu would be a good start. Linux mint is essentially Ubuntu but runs a lighter desktop enviroment. Regardless of which you choose you can always install another desktop enviroment if you choose. Being a beginner my self I recommend these 2 because they are very popular and have good support. Even though I have no idea what I'm doing whenever i run into an issue I can usually resolve it within 10 mins by googling and finding a solution on the first page of googling containing step by step instructions on what to do/what commands to run.
+
+To me it seems like if a user needs another or some specific distro for their application they probably wouldn't be asking as they are an advanced user usually doing some wonky shit that beginners couldn't wrap their heads around."
+73181,"Are you looking to develop on linux, or are just curious about using it as a desktop?"
+73182,I want it for coding
+73183,Ubuntu
+73184,"Ubuntu. Mate probably, but I like standard better. Do NOT install anything but 18.04 because of the support side of things, at least until you get your feet wet. If you want to go down the dark side later, fine, but get your feet wet on something solid and stable."
+73185,I would recommend Zorin OS. Simple and the interface reminds Windows. This can be useful for Linux beginners that are moving from Windows
+73186,Pop!_OS. You will love it
+73187,"I'd either go with Linux Mint for rock solid stability and Long Term Support (LTS) or Manjaro which is every bit as easy to use as Mint but has a rolling update model as opposed to Mint's fixed upgrade model.
+
+&#x200B;
+
+When you do the installation, I highly recommend that you setup a separate /home directory.  That way if you want to distro hop then you won't have to back everything up each time and you won't lose and custom app settings you've made (all configuration files are stored in your /home/username folder."
+73189,Reads like a billboard ad
+73190,Ubuntu or Debian. Anyone who says otherwise doesn't value their time or owning a working computer.
+73191,"Ubuntu I find to be friendlier than linux mint. If you get down into the weeds a bit, you'll find mint is a tad over complex under the hood. I find ubuntu easier to customize and learn on"
+73192,"This depends entirely on the internet computer you will use. Will you be using a direct hardline (Cat 5/6 cable) to connect to the internet, or will you be using wireless? You can get lucky most times with wireless on Linux, but Linux works with a hardline every time. I'm not sure which distro works best for any kind of wireless.
+
+&#x200B;
+
+In any case, I recommend Ubuntu if only because there is so much online help available with Ubuntu. (I use Mint, and a lot of Ubuntu help works on Mint, because Mint is a derivative of Ubuntu.)
+
+&#x200B;"
+73193,"Gentoo.
+
+^/s"
+73194,Opensuse 15
+73195,"It depends on what you want to do, If you just want to get use your computer as a desktop/laptop then I would recommend ubuntu for the ease of use and the improving stability. If you want to start doing the more buzz-wordy server stuff then I would also recommend Ubuntu because it has packages for a lot of the buzzwords (docker, ML etc). If you just want a stable desktop/server then I would recommend debian as a distro gets out of your way and allows you to manipulate the os."
+73196,"There are a lot of beginner-friendly distros and desktop environments, just try many of them
+
+I'll add Manjaro to the list of suggestions here"
+73197,"Dedoimedo 2018 Distribution of the Year is MX Linux 17, and v. 18 was released December 20th. Kubuntu 18.04 was Dedoimedo's second choice. MX is also #2 (behind Manjaro) on Distrowatch. 
+
+Medium in weight, very beginner friendly, absolutely deserves a look."
+73198,"The biggest change from the Windows world will be the different interfaces to choose from. While they're one of the best features of Linux, the number of choices and strong opinions on the matter can be overwhelming to new users. And everyone in the community is certain that theirs is the best. Don't stress out about picking the ""right"" one. You can always change it later (especially if you choose something Ubuntu based). Pick one that has a large user base, good community, and excellent documentation. 
+
+Linux comes in many different flavors, or ""Distributions"". Often shortened to ""Distros"". The most obvious difference between Distros is the interface (or ""Desktop Environment"" or ""DE""). It's not the only thing that sets them apart, but it's the most noticeable. 
+
+I would recommend Ubuntu or any one of it's variants. The best variants (in my opinion) are Linux mint and Linux Lite. Linux Lite having the most ""Windows like"" interface. Linux Lite also has additional tools to install common programs that Windows users are accustomed to. Ones that don't come with other Distros by default. 
+
+Until recently Ubuntu used an interface called ""Unity"". As of the last couple of releases, they have switched to Gnome. However, they've made gnome look a lot like Unity, so you should be able to follow instructions you find on the internet without too much trouble. 
+
+Gnome has a ton of customizations available via the ""Gnome extensions"" website. If you're willing to relearn how to interact with your computer's interface, it's a good fit for someone who wants customization.
+
+Here's a good article with the basics of getting up and running with Ubuntu.
+
+https://www.makeuseof.com/tag/migrating-from-windows-7-to-ubuntu/ 
+
+Here's Ubuntu's website for downloading and documentation:
+
+https://www.ubuntu.com/desktop
+
+The official ""Getting starting"" guide:
+
+https://tutorials.ubuntu.com/tutorial/try-ubuntu-before-you-install#0
+
+Here's the list of official Ubuntu Distributions:
+
+https://www.ubuntu.com/download/flavours
+
+Here's a great article explaining the difference between the official Ubuntu Distribution (written by an awesome Redditor Killyourfm):
+
+""Forbes: Linux For Beginners: Understanding The Many Versions Of Ubuntu"":
+https://www.forbes.com/sites/jasonevangelho/2018/11/28/linux-for-beginners-understanding-the-many-versions-of-ubuntu/
+
+Here's the official install guide:
+
+https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0
+
+An install guide for Dual Booting:
+
+http://linuxiumcomau.blogspot.com/2018/04/installing-ubuntu-along-side-windows-ie.html?m=1
+
+And here's Linux Lite's official page:
+
+https://www.linuxliteos.com
+
+Gnome extensions:
+
+https://extensions.gnome.org"
+73309,Ubuntu.
+73200,"Elementary OS is quite nice. It has sane defaults and editing is quite pleasant. Granted, if you want to do any customizing, you'll need to get your hands dirty with the terminal, but it's good for staying out of your way."
+73201,I think this is great for beginners https://pinguyos.com/ it's a distribution meant for beginners/regular users.
+73202,I've seen the most success with lubuntu for adults  and linux mate for children.
+73203,"Vanilla Ubuntu. ~~Get comfortable first. Don't worry about customizing shit until you need to.~~
+
+Look at how many times Ubuntu or another flavor of Ubuntu is mentioned in this thread. Just go to the source; you don't yet know why you may prefer a different flavor and support will be easier with vanilla."
+73204,"Dont think, just Ubuntu.
+Later you can hop wherever you want."
+73205,"I like and use peppermint...It is easy to transition to from windows, is based on ubuntu, and there is a good forum for it.   I noticed nobody else mentioned it.  I am sure any of the suggestions would work."
+73206,I would recommand Ubuntu Gnome. It's beginner friendly and you will easily find plenty of help if needed.
+73207,"Any flavor of Ubuntu that looks interesting or for your hardware.  They have a ton of support, things ‘just work’ more than most distributions and there’s a ton of forums and posts that usually have answers for what you’re trying to do.
+
+I’ve used Ubuntu, Centris, and even Slackware.  Granted, 90% of my linux use is in the command line, so I’d say that most linux distros are the same.  Well, more specifically they’re more alike then they are different, and the changes are mostly just swapping  some command here and there even though the rest of the string or package is the same.  Once you get under the hood of how things work, and since Linux is so modular with the way programs are all segmented like they are, you use most of the same commands.
+
+I’ll leave it to someone else to touch on the desktops, I really don’t care and usually mod the boot loader to send me right to the command line anyways."
+73208,"Hmm, different approach; try them all! It's like asking which vehicle for caffeine is for you-- only you can decide.
+
+I like XFCE and tiling WMs because I'm old. Whatever you like doesn't preclude you from the libraries that support other WMs or DEs. It's largely fashion, and as such it only matters what you care for.
+
+That said, if you go full GNOME 3.30.x, it's good to have something non-Wayland as an alternative so you can experience how normal X works."
+73209,Ubuntu or Manjaro. The latter will be a bit of a steeper learning curve but is still quite easy for beginners.
+73210,"I went from Kubuntu (2011-2014) to Manjaro (2014-now).  I do not regret starting with Ubuntu, but I think I would just have started with Manjaro nowadays.
+
+Manjaro, W10 and ChromeOS are ""rolling"" so going back to non-rolling (MACOS, Ubuntu, Mint) would be too much of a step back for me.
+
+I would go for KDE-Plasma and Install Gnome as well so you can occasionally switch between them. I have found I like Cinnamon and KDE best. DEs can just be installed and uninstalled, so you can always switch."
+73211,"Arch, go hard or go home"
+73212,"I would have said Linux Mint until recently, but they dropped their KDE version, so I'd be just as inclined to try Kubuntu as I am Mint.
+
+If you're coming from windows, KDE will have essentially zero learning curve(You might want to disable the silly single click to activate instead of double click thing though.)
+
+Don't let anyone tell you that you need to use Arch or some other ""Do it yourself"" distro to ""learn"".  If you want to take a deep dive into how Linux fits together, then absolutely go for it, but if you just want a usable platform for daily use, there's no shame in staying with Ubuntu derivatives.
+
+There's a lot of things to learn, and obviously someone's gotta learn all the greybeard Linux wizardry, or we might not have Linux at all.  But at the same time, there's other stuff to do.
+
+Especially as a programmer, who might just want the OS to work so they can focus on application software."
+73213,"Either Ubuntu or Fedora. Fedora has the best package manager, Ubuntu has the best games support and larger community base."
+73214,Mint Cinnamon
+73215,"Linux mint if you come from windows hands down
+Its the future"
+73216,"Please read my reply. 
+
+&#x200B;
+
+|
+
+|
+
+|
+
+V"
+73218,Had to be one.
+73219,"Better than suggesting Arch, btw."
+73220,"I think you have two options. 
+
+1. Go for something easy and simple -- Linux Mint, Ubuntu, openSUSE ...
+
+2. Go for something crazy where you will be forced to learn a lot of stuff: Slackware, Arch ..."
+73221,I’d say mint...
+73222,"Ubuntu Cinnamon has a desktop kind of like Mac. Linux Mint has a desktop kind of like Windows.
+
+&#x200B;
+
+Oh, and Mind and Lubuntu are really fast and great for slow computers."
+73223,"Linux Mint, Kubuntu, or really anything with a Cinnamon or KDE Plasma desktop will give you enough of a Windows-like experience to get started.
+
+I recommend Plasma personally; it can be configured in pretty much any way imaginable, whether you want it to look like Windows (taskbar and desktop icons), macOS (app dock at the bottom with a full screen app dashboard and always-on top bar), or some other custom layout."
+73224,I'm a big fan of Mint.
+73225,"If you want to learn then go semi hardcore using Debian net-iso and go from there.  I think people get too used to the bells and whistles with a complete distro where they actually never learn anything because it's already there for you.  Start at the ground then learn how to install i3, XCFE or something else and start modding your setup.  It's more fun that way too like building a PC from scratch with LEDs and stuff."
+73226,Definitely either Kali or Arch.
+73227,Neither is suitable for a beginner. As you probably know very well.
+73228,"I'd say that if you choose from a fairly large set of well supported distros this matters much less than it might first  seem. There is very little, if anything, you can do with Arch that you cannot do with Fedora or Ubuntu. Some things might be easier in Arch others in Ubuntu. My preference is for well known distros, I use Ubuntu, but I am not saying that is the only choice. Some of the things you mention are more about the default desktop environment choice than distro per se. In all decent distros changing the desktop environment is very easy. 
+
+The big difference to me seems to be how bleeding edge you want your software to be. One thing that my fifteenish years with Linux has taught me is that obsessing over having the newest version of any app you use is a tiring rabbit hole."
+73229,will keep that in mind!
+73230,"I agree 100%, but personally I’ve moved away from Ubuntu and onto Debian because of snap."
+73231,">definitely between those 3 so do not suggest me another distro please
+
+Well out of the three, I would say Mint Cinnamon then. 
+
+https://linuxmint.com/"
+73232,"I wouId say **1st Mint**, 2nd Debian, 3rd Ubuntu.
+
+I used the three of them during my undergrad, and I would say that **Linux Mint** is a no nonsense version of Ubuntu, meaning that is quite beginner friendly but keeps a more conservative approach to package managing.
+Further, the Cinnamon desktop is one of my favourites, also a no nonsense DE in my opinion.
+**Debian** is great, but ugly out of the box with any DE, so you have to be up for some *ricing*, and although once installed it just works I remember running into some minor problems the first time I installed it.
+**Ubuntu** is fine, my main concern is that they push *Snap* on you but you still need *apt* for lots of things. Not that I am against *Snap*, I only say that in order to have your system updated correctly you should use only one package manager or to be very mindful about how you install things.
+
+At the end Debian is mom and she knows what to do, Ubuntu the older child that a lot of people like but is kind of a weirdo, and Mint is the favourite child that is an angel and everyone love.
+
+Edit: Comas phrasing and *I use Arch btw*."
+73233,Biggly second this.
+73234,"Me too. I've been running it on my secondary PC for about 3 years and never had any problems (Aside from Nvidia driver issues a couple of times, now thankfully resolved) Mint doesn't seem to get much love for some reason (Edit: Actually, I imagine it's because a lot of competent folk see it as a beginners distro)"
+73235,seems like a lot of people in this comment support Mint!
+73236,"Mint is a strong community. Join them and join their Linux Mint forum community and you'll understand.
+
+https://forums.linuxmint.com/"
+73237,"Well just about anything related to Ubuntu or Debian will also apply to mint.  It's a more noob friendly version of Ubuntu which is a noob friendly version of Debian.
+
+Obviously more to those steps but it sums it up well imo."
+73238,I love mint! It’s such a great distro. I’ve been using it on my desktop for a while now.
+73239,Ya if it's only those 3 mint is probably best choice for a newer person not sure what they'll need/want.
+73240,+1 for Mint.
+73241,">Futureproof - to have support and updates for at least 4-5 years.
+
+I'll address this one particular issue: Support and updates. Assuming you don't really want to perform the (free) upgrades and want to stick with one version for maximum stability and consistency:
+
+Mint and Ubuntu current LTS (Long term Support) versions will get mainstream support until April 2025. However, for Ubuntu you can sign up for free ESM (Extended Security Maintenance) for up to three devices, which takes it to 2030.
+
+Debian 11 'Bullseye' gets official support until late 2024 but should get community support until 2026.
+
+However, stable/LTS versions will mostly only get security fixes and you may find you need to upgrade to get up to date versions of applications, though there are ways round this.
+
+I'd just add that Debian is a bit more advanced, for example there are more installer options and less hand-holding; Both Mint and Ubuntu are a bit more friendly for beginners."
+73242,"quite informative , thanks mate!"
+73243,"All three Distros sound fine for what you want, because all user-friendly distros do all of those things.  I've found Mint works great for people who want things working 'out of the box'.
+
+All three have long-life support, you just do a distribution update about once a year (or with Ubuntu/ Mint I think you can leave it for up to 5 years). The distribution update just needs you to click 'update', then the computer runs slow for about 30 minutes, then you reboot.
+
+For a snazzy, modern look, Cinnamon's fine. Actually anything's fine except LXDE or basic XFCE.
+
+All of them have massive app stores, and all of them have LaTeX for Physics reports, simple LaTeX displays, Libreoffice, python (not sure what type of Physics you're doing).
+
+As to the Windows apps, you'll have to be more specific, but Mint and Ubuntu both have MS Teams, TeamViewer, Zoom, et c.
+
+No Linux distribution can reliably run Adobe or MS Office stuff (you might install it, with some hassle, but there's no guarantee it'll work after a week)."
+73244,Seems like I will be going with Linux mint based on what you said.
+73245,"I’ve ran the Adobe Suite, or at least PS and AI, perfectly fine on Ubuntu, Deepin, Kubuntu, now Manjaro, and probably other distros I’m forgetting.
+
+As long as you don’t bork / botch the wine installation, or the files therein, you should be fine. There shouldn’t really be an update pipeline that would disrupt it, not in the sense that it should break anymore.
+
+If memory serves, there’s even a script / installer now for photoshop (on GitHub I think) that installs all of the required dependencies in its own prefix for you.
+
+Edit:
+
+https://github.com/Gictorbit/photoshopCClinux"
+73246,Thanks for the link and the advice !
+73247,"That's really cool, and I hope I'm wrong about Adobe.
+
+I still wouldn't want to recommend it to someone who needs Adobe to be reliable."
+73248,it only works with old outdated version that are not supported
+73249,If you're coming from windows just use linux mint cinnamon.
+73250,Check with your Uni first. Most ONLY supports Windows/MSOffice especially for online tests and submitted papers.
+73251,I do not think my university cares that much about what we use. In case there is a need for a windows application or something goes wrong with Linux I will have windows ready (dual boot). But I would really prefer to move away from MS.
+73252,I started using Ubuntu for Radio Astronomy in my undergrad.
+73253,"Does your laptop allow Dual-Boot? If so Lubuntu is a minimal desktop Ubuntu derivative.
+
+Ubuntu is good because:
+
+* Stable Debian-like package manager so nice and easy to use command line to download packages you need from repositories.
+* LTS
+* Loads of google ""Ubuntu help"" eg forums etc that help with any problems
+
+Worth knowing about:
+
+* Fedora is very professional support
+* MX Linux is very attractive new entry (excellent performance)
+* Elementary OS is Ubuntu derivative that has wonderful desktop (Mac inspired iirc)
+
+Those are also strong contenders."
+73254,Yes it does but other than a linux distro I will have windows 10 in case it is needed. Thanks for those points you mentioned!
+73255,"So Debian is first. It's been around a long time, is pretty resource light, and is pretty stable as well. 
+
+Ubuntu is based on Debian. Basically they use the same initial source, but then Ubuntu adds and changes things to their liking. Anything that runs on Debian should mostly run on Ubuntu. However stuff me to run on Ubuntu may need extra work getting to run on Debian. 
+
+Linux Mint is based on Ubuntu, so similarly anything me to run on Debian or Ubuntu will run on Linux Mint. But Mint is more closely related to Ubuntu so whatever runs on one should run on the other without much trouble. 
+
+Ubuntu is probably the most widely used distribution, especially when you include the dozens of distros based on Ubuntu. If you run Ubuntu, or am Ubuntu based distro you'll be able to install pretty much anything made for Linux. So for a new user I would recommend Ubuntu or Linux Mint since it's going to give you the easiest experience. The differences between Ubuntu and Mint are there, they do updates a bit differently, mostly in choosing which packages to push to users. Mint also comes loaded with more software out of the box to help improve user experience. I also think Mint has a bit more polished GUI with various applications and settings apps installed that make the GUI experience better, especially for new users. Which there's nothing from stopping you from installing those same apps on Ubuntu, but it's about the curated experience out of the box.
+
+I've used Ubuntu, Linux Mint, and Linux Mint Debian Edition. They were all good in their own ways, and if you learn one you can mostly use the others just as easily. But if you are using Debian it is a bit more nuanced in ways that make it more suitable for experienced users. But that's not to say new users can't use it. But just be aware that some Ubuntu specific guides online may not work and you'll need to look up a Debian guide instead, or you'll often see multiple instructions for various distros, look for the Debian ones and not the Ubuntu ones. Other than that Debian is a fantastic distro even if you're new to Linux.
+
+I personally like Mint the best. It's really just a nice looking distro. It's familiar for those coming from a Windows environment, yet it feels like it's own thing and not like it's trying to be Windows. And the Cinnamon desktop is really the best DE out there. It gives you the right mix of customizability, and yet simplicity. I know desktops like KDE are more powerful, but also require more system resources, and almost have too many options. Cinnamon is the right balance imo. 
+
+But yeah, you really can't go wrong. And if you decide down the line you'd rather try something else you can easily install a new distro and go from there. I think all Linux users distro hop a bit before settling down on their favorite. I started with Linux Mint, jumped to Ubuntu, then to Fedora, then to Linux Mint Debian Edition, and finally back to Ubuntu based Mint again. Each one has its plusses, and I liked certain bits of each. At the end of the day Mint just hits a sweet spot for me and always has.
+
+That's not to say I'm done looking at other distros. I really liked Solus OS (the Budgie desktop reminds me a lot of Cinnamon), and Geruda Linux with the Dr46onized KDE desktop have caught my attention. I plan to install Geruda Linux on a machine to give it a shot. 
+
+I also really like Red Hat based distros and may return to one someday. I've always liked OpenSUSE and Fedora. And Rocky Linux looks interesting (as a replacement for CentOS), and Red Hat Linux has the bonus of being the choice of many enterprise environments, so if you ever plan to get a job that involves enterprise Linux it can be helpful learning the nuances of RPM distros."
+73256,Thanks for the detailed reply mate! I would love to switch to different distros but I am afraid I will not have the time to do it.
+73257,No worries! Really if you're happy with your choice there should be no reason to change. But it's still nice to have the option. Like it's not like Windows or Mac where you're stuck on their upgrade cycles. You want to change it's as simple as downloading a new distro.
+73258,One word : Mint
+73259,"OpenSUSE Tumbleweed as the Linux distro with KDE Plasma as the desktop environment. Give it a shot!
+
+Also consider giving Manjaro a shot. Both are nice, but I prefer openSUSE TW because if things get messed up, the way the file system works allows you to roll back to a previous snapshot. The snapshots are auto taken whenever you update."
+73260,"Worth pointing out that openSUSE will give you familiar experience if you are ""Windows Power User"". Mostly thanks to YaST. Otherwise, I would still recommend at least starting with anything Ubuntu based, especially  Mint or PopOS. Once you get to know how your system works and what you expect from system you might find distros for more advanced users, providing unique perks (openSUSE 's YaST, OBS and snapper, Arch 's AUR to name ones i know of)"
+73261,"Out of those three, I'd go for Mint>Ubuntu>Debian. I think all of them do deliver what you require. Some software might not be available (like Adobe stuff), but you can use VM of windows, dual boot, or try to find unofficial ports to your Linux branch.
+About looks can't tell you much, I am enjoying using KDE plasma customisation options."
+73262,"""...do not suggest me any other distro...""
+Mint and Ubuntu are based on Debian... Meaning you are not really considering any options at all."
+73263,Although to be fair there are big differences between the three(less between mint and ubuntu but they do have different setups).
+73264,"I know that both of them are based on Debian but when I was looking on posts to find what would suit me , the top 3 where those 3 , that's why I do not think archos , eleos , fedora , zorin etc."
+73265,"I’m curious, and I don’t think anyone else has asked yet, but why not consider a rolling release distro?
+
+Edit:
+
+If you just really dislike rolling releases, I would say Kubuntu (KDE Ubuntu) is an option I daily drove for a long time. There’s also other Ubuntu derivatives (Elementary, Kylin, Deepin, KDE Neon, etc). 
+
+What it’s really coming down to then is your UI / UX, and I think KDE is just a solid bet, in my opinion.
+
+I basically cloned the MacOS UI/UX (as much as I reasonably could) in KDE (https://github.com/CSAndrew/MacOSM), but it’s just as easy to bring over the W11 UI/UX (if you prefer that). 
+
+You could also just use a WM instead of a DE and go with something like TheGloriousDotfiles, but you’re really going to want a Desktop Environment on your first Linux run.
+
+Also, might check out /r/unixporn ."
+73266,what's a rolling release?
+73267,"**Rolling release, rolling update, or continuous delivery, in software development, is the concept of frequently delivering updates to applications. This is in contrast to a standard or point release development model which uses software versions that must be reinstalled over the previous version.**
+
+More details here: <https://en.wikipedia.org/wiki/Rolling_release> 
+
+
+
+*This comment was left automatically (by a bot). If I don't get this right, don't get mad at me, I'm still learning!*
+
+[^(opt out)](https://www.reddit.com/r/wikipedia_answer_bot/comments/ozztfy/post_for_opting_out/) ^(|) [^(report/suggest)](https://www.reddit.com/r/wikipedia_answer_bot) ^(|) [^(GitHub)](https://github.com/TheBugYouCantFix/wiki-reddit-bot)"
+73268,Keep in mind that a rolling release distro has the potential to break your system compared to something like Debian stable or an Ubuntu LTS.
+73269,That's something I would be worried about.
+73270,"Mint Mate is also an option, but I can't tell if it's modern or not. I used to put TWM on all my VNC desktops, so pretty much everything is both less clean and more modern to me. I don't really love desktops that try too hard to be clever, and they often eat CPU in a way that feels really unnecessary. Just put the stuff where I can get to it - no magic, no hidden interface so it looks like nothing is installed, etc. I haven't tried Cinnamon (wanted low overhead for VMs), is it similarly chill like Mate?"
+73271,Ubuntu or Mint are both good choices. I personally used ubuntu for all my university studies.
+73273,To make your life easier consider a provider that preinstalls Linux like thinkpad or dell and get one of those
+73274,"Linux Mint: If you want an out of the box windows feel, go for this. It is based on Ubuntu (which itself is based on Debian), so you'll find almost every linux app for it. 
+
+Ubuntu: More noob friendly. Clean interface with minimal clutter. Though, it is very different from windows, you'll get used to it quickly. Ubuntu 20.04 LTS, as suggested by its name, is a long term support version. I think it supported till 2025(?). Very good starting point, it's were i started.
+
+Debain: The original, Ubuntu is based of off it. It is more on the technical side, as it requires you to have a little bit of knowledge of how linux works before. Wouldn't suggest  it either as a starting point. Though, it is very fun to experiment with. 
+
+&#x200B;
+
+Another candidate is Pop OS, it is based on Ubuntu too, and has a great community. I would HIGHLY suggest going with Pop OS as it focuses of productivity, gaming, and other fun stuff. It also has great Nvidia driver support (which are known to be a pain in the backside on linux). So if you have an Nvidia card, definitely go with this one. Also, in their latest version, they overhauled the UI, and i actually quite like what they've done. 
+
+&#x200B;
+
+As for being able to download windows apps....I'm gonna be fully honest with you. No distro (as far as i know) has out of the box support for them. You will have to install wine (a windows compatibility layer for linux) and ideally lutris if you want to play windows games that aren't on Steam. You can check which apps work on [WineDB](https://appdb.winehq.org/). If you want to check which games work, go to [ProtonDB](https://www.protondb.com/). Proton is Valve's fork of wine. It has better compatibility for most Steam games than wine. But some games won't work with Proton, but will do with Wine. Most apps will be easy to install...but some are a ""different case"" to say the least. 
+
+&#x200B;
+
+Another point i need to make is that if you don't like the UI/UX on your chosen distro, you can just change it. Go over to r/UnixPorn and look at what people do with Linux. You can theme most Window Managers/Desktop Environments to make them look and feel exactly how you want.
+
+&#x200B;
+
+Sorry for the long read, but as someone who has been using Linux for the past 6 months, i had to explain in a lot of detail so you don't make the same mistakes as I did."
+73275,"It does not matter if it was long since you mentioned a lot of important things! Sometimes , for example when I was looking for discord I think or another software it said that it is available for Ubuntu/Debian and I know that Mint is based on Debian but I was not sure if it would support. And that's what I meant with windows apps , to be able to find apps for the linux distro I will be using ( because it seems to me you cannot download the same apps on every linux).
+
+&#x200B;
+
+I will check out PopOS once I find out which one out of the 3 I prefer , in order to compare them. Thanks !"
+73276,"No problem! We are always here to help. As for the app difference, not all distros share the same code. That's why some apps that are on Arch Linux, won't work on debian, it is a different format. Most windows apps you'll find alternatives to. For example: Microsoft to do, you have planner for that. Windows Store, most distros have their own custom Store(though it always is recommended that you use the terminal to install stuff since that way you'll get used to using it).
+
+&#x200B;
+
+Edit: As you are looking at three options which are all Debian based, you'll basically find every app you need. Debian is the most popular ""dad"" of distros, so that's why almost all stuff is packaged for it by default."
+73277,"Exactly , I know that most apps are packaged for Debian and Mint is based on Ubuntu which is based on Debian , I was really going towards Mint and not PopOS , because I might have a compatibility issue with PopOS that I would not have with Mint."
+73278,Pop OS is also based on Ubuntu
+73279,"Do yourself a favor, OP, and just stick with Linux Mint.  Cinnamon is gorgeous and very Windows-esque, it has stable updates with its Long-Term Support (LTS), and it's based on Ubuntu. That means you'll get access to the largest software repositories that any distro has to offer. If you're a student, and you don't *NEED* MS Office or Adobe products, then Linux Mint should carry you through school. LibreOffice is brilliant for writing papers.
+
+Then you have Lutris and PlayOnLinux in case you need a Windows ("".exe"") program to run on Linux (admittedly, this is a swing or miss; check the POL/WineHQ database to see what works or not)."
+73280,"Check out r/findmeadistro
+
+If you are looking for lightweight, consider the XFCE desktop environment. This can be chosen on install if you use Debian or by downloading Xubuntu if you choose Ubuntu.
+
+Your Desktop Environment (DE) will largely determine the look and feel of your Linux experience, but it also affects how much RAM you need. Cinnamon is based on the GNOME desktop, which is very beautiful and customizable, but it comes at a cost in memory usage. I've never seen a side-by-side comparison of XFCE vs. Cinnamon, but I know XFCE is much lighter than standard GNOME. I also think it's prettier than LXDE, the other leading lightweight DE.
+
+I will also suggest that you don't need a long-term service version. I'm a relative newbie, too, and I thought that ""stable"" meant ""less likely to break"", but it's really more like ""unchanging"". If you use Ubuntu 20.04, you will basically be using versions of applications from late 2019 for the life of the release. New versions of Ubuntu come out every six months, and they will already have been tested for roughly six months at that point. They are very unlikely to have major bugs. It's also easy to upgrade from one version to the next.
+
+So, my final recommendation is Xubuntu 21.04, then upgrade to 21.10 when it comes out next month. Lightweight, newbie-friendly, well supported, and reasonably up-to-date."
+73281,"Maybe I did not describe it the way I wanted. I do not know if Linux Distros can be upgradable the way Win10 is with Win11 , like no need for a format to install a new version of the OS. 
+
+Also my laptop is an i3 11th gen and 8GB so no need for a lightweight OS I think."
+73282,"Oh, sorry about that, I read ""minimalist"", and my brain just went to ""lightweight"". You should be able to run whatever DE you want with your hardware.
+
+Updating from one version to another is super simple with these distros--I would say it's more akin to a Windows cumulative security patch than going from one version of Windows to another.
+
+I'm changing my answer to Mint--the Cinnamon DE is clean and pretty. As others have said, Mint is based on Ubuntu is based on Debian, so they'll all be pretty similar."
+73283,Thanks for the recommendation and I am glad the updates are that simple.
+73284,"I haven't read your previous post but here's my input anyway:
+
+1) As a beginner you should chose a Windows PC and install linux on another partition (dualboot). That way you don't burn your bridges, some apps are just not available on linux. I've used linux as my main OS for about 15 years but as much as I prefer linux I still keep a Windows 10 partition, just in case.
+
+2) Of the 3 distros you mention Linux Mint is without doubt the one to chose for a linux novice. It has all the bells and whistles and a huge selection of apps available. I believe they have a friendly community/forum too. (I'm not a Mint user myself these days, its too heavy for my ancient laptop.)"
+73285,I am definitely going to dual boot win10 with linux so do not worry!
+73286,"Define ""lots of apps that are also on windows"". If your mean apps like Adobe photoshop,... 
+
+I'd suggest to stay on windows.
+
+If otherwise you mean apps like discord, Skype,...
+
+I'd suggest to go with Linux mint or Ubuntu they both are good choices."
+73287,"Just choose an Ubuntu LTS. It has meta-packages for all of the popular desktop environments, so you can install them and test them out if you don't like the defaults.
+
+I'm a fan of Kubuntu, but use whatever works for you."
+73288,"Debian plain and easy, I use it for my current simulations on Condensed matter and since there is no major changes I can upgrade without risking my current workflow"
+73289,"Check which software you need for your studies and if the latest versions are important to you. Basically all popular Linux distros are fine. But these 2 points are the deciding factors.
+
+Probably your choices are ultimately Fedora or Ubuntu (or any of its derivatives). But trying these 2 out will help you further.
+
+Fedora was excellent for my IT studies but also for my workstation at work. It's very stable, runs relatively the latest software, super secure (SELinux, secure boot, excellent hardening, minimal install by default, maintained by Red Hat).
+
+And don't worry about long term support. Open-source software is going fast. It's not strange to upgrade your operating system to a major release every 6 months. The key thing is if you can do these upgrades without reinstalling. And with Fedora and Ubuntu (and basically all Linux distros, you can)."
+73290,I personally dont like any of these distros but Linux Mint is the best out of the three
+73291,MXlinux / Debian / Ubuntu / Manjaro
+73292,Hanna Montana linux
+73293,Endeavour os or manjaro
+73294,Arch Linux
+73296,KISS principle here; suggest Mint or Ubuntu.  Large community base with support
+73297,Gecko Linux (wich is Opensuse) Tumbleweed.
+73298,"1. Mint Cinnamon, if the hardware you have is capable.
+2. MX Linux XFCE, if you have a low spec computer.
+3. Ubuntu, if you like GNOME."
+73299,If you're used to windows go with Mint. If you're used to Apple go with a Ubuntu. From there you can modify it to your specific needs.
+73300,"[EndeavourOS](https://endeavouros.com/ ""EndeavourOS"") would be Great for you..."
+73301,Do you think Endeavour would last for 4-5 years with a lot of updates to come
+73302,"I have been using EndeavourOS for 3 years...
+so..."
+73303,"Linux mint should be really beginner friendly if you’re comfortable with windows, Pop_OS is a little more Mac-like although they’ve began to come into their own a bit more in the past few updates. Both are fantastic but I’d push you towards mint if you don’t have any special use cases like an NVIDIA gpu"
+73304,"Mint is easy, debian is stable and ubuntu is ubiquitous."
+73305,I do have one small regret after embracing Linux Mint and other Debian based distros over the past 10+ years. I have found my employers use RHEL or CentOS. In hind sight I might have forced myself to use CentOS. Thankfully I’m a network guy that occasionally logs into a nix server.
+73306,"You can't go wrong with Manjaro with Gnome or any other Arch-based distribution. The AUR is godsent, Arch Wiki is extremely helpful and community is evergrowing, rapidly!"
+73307,Fedora or Ubuntu. Gentoo only on weekends.
+73308,"What do you want to do?  
+
+
+Gaming + Normal usage? : Manjaro / POP!\_OS (depending on what you like more and if you need the AUR)  
+
+
+Just normal usage? : POP!\_OS / KDE Neon / Fedora / openSUSE (I would recommend KDE Neon or POP!\_OS because they get the most support and are both Debian / Ubuntu based.)"
+73310,Archcraft with Openbox
+73311,fedora or mx-linux
+73312,">Being able to download a lot of apps that are also on windows or at least most of linux apps without compatibility issues.
+
+You're kidding, right?
+
+**Why do you need Linux anyway? What is that you cannot get from Windows 10/11?**
+
+Ubuntu and Mint are very newbie-friendly, and they get updates for many years to come.
+
+You can try all of them with a live USB flash, before installing on an actual device."
+73313,"**[Pop! OS](https://en.wikipedia.org/wiki/Pop!_OS)** 
+ 
+ >Pop! _OS is a free and open-source Linux distribution, based upon Ubuntu, featuring a custom GNOME desktop. The distribution is developed by American Linux computer manufacturer System76. Pop!
+ 
+^([ )[^(F.A.Q)](https://www.reddit.com/r/WikiSummarizer/wiki/index#wiki_f.a.q)^( | )[^(Opt Out)](https://reddit.com/message/compose?to=WikiSummarizerBot&message=OptOut&subject=OptOut)^( | )[^(Opt Out Of Subreddit)](https://np.reddit.com/r/linuxquestions/about/banned)^( | )[^(GitHub)](https://github.com/Sujal-7/WikiSummarizerBot)^( ] Downvote to remove | v1.5)"
+73314,I might check it out
+73315,"Linux is very common for Physics. When I worked at a Physics institute, nearly everyone used Linux. OP is right that they should start learning Linux."
+73316,That's something I was looking for!
+73317,"I do not like at all where Microsoft is heading and the whole thing about bloatware , privacy etc. I will stay with Windows 10 until supports end on my PC and then upgrade to Win11 just for playing games and for heavy gpu/cpu based software. I am planning on using Linux most of my time."
+73318,"Zorin OS
+Pop OS
+Garuda Linux"
+73319,"If you are going to install Linux on a laptop that you are going to buy, make sure you **don't** buy a Windows laptop. By the way Lenovo sell [Linux laptops](https://www.lenovo.com/us/en/d/linux-laptops-desktops/?visibleDatas=857%3A14%22%20-%2014.9%22%2C15%22%20-%2016.9%22) and you can replace the distro afterward. 
+
+For the Distro, I recommend Linux Mint Cinnamon or Pop!\_OS."
+73320,I am buying a laptop with any OS installed.
+73321,"What about:
+
+\-Fedora
+
+\-Zorin OS
+
+I highly recommend Fedora, It uses the Gnome DE and it is very reliable and easy to install and use and it has a great community, and for Zorin OS it's very suited for those who are coming from windows or mac its DE is very clean in my op and user friendly, You won't go wrong with choosing any of them."
+73322,"But if I am not mistaken those 3 distros I mentioned , support more apps."
+73323,"Zorin OS is based on ubuntu so basically you can run the same apps but with better user interface in my op, as for fedora on my 5 month or so i haven't faced an issue where i couldn't install what i want (actually fedora does have what is called fedora labs basically fedora with preinstalled software for different purposes: security, science, astronomy and more, actually you might find it helpful to check this page: [https://labs.fedoraproject.org/](https://labs.fedoraproject.org/)"
+73324,I will check it out then!
+73325,"Mint is slowly taking over as the go to beginner distro, which is my recommendation if I’m limited to your options. If, however you find it just isn’t for you, research Elementary OS and Manjaro.  Those are also fantastic choices for beginner distros imho."
+73326,"Hey, also a physics uni student here.
+
+Ubuntu or Linux Mint will both suit your needs, as has been said Debian is more advanced.
+
+I expect both Ubuntu and Linux Mint to receive new versions for the foreseeable future, which is to say big mass upgrades every October and April for Ubuntu (I do not know about the Mint release schedule). Get the latest Long Term Support (LTS) version if you want to stay on more or less the same version of all of your software for years on end, which I don't particularly recommend unless you're really averse to change.
+
+You might need to find alternatives to your favorite Windows utilities and programs, but they'll likely be open-source and/or free, which means 1. they won't spy on you and 2. they won't gouge you for money. GIMP instead of Photoshop, Spyder to write Python code, etc. Video games are more or less the only reason I even kept Windows.
+
+As for looks, that's a bit of a rabbit hole.
+
+This might be confusing but bear with me- *your distro does not determine what your operating system looks like.* In Linux, what determines the appearance of your windows, desktop, menus etc. is a bundle of programs called a **desktop environment**.
+
+Regular Ubuntu's desktop environment is GNOME, and Linux Mint's is called, I believe, Cinnamon. Both Ubuntu and Linux Mint also have alternative ""flavors"", which are versions of these distros that are the same under the hood, but with different desktop environments. For example, Ubuntu MATE is Ubuntu under the hood, but it looks very similar to Linux Mint MATE- both use the MATE desktop environment. GNOME is a bit flashier, and honestly quite odd, whereas Cinnamon (default Mint desktop environment) is simpler AFAIK. MATE is even more minimalist I believe.
+
+Also, Linux Mint is based on Ubuntu anyway, so there'll be a lot of overlap regardless of what you pick.
+
+If you ask me... I'd say just go with regular Ubuntu. Most articles, guides etc. aimed at newcomers are designed around Ubuntu (and its GNOME desktop environment), and that'll help you find your way around.
+
+Let me know if you'd like to hear some tips about using Linux for physics, specifically."
+73327,Thanks for the reply! I would really appreciate it if you could give me some tips and also recommended me some of the apps that you are using!
+73328,"Coding (python)- Don't bother with Anaconda or anything, just get Spyder or PyCharm (I recommend the former). For other languages I've heard VSCode get recommended.
+
+Photo editing- GIMP
+
+Downloading youtube vids- `youtube-dl`
+
+Text editing- whatever your desktop environment comes with will probably be fine, but if you want to learn how to edit text REAL fast, try out `vim` or `emacs`. 
+
+Do you know how to install programs in a Linux distro? You do it usually through the terminal. Let me know when you've actually installed Linux and I can give you a short tutorial on how to do that."
+73329,Might take 3-4 weeks till I do that but I will keep you on my bookmarks to ask you.
+73330,"Go with Ubuntu LTS or Linux Mint.   I personally use Debian, but I've been using Linux for several years - it's not a difficult distro to set up, bu it isn't as user friendly as the other two.
+
+If you're curious as to the main differences between Ubuntu and Debian, I would recommend skimming through this article:
+
+[https://itsfoss.com/debian-vs-ubuntu/](https://itsfoss.com/debian-vs-ubuntu/)  
+
+
+Edit:  
+Debian's wiki has some resources that may be interesting to your physics studies, I suspect that these applications will be available in Mint/Ubuntu as well:  
+https://wiki.debian.org/DebianScience  
+https://wiki.debian.org/DebianScience/Physics"
+73331,">Being able to download a lot of apps that are also on windows or at least most of linux apps without compatibility issues. 
+  
+  
+Bwahahaha good luck with that. Linux is NOT Windows"
+73332,"By that I mean ""apps that an average user uses on a daily basis"" like spotify and discord , which you can already download on Linux."
+73333,"Fedora and openSUSE Tumbleweed, both with GNOME, are quite beginner-friendly and never look dated. The only exception is with the installation part, specifically with partitioning. If you have no plans to dual-boot, I think you'll encounter very little problems installing Fedora/openSUSE.
+
+I only recommend Ubuntu or any Ubuntu-derived distro like Linux Mint when NVidia comes into the picture. On the contrary, based from my experience, Ubuntu's support for AMD graphics card has been lackluster even with distros based on it like Linux Mint and elementary OS (which I both used for quite a while)."
+73334,I am not gonna have a graphics card on the laptop just an intel or amd cpu.
+73335,"I know you said ""do not suggest me another distro please"" but definitely do check out Pop\_OS!. It's like Ubuntu but like 2x better. It's pretty clean and supports a lot of apps."
+73336,A lot of people recommended it so I am going to check it out\^\^.
+73337,"I have been running linux mint on couple of my machines for years and I am happy that I can change it as my needs change. It has a pleasant interface and lots of software that can be installed from its ""store"" easy, if you are a new to it.  Whatever you install, make sure it meets your needs all around. You can also read on their website, how long they are going to support it."
+73338,"TLDR: Mint
+
+Your support window request is too high. Mint releases are supported for 4-5 years from initial release but as you are going to come around part way through the cycle you are going to need to upgrade sooner for example within 3.5 years at the moment but fortunately this is extremely painless via the update GUI and you will probably want to do this sooner. You could easily do nothing but use its update gui for the next decade if the machine doesn't die first. Mint exclusively tracks Ubuntu LTS releases usually a few months after a new LTS release comes out and is extremely stable.
+
+Debian is going to be out of date than Mint or Ubuntu eventually you will want something that you can't have easily on Debian stable. This is a better choice for a server than your desktop in my opinion.
+
+The difference between Ubuntu and Mint is that Ubuntu often to my thinking makes ""interesting"" sub optimal decisions for example Unity Snap etc etc etc that represent technical explorations not focused on maximal usability while Mint remains strongly focused on making Ubuntu more usable. See Cinnamon vs Gnome."
+73339,Thanks for the reply!
+73340,"What about asking your seniors, what kind of softwares they are using as a physics student? Python maybe, what libraries? CUDA for fancy computation? gnuradio for radio astronomy? LaTeX for writing paper?
+
+Whatever, the point is, try googling those software, what are their problems or bugs on your distro choices and your specific laptop. You can start from there.
+
+Don't worry about look, in my opinion, most common DEs look modern today and if you don't like it, you can customize it later."
+73341,To be honest I do not think they care that much about what OS we use.
+73342,I use linux Mint as my main OS....I trail run other distros but Linux Mint is the most solid of all distros i have tried since I started using linux in 2002
+73343,openSUSE
+73344,"try first in VirtualBox. OSboxes(.org) -> done in '5minutes'! 100%safe!  ('5seconds' to completely un-do!)
+
+Both/all running at the *same* time!"
+73345,"Kubuntu - lightweight, fast, customizable, Windows-like layout by default
+
+It's based on Ubuntu so whatever works with Ubuntu and it's parent Debian, it will work on Kubuntu.
+
+The next version 21.10, will be released soon, it's now in beta."
+73346,debian
+73348,Do you think Endeavour would last for 4-5 years with a lot of updates to come?
+73349,"Well whenever some one ask me what distro they want there are always two options no matter how noob or advanced the user is . They are pop os from system 76 if you want all the ubuntu support and (official) software or Manjaro if you want to run the latest packages probably will be supported for ever and easy to use ui for aur and arch wiki support. If you never heard about aur(arch user repository) or archwiki theb pop os would be a better choice. 
+
+I personaly keep on switching between two just for fun and can daily drive either m if i want. 
+
+PS :- aur is not the easiest thing to use as there are many similar packages and comparing the to find the right and orginal one is difficult plus many popular software are not available in standar repo style but are in aur and thus need to be build rather than install which might not be the faster or even smoothest method but overall more software is available for arch than any other distro in the world . (not official as manny packages in aur like Spotify will download original .deb package and build it for arch)"
+73583,There is a great post about powerbanks in r/ultralight: [Powerbanks](https://www.reddit.com/r/Ultralight/comments/gmq3uq/_/)
+73584,That list isn't very useful because it doesn't state their wattage output on each port. Which is the main consideration I have other than price.
+73585,Then you do your own research and just use the list as starting point kiddo.
+73586,No need to be rude. It's just a fact that the list you linked to is focusing on the quality of the cells and it's internal circuit. They're not looking at output power at all.
+73587,"If you think that they were rude, I feel bad for you."
+73588,"> kiddo.
+
+That's pretty rude and unnessercery."
+73589,Lol ok
+73590,"I haven't looked at powerbank options lately, so I'm not going to be much help other than to say that you have my upvote for the detailed post of what you've considered."
+73591,"Oh trust me I've looked at hundreds but these were the closest in terms of power. I ruled out all of the ones that could only do a max of 18W.
+
+Hopefully even just my post can help someone else!"
+73592,"I use Villain Power Bank Portable Charger with 20000 mAh ( got here on Amazon: [https://www.amazon.com/dp/B08527CGRT](https://www.amazon.com/dp/B08527CGRT) ), for about three months already, and I gotta say that it's one of the most reliable thing I bring with me all the time. If your travel would last 4-5 days or even a whole week - it's gonna last for such period of time, charging everything, from laptops to any of your smartphone."
+73593,"That can only put out 18w of power, not nearly enough for what I want. I can't use a charger like that to keep a laptop charged whilst using it."
+73594,"Far and away the best power bank I have used to charge my Pixel 3aXL and my MS Surface Pro 2 is the [J-Go Tech Tanker](https://www.amazon.com/26800mAh-Portable-Recharge-Delivery-Charging/dp/B07HFLQMT9). I used it on my 2.5 week one-bag trip through the UK/IE and it saved my life a number of times. It probably wouldn't meet the standard of the ""ultralight"" folks, but for me, it was an indispensible part of the bag, as it was one of the only chargers capable of both the capacity and the wattage required to charge my surface pro _and_ my phone at the same time. It also did proper PD fast charging for my Pixel.
+
+The bank alone got me five extra hours of simultaneous use-and-charge on the surface when I failed to charge it overnight and needed it on a train ride. It was a lifesaver and has transitioned to being a regular part of my daily bag as well. The battery life has held up admirably.
+
+(Also, for anyone wondering how I hooked up that old surface model to it, I used [this cable](https://www.amazon.com/J-Go-Tech-Surface-Chargers-Microsoft/dp/B07KY31Q4Y) from the same manufacturer)"
+73595,"The Surface Pro 2 charges at 42w, a Pixel 3xl charges at 18w but that power bank has a maximum output of 45watts.
+
+So you won't have been getting max charging from both devices but enough to charge them even when under light use.
+
+I'm not considering any under 60watts for myself because whilst my phone only requires 12w my laptop requires 95w.
+
+It won't be too long before I get a new phone so chances are I'll need well over 100w to get maximum charge but about 60-80 to beat the light usage drain."
+73596,"You're going to have a rough go finding that in your price range I think, but I'm hopeful to be wrong and would love to hear what you end up using!"
+73597,"I've found plenty over 60 watts in budget, the first one in my list is 100watts but isn't sold in the UK"
+73598,"I'm skeptical of the 100W charger - that's a *massive* amount of current to be pumping through a package that small. Seeing as there's no other competitors, it's likely that it outputs less and is just labeled wrong to try and sell better."
+73599,"It is indeed a massive amount, but there are a few competitors that can output 100w, most of them are way more expensive.
+
+I would be able to validate if the power bank can put out 100w or not, and if it can't I would get it returned/refunded by Amazon for false advertising."
+73600,"Yeah. My first reaction to a 100W charger that cheap is ""uh... probably not."" Seems like there's chargers that can charge at 100W but only output 60W. 
+
+Edit: The details only mention **input** at 100W and do not make any claims about output. 
+
+Even if you can get a refund, that's shipping and time spent.
+
+Is there a reason you're interested in a power bank with those specs at that price point, from a budget perspective?"
+73601,"Oh damn, you're right. On further reading it is indeed 100W input. That's naughty of them. I've just reported the product to Amazon to hopefully get that changed. That's crazy misleading!"
+73602,"i have not tried to get on a plane, but i use it to power my cpap machine for 3.5 nights when camping. it's cheaper and more powerful than the anker. it gets great reviews also. https://www.amazon.com/dp/B07FFNTGZ6/ref=cm_sw_r_cp_awdb_t1_FGB6EbA4X8M0A
+
+edit, it does not have usb c, it can however be charged via solar or car. all connectors come in the package.
+
+edit, it was slightly discharged when i received it. i charged it and got 6 nights of cpap!"
+73603,"I'm so curious to know if this thing could fly (though I imagine not,). 
+
+Looking for something that can charge a MacBook a couple times over."
+73604,i checked. you're allowed to bring on 100Wh (watt hour) batteries on board. this one is a 280Wh. not going to work
+73605,Thanks! I was always confused about how to figure out the limit.
+73606,i have no idea how electricity works. all i know for sure a watt hour has nothing to do with time but with capacity... http://magic.gif
+73607,It's still away over budget and isn't sold in the UK.
+73608,"https://www.amazon.co.uk/FLOUREON-26800mAh-Delivery-Portable-Nintendo/dp/B07KYBBHKT - 55gbp, but otherwise ticks all your boxes."
+73609,"Good find, it's certainly in my shortlist! I'm always nervous of unknown brands for things like this."
+73610,"If you've been using the old USB-A type chargers, those deliver 10W tops and generally 5W or 2.5W if they're cheap. 
+
+A standard laptop does NOT use 60W constantly so you do not need that much wattage. 60W means you'd burn through your onboard battery in a little over an hour, whereas running at a standard level of usage (7-8 hours of battery life) puts you at around 10-15W. 
+
+I also looked up the Surface Book battery consumption and some models pull more than 100W under heavy load and drain even while plugged into the wall. If you really need to keep a battery running during high load applications, you can probably afford to spend a bit more.  
+
+You also get what you pay for. The manufacturer claims that it ships with a 65W cable (why though, if it can do 100W?) and so the buyer needed to get a 100W cable to use it. No response from the buyer and nobody else has done testing, so assume it's 60W like all of the others."
+73611,"In regards to the cable, that's standard practice because those higher quality cables are expensive so no one sells them with the products.
+
+For a better profit is better to choose a cable that will suffice for 90% of its users."
+73612,"I picked one of these up for £35 on offer from [Amazon](https://www.amazon.co.uk/RAVPower-Portable-20000mAh-High-Capacity-Compatible-Black/dp/B083J2YKRL/ref=sr_1_9?dchild=1&keywords=ravpower+usb+c&qid=1592394405&sr=8-9) and it works well;. Haven't tried using it in an emergency to charge Macbook but it seems to be fine at the moment.
+
+https://imgur.com/a/Es19o3u"
+73613,"Yeah that was in my shortlist because its close, all out was missing was maximum output power. It can charge my laptop but at 2/3 speed"
+73614,"What laptop are you using? 
+
+Don't forget (using my 15' macbook as an example) you won't always be using the 85w of the powerbrick -so 45w should be fine
+
+EDIIT An hour ago on The [Verge](https://www.theverge.com/good-deals/2020/6/17/21294097/zendure-anker-100w-18w-usbc-supertank-battery-charger-portable-deal-sale)"
+73615,"Yup, I'm aware of that however with the Surface Book 2 on standard uses 60w."
+73616,Really? My MBP seems to be drawing around 40w with standard use
+73617,"My standard use is probably higher than yours, that's probably why"
+73618,What’s that roughly? I’m running photoshop and Lightroom so not exactly lightweight.
+73619,"I have a lot of stuff open on my laptop, from many many browser tabs, python code running, FTP client open (uploading/downloading), sshed into a server, excel, CAD, and I am often making screen recordings which need to be processed and much more.
+
+So I'm not a light user either. Bare in mind that the surface book 2 actually cannot be ran at max usage without draining battery as Microsoft never worked out the math correct. GPU + CPU + screen + everything else... = over 95W power"
+73620,You might be better off trying to find someone to buy and ship your top choice
+73621,"Yeah, you might be right. I have a few people I could use but I know at least from the UK postal services that I wouldn't be able to ship a power bank to the US because they consider them dangerous goods"
+73622,"People ship all kinds of things. While I personally am not Advocating for this, you can ship anything you can put into a package"
+73623,"Many shipping companies will refuse to ship lithium batteries and explicitly lump power banks in as batteries. Other devices are okay. 
+
+USPS does not explicitly ban power banks, but it's possible that it will be found at customs."
+73624,All true statements
+73625,"Over here they refuse to ship anything abroad that contains a battery more powerful than 2~ regular AA batteries so something that contains 8+ 18650s is definitely going to be rejected by our shipping companies.
+
+Shops can earn special exceptions because they can know the risks and pack their products securely and safely enough to negate any risk + they mark the shipments clearly."
+73626,"You can use a million. Lots of brand recommendations here. 
+
+What info you really need is that you need one that does USB C PD - or Power Delivery. Stick to options with that and you will be fine. 
+
+All pixels, newer iPhones, and some new Samsung's I think all use USB C PD. What's important there is that reg usb c on a power bank, will either charge a pixel slowly, or not at all and you'll think it's broken. It's not. It's just a different and newer/more specific standard. Pixels do not Support Qualcomm Quick Charge in any gen. So that's useless for you. 
+
+I use Anker, EasyAcc, or Aukey. But any number of brands are ok. I'm a pixel 3 user and was a pixel 2 user. So I have lots of experience. I've also been using power banks for around 8 years. So I've experience in the space."
+73627,"OP wants 100W, PD only means > 15W is supported and generally either 30W or 60W. That's why he's being specific about his power needs."
+73628,"Right - but for a pixel, it needs PD. Or it's a complete crap shoot. Understand what you're saying though, not disagreeing with that data point, and stand corrected on that piece."
+73629,"That sucks. Quick search found that some people also couldn't get the default charger to work while a slow charger was fine, so it's seriously a Pixel/Google problem. 
+
+Then again, my Xperia XZ2 will only take the USB C cable one way so USB-C clearly still needs some robustness/compatibility improvements."
+73630,Yeah it's just PD. The pixel needs it. Never had any issues with two pixels and PD. Can't speak to the others unfortunately!
+73631,"Actually in looking, PD does up to 100w."
+73632,"Yep, 100W is the maximum specified by the standard but it looks like most chargers can't handle that."
+73633,"Yep and that's what I am looking for, maximum output is the most important requirement for me."
+73634,"For sure, that makes sense. Also that's max output, not simultaneous on these. Just check the specs!"
+73635,"Yeah the simultaneous one is annoying, I've read some that state 80w but are actually 50w + 30w."
+73636,"Right some outputs can only do so much based on the type. But otherwise it's like a hose. If you have two end points both open, the water will split. Right?
+
+Check out the Anker ones that are 65w total. The single USB C can hit that if nothing else is plugged in. And, it MIGHT be a compromise you can make that will still charge your laptop, though slower. Not sure you will find your unicorn on this, but I respect the effort! Haha"
+73637,"50 pounds for 20,000mAh... I'd pony up for a good Anker or similar. I see they have a 20,000mAh ""PowerCore Essential"" with one USB A and a USB C port on it for for $50US before $10 off on Amazon right now.
+
+I have the 10,000mAh version and use the USB C port a ton. I'd REALLY like it if it had two, but oh well.
+
+I can't recall I've seen ANY that will put out 95W. I've got one of the 20,000 OmniCharge units that has USB C, and I know it will push 45W to my XPS13, but I don't know how much more it could do. And it's a $200 unit.  (just checked, it will go up to 100W output (and has two C ports) and 45W input)
+
+I also have the older original OmniCharge that has an inverter and a US plug on it... it'll output up to 100W that way, but you'd end up needing a wall charger to run a laptop off of, and that would introduce some inefficiencies.
+
+USB C PD *ALL THE THINGS!!!*"
+73638,I see you are not considering Anker as an option! Is it not available at your place?
+73640,> 18W PD
+73641,Nitecore NB10000 and Anker Nano
+73642,"That might be exactly what I’m looking for, thx."
+73643,Rumor has it the NB20000 will be out soon.
+73644,[Found a pic of it](https://flashlight.nitecore.com/Uploads/download/file_material/16098111555b9e23233abfbee0.pdf). Definitely feature bloat. 2 USB-C and 2 A. 30W max input and 45w max output. No weight listed.
+73645,"I like those features. I think of it this way. This will be an expensive bank, particularly compared to known dependable brands like Anker.  However a majority of the time I am not hiking so I can use it to charge my macbook air.  In the remainder of the time I need it for hiking it should be comparatively light to other models.  I have a very similar LiPo anker 20k/mah brick and it is 392g, if they can get this down significantly it will sell itself.  If the ports, internal IC circuit and general build quality are as reliable as my Anker it will be a good purchase."
+73646,"I started doing my research after reading this post, as I am in the market for this as well. I ended up ordering the Nitecore NB10000, Anker Nano, and the lightest USB-C cable I could find.
+
+[https://www.nitecorestore.com/NITECORE-NB10000-QC-Dual-Port-10000mAh-Power-Bank-p/bat-nite-nb10000.htm](https://www.nitecorestore.com/NITECORE-NB10000-QC-Dual-Port-10000mAh-Power-Bank-p/bat-nite-nb10000.htm)  
+
+
+[https://www.amazon.com/gp/product/B07WRKXQ8W/ref=ppx\_yo\_dt\_b\_asin\_title\_o00\_s00?ie=UTF8&psc=1](https://www.amazon.com/gp/product/B07WRKXQ8W/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)  
+
+
+[https://www.amazon.com/gp/product/B07PRLJKJP/ref=ppx\_yo\_dt\_b\_asin\_title\_o00\_s00?ie=UTF8&psc=1](https://www.amazon.com/gp/product/B07PRLJKJP/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)"
+73647,That cable being listed as 0.023 ounces is sus. Thats less than 1 gram...
+73648,"My mistake, 0.23 ounces."
+73649,Oh no I mean the weight on the Amazon listing is 0.023oz. I’d be curious if you got one to weigh it and let me know! I’m on the hunt for better options right now as well.
+73650,That did the weight of the cable end up coming up?
+73651,10g. Hot off the press.
+73652,Moto G power or similar phone is an even better weight to powered ratio to add to your consideration. Overlooked in my opinion.
+73653,"I got rid of my pixel 4 xl for a g power. It's great. Works well enough, camera is decent, and when I backpack it lasts for days.  Even on regular days I can play youtube videos and stream pandora for 2 days without having to charge."
+73654,"From another thread it seems the Nitecore NB 10000 pass through charging is imperfect, lmk if anyone has had a different experience, but at the weight savings one could bring a second Anker Nano."
+73655,I agree that it is imperfect and do not recommend doing it at all.
+73656,"I found this website a while ago and found it incredibly useful. Poke through it to find your optimal setup. 
+
+[https://switchchargers.com](https://switchchargers.com)"
+73657,"My Anker failed on me while hiking the PCT and the company sent me a replacement before they had received the old one. Basically I mailed it to them, sent them a picture of the mailing receipt that day, and they sent me a replacement on the very next day to my next town.
+Excellent customer service. The replacement Anker never had issues."
+73658,This happened to my Anker on the AT also.
+73659,A friend's Anker burst into flames inside her pack and they didn't refund anything.
+73660,Details plz
+73661,Those are the details.
+73662,"Huawei 12000mah supercharge, 40 watt input. 7.8 oz. got mine last week and still running tests with. Its charging at 27watt with the 30watt charger I have. Not sure if it’s available in the US though.  [link](https://www.amazon.fr/dp/B07PY539N4/ref=cm_sw_r_cp_api_i_2YF0E2WSJEHPP9D5E711)
+
+Charger: AUKEY PA-Y19 Minima 30W (really 27w based on outputs). 1.5oz"
+73663,"What is the weight you measured for both the Aukey and the Huawei please?  (That is, not the published weights, but YOUR weights.)  Thanks! Grams preferred :)
+
+Added:  Also did you get a beefier cable rated for at least 30 W for charging?  What length and how much does it weigh please?  Thanks!"
+73664,"7 7/8 oz on the Huawei.  The Aukey, was from their website. I won’t have my hands on it for a month (it’s waiting in the US for me). 
+
+An Amazon review said 46 grams (1.6oz) on their scale."
+73665,"Damn, I nearly ordered a NB10000 this morning for same day Prime delivery, but figured I’d wait to see what you all had to say. Meanwhile you all ordered them and pushed delivery out a week. Maybe NB20000 will come out this week and you’ll wish you hadn’t sniped me. :) 
+Thanks for the help, good luck all, see you on the trail. PCT 3/24."
+73666,"u/GMkOz2MkLbs2MkPain gave me some great feedback on portable battery features and  options, including Anker and [RavPower](https://www.ravpower.com). I ended up getting a 20000mAh battery and a 30W GaN wall charger from RavPower. I know, 20000mAh is a lot. I'm planning on using my phone for Guthook/Camera/Notes/Kindle App/Music/Podcasts/Messaging my wife so she knows I am alive/etc.
+
+You can read his input on my Shakedown request here; [https://www.reddit.com/r/Ultralight/comments/l3jeq3/shakedown\_2021\_pct\_nobo/gkfxswy?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Ultralight/comments/l3jeq3/shakedown_2021_pct_nobo/gkfxswy?utm_source=share&utm_medium=web2x&context=3)"
+73667,Someone actually bothered to type out my username! The Anker nano does look nice for 18 watt charging also?
+73668,"Haha, it was definitely a copy and paste. Just giving credit where credit is due. 👍🏽"
+73669,I have the Nano and it is good but my only complaint is that the prongs don't fold in.
+73670,"If you find yourself ever carrying say a 20k instead of a 10k or something that needs a 30 watt charger instead of the 18 watt. 
+
+  The [Rav power GaN](https://www.ravpower.com/products/rp-pc120-gan-tech-type-c-charger?variant=30213707235403) charger comes in at 59 grams on my scale and has folding plugs. It is a 5 gram weight penalty over the [Anker Power Port Atom PD1](https://www.anker.com/products/variant/powerport-atom-pd-1/A2017121) which comes in at 54 grams on my scale but no folding plugs."
+73671,i have an anker nano and its a fantastic little charger. would even consider carrying 2 instead of one large double port charger for those who want to charge multiple things at once
+73672,"just bought the AUKEY Power Bank Portable Charger, it was 18w input and output and can charge and power at the same time, git it a look"
+73673,For slightly more weight but more flexibility the Xtar PB2S (the one with the fast charging) and some 5000mah samsung cells is a great option. Need more power? Bring more cells.
+73674,"My Xtar PB2 (first gen) failed after just a few uses. Basically wouldn't charge any batteries. I don't trust them, though they have historically made great chargers in the past."
+73675,"Warranty it ?
+
+I've only had the PB2S with fast charging and it's great
+
+I imagine also if there's an issue with the cells (like an unprotected cell shorting out or something?) It could fry the charger ?"
+73676,"Huawei 12000 mah supercharge, 66W input, only available in China for now [https://consumer.huawei.com/en/accessories/12000-66w-supercharge-power-bank/](https://consumer.huawei.com/en/accessories/12000-66w-supercharge-power-bank/)
+
+and Huawei corresponding 66W charger."
+73677,"Do you know how easy these are to get in the US, given the ""Huawei ban?"""
+73678,Either ali express or a friend in Asia/France who can order and ship it to you.
+73679,"I have an Anker 10k PD Redux myself. 
+
+The Nitecore NB10000 looks nice as does the Anker Nano for your desired purpose. (I haven't used Nitecore's powerbank but enjoy their headlamp)
+
+I recently found out from a pack shake down that the [Zendure A3PD](https://www.amazon.com/Zendure-10000mah-External-Portable-Nintendo/dp/B07H9YS4D2) exists. No experience with Zendure though and no idea how much that thing weighs. I bring it up because it claims to support pass through charging. This is a feature that was removed from many reputable brands of power banks I believe due to lowering the overall life span of the battery cells? (Anker for isntance) However if that is the only problem and it really has the advertised capacity/speed and one was ok with sacrificing potential longevity for pass thru charging on the duration of a thruhike it might be worthwhile? Can't speak to the quality of the build/if it is even built to match advertised capacity/weight/the brand actually standing behind them. No name battery banks have been notorious in the past for having fake cells full of sand every ULr's worst nightmare?"
+73680,"I use the Zendure Supermini.  10k, PD in and out, pass-through charging.  6.6 oz.  Has served me well thus far.
+
+[https://www.amazon.com/dp/B07YFN376L](https://www.amazon.com/dp/B07YFN376L)"
+73681,Glad to hear from someone who has something from them!
+73682,"Unfortunately it appears the Zendure A3PD tips the scales at 222 grams, yikes. At that weight it should also filter water, self arrest, and mix margaritas.~~~"
+73683,I did get a youtube ad for a batter power blender the other day that insisted it could blend ice...
+73684,"I mean, even two out of the three would be fine..."
+73685,"I bought a power bank from ELECJET on Amazon. It charged really fast and worked so well! That’s why I bought a wall charger from ELECJET again. Maybe you will find them suitable as well.
+
+Power bank:
+
+https://www.amazon.com/ELECJET-PowerPie-20000mAh-External-Nintendo/dp/B07YLFX8DT/ref=mp_s_a_1_3?dchild=1&keywords=elecjet&qid=1614423113&sr=8-3
+
+Wall charger:
+
+https://www.amazon.com/ELECJET-X21-Chromebook-Compatible-Charging/dp/B08CXP1RMW/ref=mp_s_a_1_4?dchild=1&keywords=elecjet&qid=1614423113&sr=8-4"
+73686,"I can’t speak towards the best but I have tried paperlike and it felt fine. What got me is the price however which leads me to not suggest it.
+
+I went with iCarez and they feel a bit smoother in comparison, they are cheaper even for a 2 pack, and haven’t noticed any nib wear at all and I write a toooon of handwritten notes/drawings.
+
+I don’t think you can really go wrong with any of those brands you listed from what I have read looking for mine a few months ago. iCarez works well."

@@ -1,0 +1,1236 @@
+idx,text
+67728,"Yes, it’s in JavaScript. You can add it to your extension by just downloading the one .js file or you can use the NPM package."
+67729,"so, in short the polyfill extension is useful for only wrapping chrome APIs in promises? But, can i use the polyfills.js library to perform async/await on a chrome extension the way  puppeteer does it by clicking on a link in  a page, getting the req elements and so on using async/await???"
+67730,You can already manipulate DOM directly in content scripts why would you need to do it like puppeteer.
+67731,"True , but I cannot make my code run asynchronously , all JavaScript  I added in the content script would be lost if I click any embedded link. I know in puppeteer we can use async/await and click any link, manipulate Dom, click another link, perform Dom come back to the parent page again etc.."
+67732,You should read the docs on content script manifest options. Running on 'all urls' and 'all frames' is what you are looking for.
+67733,I stopped using it a while ago. Fetch and request-promis(-native) is more than enough. Can't remember the last time I used axios.
+67734,Sadness
+67735,What’s wrong with using the fetch library? It’s built into React and works out of the box.
+67737,"Sure okay,  but why not just use that?"
+67738,"Since it uses XHR under the hood, there are one or two things you can do with Axios that you can't do (yet) with fetch, like upload progress.
+
+Also the Axios API is a bit friendlier in general, fetch is more of a mid-level abstraction - it's fine for trivial stuff but once you move past that it gets a bit verbose/awkward and you end up writing your own wrapper(s) anyway.
+
+Also fetch is a browser API, if you want it in Node you have to use a library (node-fetch) anyway.
+
+That being said I stick with fetch too."
+67739,"Well for one it's not entirely supported across all browsers as it's a relatively new browser API. If you are strictly working in chrome it's not a big deal. Once you move into ie or safari then you need polyfills and such.
+
+You have to keep in mind that not every app can just be like, hey go download chrome 75 and use that only heh the fact of the matter is that people don't update their browsers or OS when they are not devs or more advanced tech users for example."
+67740,Fair enough. I guess since major companies stopped supporting IE11 we do the same for most of our projects as well. But you are right there are cases when we need that support but there are so many other libraries now days that would require polyfills that the fetch API won’t be your only problem at that point.
+67741,"We are forced to support ie10 on both consumer and merchant web applications at my job. Now it's only like 1-3% of ppl but that can translate to millions of dollars.
+
+Edit: removing company in case of dox lol"
+67742,"I had to fight to get IE10 support dropped at mine. Dropping IE11 was not an option since too many customers rely on it for ActiveX and enterprise features either not supported by Edge or the client's IT not willing to deal with learning and forcing everyone onto Edge.
+
+Sadly, our bundled JS could be a fair bit smaller by getting rid of all of the transpiled syntax (i.e. leaving arrow functions in place, classes, etc) but it'll be years before that can happen."
+67743,We (large company that was just appraised at > 1.5Billion US) released a version that was buggy in IE11 but completely broken in IE10. Not a single complaint about IE10 - plenty of people using IE11 though.
+67744,"You could just send a smaller, not transpiled script down to good browsers, and send only ie the shitty script. Then at least you aren't punishing everyone for a handful of people"
+67745,That's what we do. We have a bundle just for ie
+67746,"> Well for one it's not entirely supported across all browsers as it's a relatively new browser API. If you are strictly working in chrome it's not a big deal. Once you move into ie or safari then you need polyfills and such.
+
+Fetch is supported in Safari (both Mac & iOS), Chrome (desktop & Android), Firefox, Edge, and almost everything else: https://caniuse.com/#feat=fetch. Every single browser release since later 2016 has supported fetch.
+
+If you're still supporting IE (not Edge; real IE), then you need add a tiny [fetch polyfill](https://github.com/developit/unfetch). For everybody else, it just works out of the box."
+67747,Yea this is true and you'd be surprised the percent of people that still use those browsers or mobile browsers. I'm not saying don't use fetch but some people would prefer to work with an axios http client API rather than the fetch API as well. I personally like fetch but I can see why people continue to use something like axios.
+67748,"Fetch is not as straightforward as Axios and it behaves differently. For example when you get a 400 or 500 response it does not throw an error which some people prefer.
+
+An alternative is using Wretch which works on top of fetch."
+67749,"In my experience handling files and parameter serialization and a few other things in axios is far superior then what you need to do to get that working in fetch. It's not terrible in fetch and it doesn't take much code on top of fetch, but fetch still isn't widely enough supported based on what some people's clients require."
+67750,Fetch isn't supported by Cypress.
+67751,How? We use it
+67752,I think what you mean is fetch requests are not interceptable by Cypress.
+67753,"Beh, bad article. Doesn't really go into details why thing are ""better"" or ""more secure"". It might be good, but the way this is written seems like 'my-favorite-tool' fandom.
+
+1. The automatic JSON transformation hides information. What if I want to get the HTTP headers, cookies, redirect information or read the status code? The response object has valuable information. This should be explicit asked for.
+
+2. What is the XSRF protection? How does it work ""being better""? Doesn't this need support on the server side?
+
+3. The implicit automatic error handling isn't usefull perse. With REST non-200-ok status codes might mean something for your app. This should also be asked for explicitly.
+
+4. Globally defined interceptors are bad. Globals are bad. Just chain a transform function into your promise chain or create a factory function.
+
+5. Progress info is pretty cool actually.
+
+6. IE8 support is not that valuable, and in most cases these days the app itself doesn't even support IE8 (or IE9, or IE10) so this support wastes bytes for unused features. If this is really important it should be an optional addon/plugin.
+
+And the slammer: 
+
+> *It’s final* and the axios versus node-fetch debate is over. You’re now a well informed GET/POST and request/response master, so *do your thang*. 
+
+I feel the author lacks experience (but compensates on enthusiasm)."
+67754,"I agree that the article is more subjective than it should be. For those who would want more details :
+
+> What if I want to get the HTTP headers, cookies, redirect information or read the status code? The response object has valuable information. This should be explicit asked for.
+
+Actually the response object has all you need, for example response.headers, response.request... only response.data is automatically transformed if your responseType is set to json, which is the default. So simply changing the responseType should be enough to get the raw response.
+
+> What is the [XSRF protection](https://en.wikipedia.org/wiki/Cross-site_request_forgery)? How does it work ""being better""? Doesn't this need support on the server side?
+
+Some frameworks ask for token to authenticate specific requests, and you can set Axios to store this in a cookie which will be automatically sent as a HTTP header (both cookie name and header name are configurable). This is actually pretty sweet since once configured on both sides, you really forget about it.
+
+> The implicited automatic error handling isn't usefull perse. With REST non-200-ok status codes might mean something for your app. This should also be asked for explicitly.
+
+There's an option to change that quite easily, that should have been mentioned in the article :
+
+    validateStatus: function (status) {
+        return status >= 200 && status < 300; // default
+      },
+
+> Globally defined interceptors are bad. Globals are bad. Just chain a transform function into your promise chain or create a wrapper function.
+
+You can define interceptors per instance, I'm not a fan of the global axios instance and prefer to create one for each component I have via axios.create. Interceptors are super nice because they can live really before your response handling code : I was able to change my whole app from JSON to msgpack for the sake of it by just changing the Accept/Content-Type header and POST data and decoding the response in an interceptor (all in transformRequest, server-side serialization depends on Accept header). This is done in my constructor function returning each instances, so all my custom in-components code was untouched and didn't need any changes !"
+67755,"Thanks for the additional info. The extra options and workarounds diminish the implied simplicity of Axios a little bit. 
+
+Anyway, it might be good library overall, I have no practical experience with it, but it is not represented well in the article."
+67756,"I've just spent my day tinkering with it so the documentation is still fresh in my mind. Documentation which list all options but doesn't explain each and every one in a paragraph, I had to look at the source to be sure.
+
+So the direction is quite clear : this is an easy library since the defaults are sensible, like the JSON-first approach, and the documentation mostly focus on methods on how to GET/POST/PUT and create instances. Just install, instanciate, and boom you can send requests !
+
+But dig a bit and you find that you can easily change everything to fit your needs, albeit you need a bit of experience in reading documentation and parameters syntax to figure it out. To me this is the sign of a complete library compared to a mere polyfill.
+
+As you said, it deserves a more detailed article to explain it, maybe I'll share my own journey when I'm done !"
+67757,"I mean, you said you needed to look at the source for many options, and having to ""figure out"" documentation is always a big red flag - documentation should aim to be as explanatory as possible. It sounds to me that, while it's complete in terms of having plenty of features, it's by no means complete in terms of usability and maturity.
+
+It's harder to make a straight comparison to node-fetch, given that node-fetch is just a polyfill, and so can just refer to the documentation available for the APIs that is polyfilling. That said, the MDN documentation for the official fetch API is a gold standard, and I would far rather deal with a tool that contains fewer conveniences but has MDN-level documentation, than one that will inevitably have me fighting through source code and confusing documentation to find an answer."
+67758,"Regarding number 4, by this logic all global configuration would be considered “bad”. If I want to log a user out anytime I get a 401 response from the server I don’t want to add that logic to every API request’s promise chain."
+67759,"> If I want to log a user out anytime I get a 401 response from the server I don’t want to add that logic to every API request’s promise chain.
+
+    const logoutIf401 = (response) => {
+      if (response.status === 401) {
+        logout();
+        throw new Error();
+      }
+      return response;
+    };
+
+    fetch('whatever')
+      .then(logoutIf401);
+
+
+    // Or:
+
+    const myCustomFetch = (...args) => fetch(...args).then(logoutIf401);
+
+    myCustomFetch('whatever');"
+67760,Not something I want to do every time
+67761,"...That's the point, you define it somewhere once and use that version."
+67762,"It is fine, until it isn't and then you got a big problem cutting it out. 
+
+It is a bit naive and based on assumption there is only one API and you'd never need to get stuff from another that might return 401 but is not related to your user stuff. Just don't do it."
+67763,"I think you haven't used Axios, or you haven't dug deep enough into its documentation:
+
+>The automatic JSON transformation hides information. What if I want to get the HTTP headers, cookies, redirect information or read the status code? The response object has valuable information. This should be explicit asked for.
+
+A response returned by axios is a standard HTTP response that has been parsed to a friendly JS object from the JSON string. This reduces the number of repetitive tasks that you have to do (manually parse JSON like in Fetch), thus reducing the probability you might get an error. The less code you have to write, the better.
+
+>The implicit automatic error handling isn't usefull perse. With REST non-200-ok status codes might mean something for your app. This should also be asked for explicitly.
+
+It is a terrible behavior for Fetch to receive a 500 status code from the server and treat it as 200. Server error is something you should always expect as a server maintainer, for example, your server might not implement autoscaling and is prone to DDOS attack. If this happens, the client side of your web application is very likely to experience 500 or 40x status code. It is bad if Fetch considers this a failed 200-ish status code.
+
+>Globally defined interceptors are bad. Globals are bad. Just chain a transform function into your promise chain or create a factory function.
+
+You should never, ever use a global variable to send HTTP requests. It's always a must that you create an instance for each type of HTTP requests you're about to send, like basic requests or authentication-based HTTP requests. In this way, you can isolate different types of HTTP request from one another, giving each with different types of interceptors that doesn't occupy a global variable name. 
+
+>IE8 support is not that valuable, and in most cases these days the app itself doesn't even support IE8 (or IE9, or IE10) so this support wastes bytes for unused features. If this is really important it should be an optional addon/plugin.
+
+It is not just about IE8, but it is more about a wider range of compatibility. And if you develop an app professionally, you should always consider transpiling your Javascript code so it will improve the performance of your app, protect your source code, reduce the app size, as well as supporting a wider range of browser. And of course, it is better if your HTTP client can also do the same thing."
+67764,"Speaking of problems with the article...
+
+> It is a terrible behavior for Fetch to receive a 500 status code from the server and treat it as 200.
+
+That's not even true. People only get this idea because the promise doesn't automatically reject. Fetch behaves like this because it makes a distinction between a network error (the server can't be reached for whatever reason), and a completed request where the response happens to have an HTTP error code.
+
+If you don't like that design regardless, you still have the option of rejecting when `!response.ok` or `response.status === 500`, etc."
+67765,"> HTTP response that has been parsed to a friendly JS object from the JSON string. 
+
+I don't understand this, and it's tripped me up with axios, and also on a PHP library that does web requests too.
+
+Generally speaking, it's horrible to use the same variable for two different things, and especially for two different types (string vs object).  
+
+> This reduces the number of repetitive tasks that you have to do (manually parse JSON like in Fetch)
+
+But it doesn't... it actually creates a bunch more work.  Now I need to write conditional code for every web request to determine whether `response.data` is a string or an object, and then write even more code to account for dealing with both data types.  You can't rely on an external server always succeeding and returning exactly what you were expecting.
+
+The developer is expecting to either operate on string or an object, so why wouldn't `response.data` just stay consistently as a string, and have a method like `response.dataAsObject()` to return it as an object?  It's not more work for the developer, and it means the library behaves in a consistent way.
+
+Please let me know if I misunderstood something, but this ""it saves work"" point just seems completely the opposite to me.  And it's caused multiple problems for me, and many many others from everything I see online about it."
+67766,"Stop your defensive fanboyism and assumptions.  Many of your points are true in general but a bit dogmatic handled. 
+
+Anyway, the comment was about the article not Axios. I haven't used Axios, but I don't think that should be required to read an article about it, it should stand on it's own merit."
+67767,"Here's the thing:
+
+The `fetch` API was intended as a promise-based replacement for the clunky `XMLHttpRequest` in browsers. It makes it easy to do simple requests without an external library, but it wasn't intended to be full of convenience features or remove all conceivable need for such libraries. In the [spec repo](https://github.com/whatwg/fetch), often when somebody complains in the issues about something that they think isn't very ergonomic, the official advice is ""just write/use a wrapper"".
+
+Axios is one of those aforementioned convenience libraries. In the browser it *could* wrap `fetch`, however for now it continues to use `XMLHttpRequest` under the hood because:
+
+1. Compatibility
+
+2. Fetch is still missing one or two features that XHR has, like upload progress monitoring
+
+So my point is that, even if there is some use-case overlap, in the browser fetch and Axios kinda serve different purposes - one's a medium-level native API, the other is a higher-level external convenience wrapper.
+
+With Node the story is a little different: both Axios *and* `node-fetch` wrap Node's built-in low-level API. So why does `node-fetch` exist then? Why would developers use a less convenient/feature-rich API if it requires an external package anyway? For two reasons:
+
+1. They already use fetch on the frontend (because it's built-in/standardized and good enough for their use case) and want to reduce cognitive overhead by using the same API on the backend.
+
+   and/or...
+
+2. They are running the same code on the frontend and backend (e.g. React server rendering), so they need a (more-or-less) cross-compatible API (running via `isomorphic-fetch` or similar). Axios can serve this purpose too, but it's still extra dependency code on the frontend.
+
+So yeah my overall point is that directly comparing the two kinda misses these nuances. Even more so in an article like this one where point number 6 talks about browser compatibility... for `node-fetch`..."
+67768,Axios let's you cancel requests.  Most libraries do not.
+67769,Fetch (in recent versions of browsers) allows you to cancel now. I don't know if node-fetch does though.
+67770,"Thank you, learned something new. Been using axios for a while, but had no idea about the post progress monitoring."
+67771,Nice article
+67773,"There's still a large portion of the world that's illiterate. Here's the part where I politely asked:
+
+>No one’s perfect, so if you found any errors or would like to add enhancements, feel free to shoot me a message. I will be sure to include any enhancements and/or correct any issues.
+
+Also, GraphQL and RESTful applications require HTTP requests.
+
+Here's the link if anyone wants to donate to end illiteracy: [Project Literacy](https://www.projectliteracy.com/get-involved/give-to-literacy-new)"
+67774,"I’m not sure what prompted this response, but I like it!"
+67775,I use node-fetch because it's almost identical to browser fetch.
+67776,"Same. Axios is great too, but it's nice to only have to remember one API."
+67778,based
+67779,I use isomorphic fetch because it's made to be identic to browser fetch.
+67780,I've been using superagent for backend. If I'm writing tests I can also use supertest which has the same api for the most part. Since superagent implements \`then\` you can await the request object.
+67781,Superagent is a popular choice as well. I've never used it myself but I'm familiar with the API since I've used supertest for testing. I've had good experience with it.
+67782,"I'm using the native Node https.request Super easy to use and zero dependencies. [https://nodejs.org/api/https.html#https\_https\_request\_options\_callback](https://nodejs.org/api/https.html#https_https_request_options_callback)
+
+Am I missing something by not using axios or others alike?"
+67783,"The native http module is a lower level API requiring you to write more code to accomplish common tasks. For example, reading a json body response and parsing it requires you to listen to the `'data'` event stream, concatenate the chunks and then calling `JSON.parse()`. With `node-fetch` it's just `res.json()`."
+67784,"So in other words not really. Just boilerplate code that lets you avoid using ugly nodejs event emitters and stuff.
+
+I think if you just tinker around with njs for mock backends or whatever (like me) you're good with http(s) but if you are coding complex backend-heavy websites then you might benefit from using one of the above modules.
+
+On the flip side you might be coding complex server logic and might benefit from having less dependencies and lower level control over requests... 
+
+But I digress, it depends (as always) on what you're doing and what you need and what kind of programmer you are."
+67786,"I nearly made the switch to Axios, until I saw [this Reddit post](https://www.reddit.com/r/javascript/comments/cp5qhm/askjs_the_sad_state_of_axios/)"
+67787,it still apply ?
+67788,"2020 certainly seems a lot better for the project than 2019 was, but I still personally know a handful of unfixed bugs (many with PRs open to fix) that are rather high visibility... See the charts https://github.com/axios/axios/graphs/contributors"
+67789,seems like there a some recent commit this year
+67790,"for anyone moving from `request`, `axios` also has a ton less dependency baggage."
+67791,Oh for sure! https://imgur.com/IZBuXnQ
+67792,yeah one hell of a difference
+67793,"Solid choice. What I think node-fetch does better is that they're using the [AbortController API for cancellation](https://github.com/node-fetch/node-fetch#request-cancellation-with-abortsignal). The axios cancel token API is based on the withdrawn cancelable promises proposal.
+
+An interesting observation is that Axios is much popular when you look at repo stars (78k vs 5.6k) but in terms of NPM downloads node-fetch tops the list (19M weekly installs vs 13.5M). https://www.npmtrends.com/node-fetch-vs-axios-vs-got"
+67794,Redaxios
+67795,"A tinier axios, nice :) https://github.com/developit/redaxios"
+67796,"Depends on the project. 
+
+If it’s a big project I usually go with Axios but when I need something lightweight I will use Ky. 
+
+https://github.com/sindresorhus/ky"
+67797,"I am using [ky](https://github.com/sindresorhus/ky) and [ky-universal](https://github.com/sindresorhus/ky-universal). Switched from Axios about a year ago, don't miss it much (apart from easier handling, but this is due to using \`fetch\` underneath \`ky\`)."
+67798,I find the  inbuilt http module to be powerfull and easy enough for most task
+67799,i just use http
+67800,I still use request :(
+67801,By the sad face I assume you'd like to use something else but aren't able to. What stops you from migrating?
+67802,"I brought it up to my team but they don't see it as an issue, they only see it as rework. I don't know much else to say to convince them!"
+67803,"If your colleagues have many features to implement and bugs to fix, migrating the request library might not justify as a prioritised task. Especially when it's a lot of effort that has no impact to the end user or business as a whole.
+
+It's ok to keep using `request` in the foreseeable future. It doesn't have any vulnerabilities now, in fact [it didn't for a while](https://snyk.io/advisor/npm-package/request), and it's unlikely to have one any time soon. It has plenty of features and gets the job done.
+
+I wouldn't choose `request` when starting a new project, but for existing projects I'd consider the migration to a different library more of a nice-to-have task."
+67804,"Thanks a lot for clarifying, Max! :)))"
+67805,Postman-request is being maintained and it's been a drop-in fit for us.
+67806,"One thing I couldn't find in those other libs is time measurements of a request, although for new project If I remember correctly now I used something from 'perf_hooks', bit I feel like it's not that accurate, anyhow does a job well enough"
+67807,"Or even simpler:
+```
+console.time('myrequest');
+await fetch(url);
+console.timeEnd('myrequest');
+```"
+67808,"Hello, _maximization. Just a quick heads up!
+
+It seems that you have attempted to use triple backticks (\`\`\`) for
+your codeblock/monospace text block.
+
+**This isn't universally supported on reddit**, for some users your comment
+will look not as intended.
+
+You can avoid this by **indenting every line with 4 spaces instead**.
+
+Have a good day, _maximization.
+
+^(You can opt out by replying with ""backtickopt6"" to this comment)"
+67809,"Pretty simple:
+
+[https://nodejs.org/dist/latest-v15.x/docs/api/https.html#https\_https\_get\_url\_options\_callback](https://nodejs.org/dist/latest-v15.x/docs/api/https.html#https_https_get_url_options_callback)
+
+This is fine for most cases and fairly simple.
+
+When you need more, I try to keep as close to browser fetch as possible."
+67810,I’m not actually a dev but I think the word “axios” sounds the coolest. It looks like others agree!
+67811,Axios everytime because I'm used to it. I guess I would use node-fetch with a custom wrapper around it for a new project.
+67812,@hapi/wreck
+67813,core module http not listed ?
+67814,I should have! Apparently quite some folks prefer to use the lower level core module to do http requests in Node.js.
+67815,"Postman-request.  It's a fork maintained by the Postman folks, because Postman itself uses it."
+67816,I use node-fetch and I don't have experience with Axios. What is the advantage?
+67817,It's mostly preference. Some folks like the API of Axios more. Both get the job done for most use cases.
+67818,Just replaced request with axios in some deploy scripts a couple of days ago.
+67819,"I use the native core http(s) module, I wrote a little wrapper that gives it a sort of modern interface (axios like), I also change the agent to (agent keep alive) if I have a large amount of outgoing connections"
+67820,postman-request
+67821,"Never heard of this one, interesting! https://www.npmjs.com/package/postman-request
+
+Seems to be a fork of the original request module with additional fixes."
+67822,I’ve been using superagent because I like and use callbacks. Axios callback support was lacking when I tried it.
+67823,Why like callbacks? Everyone I know seems to hate them passionately
+67824,"I’ve been writing JS for 20 years, I understand and like callbacks. Promises and async have some gotchas that I have yet to master."
+67825,"Right on, to each his own. Just hadn't seen this view before is all."
+67826,Care to list a few?
+67827,"Mixing promises and callbacks has been problematic for me. My existing code base uses callbacks and integrating async/await or promises seems to bite me in the ass. Unhandled promise rejection in the console comes to mind, with a lack of stacktrace. 
+
+Also, I can visualize the event loop with callbacks, I get it. I have no idea what happens with the event loop with async/await and that lack of understanding, leads me away. 
+
+Also, callback hell isnt a thing for me. node-async lib and it wonderful control flow patterns helps a ton."
+67828,I switched to superagent a couple of years ago. It made passing headers and pulling back blobs really simple for what I had to do.
+67829,"Ky, also by Sindre.
+[https://github.com/sindresorhus/ky](https://github.com/sindresorhus/ky)"
+67830,Are you using Ky in frontend or backend?
+67831,Usually just front but you can use it for back also with ky-universal.
+67832,"That makes sense. Sindre recommends using `got` in the backend instead, or `ky-universal` like you mentioned. The poll is related to Node.js in the backend which could explain the downvotes.
+
+Thanks for sharing your choice!"
+67833,"Greg Egan's Permutation City.
+
+MMSmith's Only Forward.
+
+Stanislaw Lem's Cyberiad.
+
+Suarez's Daemon and Freedom(TM)."
+67834,Love Daemon. Currently reading Delta v and it's a good start.
+67835,"In no particular order:
+
+Cryptonomicon by Neal Stephenson
+
+Anathem by Neal Stephenson
+
+Jonathon Strange and Mr Norrell By Susanna Clarke
+
+Night Watch by Terry Pratchett
+
+House of Suns by Alastair Reynolds
+
+Among Others by Jo Walton
+
+Diaspora by Greg Egan
+
+Jumper by Stephen Gould
+
+A Deepness in the Sky by Verner Vinge
+
+Steel Beach by John Varley
+
+I also got bored a couple years ago and created [this bracket](https://imgur.com/t6ti7mM) to determine my number one favorite novel out of a field of 64."
+67836,"> I also got bored a couple years ago and created this bracket to determine my number one favorite novel out of a field of 64.
+
+Ooh, that's an interesting idea. Did you use any special software for that?"
+67837,"Excel, and just googled a March Madness bracket."
+67838,"Thanks, I'll have to try that some time."
+67839,"Am currently reading Cryptonomicon and am through more than 2/3 of the book and I can't see why it is classified as science fiction. 
+
+Also it is an ok book but it doesn't come near Snow Crash and that is just my opinion."
+67840,"You are nearly there, although there are hints you missed, it is a big damn book."
+67842,How the hell did Among Others beat Hyperion? That's an underdog story if ever I heard one.
+67843,"1. *Surface Detail* by Iain M. Banks
+2. *House of Suns* by Alastair Reynolds
+3. *Hydrogen Sonata* by Iain M. Banks
+4. *Accelerando* by Charles Stross
+5. *Blindsight* by Peter Watts
+6. *The Player of Games* by Iain M. Banks
+7. *Diaspora* by Greg Egan
+8. *Diamond Dogs, Turquoise Days* by Alastair Reynolds
+9. *Permutation City* by Greg Egan
+10. *Incandescence* by Greg Egan
+
+Ask me tomorrow and the order and list will likely change. I would also add, I refrained from putting books that are parts of an ordered series on the list. The entire Culture series by Ian M. Bank is phenomenal. Each book in the series can be read separately in any order. There are several series that when taken on whole, including the novels, novellas, and compilations are excellent:
+
+* The Revelation Space series by Alastair Reynolds
+* The Expanse series by James S. A. Corey
+* The Xeelee sequence by Stephen Baxter
+* The Nexus trilogy by Ramez Naam"
+67844,"*Iain M. Banks*
+*Iain M. Banks*
+*Iain M. Banks*
+
+Ah, a man of culture."
+67845,No love for *Excession*?
+67846,>The entire Culture series by Ian M. Bank is phenomenal.
+67847,I meant relative to the rest of Bank's work.
+67848,Ask me tomorrow.
+67849,"In no order
+
+Dune series, Herbert
+
+Hitchhiker’s Guide series, Adams 
+
+Flow My Tears, the Policeman Said, PKD
+
+Steel Beach, Varley
+
+Martian Chronicles, Bradbury 
+
+Book of the New Sun series, Wolfe
+
+Stories of Your Life and Others, Chaing
+
+Western Lands Trilogy, Burroughs (vaguely SF)
+
+Hard-Boiled wonderland and the End of the World, Murakami 
+
+Saga-graphic novels, I’m new to this series and may not be my favorite but goddamn is it good"
+67850,"1. Hitchhikers Guide To The Galaxy
+2. Space Demon (sentimental reasons)
+3. Red Dwarf 
+4. Hello America
+5. Non-Stop
+6. The Drowned World
+7. Brain Wave
+8. Jumper
+9. Better Than Life
+10. Only Forward
+
+First 10 that came to mind."
+67851,"1. Hyperion by Dan Simmons
+2. The Left Hand of Darkness by Ursula K. Le Guin
+3. The Dispossessed by Ursula K. Le Guin
+4. Childhood's End by Arthur C. Clarke
+5. The Player of Games by Iain M. Banks
+6. The Three-Body Problem by Liu Cixin
+7. Children of Time by Adrian Tchaikovsky
+8. Steel Beach by John Varley
+9. The Positronic Man by Isaac Asimov
+10. Roadside Picnic by Arkady and Boris Strugatsky"
+67852,Your the first person I have come across who has read steel beach!!! Great book
+67853,It's the book that got me into science fiction!
+67854,Me too. That and the Martian chronicles.
+67855,"I loved almost everything on your list, bu haven't read steel beach. I know what next week looks likle."
+67856,"If I am being totally honest, Greg Egan would fill every spot. But that would be boring, so here's a list of books that influenced me when I read them, in no particular order and ignoring Egan:
+
+Foundation Series
+
+Speaker for the dead
+
+Uplift Series
+
+Rendezvous with Rama 
+
+Childhoods end
+
+Canticle for lebowitz 
+
+Nightfall"
+67857,Speaker for the Dead over Ender’s Game?  I read both long ago in high school but Ender’s Game had the impact on me for being the start of the series.  I liked the series in general but my memories vague.  Liked the philosophical nature of them even though the plot advancement was painfully slow for my high school mind.  The Ender’s Shadow branch of the series appears largely silly to me now despite being more action packed.  Think that branch got more silly with each subsequent book.
+67858,"The humanism in speaker for the dead came through a lot better for me than in Ender's game. A lot of the charm in Ender's game were the battle games and how ender outwits everyone else and the focus is not so much on the philosophical themes.
+
+This makes the ending that much more shocking but also it means that the philosophy gets explored to a lesser degree. Those are the only two books I read in that series. The others seemed to have really mixed reviews."
+67859,I see your point. To the young reader Ender's Game would be more appealing. But as a mature reader I think Speaker for the Dead is perhaps Cards finest work.
+67860,Love your list! Except for Foundation which never really connected for me. Id put Dune on instead.
+67861,"Haha, I never managed to get into Dune - it's too fantasy-ish for me :) I read Foundation when i was 12 or so and it had a massive impact on me at that age, just for the sheer scope of ideas involved."
+67862,"1. The Book Of The New Sun by Gene Wolfe
+2. The Left Hand Of Darkness by Ursula K. Leguin 
+3. Hyperion by Dan Simmons
+4. Dune by Frank Herbert 
+5. Excession by Iain M. Banks
+
+(It gets more difficult here. The rest are in no particular order)
+
+Revelation Space by Alastair Reynolds
+Ender's Game by Orson Scott Card
+Kirinyaga: A Fable Of Utopia by Mike Resnick
+Pattern Recognition by William Gibson 
+A Fire Upon The Deep by Vernor Vinge"
+67864,"Good top ten. I took the same approach with my list. As for *Contact*, I enjoyed it very much, and I was pleasantly surprised by how good it was considering that Sagan was not primarily a fiction writer."
+67865,"Cheating here in listing more than ten books, but i could have just listed ten books that changed my life just from Heinlein, so i went with ten authors that molded by childhood and the one novel i would want someone to read (or two by that author) to better understand my imagination  :)
+
+1. Shadow of the Torturer/Urth of the New Sun by Gene Wolfe
+2. Dune by Frank Herbert
+3. Armor by John Steakley
+4. Starship Troopers/Stranger in a Strange Land by Robert Heinlein
+5. The Forever War by Joe Haldeman
+6. Rendezvous with Rama by Arthur C. Clarke
+7. The Regiment by John Dalmas
+8. The Integral Trees by Larry Niven
+9. The Postman/Startide Rising by David Brin
+10. The Worthing Saga/Folk of the Fringe by Orson Scott Card"
+67866,"> The Postman
+
+I have to say I'm a fan of the film and should have known there'd be an awesome novel behind it."
+67867,"I loved the movie, too, even though it was very inferior to the book"
+67868,"The Worthing Saga is so awesome.  First Card book I read and had the most impact.  Loved that book.  Read The Forever War recently.  Man, for a relatively short work, it packs an excellent sci-fi punch."
+67869,"I don't think I could rank these, but these are my ten favorite SF books:
+
+*The Science Fiction Hall of Fame, Volume 1*
+
+*Downward to the Earth* by Robert Silverberg
+
+*Breathmoss and Other Exhalations* by Ian R. MacLeod
+
+*Flow My Tears, the Policeman Said* by Philip K. Dick
+
+*The War of the Worlds* by H.G. Wells
+
+*The Island of Doctor Death and Other Stories and Other Stories* by Gene Wolfe
+
+*Her Smoke Rose Up Forever* by James Tiptree Jr.
+
+*An Exaltation of Larks* by Robert Reed
+
+*Kate Wilhelm in Orbit*
+
+*Dhalgren* by Samuel R. Delany"
+67870,"Foreigner by C. J. Cherryh
+
+We Who Are About To... by Joanna Russ
+
+Otherland by Tad Williams
+
+Ancillary Justice by Ann Leckie 
+
+Borne by Jeff Vandermeer 
+
+Old Man's War by John Scalzi 
+
+Xenogenesis by Octavia Butler 
+
+The Quiet Invasion by Sarah Zettel 
+
+The Expanse by James S. A. Corey
+
+Binti by Nnedi Okorafor 
+
+I guess some of these I'd choose the whole series."
+67871,">Old Man's War by John Scalzi 
+
+I read the first book. Just don't get what the hype is all about."
+67872,I haven't read the full series but the sequels are where it shines imo. Though I know that might not be an endorsement if you couldn't get into to first one though.
+67873,"1) Pandora's Star by Peter F Hamilton\*\* 
+
+2) Hyperion by Dan Simmons
+
+3) Altered Carbon by Richard Morgan\*\*\*
+
+4) Dune by Frank Herbert
+
+5) 1984 by George Orwell
+
+6) Snow Crash by Neal Stephenson
+
+7) The Road by Cormac McCarthy\*\*\*\*
+
+8) The Dispossessed by Ursula K. Le Guin
+
+9) The Left Hand of Darkness by Ursula K. Le Guin
+
+10) Stranger in a Strange Land by Robert A. Heinlein\*\*\*\*\*
+
+&#x200B;
+
+\*\*I want to say the Commonwealth Duology as one, because the follow-up novel, Judas Unchained, is a direct continuation and I consider the two books as one volume.
+
+\*\*\*And really, the whole Takeshi Kovacs trilogy is good.
+
+\*\*\*\* Post-apocalypse counts, right?
+
+\*\*\*\*\*Honestly it's getting a little crowded around the 10 spot, tons of books vying for a spot. The Martian, Seveneves, Glasshouse, Watchmen (if you count it), Flowers for Algernon, Contact, Starship Troopers... so many good sci-fi books."
+67874,"1. Dune (Series) by Frank Herbert and Others
+2. Three Body (Series) by Cixin Liu
+3. Accelerando by Charles Stross
+4. Hyperion (Series) by Dan Simmons
+5. The Diamond Age by Neal Stephenson
+6. Xenogenesis (Series) by Octavia E. Butler
+7. Red Rising (Series) by Pierce Brown
+8. Enders Game (Series) by Orson Scott Card
+9. Marid Audran (Series) by George Alec Effinger
+10. Grimnoir Chronicles (Series) by Larry Correia (so much fun)"
+67875,"I've been on a Sci-fi binge for a while now and have been going through all the most popular ones. My top ones  would likely be something like
+
+1. Sphere
+1. Seveneves
+1. Children of Time
+1. Bobiverse books
+1. The Expanse books
+1. Red Rising
+1. Rendezvous with Rama
+1. House of Suns
+1. Altered Carbon 1 and 2
+1. Pushing Ice
+
+Probably more I'm forgetting, those are just from the last few years. I'm still working my way down the list of the most popular series. I've dropped many I'll have to go back to and try again. Expeditionary force was pretty interesting until Skippy ruined it. I couldn't get into Hyperion at all, I need to try it again I guess. Same with Pandora's star. Three Body Problem is really popular, but definitely not to my taste, I've tried it 3 times and made it about 80% of the way in before saying nope. 
+
+I'm pretty particular and very picky, I like ""believable science"" and especially a focus on first contact with aliens that are *actually alien*. I don't like magic pretending to be technology like magic faster than light travel and magical blue beams that are totally science lasers and not ki blasts from Dragonball.
+
+I get REALLY salty when aliens are like Star Wars ""aliens"", where the ""aliens"" are just humans with green or blue skin. They act like humans, talk like humans, look like humanoids, and even use VERY similar body language and physical speech patterns to humans. 
+
+Lame. If I wanted to read about humans, I'd be reading non-fiction. 
+
+I like aliens that are *actually* alien. Sadly, those are fairly hard to find, so basically none of the ones on my list have aliens / don't have great aliens. The ""aliens"" in Children of Time are very good examples of ""good aliens"" IMO. They have completely different technology, completely different society, completely different biology, completely different mannerisms and their actions don't even make sense to humans etc. They aren't just humans with blue scales on their skin, they are *actually alien* despite not *actually being aliens*"
+67876,">Expeditionary force was pretty interesting until Skippy ruined it. 
+
+Damn, I'm just reading that now. Heh.
+
+(I also could not get into Hyperion.)"
+67877,"> Three Body Problem is really popular, but definitely not to my taste, I've tried it 3 times and made it about 80% of the way in before saying nope.
+
+Well it is really worth the effort. The first book only sets the scene, it was rather hard to read for me too. If you want you can also just skip ahead, the second and third books will make it worth to get familiar with this universe."
+67878,"1.  Anathem.
+2.  The Book of the Long Sun
+2.  Dune Messiah
+6.  The Book of the New Sun
+7.  The System of the World
+7.  Neuromancer
+8.  Permutation City
+9.  Devices & Desires
+10.  Maddaddam
+6.  The Book of the Short Sun"
+67879,"In only a vague sort of order:
+
+*Player of Games* by Iain M Banks
+
+*Hydrogen Sonata* by Iain M Banks
+
+*The Expanse Series* by James SA Corey (bit of a cheat but it's basically one long book right?)
+
+*The Long Earth* by Terry Pratchett & Stephen Baxter (but not really the rest of the series)
+
+*The Collapsing Empire* by John Scalzi. I loved *Old Man's War* but there's some wonderful phrase turning in *The Collapsing Empire* series
+
+*Sea of Rust* by C Robert Cargill. Recent but I loved it.
+
+*The Quantum Thief* series by Hannu Rajaniemi
+
+*Bloodlines* by Karen Traviss. Star Wars books may not always be considered proper sci fi, but hey there's aliens, space travel and I'm really fond of this book!
+
+*The Algebraist* by Iain M Banks. 3 separate entries for Banks while others get 1 mention from a whole series but hey ho.
+
+~~*Children of Time* by Adrian Tchaikovsky.~~
+
+**Edit**: *Hitchhiker's Guide to the Galaxy* by Douglas Adams. My view of this is slightly tainted by the 5th book, but after thinking about it a bit I remember really enjoying the 1st one so it deserves a place in my top 10, edging out *Children of Time*."
+67880,"*Speaker for the Dead* by Orson Scott Card
+
+*The Dispossessed* by Ursula K. Le Guin
+
+*Ubik* by Philip K. Dick
+
+*The Hitchhiker's Guide to the Galaxy* by Douglas Adams
+
+*The Handmaid's Tale* by Margaret Atwood
+
+*More Than Human* by Theodore Sturgeon
+
+*In the Country of Last Things* by Paul Auster
+
+*Armor* by John Steakley
+
+*A Wrinkle in Time* by Madeleine L'Engle
+
+*The Player of Games* by Iain M. Banks"
+67881,"1. Count Zero - William Gibson
+2. Neuromancer - William Gibson
+3. Idoru - William Gibson
+4. The Fortunate Fall - Raphael Carter
+5. Random Acts of Senseless Violence - Jack Womack
+6. Hard Boiled Wonderland and the End of the World - Haruki Murakami 
+7. The Diamond Age - Neal Stephenson 
+8. Synners - Pat Cadigan
+9. Do Androids Dream of Electric Sheep? - Phillip K. Dick
+10. Red Spider, White Web - Misha Nogha"
+67882,"I  picked up the e-book of *Synners* as a blind buy a few days ago, because it was only two bucks. Based on the rest of your list, I'll probably enjoy it."
+67883,"* Dune by Frank Herbert
+* God Emperor of Dune by Frank Herbert 
+* Replay by Ken Grimwood
+* Life After Life by Kate Atkinson 
+* Doomsday Book by Connie Willis
+* Exultant by Stephen Baxter
+* The Dark Beyond the Stars by Frank M Robinson 
+* 11/22/63 by Stephen King 
+* Starship  Troopers by Robert Heinlein 
+* Spin by Robert Charles Wilson
+
+Apparently this is highly controversial?"
+67884,"All right, so Top 10 for me means the ""best"" SF I've read, rather than my favorite (which would be more or less the same authors, just different titles). 
+
+**""Top 10""**
+
+*Lilith's Brood*, Octavia Butler
+
+*The Story of Your Life and Others*, Ted Chiang
+
+*Dhalgren*, Samuel R. Delany
+
+*Diaspora*, Greg Egan
+
+*The Dispossessed*, Ursula K. Le Guin
+
+*His Master's Voice*, Stanislaw Lem
+
+*Green Mars*, Kim Stanley Robinson
+
+*CivilWarLand in Bad Decline*, George Saunders
+
+*Slaughterhouse Five*, Kurt Vonnegut Jr.
+
+*The Fifth Head of Cerberus*, Gene Wolfe
+
+
+**Honorable Mention 10**
+
+*The Year of the Flood*, Margaret Atwood
+
+*The Player of Games*, Iain M. Banks
+
+*Martian Chronicles*, Ray Bradbury
+
+*VALIS*, Philip K. Dick
+
+*Gnomon*, Nick Harkaway
+
+*The Incal*, Alejandro Jodorowsky & Mœbius
+
+*Mission Child*, Maureen McHugh
+
+*Hyperion*, Dan Simmons
+
+*Anathem*, Neal Stephenson
+
+*Blindsight*, Peter Watts"
+67885,"1. ***Remembrance of Earth's Past*** (all three books)
+2. **Bobiverse Series** (all three books)
+3. **Children of Time**
+4. **Ender's Game**
+5. **All Systems Red**
+6. **Foundation** (all books)
+7. **Old Man's War**
+8. **Altered Carbon & Broken Angels**
+9. **The Expanse Series** (some of the books are great)
+10. **Ellenpont** (by Péter Zsoldos)
+
+I have just read the Remembrance of Earth's Past series and it is absolutely mind blowing universe. I think Children of Time is also a great series and shows some original ideas. Bobiverse was absolute easy read because it lacks human drama for most of its content."
+67886,"**-Seveneves/ Neal Stephenson** (I have never been disappointed by a Neal Stephenson book)
+
+**-Annihilation / Jeff Vandermeer** (Same, except he's a frigging weirdo and gives little care to your concept of narrative reality)
+
+**-Stranger in a Strange Land/ Robert Heinlein** (however, I would never suggest reading it if your older than 17)
+
+**-The Worthing Saga / Orson Scott Card**
+
+**-The Remembrance of Earth's Past Trilogy / Liu Cixin**
+
+**-The Time Travelers Wife / Audrey Niffenegger**
+
+**-Pump Six and Other Stories / Paolo Bacigalupi**
+
+**-Ancillary Justice / Ann Lecke**
+
+**-The Half Made World / Felix Gillman**
+
+\-**The Paper Menagerie an Other Stories/ Ken Liu** (Kinda fantasy too. Honestly anything by Ken Liu is worth it's salt)"
+67887,Started reading 'Forever War' and was enjoying it. Book set in Afghanistan and Iraq. 50 pages in was waiting for science fiction part to kick in - never did. Turns out there is another book entitled Forever War by Dexter Filkins. Committed now and can't turn back - be wary.
+67888,I admire your commitment!
+67889,I know right? I've thrown books out the window 300 pages in.
+67890,I gave up on gravity's Rainbow 100 pages from the end...Just couldn't do it!
+67891,It's certainly not for everyone.   I love it and plan on reading it again.   Joyce's Ulysses is my nemesis.   I've started it at least 5 times and i just can't even.   Only reason it is still on my shelf is that it is the last Christmas gift I got from my mom and it has a nice note from her inside the cover.
+67892,"I could not read it either - not until I listened to a course on it - I believe it was from the Teaching Company. 
+
+Basically, it told you the story ahead of time and what the writer was trying to do. It also told me the outline of the chapter names that are not included in the book. 
+
+Once I realized the parallels with The Odyssey- and that each chapter is intentionally written in a different style (chapter 3 for example is a literal free-flowing read of what the main character is thinking while walking along a beach) the book made a lot more sense. 
+
+Trying to read it blind was just frustrating. Understanding what it is about, and what it relates to makes in much easier to get through."
+67893,"> Joyce's Ulysses is my nemesis
+
+I had to write a twelve page paper on Joyce's Ulysses in my  senior year of college. If we hadn't been discussing it as a class, I probably would have had a harder time following it. Although I think that part of the trick is to approach it in the same spirit that you would science fiction. Go in with the understanding that you aren't going to understand large parts of it and just assume that you're going to learn via the osmosis of reading. Without some background, you're probably not going to follow it past the first couple of chapters. But if you just accept the fact that you don't understand it and can remain calm about your own confusion, you can get through it."
+67894,"The actual book by Hadelman comes in many different flavors too. His editor originally made him cut some of the Earth based stuff, so the original novel is shorter and more focused on the space combat scenes than the soldier attempting to reintegrate into society scenes.
+
+> Editions published prior to 1991 were abridged for space by the original editor (omitting the middle section, a novella titled You Can Never Go Back). 
+
+>The 1991 edition restored many expurgated sections, primarily dealing with the changes that befall human civilization over the course of William Mandella's life. 
+
+>[In 1997, Avon published the version that Haldeman called ""definitive"", with ""everything restored"" and ""a less funny cover illustration.""](https://en.wikipedia.org/wiki/The_Forever_War#Editions)"
+67895,">  abridged for space
+
+Nice pun."
+67896,"The additional material really shines light on how the soldiers feel when they come back to a completely Alien earth. I feel like the parts are very depressing but very illuminating not just on the character's actions but also the author's feelings when he came back from Vietnam.
+
+It was a shame it was ever cut."
+67897,That's funny. I actually accidentally bought the sci-fi Forever War when looking for the nonfiction Forever War. Dexter Filkins' is a good read though.
+67898,I think you'll be pleasantly surprised with Filkins. I received that book as a gift and loved it.
+67899,"Sounds like an ""Invisible Man"" / ""The Invisible Man"" situation. One book is about a man fighting against all odds for his place in society. The other one is about racism."
+67900,You were tricked!
+67901,Lol that's a fun way to discover a new series :-)
+67902,"Hyperion is the best sci fi novel I have ever read!
+
+There are a few I think should be on that list like Rendevous with Rama.
+
+Tons of books should be on there. 
+
+FOUNDATION series."
+67903,"Yeah, a list of must-read SciFi books with no Foundation series, is no list at all."
+67904,No Arthur c Clarke?
+67905,"Childhood's End should have made the list, I think."
+67906,Jesus christ absolutely. It is literally my favorite book I have ever read.
+67908,The Rama trilogy was always my favourite series from Clarke.
+67909,most definitely.
+67910,"So glad to see Hyperion Cantos on this list. 
+
+There are many fine offerings, but of my personal recommendations to friends, that's usually the one they've never heard of, years after we've discussed OSC, Douglas Adams, Heinlein etc. ad nauseum."
+67911,"What I love about Hyperion is, even in the realm of sci-fi, it's pretty fucking out there. I'd have put it ahead of a few on this list, but then again, I didn't make any list. Horses for courses, etc."
+67912,"It's one of those books that moves from simply being a sci-fi novel to being sci-fi literature.  Clever, thought-provoking, and brilliantly aware of both the world it lives in, and the world it's writing to.
+
+That said, I haven't read the Endymion books yet."
+67913,"Exactly. It's so broad in scope, yet the narrative remains focused on a few characters."
+67914,Ah but the sequel ... it's like chalk and cheese
+67915,"The fucking Shrike, that thing still haunts my dreams and its been probably around 7 years since I have read it."
+67916,I JUST finished [the Hyperion audio book on YouTube](https://www.youtube.com/watch?v=MKag6e68GJU&list=WL&index=8) (which is a terrific audiobook btw. Each of the pilgrims has their own voice actor.) and loved it. I'm reading the second one now.
+67917,Make sure you read the Endymion books too :) they're sooo good
+67918,"I assume, then, that you have given Ilium and Olympos a try? Awesome entrances, again, from Simmons."
+67919,"I read these but had trouble getting through them.
+
+I would replace that entry with the ""Old Man's War"" series instead."
+67920,Does the second hold up to the first? I kind of like where we got dropped off at the end of Hyperion.
+67922,"Niven and Pournelle both give Heinlein a lot of credit for how the book turned out. They sent him a draft, and he spent days reading it. He sent them back a 26 page letter of suggestions, most or all of which they adopted. 
+
+You can read an excerpt of their correspondence [here](https://web.archive.org/web/20130701140830/http://www.virginiaedition.com/ve/TheVirginiaEdition-sample.pdf#page=23) or purchase the whole correspondence from the Heinlein Archive [here](http://www.heinleinarchives.net/upload/index.php?_a=viewProd&productId=376)."
+67924,"It's absolutely a tour de force. A first contact story, a space opera, a mystery story, a thriller; it is so tightly plotted most SF screenwriters should commit *seppuku* in front of a copy. I'm a little unenthusiastic about the romance thread, but it doesn't detract from the main story.
+
+I would so watch a movie made of the book (always provided, of course, that they keep Ridley Scott away from it) and that would now be possible, as was demonstrated by *District 9*.
+
+It would just wipe the floor with utter bullshit like *Avatar*."
+67926,"> always provided, of course, that they keep Ridley Scott away from it
+
+Yeah, that dude's absolutely shit at sci-fi films."
+67927,"Don't forget social commentary, specifically discussion on the burden of reproduction."
+67928,Why the Ridley Scott hate?
+67929,"He hasn't made a good movie in years. Good looking ones, certainly, but not a really good one"
+67930,"I picked this up young, and it blew my mind. Never thought before about anthro origins, and the different moties were fascinating. I can't see a bunch of small creatures in a small space IRL without thinking about the watchmakers in the gun batteries. Gives me the willies.
+
+The sequel...not so much."
+67931,"Hmm Armor by John Steakley is good.
+
+Strange that there wasn't a mention of Ringworld."
+67932,"I loved Armor. I often recommend it, as it seems to be pretty under the radar. Everyone who's read it on my recommendation loved it as well."
+67933,"Whenever I see Starship Troopers, I immediately recommend Armor as a follow-up book. They're a great way to get two different looks at war.
+
+Then I throw Old Man's War at them, because Scalzi's writing is literary candy."
+67934,"I've read both Armor and Starship Troopers and I'm reading Old Man's War at the minute. I love the writing in Old Man's War, I'll definitely continue with the series."
+67935,"Many people seem to not like Zoe's Tale. It was a bit different than the rest, but it was told from a teenager's perspective. I liked it for what it was worth. Just be prepared for the difference in feel, though the writing is classic Scalzi.
+
+For a ""similar but different"" yarn, check out Fuzzy Nation."
+67936,Zoe's Tale was a YA version of The Last Colony
+67937,"Upvote for Ringworld (and several of the sequels).  I sometimes ask people if they've read ""The Luck of Teela Brown,"" to see of they have any idea what I'm talking about.  Some do, others do only do after I say, ""or Ringworld, as it's called here."""
+67938,"Ringworld is one of my most memorized Scf-Fi books.  The Puppeteers, the ring world itself... I was just at that age where I was in awe of the mental imagery and the book consumed me.  
+
+I guess the list depends on the judging criteria.  I am more shocked that nothing from Asimov made the list.  It's really difficult to take a large genre and create a ""top X"" list.  Undoubtedly, there will be great works excluded (but not diminished) by generating a small list."
+67939,"*John Dies at the End* made the list but Asimov didn't. I don't know how to feel about that.
+
+Oh, wait. Yes. Yes, I do."
+67940,"yeah.  Every time I make a list (top 5!) I end up coming up with about three times the number as a candidate and I have to just guess at which ones should be on the list.
+
+I have some favorite authors, in Science Fiction and Fantasy, and like, on average, 5 or so of their books.
+
+Douglas Adams
+
+Isaac Asimov
+
+Kevin J. Andersen
+
+Poul Anderson
+
+Piers Anthony
+
+Robert Lynn Asprin
+
+Elizabeth Bear
+
+Greg Bear
+
+Ben Bova 
+
+Ray Bradbury
+
+Marion Zimmer Bradley
+
+David Brin
+
+Terry Brooks
+
+Dan Brown
+
+Steven Brust
+
+Jim Butcher
+
+Orson Scott Card
+
+Arthur C. Clarke
+
+Hal Clement
+
+Michael Crichton 
+
+Charles de Lint
+
+Lester Del Ray
+
+David Drake
+
+Gordon R. Dickerson
+
+David Eddings
+
+Philip Jose Farmer
+
+Raymond E. Feist
+
+Robert L. Forward
+
+Ian Fleming
+
+Eric Flint
+
+Cornelia Funke
+
+Alan Dean Foster
+
+Neil Gaiman
+
+William Gibson
+
+Ursula K. Le Guin
+
+Barbra Hambly
+
+Joe Haldeman
+
+Harry Harrison
+
+Robert Heinlein
+
+Frank Herbert
+
+Robin Hobb
+
+James P Hogan
+
+Robert Howard
+
+Robert Jordan
+
+Steven King
+
+Rudyard Kipling
+
+C.S. Lewis
+
+Julian May
+
+Anne McCaffrey 
+
+Walter M. Miller, Jr.
+
+Larry Niven
+
+John Norman
+
+Andre Norton
+
+Jerry Pournelle
+
+Terry Pratchett
+
+Rick Riordan
+
+Kin Stanley Robinson
+
+J.K. Rowling
+
+R.A. Salvatore
+
+Brandon Sanderson
+
+Christopher Stasheff
+
+Neal Stephenson
+
+J.R.R. Tolkien
+
+A. E. Van Voght
+
+David Weber
+
+Margaret Weis
+
+Brent Weeks
+
+Paul O Williams
+
+Janet Wurts
+
+Roger Zelazny"
+67941,">Kevin J Anderson
+
+Stopped reading here"
+67943,"Yes for seveneves as a new classic many won't have read.
+
+I find the lack of Iain M Banks Culture series disturbing...
+
+I might have to dig out my plans on how to build a chair (Use of Weapons)"
+67944,"Player of Games is where it's at. Banks is under appreciated, don't know if it's just a US thing though?"
+67945,"Banks's culture series has to be my favorite take on AI/advanced intelligence.
+
+I stumbled on his books on accident. Not sure if it's a US thing, but I had never heard of him."
+67946,"As soon as I saw no Iain M Banks I just skipped reading any more...  I'm in Australia and don't know many people who have read them, but I usually see them in book stores so someone is."
+67947,"I could hardly challenge them to a game of Azad though. (Even though I really, really want to play that)
+I think that Banks politics (traditional leftwing) work better in Europe than the US in general."
+67948,"Most people focus so much on the Culture stuff that they miss out on all the other brilliant sciFi he's written. I recently re-read *Feersum Enjinn*, and dear god, that book is brilliant. I've also loved *The Algebraist* - the Dwellers run a close second to the Affront as my favorite species.
+
+The short stories in *The State of The Art* are also really great."
+67949,Consider Phlebas for the newcomer to the Culture. Followed by Use of Weapons IMO.
+67950,Agree. Banks is better than many on the list.
+67951,"They don't put ""the standard by which other sci-fi is judged"" (paraphrased) on the cover of Iain M. Banks books for nothing, so it's a head scratcher for why Use of Weapons, or The Player of Games is missing from the list."
+67952,"Here's a list that I think better encompasses the full breadth of Sci-Fi. I'm leaving off a bunch of worthies. (Zelazny, Ballard, Leiber, Bracket, Sturgeon, Pohl, etc...)
+Listed by publication Date: 
+
+
+ **20000 Leagues Under the Sea**, Jules Verne 1869
+
+**1984**, George Orwell 1948
+
+**Childhood's End**, Arthur C. Clarke 1953
+
+**The Stars My Destination**, Alfred Bester 1956
+
+**A Canticle for Leibowitz**, Robert M Miller, 1960
+
+**A Clockwork Orange**, Anthony Burgess 1962
+
+**Dune**, Frank Herbert 1965
+
+**The Foundation Trilogy**, Isaac Asimov 1966
+
+**The Moon is a Harsh Mistress**, Robert Heinlein, 1966
+
+**The Left Hand of Darkness**, Ursula K. LeGuin 1969
+
+**UBIK**, Philip K. Dick 1969
+
+**Dhalgren**, Samuel R. Delaney 1975
+
+**Neuromancer**, William Gibson 1984
+
+**The Handmaid's Tale**, Margaret Atwood 1985
+
+**Snow Crash**, Neal Stephenson 1992
+
+Probably a little too light on the best of the 70s (Forever War, Kindred, Ringworld etc.)"
+67953,"I came here to mention Canticle and Handmaid's Tale. I think the OP's list is a good ""sci-fi books you should read if you're into sci-fi,"" while yours is a great ""sci-fi books you should read if you're into books."""
+67954,"yea, I didn't trust the other list without the Foundation trilogy."
+67955,Same thing I looked for!
+67956,Upvoted for **The Moon is a Harsh Mistress** and including the authors names.
+67957,Thanks for including Le Guin.  I read more fantasy than scifi but of all that I've read I find her work to just destroy the competition.  I read *The Left Hand of Darkness* in a night the first time.
+67958,"**A Canticle for Leibowitz**, Robert M Miller, 1960 - Quite simply, one of the best books ever written, much less scifi."
+67959,"Only one book released after 1985 on that list though. I'd add something by China Mieville, Dan Simmons or Neil Gaiman."
+67960,gaiman and mieville are better at fantasy than scifi...i agree that there are more great books after 1985 though
+67961,"I don't know if this one has been mentioned. But as a ""starter"" book for children I think ""A Wrinkle in Time"" is a perfect way to kindle a child's interest in scifi. Loved this book as a kid."
+67962,I've been meaning to go back and read that. I remember loving them back in sixth grade but don't remember anything beyond the term tesseract and the vague memory that was some sort of transportation method.
+67963,Cannot endorse Eisenhorn enough. Such a great trilogy i'v read it multiple times.
+67964,The Emperor protects.
+67965,"Another gem from the Warhammer 40,000 library would be the ""Ciaphas Cain"" series by Sandy Mitchell. 
+
+Most stories and games set in the grim darkness of the 41st millennium are about impossibly stoic heroes pitting their impossible stoicism against overwhelming odds to win the day. Ciaphas Cain, on the other hand, is a cowardly, egotistical, largely unskilled Commissar who's chiefly concerned with saving his own skin. Unfortunately, his bumbling obliviousness somehow keeps him coming out on top of increasingly perilous situations, to the point where he's lauded as an invincible hero of the Imperium (and thus, continuously deployed into even greater danger).
+
+A lot of the intrinsic humor in 40K lies in the sheer absurdity of the universe when played straight, but the ""Ciaphas Cain"" novels are the first attempt to do deliberate humor in the setting. Anyone who's seen ""Blackadder"" will recognize parallels straight away, especially in Cain's malodorous sidekick. They're a hilarious take on what would otherwise be the bleak drudgery of the Imperial Guard's lot of being tragically ordinary humans fighting with disappointing technology to survive in a universe of bowel-clenching horror.
+
+Highly recommended for all readers, even those not already familiar with the Warhammer 40,000 setting and lore."
+67966,Revelation Space
+67967,It took me awhile to figure out what the hell was going on in that book. Well worth it.
+67968,"Ursula Le Guin could be on this list too, particularly The Dispossessed and The Left Hand of Darkness."
+67969,"The Left Hand of Darkness is one of the most important SF novels ever, and it's quite well written as well. Must read."
+67970,The Dispossessed had a huge impact on me and completely changed my outlook on life. I don't know why that book isn't mentioned more frequently when discussing sci-fi.... I think it covers pretty important topics and more people should be reading it.
+67971,"There's really *so much* great LeGuin. Even more than those two, I really enjoyed *The Word for World is Forest* (my favorite!), and I would probably give an honorable mention to *The Lathe of Heaven*, which is like a book that Philip K. Dick would write if he were a better writer (shots fired!) I still love Dick for his ideas, though."
+67972,I would add Leviathan Wakes by James S.A. Corey to this list as well.
+67973,I logged on specifically to upvote this.  Leviathan Wakes is absolutely fantastic.
+67974,"I can lurk no more.. 'We' published in 1924 by Yevgeny Zamyatin needs to be in this thread some where! It's the grandaddy of dystopian sci-fi and was a major influence on Orwell and Huxley.  A great read, check it out!
+
+https://en.wikipedia.org/wiki/We_(novel)"
+67975,Everyone should read Blindsight. Its incredible
+67976,I believe it's [available online](http://www.rifters.com/real/Blindsight.htm).
+67977,"For whatever reason it did not connect with me at all.  It seems to also get quite a mixed reception on Amazon, but here it's quite often mentioned"
+67978,"Same here. I liked the concept behind the aliens, but very little else about the book appealed to me. And what's this vampire doing stuck in my SF story? He's got a kludge of an evolutionary backstory, but he's still a vampire. At least he didn't sparkle."
+67979,"Yeah, me neither. I found the dialogue to be pretty awful, I couldn't get very far into it."
+67980,I loved it. I've tried a ton of the newer sci-fi authors and I almost never finish anything. I've read Blindsight several times and always come away impressed. Watts feels a little like a modern-day Frank Herbert to me. Super knowledgeable in a thousand fields but appealing for everyone.
+67981,"Ctrl + F ""Gene Wolfe"" and I see nothing!
+
+His ""Book of the New Sun"" tetralogy is absolutely essential IMO. It's dense and really bizarre, but so fascinating. Give it a shot if you are tired of seeing the same old books on every sci-fi list (Dune, Heinlein, etc).
+
+[wiki](https://en.wikipedia.org/wiki/The_Book_of_the_New_Sun)"
+67982,"I was surprised by this as well. For a list like this I'd probably use Fifth Head of Cerberus; has a much more scifi feel to me, plus it's a single volume."
+67983,"This.
+
+When you first start reading it, it seems like fantasy. then you finish but there is a nagging feeling that you have no understood so many things. as if there is a hand beckoning from the shadows.
+so you read it again, and again till it becomes a sci fi book and then a book about humanity."
+67984,"These are certainly a broad spectrum of sf, but surely not the best we can do to really show off the greats (and perhaps unsung greats) of the genre. Here's my list:
+
+1. **The Jerusalem Quartet**, Edward Whittimore: you've never read these. You've probably never heard of them. This is a grievous oversight and due to the fact that Whittimore was never a commercial success. They're utterly brilliant, with shades of Pynchon and Vonnegut.
+
+2. **Snow Crash**, Neil Stephenson: the quintessential 90s cyberpunk novel. What Stephenson lacks in Gibson's prose ability, he more than makes up in capturing the *style* of the post-technical age, and presents a dystopia that is alarmingly possible.
+
+3. **The Left Hand of Darkness**, Ursula K. LeGuin: sf's Grandmistress in high form. Thought-provoking and original.
+
+4. **Perdido Street Station**, China Mieville: one of sf's young guns and a pioneer of the New Weird, Mieville's romp through a truly alien world stumbles over its own cleverness at times, but still, a fine look at new talent.
+
+5. **A Canticle of Leibowitz**, Walter M. Miller: possibly the greatest post-apocalyptic novel ever written, if only for its sheer scope, hope, and hopelessness.
+
+6. **Use of Weapons**, Iain M. Banks: a challenging read, but probably the best of Banks's ""Culture"" novels. Almost certainly one of the more accessible ones, even considering the author's desire to play with narrative structure.
+
+7. **Southern Reach Trilogy**, Jeff Van Der Meer: hallucinatory, dreamlike, and utterly alien. Weird, but weird in a very special way. Not for fans of unconventional narratives that raise more questions than they answer, but just right for people seeking experiences unlike anything they've known before.
+
+8. **Stand on Zanzibar**, John Brunner: presciently envisages our world, even though it misses the details. Adopts Dos Passos's unique narrative structure to create a truly postmodern novel that is unafraid to embrace new media as a storytelling device.
+
+9. **A Fire Upon the Deep**, Vernor Vinge: you wanted space opera? How about space opera written by someone with some serious prose chops?
+
+10. **Night's Dawn**, Peter F. Hamilton: another space opera that manages to remember that plot serves characters, and not vice-versa (looking at you, Herbert).
+
+11. **The Dying Earth**, Jack Vance: if you haven't read Vance's set of loosely-linked stories about a far-future Earth which has seen ages come and come round again, you've not truly lived.
+
+12. **Viriconium**, M. John Harrison: while we're on the subject, M. John Harrison may have out-Vanced Vance at the dying Earth genre.
+
+13. **The Expanse**, James S.A. Corey (really Dan Abraham and Ty Franck): forgive the fourth book in the series. They can't all be winners. Book Five more than makes up for it. You're only on book one? I guess you should read faster.
+
+14. **The Yiddish Policemen's Union**, Michael Chabon: I fussed over whether to include this one or **Gentlemen of the Road**, and settled with **TYPU**, for its use of pastiche and Chabon's signature dry wit. 
+
+15. **The Solar Cycle**, Gene Wolfe: only because I felt putting ""Gene Wolfe's collected body of work, multiple times"" would be gauche, and honestly, there are low points. While **The Fifth Head of Cerberus** is arguably some of the finest prose ever put on paper, the **Book of the New Sun** and its loosely (very loosely) linked sister series the **Book of the Long Sun** and **Book of the Short Sun** comprise something that blends literary and genre, fantasy and science, rationality and faith, and a damn good story together with some of the most original and thought-provoking wordcraft ever. Not for the faint of heart or those who only want an easy diversionary read, a good Wolfe book can command your life for weeks after you finish the last page.
+
+**HONORABLE MENTIONS**: Madam Atwood's *Oryx and Crake* novels deserve mention, if only because their inclusion on this list would cause her to frown. And I suppose it is only politic to mention *Hard Boiled Wonderland and the End of the World*, by Haruki Murakami, though I do think it of lesser quality than any of the other books mentioned here. You'll be popular at parties if you say you read Murakami, though, so knock yourselves out."
+67985,"I would say that Redshirts and John Dies at the End are pandering to the modern era of writing. JDE is funny, but not groundbreaking. Red Shirts is mildly funny, but is basically a fan fic.
+
+Ender's Game is epic and was a big deal, but it's basically juvenile wish fiction. Go with Ender's Shadow. Same story, but sounds less like a middle school kid feuding with bullies and grownups.
+
+Replace JDE with something Asimov, Bradbury etc. If you have to stay weird, Mieville smiths words with the best of them.
+
+Scalzi is good, so go with Old Man's War instead of his goofy fanfic novel.
+
+Seveneves is also a recent. I think Snow Crash or Cryptonomicon would be better representatives."
+67986,"Thanks for pointing out the oddness of having JDE and Redshirts on the list. 
+
+Scalzi is one of my favorite authors, but Redshirts isn't ""The Forever War"" or ""Dune."""
+67987,"If you want to keep OSC on there, but think Ender's Game is too juvenile, the obvious choice is Speaker for the Dead. Personally, I leave Ender's Game on there. The fact that it involves children is part of what makes it great. And I don't see how Ender's Shadow (another excellent book) is anymore grown-up. It is a parallel novel. Very interesting, but pretty much the same kind of book"
+67988,Speaker of the Dead far surpasses Ender's Game or Shadow imo.
+67989,"Being fair, instead of a kid feuding with bullies, its just a more arrogant  kid fueding with adults.  Pretty much the same.  Amazing stories both, but one isn't less juvenile than the other.  
+
+I think the unique draw that universe has, particularly to kids reading the books, is that OSC gives kids the same respect for their mental capacity and volition that most other adults unfairly reserve until kids are teenagers or even adults."
+67990,"I think it's more grown up because OSC had grown as an author. But I agree, Speaker for the Dead really does have a better sci-fi feel to it. Big ideas, big crazy ways to show them."
+67991,"No one really talks about it, but I found This Book is Full of Spiders to be much better written than John Dies at the End."
+67992,"JDE was a serialized net blog that a Cracked.com writer was doing on the side, just for fun, probably while high, and it got big enough to be marginally edited and crammed into book form. The author barely have any sort of a shit at all. 
+
+Spiders was planned as a book, and mostly written while not high. 
+
+So yeah, there's some pretty good reasons for the books to be very different."
+67993,"Minor correction/clarification: while David Wong is currently the executive editor of Cracked.com, he wrote the book while working as a copy editor for insurance claims. *John Dies At the End* predates Cracked.com by about five years."
+67994,"I agree. I loved both of them, but Spiders was by far my favorite. I'm looking forward to Futuristic Violence and Fancy Suits."
+67995,"The bad writing  bits seemed to be part of the unreliable narrative in John Dies at the End; it enhanced the experience. Spiders was better done, but more formulaic.
+
+And you never kill the dog. I've seen John Wick, don't kill the dog!"
+67996,Oh God - I can't recommend Snow Crash enough.....wonderfully amazing. The Diamond Age is pretty awesome too.
+67997,"> Seveneves is also a recent. I think Snow Crash or Cryptonomicon would be better representatives.
+
+I think I'd lean more toward *Cryptonomicon* than *Snow Crash*, as I think one needs to be familiar with the cyberpunk tropes Stephenson is satirizing to fully enjoy it. Plus, it has the flaws that one would expect in an early novel by a now-established author, like the amateurish 50-page infodump on Sumeria that grinds everything to a halt in the middle of the book.
+
+ETA: Also, I wish these lists would stop ignoring the New Wave almost completely. A lot of stuff from then might not have aged the best, but there are still a lot of gems and it was incredibly influential in SF overall; yet, for some reason, these lists tend to jump from pulp classics and ""proto"" SF (e.g., Verne and Wells) straight to modern stuff while ignoring epoch-defining works like *Dangerous Visions*."
+67998,I've always been partial to *The Diamond Age*-- I thought that was one of his more engrossing works (though it being one of the first of his books that I read might be coloring that a bit).
+67999,"No, I agree. I've read them all and The Diamond Age remains a personal favorite. It just has a different feel than the others."
+68000,"Diamond Age has the most charm, and its my favorite read. Anathem is his best book though."
+68002,"Man I hate to say it, because I am a huge Stephenson fan and have loved everything he's written (even under his pseudonyms) but you are right about Seveneves. The last third was weirdly paced, over-descriptive, rushed, and poorly thought out. Maybe that part should have been published as a sequel. I would vote for Snow Crash, Anathem, Cryptonomicon, or Diamond Age over Seveneves."
+68003,I would up vote for Snow Crash since that is one of my all time favorites but his name is Stephenson. I want him to get little respect for his fantastic work and a person who does not know about Snow Crash will be looking for the wrong author.
+68004,"> Seveneves
+
+That's the name of the book by Stephenson. :-)"
+68005,"I just read Seveneves as my first Stephenson book, and I loved it.  I obviously haven't read anything else by him, so they could all be much better, but between how good Seveneves was, and the fact Do Androids Dream of Electric Sheep and Neuromancer are both already on the list, it seems fair to include a hard Sci-Fi end/ rebuilding of the world book on here instead of another cyberpunk touchstone."
+68006,Why is it always Starship Troopers people put on lists? He has much better books than it.
+68007,"*The Moon is a Harsh Mistress*, definitely."
+68008,Definitely. I prefer time enough for love though.
+68009,"OP also refers to it as ""perhaps his best known work"".  Putting aside personal favorites, my understanding is that *Stranger in a Strange Land* is, and has always been, Heinlein's most famous (""best-known"") book, by far.  Maybe I'm old, but have perceptions of his work changed *that* much?  Or has it just been the impact of the *Starship Troopers* movie?"
+68010,Considered a special forces and navy must read. It's the first time someone suggested tactical troops as a standard really. It's actually very famous for this in the military community.
+68011,"Tunnel in the Sky, i couldnt put this down as an adolescent and still often think of it today. Farnhams Freehold is also a good read, it was written during the height of the Civil rights movement and you can feel that in its content and subject matter. Although to me Starship Troopers is amazing. Heinlein's military background really put a unique perspective on Troopers that i had never read before that point."
+68012,"I was never really into Warhammer 40K at all, but I picked up Eisenhorn years ago and it was amazing. Dan Abnett is a fantastic author and since then, I've found myself immersed in all sorts of crazy awesome scenarios stretching across the W40K universe. I can't recommend him enough!"
+68013,Check out Aaron Dembski-Bowden  as well and Graham McNeil to a lesser extent .
+68014,"And you have to add Philip Dick's books.  There's a reason so many are turned into movies, though the books are so much better than the movies like Minority Report, Adjustment Bureau, Paycheck, Do Androids Dream of Electric Sheep? (Blade Runner), ""We Can Remember It for You Wholesale"" (Total Recall), and others...
+
+https://en.wikipedia.org/wiki/List_of_adaptations_of_works_by_Philip_K._Dick"
+68015,Dune is an epic read.
+68016,"Don't forget #16, Alfred Bester's ""The Stars My Destination."""
+68017,"No Clarke (Rama) 
+No Asimov (Robot Series or Foundation)  
+No Stross (Accelerando). 
+No Stapledon (Last Men, First Men)
+
+I'm not impressed.
+EDIT: Spelling."
+68018,No Asimov on a SciFi list is a fucking crime against humanity.
+68019,"Also, if you like the Hyperion Cantos, I would highly recommend Illium and Olympos also by Dan Simmons."
+68020,"I honestly think Snow Crash is much more relevant than Neuromancer, and Seveneves is a hard recommendation when pitted against Stephenson's other works. Anathem definitely belongs on this list, but I imagine that everyone has something they're irked didn't make the list."
+68021,"Snow Crash is certainly easier to read than Neuromancer, and a great book, but IMHO Neuromancer is just one of those classics you have to read."
+68022,"Agreed. I'm in the middle of Seveneves but it already feels weaker than Anathem, Snowcrash, or Cryptonomicon. I like the book, but there are some plot elements that have made me cringe multiple times already."
+68023,"A few omissions that have been noted:  
+  
+Asimov's *Foundation* series  
+Le Guin's *The Dispossessed*  
+Steakley's *Armor*  
+  
+and one that hasn't been mentioned yet:  
+  
+Vonnegut's *The Sirens of Titan*"
+68024,"Here's my list of what I think should be read (in addition to listed already :)
+
+* Foundation (Asimov)
+* Old Man's War (Scalzi)
+* The Martian (Weir)
+* A Fall of Moondust (Clarke)
+* Accelerando (Stross)
+* Quantum Thief (Rajaniemi)
+* Star Fraction (Macleod)
+* Andromeda Strain (Crichton)
+* Difference Engine (Gibson)
+* Moon is a Harsh Mistress (Heinlein)
+* Ringworld (Niven)
+* Existence (Brin) - this one I haven't finished yet though.."
+68025,Dune is easily one of the most extraordinary books I've ever read. I haven't had that same feeling from reading a book since I read The Lord of the Rings for the first time.
+68026,"Is the rest of the series worth reading? I just finished Dune, and I while I enjoyed it, I really hated how it got more and more in magic/chosen one stuff."
+68027,"Yes, they aren't the same as the first novel, style-wise, but they are fantastic in there own ways. It's more about politics and ideas in the following books, but I'd say atleast read up to God Emperor"
+68028,"Nice list, I am glad to see Gibson on it. It wouldn't hurt my feelings at all to include his first three books. They are very good. 
+
+Also A Deepness in the Sky by Verner Vinge is a great look at consciousness in a very detailed and exciting universe. I highly recommend it."
+68029,Can't go wrong with *A Fire Upon the Deep* either. I never read Deepness in the Sky but I'll put it on my list.
+68030,"I ordered ""Do Androids Dream of Electric Sheep?"" a while ago. It's coming all the way from USA. I feel like a freaking kid on Christmas."
+68031,"Since no one else has recommended it yet, the Vorkosigan Saga by Lois McMaster Bujold is an absolutely fantastic sci-fi series"
+68032,"5 science-fiction books you should *really* read.
+
+Frederik Pohl *Gateway*
+
+T J Bass *The godwhale*
+
+Keith Roberts *Pavane*
+
+Larry Niven *Protector*
+
+Wolfgang Jeschke *The last day of creation*"
+68033,"Anything in Iain Banks' 'The Culture' series. Those books completely changed my world view  to be honest. 
+
+Also Stephen Baxter is always a good shout. His book 'Ark' is a masterpiece."
+68034,"Was waiting for someone to mention Banks. Between him and Neal Asher, their work has really influenced my own sci-fi universe."
+68035,"Eh, there are better PKD books than *Androids*.  This list is also overwhelmingly American, neglecting masters of the genre like Stanislaw Lem, the Strugatsky brothers and John Wyndham.
+
+Overall this list strikes me as incredibly generic, the same books people recommend whenever SF comes up, with only a couple variations.  A few of these would make fine entry points to the genre, but there are way more 'must reads' than these sort of lists would lead you to believe."
+68036,"The Strugatskys are unjustly neglected.  I've only read *Roadside Picnic* (because of Tarkovsky's *Stalker*) and it was great, but their books can be hard to find.
+
+Whereas Lem is at least available. *The Cyberiad* and *Solaris* are must-reads"
+68037,"Their books are *really* hard to find.  Melville House has republished *Definitely Maybe* but it's already out of print and used copies are going for $100+.  They've also republished The Dead Mountaineers Inn which was very good.  And within the next few months SF Masterworks is going to be republishing Hard to be a God and Monday Starts on a Saturday.  Even then, though, there's still a ton of books from them that haven't even been translated into English yet."
+68038,"Roadside Picnic has easily the most unique, and dare I say best, takes on human interaction with an alien species."
+68039,"for us old people, all these old books were very ahead of their time. In the case of Androids it dealt with people's fears of computers at the dawn of the computer age when no one had a computer"

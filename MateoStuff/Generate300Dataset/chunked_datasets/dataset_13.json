@@ -1,0 +1,621 @@
+idx,text
+4205,I use it on Linux and it is just phenomenal
+4206,"Well...VS Code isn't bad at all, but I still think it has some catching up to Atom.
+
+VS Code's startup time is very slow and comparable to Atom's due to both being a Electron Hybrid Desktop app. However, in my experience at least, Atom has much more powerful extensions that Code ATM thanks to it's bigger community support.
+
+Again, don't get me wrong, VS Code isn't bad, I just feel like it's a more limited atom without the pro of it being more lightweight.
+
+Also, am I the only one that loves having 2 editors at once? Sublime for quick opening files, and Atom for actual projects."
+4207,VS COde it is more lightweight.
+4208,"I'd say my top 5 go something like so...
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Sublime Text 3](https://www.sublimetext.com/)
+* [Vim](http://www.vim.org/)
+* [Atom](https://atom.io/)
+* [Komodo Edit](https://www.activestate.com/komodo-edit)
+
+Honourable mentions go to:
+
+* [Gedit](https://wiki.gnome.org/Apps/Gedit)
+* [Kate](https://kate-editor.org/)
+* [Notepad++](https://notepad-plus-plus.org/)
+* [SciTE](http://www.scintilla.org/SciTE.html)
+
+This wasn't always the order (SciTE, Notepad++, Atom, Vim have all been at the top of my list), but for the most part the key benefits are:
+
+* feature-rich
+* cross-platform (except for Notepad++)
+* syntax highlighting
+* autocomplete
+* ongoing support via developers and communities
+* Unicode
+* free (except for Sublime Text, which has never been compelling enough to warrant the cost, though it has also never really been a primary editor for me... despite influencing others in the list)
+
+Fair enough, large files, obscure language support, bloated installs and some slowness on startup, and (in the case of modern command palette editors or Vim) changes in mental model when processing code can change individuals responses to different editors.
+
+So, why is VS Code at the top of my list?
+
+Over the last few years, I went from Vim to Atom to VS Code...
+
+Vim is cool, productive, but large source trees just got irritating (even with NERDTree) and search tools...
+
+Atom (after it got a bit of a speed injection) was pretty great (despite the occasional issues with the Squirrel updater eating CPU), but a language plugin I use for work went downhill, I seemed to encounter more problems with git integration at the filesystem level (than with VS Code), and VS Code just got faster/smoother (and I got used to it, as it improved).
+
+For those wondering what cool things are on my VS Code list, here's a short list:
+
+* theme support is good (and affects the sidebar) - CTRL+K, CTRL+T to switch themes when my eyes start to bug me is nice too
+* CTRL+ENTER and SHIFT+CTRL+ENTER for opening new lines above/below your current line
+* CTRL+D (and CTRL+K, CTRL+D) to do multi-selection/multi-cursors (and skip occurrences) is nice - SHIFT+CTRL+L to select all occurrences is pretty groovy too
+* CTRL+I to select the current line (without a lot of cursor movement)
+* CTRL+ALT+ARROW for block selection mulit-cursors
+* CTRL+B to hide/show the sidebar (and SHIFT+CTRL+E to access the file list, then CTRL+1 (or 2, etc.) to move back to your editing window) is nice
+* CTRL+\ for a split of the current file (and the standard CTRL+F4 to close a split)
+* bracket matching, with SHIFT+CTRL+\ to jump to the matching bracket saves some time/confusion
+* CTRL+K, M to change the source mode/syntax highlighting (NOT CTRL+K, CTRL+M which allows keybinding selection)
+* ALT+Z to toggle word wrap
+* CTRL+/ for quick commenting
+* SHIFT+CTRL+F for folder level search with a number of bells and whistles (did I mention folder level editing... also supported easily by Sublime and Atom, and in a similar, but different way, in Komodo Edit)
+* paste in some JSON, hit SHIFT+ALT+F to format (make sure you've switched your source mode to JSON)
+
+That doesn't even include the Git integration, terminal/shell integration, debugging (which I've never used), numerous plugins (which I go light on anyway), state memory through editing sessions (even on unsaved files)... which I never used to like... Markdown preview, monthly updates, and more I'm sure I'm forgetting.
+
+The good news, is that many of those features (and even keybindings) are the same/similar in Atom or Sublime.
+
+Syntax highlighting can lag a little in VS Code (usually on switching tabs), and startup time could be a bit laggy (though I never really notice, and pretty much always have my instance open), but other than that... It's my editor to beat.
+
+I'd also recommend looking at the editors supported by [OmniSharp](http://www.omnisharp.net/#integrations), if you're looking for preferred Windows editors. They should support the ones with the most demand (or that made the most sense).
+
+EDIT: personalize my reasons for not paying up on Sublime... It's never been a primary editor *for me*... though it isn't on the outskirts of the industry..."
+4210,Second for NotePad++ but also Textpad. I prefer Textpad myself but depends on what you're using it for.
+4211,"Sublime is the best overall. It's basically anti-fuck up.
+
+Notepad++ is free and you can set it up to work better than sublime. You may also find yourself needing to add some other things (non-official plugins) to make it do stuff it can't do.
+
+Visual Studio is also aaaight."
+4212,"Man, this is a loaded question, I personally love VS Code, 
+ but like you I use notepad++ for really quick fixes. But there is also:
+
+[Vim](http://www.vim.org/)  - requires a bit of work to get to near full IDE status. Tell people you code in this and you will get some ""uh-huhs"" and eye brow raises.  
+[Atom](https://atom.io/)  
+[Brackets](http://brackets.io/)"
+4213,"Props for mentioning Brackets. Still the best ""so you want to throw together a web page(s)"" app I've used"
+4214,"Its pretty nice.. Its pretty handy not having to refresh the page, Im just so used to my other options its tough to switch."
+4215,There are some site generator frameworks that ship with filesystem watch/livereload; I use Middleman and VSCode for my work and it's pretty solid.
+4216,"Ill definitely have to look that extension up, thanks!"
+4217,"It's a Ruby site generator, not a VSCode extension, but using them in combination is nice. Especially since VSCode tasks let me control it somewhat nicely"
+4218,"Since I mainly work in PowerShell, I've become a big fan of Visual Studio Code. The extension support in VSCode means you get a lightweight editor while still getting Intellisense; the [PowerShell extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) even just hit 1.0.
+
+That being said, VSCode is noticeably slower to open than Notepad++. I generally keep Notepad++ installed for opening things like quick text files, config files, etc. and only use VSCode for scripting."
+4219,Vscode sublime or atom
+4220,I use Ultraedit because I got used to it before there were many alternatives around. It's similar to Notepad++. Ultraedit uses Javascript as its scripting language. Very customizable. Not free.
+4221,i still use a version I bought back in 1998.  Works for me.  Column mode is fantastic as is the macro when editing large data files etc
+4222,wordpad
+4223,"Sublime Text. Easy customisation and extensibility.
+
+For PowerShell scripts I also recommend the ISE that ships with Windows."
+4224,"Just wanted to point out that while sublime is really nice, it costs quite a bit. 
+
+Notepad++ has a really old school interface. Not good or bad, really just a matter of preference. Also they recently had an issue with a vulnerable library, but that​ is probably fixed.
+
+My personal favorite is vs code because of its clean interface and extendability."
+4225,I like atom.io
+4226,"Notepad++ is definitely a good one. Geddit is another good one that's free and open source that works on multiple platforms.
+
+[EDIT]: Geddit, stupid autocorrect."
+4227,I've always been partial to [Context](http://www.contexteditor.org/index.php).
+4228,Visual Studio Code
+4229,"I love Notepad++, but I've had it play funny games with tabs and spaces in python scripts.  
+
+Pretty much got to go with Visual Studio Code for the lighter side of things. I've always got it open for something or other.  And that's coming from someone who pretty much uses emacs as his OS."
+4230,"By far Sublime. It's quick, simple and elegant. The other Electron based text editors (VS Code, atom.io, etc.) may be flashy and feature packed but the start time for them is horrible if you just want to quickly edit a simple text file. Not to mention the monstrous amount of RAM that they have to use."
+4231,Sublime text
+4232,I use [PSPad](http://www.pspad.com).
+4233,All alternate to Sublime is HippoEDIT.
+4234,"Jedit is good, there are lots of plugins for it. Also Notepad++."
+4235,"The only ones I recommend are sublime, atom, and visual studio code. I personally use VSCode myself, and atom at work. Notepad++ is good for quick fixes."
+4236,"One thing not too many people have addressed is the LANGUAGE you are going to be working in.
+
+Some editors just have amazing built-in support for some languages that makes it worth using that one editor for that one job."
+4237,Brackets isn't terrible
+4238,"I recommend Atom, Notepad++ for quick edits."
+4239,"I would really like to find an editor which I find as comfortable as TeXshop for Mac OS X. Things which I miss:
+
+ - find/replace as a single unified dialog, with multiple line fields for both find and replace text, and good support for Regular Expressions
+ - support for emacs keyboard shortcuts (TeXshop gets this for free)
+ - support for native text objects so that it works well on systems w/o powerful CPUs (writing this out on an Atom tablet) and interactions such as handwriting recognition
+ - some sort of plug-in system for things such as sorting the current selection (in lieu of Mac OS X's Services)"
+4240,Vim is best because it has more than 2 and less than 4 letters. It's nice compromise between ed and nano :)
+4241,Yes but if you alias vi as vim is vim as good as ed? Does that mean nvim is as  good as nano :^)?
+4242,https://youtu.be/-IOMNUayJjI
+4243,"> Honestly, I would like some honest answers as to where is Vim lacks or situations I'm better off using a different text editor/IDE
+
+Vim sucks at understanding your project structure and code. IDEs are typically much, much better at this. Efforts to close that gap are generally complicated, hackish, and subsequently fragile.
+
+Vim's great strength is raw text manipulation, emphasis on ""raw"" because its understanding of that text, semantically, is generally poor.
+
+> Every time I start a new job or my smug colleagues are like: ""huehue, this guy still vims, I havent used vim since college, its 2018 bro"". Just grinds my gears.
+
+Get better at Vim. My colleagues very quickly realize that my Vim usage is a super power, not a throwback or liability. I've *routinely* had people looking over my shoulder say ""WTF?"", because my editor is doing crazy shit to text seemingly on its own. Any time I do co-development, or screenshare my development work, people are blown away at what's happening in my editor compared to what they're using to seeing in theirs. Just get good at Vim and you'll have no need to justify it. It will speak for itself. 
+
+Note, that people with strong mastery of good IDE tools, like Visual Studio + Resharper, can do similarly mind-blowing shit at a higher semantic level via templates and refactoring tools.  The most powerful position is to be master of both (via tools like ViEmu), where low level text manipulation is done via Vim's editing model, and semantic manipulation is done via IDE tools."
+4244,"That ""Haha! You use Vim, hoho! Really? You are oooold, LOL!"" -> ""Pshh, you must have a dozen of plugins to do that, right? Right?"" -> ""No, that's not a Practical Vim PDF you saw on my desktop."" pattern is pretty common indeed :-)."
+4245,"Unlike many other old (Emacs) or young (Atom, VSCode, etc.) editors, and unlike every IDE ever, Vim's architecture has never really been designed with extensibility in mind. It just doesn't have what it takes to be a *platform* so you get hack-ish plugins that compete with each others for mappings and CPU cycles.
+
+Things are starting to look better for the IDE-envy crowd thanks to LSP, though."
+4246,"LSP?
+What precisely do you mean by not having what it takes to be a platform?
+Most plugins work great and can be customized for your own benefit, however you want to map them. CPU cycles - I'm not sure this is a problem since vim is so lightweight, I've never had a problem even with large projects. I feel that most IDE's are bloated, with too many features you don't need. You can basically create an IDE from vim just by extending it's functionality via plugins.
+What can a IDE do that vim can't? That's what I'm asking."
+4247,"> LSP?
+
+https://langserver.org/
+
+> What precisely do you mean by not having what it takes to be a platform?
+
+* It doesn't expose an ""extension"" API that would help developers build a coherent UX across plugins without overlapping mappings and autocommands and stuff.
+* It's still single threaded and the current implementation of ""async"" only allows to use external programs asynchronously, which is nearly useless.
+
+> Most plugins work great and can be customized for your own benefit, however you want to map them.
+
+No. Most plugins are poorly written and have overlapping features, thanks to the lack of API I mentioned above.
+
+> CPU cycles - I'm not sure this is a problem since vim is so lightweight, I've never had a problem even with large projects.
+
+Vim is single threaded so whatever you or your plugins do must wait for whatever else you or your plugins did and will block whatever you or your plugins will try to do in the near future. The recent ""async"" feature only allows running *external* commands asynchronously so vimscript, Ex commands and macros are still synchronous.
+
+> I feel that most IDE's are bloated, with too many features you don't need.
+
+IDEs are built to support specific needs and workflows. I'm lucky enough to not have such needs and workflows right now but I did, before, and may do one day, and you can bet your ass I will just use the right tool for the job.
+
+> You can basically create an IDE from vim just by extending it's functionality via plugins.
+
+No. You can create something that looks like an IDE if you squint hard enough."
+4248,Well said. I personally enjoy the mixed environments the most. I use VS Code with their (excellent) Vim plugin.
+4249,"vim isn't the best editor:
+
+>Of course, on the system I administrate, vi is symlinked to ed. Emacs has been replaced by a shell script which 1) Generates a syslog message at level LOG_EMERG; 2) reduces the user's disk quota by 100K; and 3) RUNS ED!!!!!!"
+4250,"> ""huehue, this guy still vims, I havent used vim since college, its 2018 bro""
+
+Because *obviously*, 'created more recently' == 'better'. Which is why people don't use C for anything anymore, and use JavaScript instead. :-P"
+4251,"C is still widely used. Sure, web folks don't use it, but it's the defacto microcontroller language, and we're surrounded by them. Plus, there's tons of ECUs in cars running C code. As an embedded engineer I had to reply :)"
+4252,":-)
+
+There are, imo, *far* too many programmers who think that all computing is done on x86 systems with oodles of RAM, i.e. the machines they're using for development. (Though it's also true i've encountered C developers who seem to think that 'C standard library' and 'glibc' are synonymous, and apparently aren't aware of things like newlib .... )"
+4253,Vim is the best editor because it can be spelled in so many incorrect ways that it's like a cornucopia for pedant grammar nazis.
+4254,I don't give a crap about any text editor wars. I try out many as well. I still don't have a favorite one. Currently using micro as my text editor. The only one I'm really fawn of is ne. I vim and even emacs. I guess I just like them all. I just switch to another one. When I feel like it. Currently my main text editor is micro for now.
+4255,Micro is great out of the box! I recommend it for first time programming students who need to edit over SSH. Of course if they are keen for more I'll point them in the direction of vimtutor
+4256,"I like typing my reddit comments in `ed` via `rtv` because it is the standard editor, but when I have to type something complex I fire up `vim`. And I don't have any reason to capitalise the initial 'v' of 'vim'."
+4257,Honestly I've been really content with VSCode + Vim Mode plugin. It gives me the raw text manipulation power of  Vim with the high level semantic understanding of VSCode.
+4258,Similar here. My favorite is Pycharm / IntelliJ with Vim Plugin.
+4259,"When designing hardware with vhdl or verilog, there are very few existing vim plug-ins that really help your work and you need to do a lot on your own. Especially vhdl's redundancy can be coded very efficiently in others editors, where I lack configurations for vim."
+4260,"vim is the best one with my config:
+
+https://github.com/tracyone/vinux"
+4261,"If you're asking this in the context of ""I need an editor that I can quickly download/use in various places"", Notepad++ is very good.
+
+Otherwise, it's still good but you'll be noticing some of the annoyances in it (like hanging on big files)."
+4262,"Another vote for notepad++ from me.  I love how far this application has come.
+
+I do some list management for email campaigns and routinely work with csv/delimited files that are anywhere from 200KB to 35MB in size (over 1.4 million email addresses, in the file I'm looking at now).  Doing a find/replace on this 35MB file does cause it to lock up--never really had to try that before--but otherwise most things are pretty fast as long as the file size isn't redonkulous.
+
+If I'm doing something like crunching data that intensive, I'll generally bring it into Access anyway and run a query."
+4263,">I do some list management for email campaigns...(over 1.4 million email addresses, in the file I'm looking at now)
+
+Hopefully not marketing campaigns such as penis enlargement...?"
+4264,"Legitimate emails, believe it or not.  Sometimes I have to scrub lists to suppress names, or filter them for specific email providers.  In this particular case, the 1.4 million names is a company's entire inventory, collected over the course of 10 years.
+
+I knew someone would ask that though. =D"
+4265,"So, can we get free access to the porn sites you're running?"
+4266,"Kinda, he works for the DNC."
+4267,"yea notepad++ is good and has a lot of features, but its also a little 2 loaded. and big. i like textpad instead."
+4268,"I use npp for general lightweight text editing, vim for heavy duty editing and Komodo for coding, so take your pick. They are all excellent at what they do."
+4269,"I use Notepad++ but I don't like how the menus are insanely bloated.  It's not so bad that I'm actively searching for something else, but I'll certainly look through this Ask Reddit hoping to read about something better."
+4270,I use Notepad++[Free] and Editplus 2
+4271,EditPlus is great :)
+4272,Touche pussy cat it is fantastic - I use it to code in Python in win32.  I also use GVim when I feel the need to rip my own nipples off.
+4273,I prefer gvim on Windows -- and on the Vista machines I'm forced to use a lot of the time where gvim seems to get angry? Then I use some pretty awesome Notepad++.
+4274,"What's wrong with gvim on Vista? I use it every day just fine. It seems to slow down a bit on really large log files, but probably not moreso than any other editor."
+4275,"I remember that TextEdit (I think that's what it's called, shareware editor with a large blue T for a logo) could handle huge files (GB-sized) with surprising ease, it would just open up like the file was a few KB long. I was impressed by that, and couldn't find another program that does that. Otherwise, it was not that special, so I don't use it any more."
+4276,"Mm, it's the Vista machines I happen to use on a regular basis (not my own, and I don't have any kind of root access or admin privileges or any of that jazz). I actually have to install it fresh every time onto the desktop, and when I do it acts a bit wonky when it tries to open files. It's unfortunately not worth messing around with -- if I need some serious vim action I just ssh into another machine and use my nice .vimrc environment on BSD or Solaris :D"
+4277,"I've ditched UltraEdit completely since getting acquainted with gvim. I've always been proficient at using vi when doing *nix administration, but watching Bram Molenaar's [7 habits of effective text editing 2.0](http://video.google.com/videoplay?docid=2538831956647446078) got me curios about it - and I haven't looked back since.
+
+Btw. I use gvim on Vista every day and have yet to encounter any problems."
+4278,"Oh, I love me some vim action too. I actually SSH into another machine so I can work in the command line (or just do it locally if I'm on my Gentoo installs) and it's pretty wicked awesome. <3 vim!
+
+The issue I have with gvim/Vista isn't, I don't think, Vista itself -- it's the particular install on which I don't have admin access or persistent changes (literally I have to install some things every. time. I use them. It's fun!)"
+4280,">By far the most powerful programmers editor is Slickedit. It also happens to be the most expensive at ~US$300 per seat.
+
+Emacs is turing-complete, how much more powerful can it get? Oh, and it's free, too."
+4281,"I think by powerful he meant ""power/time it takes to harness it"". It's only turing-complete because it includes a programming language, as does any programming language."
+4282,"Emacs, although the question is sort of like asking ""what is the best hammer to put a nail through my palm?"""
+4283,Because he's asking for a Windows text editor and we all know Windows is the OS Hitler would build if he was in CS?
+4284,Emacs is perfectly happy on Windows.
+4285,"I know, what were you referring to with the ""nail through the palm"" thing?"
+4286,I mean developing on Windows is a huge hassle.
+4287,"Oh. Well, depends on what you're developing, I guess."
+4288,"I'm torn between downmodding you for Emacs (I use the editor of the beast -- vi vi vi!) and upmodding you solely for the fast that I read it as ""what is the best hammer to put a nail through my -penis-?"""
+4289,"I use viper-mode in emacs.  Vi is a great text editor, it just lacks a good text editor operating system."
+4290,I'm a big fan of TextPad: http://textpad.com/
+4291,spent $35 for it in '92 and still using it several computers later. Never got any upgrades.
+4292,"[SciTE](http://www.scintilla.org/SciTE.html) for me.
+
+Single executable (510K). Code folding, tabs, syntax highlighting, [customizable](http://scintilla.sourceforge.net/SciTEDoc.html) through properties files."
+4293,"I usually install [this version](http://gisdeveloper.tripod.com/scite.html):it adds an entry to the context menu ""edit with scite"""
+47850,FTW.
+4295,"Notepad 2 for simple stuff. http://www.flos-freeware.ch/notepad2.html
+
+EditPlus for more complex stuff. http://www.editplus.com/"
+4296,**exactly** what i was going to say.
+4297,"Download cygwin, and use bash & vim."
+4298,"You can just use gvim for windows, unless there is a pressing need for bash."
+4299,"For programming, it's not just about an editor. Bash and Linux tools can be extremely useful in conjunction with your editor: grep, awk, sed, find, ls, ctags, etc.
+
+What I often discover with Windows text editors is there is a specific feature I wish it had so that I could do some laborious, repetitive process very quickly. Using a shell with an editor in Linux, it's not a matter of wishing a feature exists - because **there is always a way to do it.** It's just a matter of finding out how."
+4300,"gvim... it's vim, what else could you ask for?"
+4301,any TextMate ripoff? :)
+4302,[e text editor](http://www.e-texteditor.com) is pretty good.
+4303,"I upvote those who say [Notepad++.](http://notepad-plus.sourceforge.net/)
+
+Open Source, Small, Customizable. Feature packed. 
+
+End of thread."
+4304,Haven't seen anyone mention [e-TextEdtor](http://www.e-texteditor.com/).  I got hooked on TextMate at work and now use E on windows -- love it.
+4305,"Same here mate, I love it. Well worth the money."
+4306,I've been using [Crimson Editor](http://www.crimsoneditor.com) for as long as I can remember. And it's open source.
+4307,"notepad++
+
+the best hands down"
+4308,"...of the free ones.
+
+But since I haven't actually tried a non-free one, I'll say Notepad++ as well.  It's not without its annoyances, but it's good."
+4309,"I've seen a lot of threads about the best text editor, but not about the best Windows text editor. Just curious as to what you all use when you use Windows."
+4310,putty + vi
+4312,"PSPad is very good (and free). Ultraedit is good as a paid solution, though the only reason I like it beter than PSPad is because it supports SFTP transfer to remote hosts."
+4313,PSPad is what I install on all my Windows boxes.
+4314,"pspad++ - mostly when i need a windows editor it's to do some quick work on my website from a borrowed computer, and its built in ftp mode is very nice"
+4315,"PSPad _supports_ FTP transfers. And more:
+
+* Search/replace with regexes.
+* search/replace in several files (open files, project files).
+* search results in a [clickable] list
+* hex editor
+* save text with windows/unix/mac line endings
+* versatile text diff - with another open file, with a file on disk, with last save"
+4316,"Yes, but hotredditaction (I can't believe I just typed that) specified SFTP, not FTP."
+4317,Does a text editor *really* need to have FTP support and a hex editor?
+4318,"Depends on what you do with it.
+
+I need FTP support. I'd rather use a text editor that has syntax highlighting, complex search/replace and diff over FTP than the Solaris vi (no, it's not vim, line-down is <ESC>j and that's that).
+
+And I'd rather use a modern hex editor/viewer than strings or it's windows port."
+4319,"I use it for coding in PHP (built-in ftp uploader, html preview, color translator, md5 checksums) and coding for A7 GameStudio (compile by linking to the exe ""acknex.exe %File%"")
+
+Bracket locating, multi-highlighter, lots of cool stuff in it. In fact, I've never had an idea for PSPad *that wasn't already implemented*."
+4320,"ultraedit, but notepad++ is free"
+4321,[Jesus loves Ultraedit](http://www.ultraedit.com/company/IDM_full_story.html)
+4322,"Another vote for UltraEdit here. It's tremendously powerful and always gets the job done for me, though I don't use many of its more advanced features. I also don't think it has been maintained particularly well; it's a little rough around the edges, with more modern features like text antialiasing feeling poorly bolted-on. And it has suffered tremendously from feature creep (but I suppose the marketing department has to get their due).
+
+Ultra-Edit really has two killer features for me:
+
+1. Perl regular expression support! I could not use an editor without this. Though Ultra-Edit's implementation seems to choke on a few of the edge cases and more obscure Perl-introduced features (even though they've been standardized for years now...)
+
+2. Shell extension: I can right-click any file and open it in Ultra-Edit with just one more click. This is absolutely awesome once you have it, and something I always miss on my Linux desktop."
+4323,"Notepad++ also has shell extension (which, agreed, is an amazing addition!)
+
+It also supports regular expressions in its find/replace function.  I'm not too well-versed in regular expressions so I don't really know if Perl regular expressions differ from what is offered in Notepad++."
+4324,"If you have root access, you can probably add a poor man's shell extension yourself.  Back when I used to have to use a Windows box occasionally, the following registry modification was very handy, and I still keep it updated on my Windows machine just in case.
+
+    [HKEY_CLASSES_ROOT\*\shell\Emacs]
+    @=""Edit with &Emacs""
+    [HKEY_CLASSES_ROOT\*\shell\Emacs\command]
+    @=""c:\\emacs-22.1\\bin\\runemacs.exe \""%1\""""
+
+That made XP put an entry in the right-click context menu to open any file in Emacs.  I don't know enough Windows to be sure, but I'd assume something similar could be done for most editors."
+4325,"That would ignore your existing emacs and start yet another instance of emacs.  
+
+For that reason, it's better to use `emacsclient` instead of `runemacs`.  But you need to make sure you do `M-x server-start` ahead of time in emacs."
+4326,"Good point.  I almost never use Windows, so it never really came up for me."
+4327,"I'm a bit shocked to hear your reasons ""two killer features."" I've never used a legitimate text editor (beyond notepad.exe) that didn't have regex support, and you can add any program to the context menu regardless of what it does automatically. Combined with the negatives you list initially, I'm struggling to find the logic in your recommendation."
+4328,"It's really a whole-package deal; Ultra-Edit is a text and hex editor that just works pretty smoothly, and can deal with anything I throw at it, from 1 kB text files to 100MB of binary garbage I have to sift through for some stupid reason. The feature creep is more an argument against wasting money on unneeded upgrades; usually, I 'upgrade' the editor whenever it gets installed on a new system, and leave it at that. Version 14 looks pretty useless (much like the Vista it seems to have been designed for); Version 13, what's installed on this machine, is snappy enough; Version 10 or 11 is also just fine.
+
+As to regular expressions, they're very common in the Unix world (though Perl-compatible ones are not nearly as common as I would like), and *standardized*. For some bloody reason, every Windows developer likes to re-implement his own fucked-up piece of shit regular expression engine. Ultra-Edit has its own retarded syntax, but it is easily configured to use Perl-compatible REs, unlike another editor I use for writing LaTeX, WinEdt, which is stuck on its own brain-damaged REs with no option to change.
+
+Shell extensions are one area of the Windows world that I am happily mostly ignorant of, but Ultra-Edit integrates using a custom DLL. The integration Just Works, and that's good enough for me."
+4329,"I haven't used it, but so far I haven't heard anything that makes me want to try the payware UltraEdit over Notepad++. What does the former do that the latter doesn't, or more importantly what does the former do *better* than the latter? I ask because I'm curious, not because I have some unhealthy devotion to a random software option.
+
+> As to regular expressions...
+
+In my experience regular expressions are always implemented slightly differently from program to program. I've never gotten used to ""one"" version, but AFAIK Notepad++ uses the basic, near-universal Perl syntax. At least, if it doesn't I've a) never noticed and b) never done something that made it obvious.
+
+> Shell extensions are one area of the Windows world that I am happily mostly ignorant of, but Ultra-Edit integrates using a custom DLL. The integration Just Works, and that's good enough for me.
+
+Notepad++, since it is the main alternative/competitor, does this as well. For future reference:
+
+* In XP: Control Panel, Folder Options. Choose a file type and click Advanced. You can edit more entries to the list or change the default (usually Open or Edit if it is a text file).
+
+* In Vista: Control Panel, Default Programs. I don't use it much so I can't give much more advice, but look in there and you'll probably find it."
+4330,"Notepad++ looks like a very nice editor for the (lack of any) price. I have to say, I probably wouldn't use Ultra-Edit if I had to pay full price for it, but there are plenty of discounts if you know where to look. I've also been using Ultra-Edit for years and years, since long before Notepad++ came out (late 2003, if Wikipedia hasn't lied to me again), so some of my recommendation is probably just inertia.
+
+Ultra-Edit is a full hex editor, not just text editor. For me, this is an extremely important feature; for you, perhaps not. This is probably the most significant difference between the two.
+
+Notepad++ appears to support only standard Unix/POSIX regular expressions, a subset of the more powerful and more recent Perl regular expression standard. I use a few Perl/PCRE features fairly often, so this is something I notice when I'm stuck with a Unix RE engine.
+
+Notepad++'s shell extension is probably just as capable as Ultra-Edit's, since I don't imagine it's that hard to write a shell extension. Both are certainly preferable to your file type trick; that only works for certain file types, while a shell extension makes right-click editing of *any* file possible. Not so useful for a text editor, I agree, but very nice for a *hex* editor, since it can chew on binary files as well as text.
+
+So my conclusion is that Notepad++ is probably a fine editor, but Ultra-Edit has a few features that Notepad++ lacks, features which I would miss. You may not, in which case the free alternative is clearly superior."
+4331,"there is a hex-editor for notepad++ available as a plugin: [link](http://sourceforge.net/project/showfiles.php?group_id=189927&package_id=222593)
+
+it's not difficult to install, just copy the dll to notepad++'s plugin directory and it will be available under the plugins menu"
+4332,UltraEdit
+4333,"Just to be different than all the Notepad++ people: [Notepad2](http://www.flos-freeware.ch/notepad2.html). I like my text editors to edit text, not code, by default, so I like them to be as unobtrusively Notepad-like as possible.
+
+Basically, take Notepad and drop in more menu entries/keyboard shortcuts for common text manipulation tasks, simple line numbering and code highlighting. That's it.
+
+I actually like it just because it's the only text editor (besides Notepad itself) *without* tabs--I don't live in my text editor, so I don't want it to think it should own every text file I open. It should be small enough that there can be one instance of it open for every file open."
+4334,"I have to say Notepad++ too, although I typically use Notepad, since the lack of a need for a Windows text editor has prevented me from downloading Notepad++."
+4335,ConTEXT is worth a look: http://www.contexteditor.org
+4336,Komodo Edit and Notepad++ are both fantastic.
+4337,MultiEdit.
+4338,Komodo Edit.
+4339,[edlin](http://en.wikipedia.org/wiki/Edlin)
+4340,emacs
+4341,I like Ultraedit.
+4342,"I haven't used it myself, but a friend swears by [Editra](http://editra.org/)"
+4343,I've been using it recently to do Python coding. It's pretty good.
+4344,UltraEdit -- Accept no substitutes.
+4345,Windows Notepad
+4346,u r 1337
+4347,\m/
+4348,Notepad++
+4349,Textpad is pure awesome.
+4350,"""Best"" is rather utterly subjective, but the ones I've used/liked are..
+
+- Programmers Notepad: Very simple, fairly customizable. Doesn't have much in the way of scriptability. Is free.
+- e Text Editor: Paid. Basically a TextMate clone on Windows (supports textmate bundles, and is programmable in shell-script/python/ruby/etc).
+- Sublime Text: I really like this editor, it does things very sensible - although it's still quite early in development. Supports TextMate .tmBundles too now. First text editor I've seen to put emphasis on a tiling UI."
+4351,"Agreed, Sublime Text seems quite promising to me with a solid foundation, but it seems development has kind of stalled since the guy behind it [got married](http://www.sublimetext.com/blog/articles/just-married). ;) (yes, seriously... even the betas are quite few and far between with no big steps forward now with three minor betas since june)"
+4352,"I like JEdit on Windows. On Linux, where do I even begin? Bluefish for HTML, GEdit for notes and such, Vim for anything from the terminal..."
+4353,visual studio 2008
+4354,While VS 2008 is great it's a bit heavy for text editing.
+4355,I feel absolutely handicapped when working in Visual Studio on anything but Microsoft approved file types.
+4356,"I often have problems getting distracted by email, reddit, etc. while working, so for me, I use DarkRoom. It's just a full-screen, simple text editor. Not good for writing research papers, though, but excellent for creative writing."
+4357,"First, thanks for the thread. I spent a lot of time trying to find a good one and finally started working with the free (time limited) version of UltraEdit. The thing I most wanted it to do though was highlight the differences in a couple of files opened side by side, and could sometimes get that to work for a large part of the files, but sometimes (if I remember right) not at all. Finally did it manually.
+
+And thanks for all the comments and suggestions. I now have at least one more to check out next time I need one."
+4358,"[Win32Pad](http://www.gena01.com/win32pad/) is a cool alternative to Notepad for simple editing.
+
+ 32k file size and is only limited by the amount of memory you have when opening large files."
+4359,EmEditor. It can open big files and do all of the things that a text editor should be able to do.
+4360,ultraedit
+4361,Linux.
+4362,Worst Windows app ever.
+4363,More like best app ever!
+4364,That's because you only like FLCL.
+4365,"On Windows, did you aptitude install decent-operating-system?"
+4366,VS code
+4367,This. JetBrains products are very good and reasonably priced but VS Code is 98+% as good and it's hard to be more reasonably priced than free.
+4368,I just hope they eventually add multi-window support. I actually moved to a 38 inch ultrawide primarily so that I could display 3 VS Code tabs side by side.
+4369,You can do this already in VSCode
+4370,"How?
+
+Edit: Figured it out, if you run two seperate VS Code processes you can drag a tab from one to another. Still not quite as nice as Visual Studio for example but useful!"
+4371,Right click on the open tab and click split right or which ever way you want.
+4372,"Oh yeah, that's what I'm doing now, with my ultrawide I can comfortably display 4 files side by side."
+4373,"What size ultra wide have you go?
+
+I have a 29"" and would say 3 files is comfortable."
+4374,"I got a U3818DW, its a great panel for software development, I also do some photo/video editing and crypto/stock trading on it. All of the screen real estate combined with the Dell Display manager makes it really easy to arrange all of my windows in specific configurations depending on what I'm doing.
+
+Also, even though its not billed as a gaming panel, I can't really see any issues playing fast paced shooters like Hunt: Showdown or RTS games like Company of Heroes 2."
+4375,Very nice!
+4376,~~Install the insiders edition along with the standard edition. You can open both side by side~~.
+4377,You don't need any special version. This has been a feature for months.
+4378,"Is it really? Jetbrains stuff does *a lot*. I don't use vs code, but virtually every day I use phpstorm I seem to find a new feature that's useful.
+
+Refactors, integration with servers, integrations with DBs, running static analysis tools on the fly, nice navigation (click into a function etc.). 
+
+It's hard to imagine a free thing doing as much as jetbrains seems to do. 
+
+Can anyone comment, are they actually comparable?"
+4379,It can do all the features you just listed with add ons
+4380,"Are they tightly integrated? It's quite different to be able to say, run phpmd Vs having it highlighting inline and being able to press alt-enter to correct loads of thing, or highlighting a section of code and extracting a method, while having it recognise that the same code is elsewhere in the class automatically."
+4381,This is key. I have wasted so much time in other IDEs trying to find plugins that do what I want. You end up with a pile of plugins that all have their own menus and options layout. And then updates break them and you need to wait for a fix if it ever comes at all.
+4382,"Yeah, I've been down this road too. Jetbrains feels very, I dunno, managed? Like it feels like someone thought of it before I got there and had a solution ready every time. Very little cobbling together."
+4383,I haven't done that specifically with PHP (only used it for that a little bit) but you can do basically that with JavaScript so it's probably worth checking out.
+4384,Yup.  Integration is frequently as tight as one would hope for.
+4385,I'll give it go
+4386,I also agree. If you care about extra tooling then jetbrains products are worth it. Webstorm only cost me 40 bucks for the year. Seems like a lot since vs code is free but I get my money's worth. It's definitely saved me more than an hour over the course of a year and that's basically my hour freelancing rate.
+4387,"I've never used vscode, but my jetbrains subscription is completely worth it compared to say atom or sublime. 
+
+But if vscode is quite close to phpstorm in quality and functionality, then maybe it's worth thinking about."
+4388,"That's really interesting, I used to subscribe to Her brains WebStorm but found that VSCode had all the features that I actually wanted and was a lot more efficient on runtimes. It also startups a lot quicker and with extensions is customised to my exact needs. 
+
+Cancelled my subscription."
+4389,"It depends on the language and the quality of the addon. JS and TS for example are directly integrated and work perfectly with all the features that you describe, and I heard the C# one is also quite nice.
+
+I remember that PHP and Ruby with Sublime and Atom were crap to use though, so I always went back to Jetbrains. Dunno about the VS Code equivalents"
+4390,I use JetBrains for others language but not web development. I found JetBrains does not have as many extensions to integrate with compare to VS Code.
+4391,If I was paid to use emacs I still wouldn't do it
+4392,I never could get used to Emacs myself but the people I have seen who know it well have godlike editing efficiency with it.
+4394,WebStorm. It's an IDE.
+4396,"Most shit works ""out of the box"" and there is generally no need to install any extensions. Compare that to VSCode: you have to install a shitload of extensions for you to get to work the way you want."
+4397,"That's the idea, though - you start with a bare-bones editor, and add the functionality you want.  The menu options are all for features you use, so no wading through tangled menus to find the feature you're looking for.  Sure, it takes longer to set up, but in the end you get what you want, not what someone else assumes you want."
+4399,"Have you used Angular with VSCode? Because I just couldn't without searching for this and that. Meanwhile, with WebStorm, right off the bat, it's compatible with Angular syntax and Typescript."
+4400,I use vim but I know that’s unusual. I’ve heard really good things about VS Code though.
+4401,"I keep considering switching from vim to VSCode, but I always end up wasting time removing "":w"" from all my files."
+4402,"Have you tried the vim mode plugin for VSCode, it would solve that problem... I had it too"
+4403,"No offense, but you're probably using vim wrong if you're still typing \`:w\` to write a buffer. For example, in my config I have \`:w\` mapped to \`<leader>w\` in normal mode  (where I set my leader to be the space bar). I also have \`<esc>\` mapped to \`jk\` in insert mode. So to write a buffer from insert mode, I just type \`jk<space>w\`."
+4404,So instead of typing [escape]:w you are typing 1 additional character?
+4405,"If i got it right, he is pressing spacebar+w, instead of pressing :, w and enter"
+4406,"Yep, just `<space>w` writes the buffer from normal mode...two key presses that are already right under where my fingers are positioned. From insert mode, it's `jk<space>w`, four key presses that are also right under where my fingers are positioned. For me anyway, that's much easier than moving my hand all the way up to `<esc>` and then having to reach for a shift to get a `:` then `w`, and finally `<CR>`...which is a total of 5 key press that are spread out all over the keyboard.
+
+The customization is one of the things I really like about vim. I have lots and lots of these. One example is if I type `iff<C-]>` in insert mode... it will insert this into the file:
+
+    if () {  
+    }
+
+And position the cursor inside the conditional of the if statement, still in insert mode, so I can just start typing the condition. I also have `forr<C-]>` which will insert this in a php file:
+
+    foreach ($ as $) {
+    }
+
+​ and this in a js file:
+
+    for ( in ) {
+    }
+
+and position the cursor exactly where it needs to so I can just start typing the array name that I want to loop through. Using its ftplugin feature, vim will detect the current filetype of the buffer and use the correct substitution that you've specified for that filetype...as long as there is a plugin for that filetype, which there usually is. However, you can also add custom plugins for filetypes. And all this just scratches the very first layer of paint on the surface of vim's customizability.
+
+Not too sure why all the downvotes on my original reply...people are just afraid of vim, I suppose....or they're fucking dicks.
+
+&#x200B;"
+4407,Is this faster than mapping caps lock to escape?
+4408,"meh, it's really a matter of preference I suppose. In my opinion, by using 'jk' my fingers are already right there to take me out of insert mode (although caps lock isn't a very far stretch either) and if I ever \_do\_ need to type in all caps (for whatever reason, but I do use vim for more than just writing code...so I guess it's a possibility although rather unlikely), I still can use caps lock in insert mode. Also, I only type in english, so there's never a  time where I'm typing a 'j' followed by a 'k' but I suppose that  might be an issue in other languages. The point is that really just mapping escape to something that works for you is faster than hitting escape every time you want to leave insert mode."
+4409,Unusual? I don't know anyone who doesn't use vim in my company and the companies we did work for.
+4410,"I don't know that many people that use vim as their day to day editor. I decided to check the [Stack Overflow Survey](https://insights.stackoverflow.com/survey/2018/#development-environments-and-tools) and sure enough, vim usage is fairly high — higher than I expected — but amongst web devs, it's 6th on the list."
+4411,"All of my dev machines are remote so I use vim if I want to make quick fixes from the shell, say for fixing up a small merge conflict or something. Otherwise, I use an IDE."
+4412,"> my dev machines are remote so I use vim if I want to make quick fixes
+
+Same, except even then I always check for `nano` first :)"
+4413,That's mind-blowing to me. Do you work in some archaic industry? I can't imagine developing without basic IDE features.
+4414,"If you use plugins you can use most features of an IDE. The only things that i know vscode has and vim doesnt is vscode live share and a good debugger. find all references, autocomplete, async linting, auto importing etc all are in vim with some configuration"
+4415,[https://github.com/vim-vdebug/vdebug](https://github.com/vim-vdebug/vdebug) works as good as any other debugger I've used.
+4416,Ill definitely check that out. The reason why I use vscode for debugging is its ability to debug typescript. I use typescript in all my projects and it doesn't look like there is a debugger for typescript in vim. I could debug the javascript generated but that would be annoying
+4417,"Well, ts might be an issue. It claims to work with any debugger that uses the DBGP protocol and has been tested with PHP, Python, Ruby, Perl, Tcl and NodeJS. So I guess it'd depend on the existence of a ts debugger using DBGP. I've only actually used it with PHP, which is all I need at the moment."
+4418,"I switched from vscode back to vim. Somehow the performance of the vscode has gotten a bit worse than it was before. It gets laggy and sometimes even freezes when opening very large workspaces, or when you accidentally open very large file. I was using the vim extension with vscode, but i think it made the performance worse.
+
+You get pretty much same vscode functions and tools out of the vim if you install right plugins and configs."
+4419,Sublime with a bunch of packages.
+4420,still on sublime and I refuse to leave
+4421,"I was in your shoes then I decided to give intellij a shot for a couple weeks just to try something new.  Never even thought about switching back. Even a year later I'm still discovering awesome new things it can do for me. 
+
+Also I feel bad saying this but now I kind of judge my coworkers who use atom and sublime. Like *you have no idea what you're missing.*"
+4422,"If you truly feel this way, then it probably means you didn't have the right packages installed on Sublime."
+4423,"Doesn't matter how many packages you've installed, Sublime will always be a text editor, not an IDE."
+4424,"it's definitely true, but I just have a very comfortable workflow and muscle memory with sublime.  with how I work I think sublime is probably what ill stick with for a while."
+4425,"I was where you were a few months ago, then a collegue showed me VS Codes Live Share. That's when I decided it was time to switch. :)"
+4426,Phpstorm
+71687,This
+4428,"Spacemacs. IMO a better implementation of Vim, and I can no longer live without org-mode."
+4429,"There is `org-mode` for Vim, although it was primarily developed for GNU Emacs."
+4430,Atom here. Seems to be the unpopular opinion.
+4431,"If you're already using an electron-based IDE you should really try out VS Code.  It's insane the uptake rate that MS has gotten on it, and the plugin architecture is really great.  They also have really fast file level searching with ripgrep, and it has a ton of optimizations.  I too stuck with Atom + Notepad++ for a long time, but I have switched to VS Code and it's really all that and a bag of potato chips just like everyone says."
+4432,I'm with you. I like VS code but was already more familiar with atom and didn't feel like switching.
+4433,"Same, but I’m super satisfied. Being open source I find infinite plugins for basically anything I need."
+4434,Atom by GitHub.
+4435,"Vim and only vim. I debug with it, I write and run my db queries in it, and I've written dozens of mappings and scripts to simplify working on the projects I work on and to completely customize my dev environment."
+4436,Google docs
+4437,"NotePad++, and VS Code."
+4438,"Me too, quick stuff with notepad++ and the the dev stuff with VSc"
+4439,I misread that as Nopepad++
+4440,"I just realized the typo, fixed, thanks"
+4442,"Acme, sam (only for taking notes), and GNU Emacs. [Here's](https://bitbucket.org/tux_/dotfiles/src/bbdfd82c6bd4f9205625c952eec4f7e5434cf581/emacs/?at=default) my `.emacs` file, the other two are left default.
+
+VS Code is ""fine"", but it is too slow on all of my computers. If you like its look and feel, Sublime Text would be a good fourth option."
+4443,"Vim (used to use Sublime), IntelliJ for Java and obviously Xcode for Apple stuff."
+4444,pychram
+4445,"VS code ,it is fast (enough),easy to use and easily customizable with extensions."
+4446,"Vs is everything but not fast. Electron is not fast, nor is atom or vs."
+4447,What ide's do you consider fast?
+4448,I love VS code but I have had issues with using it for large files. If I open certain files in VS code it will freeze. I have to switch to atom and open the file there which is pretty frustrating
+4449,"Strange since atom is also electron based... mmm Try using any native editor, maybe vim, sublime or notepad++"
+4450,"Not sure why you are getting downvoted. This is 100% true. Sublime feels WAY faster, but in the end, I still end up using VSCode because of its features."
+4451,"I also use vscode, but it's not fast. You got tons of stuff that just mitigate that effect overall. The issue however relies on electron, not VScode itself."
+4452,I'm probably not doing anything too demanding so you might be right.
+4453,"Well, there are a few keys to consider here:
+
+\- The fact that we have faster computers doesn't mean that new software like electron isn't slow. It is slow compared to many alternatives
+
+\- When I use VScode in a 3 screen setup and the other 2 screens have videos / anything GPU demanding, you can start seeing lag on the VScode, even when scrolling.
+
+\- I use VScode as well, not ditching it, It's great, but the tech behind it it's not, however without that tech we would not have the number of plugins and customization that we do."
+4454,Notepad++ all the way.
+4455,IntelliJ.
+4456,"Used to be a Sublime Text 3 nut, just because I like something simple. 
+
+And then I discovered VS Code. Does the same thing, its light weight, but lets me jump around when I look at a function/class definition or whatever. Has extensions to let me do my job faster, and looks cool."
+4457,And it's much slower than Sublime Text according to my own perception.
+4458,Performance factor is slower. The getting-shit-done-quick factor blows ST out of the water.
+4459,"Sure but it's really not that much different. 
+
+And what's surprising is you can use a terminal at the same time, load it with tons of extensions and will still perform like a beast."
+4460,N++
+4461,"Neovim or Vim on the server
+Atom or Brackets on the desktop"
+4462,Atom
+4463,"Do you do Java development?  If not, WebStorm is like intelliJ but focused more for javascript and general front-end web development.  
+I've been using it for years and love it.  Tried other lighter editors but ended up installing so many plugins that Webstorm just comes with already."
+4464,VS Code + Live Server extension
+4465,"Text editor - Neovim
+
+IDE - VS Code (with IDE extensions)"
+4466,"Seems like I might be the only one who uses Atom.
+
+Tried VS Code and it's just not the same."
+4467,Atom just feels so freaking sluggish.
+4468,Takes a bit to get configured but VS code is the way to go
+4469,Sublime for quick stuff and VS Code for everything else. I used to love PHPStorm but it got so slow and awful.
+4470,"I'm including what you'd call IDEs in this list: PhpStorm, VS Code, Npp, Brackets.  Which depends on the specific activity.
+
+Npp is what I use if what I really want is a text editor.  The others are for more involved development processes:
+
+* PhpStorm for development/debugging in PHP
+* VS Code for development/debugging of Node.js applications
+* Brackets for quick local deployment of frontend projects and sometimes debugging of frontend code"
+4471,"I use both VSCode and Intellej. VSCode for JavaScript, HTML, and CSS. IntelliJ for Java AND no it is not slow like what other people said it actually helps me code Java faster."
+4472,VSCode + Vim Mode through the extension.
+4473,"Sublime Text 3, but for bigger projects VS Code."
+4474,"I use TextMate on my Mac, and Coda2 on iPad Pro."
+4475,"I switched to VS code about a month ago from Sublime, was reluctant to switch but am glad I did."
+4476,"Every five seconds, someone on reddit asks this question.
+
+Every 10 seconds, someone replies with the same answer."
+4477,"Another one VS Code here.
+
+Besides Microsoft office, VS Code is the only other ""best in class"" product to come out of Microsoft, in my opinion."
+4478,"Visual Studio (proper) is one hell of an IDE. It's definitely not the most elegant, but it's just a powerhouse of capability."
+4479,brackets!
+4480,Another person using vs code. I did use eclipse back when I was coding in Java. I used notepad+ as well back when I was on Windows for some really light stuff.
+4481,VS Code
+4482,I like using Brackets. It’s just so comfortable for me to use.
+4483,Sublime text with vintage
+4484,Sublime Text 3 is honestly the best. Beautiful syntax and customizability
+4485,Right now Atom but usee Brackets before which was bomb af
+4486,Atom.io
+4487,Atom with a ton of packages and a nice theme
+4488,Vscode ftw
+4489,"Vscode for python, php. Vs for dotnet development. I've found vscode to be an amazing IDE when used with the right addons."
+4490,"I finally gave in and tried VS Code, and it lived up to the hype in my opinion. So I stuck with it."
+4491,Atom...anyone?
+4492,"I'm using **VS Code** and I prefer **Text Editor** rather than an **IDE**.
+
+&#x200B;
+
+I chose VS Code over Atom cause it's more lightweight than atom, loads faster and looks better.
+
+it's also supports extensions and have an active community.
+
+(being lightweight, fast and being an Editor nor an IDE were my factors)"
+4493,Neovim.
+4494,"I was a Sublime fanboy until I tried VSCode with it's extensions. Holy fuck that thing is great (Specially the react extensions, they save a lot of time)."
+4495,"VS Code is the best. IntelliJ runs very poorly on my system (people say Java is fast, but it really isn't)."
+4496,I’m still in high school and just starting out. I use Brackets.
+4497,I used to use Brackets at the beginning for college work but then I moved over to IntelliJ as I find it better and I could use one IDE for full stack development
+4498,VS17 Enterprise and PHPStorm
+4499,Atom and sublime
+4500,"For single text documents, Notepad++. Anything more complex I switch to an IDE."
+4501,Jesus Christ the answers here. Notepad++ really? Go the Idea Intellij route and never look back!
+4502,Sublime Text. That is all.
+4503,"[Atom](https://atom.io/) and [Sublime Text](http://www.sublimetext.com/) are both pretty and quite functional. I personally give a slight edge to Atom because I like its package diversity and it's open source, but both are really great"
+4504,Atom won't be free when version 1 comes out but it will be worth the price IMO.
+4505,Are you sure i think if read that they decided to go fully opensource
+4506,"It can still be open source and cost money. It's rare to see, but those two aren't mutually exclusive."
+4507,"i know but you cant find any source that they still want money when it releases , the point in the faq is gone too"
+4508,Really? I'm curious how you found this out...can you share your source?
+4509,http://blog.atom.io/2014/05/06/atom-is-now-open-source.html
+4510,Vim isnt Ugly o.O?
+4511,"I've come to love using Notepad++ for editing code/text + built in spell check works well.
+
+http://notepad-plus-plus.org/"

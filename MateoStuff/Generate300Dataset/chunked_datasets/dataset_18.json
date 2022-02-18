@@ -1,0 +1,662 @@
+idx,text
+5762,"Python, JavaScript, HTML/CSS are all really good and useful to know for web dev. That's all I knew prior to being hired for a web developer just a week ago. Here are the few major things that I've been learning the past week (I don't think most people get as lucky as I did given that I knew so little about more back-end stuff):
+
+Learn how to use some sort of database: I've been using MongoDB, but another popular one would be MySQL. If you already know python, it might be easiest to learn PyMongo, although there aren't a lot of good tutorials on that. Maybe just learn MySQL? The database is basically learning how to store, find, manipulate info that's stored server-side.
+
+Learn how to use terminal/command-line: Just simple commands like change directory (cd), ls, grep, etc. This sort of stuff you can really learn by googling the instructions for when you need to run files/a database locally on your computer.
+
+Make a github account: GitHub is used for tracking changes to files and sharing them with others. You don't really need to learn how to use the terminal with git although a lot of people do. The application that you download from github.com makes pushing/pulling really simple, and makes tracking changes easy.
+
+You might also have to use other frameworks at your job, but so many get used by different places that I wouldn't suggest learning any in particular, although the more you learn the easier it will be to pick up new ones, and the better it looks to places hiring. For example, I had to learn Flask, which allows you to use python code in html, for easy transferring of data from a database to html. Although Flask also doesn't have a lot of online tutorials.
+
+But most importantly being able to google things efficiently is the best tool. Knowing what questions to ask and being able to understand explanations is your best asset. I didn't know shit a week ago, but I've gotten better and better at reading and understanding questions people ask/answer on stack overflow and learning how to use that for my own work. If you have a question , most likely someone has asked that question before. Most of the answers are already on the internet (StackOverflow mostly). You just need to figure out how to find and interpret them. Good Luck!"
+5763,"When employers are searching for a web dev, do they also expect you to know about back end programming, or do they hire someone else for that?"
+5764,"It depends how big of a team they have. At the place I'm working at it's just me and one other person working on the website. So I have to learn both. But with bigger teams, from what i understand, they'll have people specialize in one or the other. As a front-end web developer it's useful to know some back-end stuff so that you get a good understanding of the bigger picture and you're able to communicate with the back-end people, but you really only need to know the basics."
+5765,"So, who does the web designing?"
+5766,"Typically user experience (UX) for larger companies. However, I've noticed that for smaller projects they normally expect their web developers to be able to roll a design out themselves without UX."
+5767,So I should also study web designing on top of web developing?
+5768,In my opinion it doesn't hurt to know some of the basic UX stuff but don't go too deep down that rabbit hole.  If you're making personal projects just use something like Bootstrap instead of killing yourself screwing around with Web design aspects of a project.
+5769,"That is highly dependent. Some companies (usually larger ones) have ""Web development"" split between three areas:
+
+Web development (Front-End). Web development (Back-End). And User Experience (Design).
+
+But for more in-between mid-size companies you'll likely be involved in at least a little of both the back-end and design."
+5770,"I myself am beginner as well with knowledge in HTML/CSS at the intermediate level and starting to learn JavaScript and been learning Python. Reddit for example is written in Python on the back end I believe , Facebook in PHP. All just depends really on what you're trying to build."
+5771,"Lesson 1 - just because something big is written in a certain language it doesn't mean that language is any good.
+
+/r/lolphp"
+5772,"Lesson 2 - Don't get caught up in the echo chamber of online debates.  While I think PHP has it's faults, it's also one of the most ubiquitous backend languages and there are generally way more PHP jobs than Python ones (depending on location of course)."
+5773,People are losing interest in PHP: https://www.google.com/trends/explore#q=php&cmpt=q
+5774,"I completely agree. As a language it dying out, and it's shown by multiple metrics... But still its one of the most popular languages and this ""dying out"" will probably take over 5 years."
+5775,Don't make it live further.
+5776,"[Here, let me fix that for you](https://www.google.com/trends/explore#q=%2Fm%2F060kv%2C%20%2Fm%2F0505cl&cmpt=q)"
+5777,"Can you mix different languages together in the same site? For example, can Javascript be integrated within an HTML based site?"
+5778,"That's what Javascript is for. Your Javascript code manipulates your HTML, which gives the appearance of a dynamic page. 
+
+Your HTML is generated by the back-end of the site, which you can write in whatever you please. Popular choices for backends include PHP, Ruby, Perl, and Python. More modern choices might be Scala, Clojure, Groovy, or even Haskell."
+5779,"As someone about to finish highschool looking to pursue a degree in Systems Engineering, would it be better to start learning some of those modern options or the popular ones?"
+5780,"Systems programming is quite different from web development, so none of these are what you'd work with day to day in your education (that doesn't mean they aren't worth knowing!). 
+
+But the general case is that you should know the ubiquitous tools in your field (C for systems, Java for Android, PHP for web, C++ for game engines, etc.), but always continue learning new tech, and look for opportunities to use them for a net gain. For example, systems programmers and game developers might enjoy D or look forward to Rust, web devs might be happier with Clojure than PHP. 
+
+So, yes, you should know the popular tools, but the new stuff is worth knowing just as much. Just learn to love learning, and your toolbox will organize itself!"
+5781,Thanks a lot!!
+5782,"Yes. Pick a site, look at the source code, you will see both HTML and Javascript."
+5783,lol duh...
+5784,ex. popups...js alerts
+5785,"Front end: HTML, CSS, JavaScript (as much as I loathe it)
+
+Back end: Ruby on Rails, PHP, MySQL/NoSQL (big data), JavaScript
+
+It all comes together though because a good website will have automated headers/footers which should be done in your back end language of choice. Knowing multiple ones is incredibly useful, especially if you're jumping around projects, but only one is really needed (go Ruby!)."
+5786,"You really don't need to worry about backend stuff yet. Just learn javascript. Everything there is to know about it. write it, read it, make cool tools with it. Read JS the good parts, study client side frameworks. Learn jquery. There's a shortage of people who are really good in JS. 
+
+After that get into node.js. Because you'll already know javascript and node is so easy for quickly making web servers."
+5787,"I was thinking of going with PHP, but after watching this video I'm leaning towards Ruby on Rails. First, I need to start with HTML, CSS, JavaScript, jQuery... and that's what Jon Duckett's books (one of many resources)."
+5788,"you will need a pet spider, study architecture, and biology. be careful and dont get bit."
+5789,for the love of god not PHP.
+5790,"That's terrible advice. For personal projects or self-employed projects, sure. If you want to be a professional developer you better be damned sure you're learning the languages that are being used no matter what you think of it.
+
+And I see PHP on A LOT of job descriptions."
+5791,"Come on, nobody learns all the languages and Web frameworks out there.  You might as well suggest the guy has to learn Rails, and ASP.NET MVC too, because, hey, there are a lot of jobs for those.
+
+Realistically if you know one MVC framework it's not like another is going to be mind-bending if you actually need to pick up."
+5792,"Considering PHP currently has about an 80% market share, no, it's not like suggesting he learn Rails if he wants to work as a developer. In fact, it's probably a good idea."
+5793,PHP doesn't have an 80% market share.  Get the hell out of here.
+5794,"http://w3techs.com/technologies/overview/programming_language/all
+http://www.w3cook.com/programminglanguage/php
+http://venturebeat.com/2012/10/02/php-andi-gutmans-future-mobile/
+Can you cite any sources other than your fingers?"
+5795,"> PHP is used by 82.0% of all the websites whose server-side programming language we know.
+
+Right, because only PHP broadcasts its use in the headers.  That's meaningless.  Besides that, a lot of Web sites are standard WordPress with no developer involvement which is not ""the market"" in the sense that it matters to us."
+5796,"I take that as a ""no""."
+5797,"Hurrrr.  ""I'm right because of this meaningless junk data.""  Here's some data that actually means something -- Dice lists twice as many C# web jobs as PHP:
+
+http://www.dice.com/job/results?caller=basic&q=php+web&x=all&p=
+
+http://www.dice.com/job/results?caller=searchagain&q=c%23+web&x=all&p=
+
+Since there are many other languages that are used for Web development, and only looking at these two we only see 33% for PHP, I am quite confident in my assertion that PHP doesn't have 80% market share for custom development (which honestly is a ridiculous claim on its face)."
+5798,"This is awful advice. PHP is in high demand. Some seasoned programmers might dislike it but it's much easier to find a PHP job instead of any other trending language/framework. I am not saying to focus on PHP but it's pretty important to know, most websites have PHP for their server side language and that's a fact. Not to mention that there are a lot of businesses that will pay top dollar for custom Wordpress/Drupal site. But that's my experience, I am not in Silicon Valley, most jobs around my area are for PHP developers."
+5799,If you want to go corporate I think the Microsoft stack is arguably safer... there are still lots of corporate guys who will only trust things with Microsoft's imprimatur and C# is fine to work with anyway.
+5800,Why not PHP? Can you extrapolate that a little?
+5801,"I want to add my $0.02. PHP isn't bad, but it can be if you're a bad developer. Therefore the argument is that ""good"" languages prevent you from being an idiot, while PHP doesn't. While this makes PHP not as sexy as say Python or Ruby, its overboard to deter people from using it. It has a lot of practical uses, iirc Apache is supported by like every web host and there is a lot of job opportunity developing CMS's 
+
+And it's not like its an exclusive choice, just pick a programming language that you like and then base your web dev experience off of that."
+5802,"I'm going to disagree with PHP not being objectively bad as a programming language and framework. 
+
+PHP violates Rule 0™ of being a good programming language: Make the job of the human using you as painless as you can. PHP has insane type coercion rules, terrible error reporting, no notion of modules, and fairly bad syntax. All of these issues could have easily been remedied if PHP had ever been given a proper design phase. 
+
+The core framework is where the real crazy sets in. There is no convention for naming classes and functions, internal functions are exposed, and many functions simply do things that aren't what their name dictates. These are all basic things that implementors of a language should know to avoid. No modern language would be able to do this and expect to be adopted, but PHP's ubiquity makes it acceptable for some reason. 
+
+PHP is ubiquitous and a fantastic employment opportunity, but it's certainly not good technology."
+5803,[This article is the classic polemic against PHP](http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/).
+5804,"Let's just say there is a ton of far better alternatives, which might consume a little more time to learn, but surely it's time well invested. PHP is *ok* for blogs and shit, not for any *real* development."
+5805,"> PHP is ok for blogs and shit, not for any real development.
+
+Your fedora will fit better if your head's not up your ass. Seriously. PHP is very viable for a lot of things. And PHP pages aren't any less ""real""."
+5806,What would you recommend instead?
+5807,"Ruby on Rails, Python Django, NodeJS, Java Play. Even ASP.NET MVC Framework is a far better option"
+5808,All the hipster frameworks... Not everybody have a luxury to find a job in their area that utilize those.
+5809,"ASP.NET MVC is not ""hipster"" at all; C# is pretty popular in corporate environments and relatively unpopular with the kind of people who would use Node et al."
+5810,"Facebook uses PHP, lol. Is that not **real** development? God, you sound like a douche."
+5811,"Facebook has invested a tremendous amount of time trying to make PHP more viable for the kind of scale they're dealing with so there's a real question in my mind as to whether it was the best choice.
+
+Just because you *can* do very large software projects in PHP does not mean it is the best choice or even a good one."
+5812,I don't disagree. My point was that it's false that php is unacceptable for quote unquote real development.
+5813,"Well I mean when the OP said it's not OK for real development, I think he meant it was ill-suited to the purpose, not that it was not possible."
+5814,"Learn SQL/PHP, along with JavaScript of course. If you become very fluent with PHP, that's great. Otherwise, I use PHP for basic backend functions (dynamic pages + link to API), but Python and/or any other language for the core back end (for example, I have a Reddit bot written in Python, but it uses sockets to get/send data from the REST API)."
+5815,"For the back end, it depends on your choices.
+
+You can use the old apache, mysql, or you can use node.js, django or even code your own web server with Go."
+5816,"I'm very inexperienced, but am working for a company that provides services through a website. Its been notably SQL database, Java, Javascript and html/css. One of my coworkers has been working with angular.
+Not a language, but Wordpress is used a lot by my coworker who does the UI stuff."
+5817,You also need to understand how the web works; surrounding technologies (Git/github/terminal); and hosting.
+5818,"Depends entirely on the business. Where I'm at, you'd need C#/Asp.net/SQL. Somewhere else you'd need Java, somewhere else Python/JS."
+5819,Just dream up some small project and try to implement it.  That should make it more obvious.
+5820,"Perl, Ruby, and a few esoteric languages are possibilities."
+5821,"Well I think some of the more common languages you'd probably want to learn are PHP and SQL. Those were the languages which we get taught at college so I guess they would be of use to you. 
+
+&nbsp;
+
+Apart from that maybe try out some frameworks/libraries for languages. I'd personally go for JQuery knowledge, after learning JavaScript. Don't just dive into JQuery at first even though it may seem to be so useful. Doing so may limit your knowledge of basic JavaScript which may in some cases be more worth it than including JQuery for everything. 
+
+&nbsp;
+
+There are a few additional frameworks/libraries you could try for JavaScript. I've been using Backbone.js, AngularJS, RequireJS, Underscore.js and a few others. Backbone.js and AngularJS are somewhat like Flask for Python, easy to setup a route (url to page) and handle it with specific templates and functions. You also have EmberJS which has a lot built in to start with and thus is pretty heavy compared to Backbone and AngularJS. I think EmberJS > AngularJS > Backbone in terms of built in possibilities. Depending on your needs you could choose one of them.
+
+&nbsp;
+
+For Python, I recently started working with Flask and made a REST API for some small private project. Flask looks very promising so far. One of the things I like most about Flask is how easy it is to setup a route, return a page made out of a template and data. Though you'll have to see for yourself as I'm pretty new to Flask. Python is a good language if you want to teach yourself to write clean and documented code, especially if you use PyLint.
+
+&nbsp;
+
+I've been working with PHP for some years now and it was okay. Not that great but it was the way to go for me. I just didn't like the messy code I made due to having PHP and HTML mixed together. In big projects it's just not a thing I'd like to work with, but for starting out I'd recommend giving it a try. I haven't worked with any PHP frameworks/libraries though I've read there are a few good ones out there. I think as for PHP I can't help you any further than this.
+
+&nbsp;
+
+Lastly SQL, I was taught to use MySQL databases. I guess it's pretty common to use so I'd start there if you're going to use databases on webpages which is very likely. Maybe if you're interested in more databases you could try out a few others, I've recently tried MongoDB and it seems to do pretty well. Keep in mind though that each database has it's own uses. If I remember correctly, MongoDB is useful with writing big data and storing it, but reading may be slower than MySQL. Also it has no relations like MySQL using the InnoDB engine may have.
+
+&nbsp;
+
+There is way more out there which I probably missed or haven't even heard of so be sure to do some research on frameworks/libraries yourself.
+
+If you need more specific information like links to tutorials or anything else, tell me :)"
+5822,"It depends on what you want to develop. Frontend developer must know HTML/CSS/Javascript to some extent but if you focus on backend, you can simply use any frontend framework (bootstrap, foundation) without actual learning all that stuff: CSS alone can be pretty complex and Javascript is not easy as well (though using some solutions for trivial tasks is easy). I'd say that you should try to make whatever you want and you will see what you need to learn. Python is fine for backend, you can switch to other language/framework if it will be better for your task but Python frameworks aren't bad.
+
+Find yourself a task, pick any framework on any language and just start coding/googling. You'll be fine."
+5823,"You should not do any-end development without learning those languages. Almost all problems with Bootstrap, et al, arise from people not knowing CSS. Just like you wouldn't recommend for people do backend work without *actually learning a backend language*, you shouldn't *recommend* for people to do frontend work without learning a frontend language."
+5824,"Ermm. First, I'm not suggesting to start with a production project. When you have a task, you can actually find what knowledge you lack and you will stop asking vague questions ""What tools web-developers need"" when web-developing is pretty huge area and there are a lot of different webdevelopers. Second, knowing all nuances in CSS will not help to write server-side logic. While full-stack developers are pretty valuable, a lot of people still doing either frontend or backend. Third, learning Javascript can be unnecessary with modern tools (e.g. Coffeescript or any non-javascript fullstack framework: it usually generates javascript). There are a LOT of tasks where you don't need to learn JS.
+
+Also there are a lot of pure frontend tasks but I'm not actually skilled in that so I'm not going to make advices here."
+5825,comment to save
+5826,comment for later.
+5827,"If you want to break into $80/hr or $120k base + bonus year roles, learn these:
+
+HTML5 
+CSS 3 
+Angler 
+Java 
+Spring Core 
+Spring MVC 
+Spring Web services  
+Hibernate 
+Oracle"
+5828,"I can't believe how much bad advice there is in this thread.  Some of it is clearly deliberate trolling; while other replies are apparently sincere, but simply clueless.
+
+OP, start with HTML and CSS.  Unfortunately HTML can no longer be used alone; CSS is necessary to go along with it.  These two will allow you to produce basic Web pages, however.
+
+From there, if you need database connectivity, you can consider PHP.  I consider JavaScript to be an obscenity, and would never encourage anyone to learn it in good conscience; but it does see a lot of use in commercial applications, unfortunately."
+5829,"The reason for not noting HTML or CSS is because they said they have basic-intermediate knowledge of it. Of course they could improve on that but I'd do so by using something else and improve on it while learning something new. Create some simple page and eventually add some data from a database through PHP. That way by creating webpages and going more complex you'll eventually also learn more on HTML and CSS. 
+
+&nbsp;
+
+I do however disagree on not encouraging anyone to learn JavaScript. It enables the developer to make the front end more interesting. It's a really powerful language. Though as they ask for back end languages I can understand you may not recommend it but there are even back end uses for JavaScript, see Node.js for example. I haven't used it myself but it seems really good for web apps at least. It all depends on what they want to make."
+5830,I apologise.
+5831,that de-escalated rather quickly :)
+5832,"Unlike a lot of people online, I'm willing to acknowledge it when I'm wrong."
+52970,lol
+5834,Telling people to avoid JS for Web dev is really bad advice.  lol
+5835,"lisp, c++, assembly."
+5836,"Congratulations.  You've just provided the first legitimate use for the downvote button I've seen, in quite some time."
+5837,"Why? Assembly *can* be used in WebDev. [This website](http://gilliscoaching.com/wp-content/uploads/2013/01/women-laughing-4.jpg) is written entirely in assembly, front and backend."
+5838,Eternal September keeps on giving.
+5839,and the burns keep BURNING! SO SYCK
+5840,https://www.reddit.com/r/learnprogramming/comments/2kz36u/what_languagesskills_will_i_need_to_learn_to/clqbbag
+5841,"English is definitely a good one too, and maybe Mandarin."
+5842,"You won’t get far by going by what others like. Try them out. Grab ASP.NET Core, Django, Node.js etc and do a couple of tutorials. See which feels nice to you. They all can basically do everything you want and all have their pros and cons. You’ll want the “best” for you and that can only be found by trying things out. Especially when still learning things. You’ll want a system that doesn’t have a lot of hidden quirks you have to consider."
+5843,You don't need to learn advanced CSS/JavaScript to make a website. There are many websites that only use basic features. But those are the two you'll likely need to know.
+5844,"Can I make advanced web applications in js? for example web scraping and then using the data the way I want, making user accounts, databases, etc"
+5846,what I meant is what language to make the backend
+5847,"javascript. node js is an engine allowing you to use javascript for server side programming
+
+&#x200B;"
+5848,"If you're looking to make a very simple webpage, PHP and HTML are definitely the way to go. If you want a more responsive/dynamic design, you have to learn JavaScript. For the server-side software (back end) there's lots of languages you can use, for example PHP, Python, and Java.
+
+In fact, you don't even need a back end. You can _serve_ plain HTML files."
+5849,yes but what if I want to make a subscription mechanic in the website then I need python or java right?
+5850,"Any back end language would do, be it Python or Java, or something completely different."
+5851,"Every programming language has its own advantages, so I think it depends on your goals, but i myself will choose python and JavaScript/typescript"
+5852,"Please dont start with PHP, you'll do yourself a favor. If you really wanna do web based stuff i'd advise JavaScript as in my opinion its easier than PHP, its more powerful and popular. PHP is very outdated and only alive cause of Wordpress.
+
+&#x200B;
+
+If you wanna do desktop apps or something of sorts i'd advise Pythion or C#. Java might be good as well but i havent had personal encounter yet. But out of Python and C# I personally enjoyed C# way more.  
+
+
+Im kinda surprised PHP is higher than Javascript is haha, i'd wanna say PHP will be obsolete in 10 years but i know im wrong and that wont happen. Buy JavaScript will just get better and better as its getting new libraries,  updates and such sort of stuff quite often, like the release of things like TypeScript, Angular, React etc. etc. made JS much more powerful. You can pretty much do anything with JavaScript now days from front-end to back-end, windows apps, mobile apps and anything else.   
+
+
+Fun fact: The discord app and Microsoft visual studio code are entirely built on JavaScript, and also if you actively use discord and learn JavaScript you could have fun by making your own discord bots, as those are made in JavaScript as well though im sure you can do that in python as well.  
+
+
+Also about the 3rd place on your list: Its kinda invalid haha Html and CSS arent really programming languages, and PHP and JS are built around HTML so you must learn them anyways but just saying.  
+
+
+TL;DRL: I'd suggest you start with either JavaScript for web or C# for apps."
+5853,"Whatever you do, don't look at this decision as the one that determines your career. Whatever language you learn first does not need to be the language you use in your first job, or the language you use 5 years from now.
+
+Learning to program is hard. Learning a new language after you already know one is easy in comparison.
+
+A lot of us recommend Python first because it's such a well-designed language. It's designed to make things easier for beginners but it's still powerful enough for pros. It's a great way to learn, and you'll still find it useful no matter what you do with your career.
+
+In comparison, PHP may be one of the worst languages ever invented. It's a cobbled-together mess of inconsistent and broken patterns borrowed from other languages. If you have to use it, go for it - but I wouldn't recommend learning it first because it will teach you bad habits. It'd be better to learn a good language first.
+
+JavaScript is somewhere in-between. It's definitely clunky, but it's gotten a lot better over time. Using TypeScript (which is compatible with JavaScript) is a great alternative. Also note that HTML, CSS, and JavaScript all go together - they're not separate jobs; you'll be using all of them together."
+5854,"I started with java, and got stuck on arrays/classes, then i went to python, with i found way more easy to understand more complex stuff, and now i am studying JavaScript, that has a lot of similarity with java on the latest releases, I have no experience with PHP, so I don't know if is good for a first language, but i know that is focused on back-end"
+5855,"I REALLY enjoyed reading ALL of your advices, really appreciate it, i already started to learn python 4 days ago, already have 7 different paid courses from Udemy about Python, i just want to ask you guys, to see if im starting in a good way if i choose Python as a first programming language.
+
+I think i will continue learning Python, and after i will move on to learn JavaScript as my second one.
+
+Sorry for my bad English lol, i’m not a native english speaker.
+
+Edit: if someone needs these paid Udemy courses about Python contact me, FREE ofc"
+5856,"Yeah , it all depends on what you want to learn, but I think that you should start with HTML/CSS, and then move on to either or. Since they’re all web dev languages, knowing HTML/CSS is the basics (for backend too)"
+5857,"I don’t think you should necessarily ease yourself into an easy programming language. Learning a harder one makes it easier to understand others especially since most programming languages derive their syntax from it. For example, C is a pretty difficult programming language but it’s also the basis for many others. You learn C, then you’ll learn others in no time. But of course if you don’t wish to heed my advice, then Python is good for “real” programming for apps and JavaScript is good for websites."
+5858,"Frontend you need to know HTML, CSS and Javascript. For the backend any popular language will do - I would advise you stick to what you know to start with (so java or C#).
+
+You should also checkout the [developers roadmap](https://github.com/kamranahmedse/developer-roadmap) for an overview of what technologies is used in modern web devlopment and it acts as a good guide for what you should be learning."
+5859,"Alright, thanks! Any idea in which order I should learn them?
+
+(No idea what happened with the upvote button, didn't mean to downvote you :D)"
+5860,Most people do front end then back end. Though if you are already familiar with or interested in a backend language you can do it the other way around. Also [freecodecamp](https://www.freecodecamp.org/) is worth checking out.
+5862,bad bot
+5863,"Thank you, Dilfbert, for voting on CommonMisspellingBot.  
+
+This bot wants to find the best and worst bots on Reddit. [You can view results here](https://goodbot-badbot.herokuapp.com/).  
+
+ ***  
+
+^^Even ^^if ^^I ^^don't ^^reply ^^to ^^your ^^comment, ^^I'm ^^still ^^listening ^^for ^^votes. ^^Check ^^the ^^webpage ^^to ^^see ^^if ^^your ^^vote ^^registered!"
+5864,"Well HTML is undoubtedly necessary.
+
+>What I want to know is, coming from Java/C#, what language should I pick up to start doing web stuff?
+
+What were you doing in Java or C#? These days C# is very popular for web development in the enterprise world. Both Java and C# can be used as backend languages."
+5865,"I've made an autoclicker and password manager on Java, and right now working on a startup manager with C#. I haven't done anything regarding databases, I assume that's gonna be necessary as well?"
+5866,Well if you need data persistence SQL knowledge is pretty necessary. Look into ASP.NET Core if you're interested in doing your backend with C#. From what you've said I'm inclined to believe you haven't touched upon ASP.NET at all.
+5867,"I haven't! I'll look into it though, thank you"
+5868,"I've got eight years of C# experience, , and I'd say that it's as valid a choice now as it was back then. The ecosystem is really strong, the tooling great, and if you're sold on a Linux environment you'd be surprised at how capable .NET Core can be. I'd go as far as to say that you can be productive on Windows and .NET standard as anyone can be on OSX/Linux with Python, PHP, or Ruby.
+
+If you want to stick to a Linux environment, you can't really go wrong with Python and Ruby. I've started moving over to Ruby, having ignored it for years, and I'm really enjoying it so far. It's a very mature language with very few gotchas, which is great coming from another mature language in C#."
+5869,"First quickly learn and understand the difference between ""back\-end"" \(a.k.a. ""server\-side""\) and ""front\-end"" \(a.k.a. ""client\-side""\) web development. Next learn HTML and CSS, which are essential to learn first since they are necessary for the ""front\-end"" \(a.k.a. ""client\-side""\) on all websites no matter what. Next move on either to advanced ""front\-end"" \(a.k.a. ""client\-side""\) by learning Javascript, or move on to ""back\-end"" \(a.k.a. ""server\-side""\) by learning a popular server\-side web language like PHP, C# DotNet, Server\-Side Node.js, Ruby, etc. Finally once you know the basics of front\-end and back\-end development languages you could learn about popular libraries, frameworks and CMS software built on top of the languages you know, but its best to understand the fundamentals first before learning extra layers of abstractions built on top."
+5870,"I'm gonna go ahead and give a probably unpopular opinion...
+
+I think PHP is awesome, at the very least for beginners. The platforms required to make a PHP site work are incredibly easy to install. The language itself is very forgiving \(I would even call it fun\) and I wholeheartedly disagree that it encourages developers to become lazy or ""not learn the right way to do things"".
+
+Also if you're thinking about learning the language to use it later, it powers a lot of projects out there and I personally don't think it's going anywhere for now. C#, Java and .NET are popular right now, but trends come and go, I'm sure PHP will regain some popularity eventually.  \<bracing for arguments that C#\-Java\-.NET are powerfully established and THEY're not going anywhere\>
+
+That being said, Java and C# are perfectly good for backend, so maybe you'll want to invest time in HTML, CSS/SASS/LESS, and Javascript before trying something else for the backend."
+5871,"Seconded. PHP may not be what you ultimately want to write your webapp in, but it's a great way of immersing yourself in server-side programming without much overhead."
+5872,"And with PHP make **excellent** CMS platforms such as WordPress
+
+*Some men just want to see the world burn*"
+5873,"> ""  
+> *I'm sure PHP will regain some popularity eventually*  
+> ""  
+  
+If you're just getting in to web development and want to do some freelance work *(AKA learning that you actually get paid for)*, PHP is incredibly popular in the freelancing world.  
+  
+A common pattern I've noticed on sites like Upwork is that some non-programmer makes a WordPress site, gets stuck somewhere, and posts a job that asks for a PHP developer familiar with WordPress plugins to work on their site."
+5874,"Hey - you should check out the Play framework - you can use it to build web applications... in JAVA! (https://www.playframework.com/)
+
+I came across this resource as well if you want to look at an overview into the path of modern front-end developers: https://github.com/kamranahmedse/developer-roadmap"
+5875,Have a look at Kotlin. It can be complied to Java and JavaScript so could be a two-birds-one-stone type of deal.
+5876,"> The website I have in mind would be a fairly simple one with functionality for logging in, downloading files from it and so on, fairly simple stuff.  
+
+Creating a login system involves many new concepts for beginners; I would describe it more as 'intermediate' than simple. To implement this yourself, you will need to learn about databases and SQL, HTTP, how cookies work, etc. I don't mean to deter you (there are lots of resources to help you!), only to paint a more clear picture of what's involved. 
+
+Is your goal to build this one website? If yes, stick to what you know (Java, C#). If you're interested in building more websites or a career in web development, strongly consider learning NodeJS (i.e. javascript). As others have said, start with HTML and CSS, of course."
+5877,"Well as is, I've made a couple of programs that use a log in feature, although those are done locally. Is it much more difficult in websites? (In my projects the program takes user input as name and password but before writing it hashes said password and when the user wants to log in, it hashes the password and checks if it matches the one written on the document)"
+5878,"That's great! That's how it goes in web dev, too!"
+5879,"Alright, awesome. I'm assuming you'd go about this using SQL instead of simply writing the info to a file locally?"
+5880,"Generally yes. However it is of course possible to just write it to a file too; a server is after all just a computer. There might be some security risks with that though \(I'm mainly a front\-end developer, so this is not something I know a lot about mind you.\), like someone could download the files you use to store the hashes if you don't secure them properly. I guess the main advantages with a sql database \(and other kinds of databases\) is that it is designed to be useful for HUGE amounts of data, so that you can pick out a specific row or user very quickly even if you have millions, and that it manages writing to disk for you so you don't have to worry about the disk being too slow or overwriting something.
+
+But don't be too afraid of experimenting when you are learning. If you want to try out creating a login for the web go ahead, just don't create a popular site with a database of credit card numbers :D If you want to learn the HTML part of the sign\-in process for example, you don't really need a complex database system and a fully fleshed out backend; start simple, see how you can get form data from the html to the back\-end for example. The last web app I created doesn't even store anything at all; all the data is just variables, and when the server restarts all is lost, but I found it was good practice and a handy little website no less.
+
+Have fun!"
+5881,Wouldnt knowing java as a backend be better than node in the longer run?
+5882,"HTML, CSS, JS, PHP, mysql
+
+or HTML, C#, SQL server, js
+
+Learn the round trip, not just one component of it."
+5883,"So, for the web-side you'll definitely need HTML5 and CSS3 first, as many users have suggested.  Thankfully, those two languages are very easy to understand and can be learned effectively in a few hours.
+
+After that, you'll need JavaScript.  With HTML5/CSS3/JavaScript, you'll have a good foundation for making web-pages/websites (w/o a back-end language like C#).
+
+Once you know these, you could actually probably already leap into the site you're thinking of.  If you're using Visual Studio as your IDE, you can use C# to create a pre-set MVC project that has the beginnings of user account signup and signin baked in for you to play with :)"
+5884,"asking today, in 2018, i would save javascript. just because you can learn and work on mastery of one language that can \(perhaps not should\) be used on both front and back end. furthermore, no matter what back end language you use you're going to end up writing some javascript.
+
+this is from someone who doesn't really like javascript."
+5885,"Did you happen to pick up any XML while you were learning Java? If so, learning HTML should be a breeze. From there, CSS and JS are good to know regardless if you want to do front end or back end. If you want to focus on back end, play around with PHP and then maybe install a framework like Laravel, or Ruby and then RoR."
+5886,"Unfortunately no, I moved from Java to C# pretty quickly. I've had some basic HTML earlier but I don't remember anything anymore.."
+5887,"Web applications are divided into two parts. The front end (which runs in your browswr) and the backend (which runs in the server). The front end is pretty much standardizes: HTML, CSS and JavaScript. So you can't go wrong learning those. The backend has more variety, and pretty much all of the popular languages have a backend framework."
+5888,I learnt the front end languages and now I'm learning php but I saw that php woudnt be that worthy to learn and useful in the future so I don't really know what back-end language is better to learn nowadays or Not. Maybe python would be also a great choice as it can be useful for so many things other than web development itself. Any suggestion?
+5889,"What backend technology to learn can be region specific. Language X might be popular in my country, but it might not be popular in yours. So the best way to determine this is to check your local job boards. See what's popular in your neck of the woods."
+5890,"> saw that php woudnt be that worthy to learn and useful in the future
+
+none of them will be. things change very fast in this industry. there isn't one language you can learn and be good until you retire.
+
+what matters is learning the underlying concepts. nonblocking versus blocking I/O, threads, database access, security, etc. all the backend languages have their way of doing those things, so just use whichever language works for you.
+
+you could look into what the top 3 or 4 languages are in your area. do learning exercises like the Odin project and implement the exercises with each of those languages."
+5891,"Thanks so much for your answer, totally agree."
+5892,Is Node still the hot backend language that is going to eat the competition?
+5893,"It's still pretty popular, but it hasn't really unseated any of the big names like some people predicted. At least not where I'm at."
+5894,Which languages are the big names?
+5895,"I'd say (in no particular order) Java, C#, Python and PHP."
+5901,"Golang is a promising up and comer as well, more so for it’s networking capabilities than strong web presence. If you’re talking specifically web, php is king and probably will be for quite a while. 
+
+You really can’t go wrong with any of these languages, however python and php are gonna have the smallest learning curve. Php specifically will probably be the easiest to learn. And there is an abundance of jobs that pay well in it. 
+
+I started in php and have branched out to many different languages. It’s a gateway drug lol"
+5897,"Seconding this. I've been writing a chess engine recently and for performance reasons I had to switch from Python to Golang, and I've been loving Go so far. It has pretty much most of what you want in a modern, compiled programming language.
+
+In fact, Go honestly seems to follow Python's Zen better than Python does sometimes lol. Which...can be a good and bad thing sometimes (for example there's no ternary operator, since Go's philsophy is that there should be one, unambiguous way of doing something. But you get used to things like this pretty quick, and sometimes it really does  make you to write cleaner code).
+
+Oh, and the learning curve wasn't bad at all. Now keep in mind I have experience programming, so Go might not be the language to start with (emphasis on the might), but it's definitely a great modern language. 
+
+So OP and others, definitely check Go out, especially for people coming from languages like Python and Ruby who are hesitant to dive into a language like C++."
+5898,"I'd check out Rust, harder to master than golang but far more powerful imo"
+5899,"HTML, CSS & JavaScript. Google the Odin project"
+5900,"I've noticed that small to medium-sized businesses seem to go with PHP (Laravel/WordPress), but if you want to get into corporate web development, you can't go wrong with C# (.NET). I work with PHP/Laravel, but there were a lot of jobs in C# when I was looking around."
+5902,Javascript.
+5903,the ones that are in your area and that you want to do
+5904,"Every computer language have some importance in some form or another form, it depends upon you which computer languages you want to learn, for example I belong to a non programming background so I am more comfortable in learning languages which are more theory oriented like Python and MySQL, mainly I learned about the computer languages like MySQL and JavaScript. 
+So you can choose whichever language you want to learn but I want you to go for MySQL because it is used by over all 5181 companies like Uber,  Airbnb, Netflix, Pinterest, Shopify, Amazon, Twitter, Udemy and many other companies. So you can go for MySQL. 
+There are various platforms which provides you the outline for learning, I would highly recommend you to use Edu4Sure, because there are many less online platform which includes practical learning, and Edu4Sure is one of them. I have also learned MySQL from there only. It was really a helpful online certification course provided with updated content and an experience of learning from the experts. So if you want you can learn from there. 
+I wish you All the best for your future."
+5905,"Focus on technologies, not specific language. Choose an area of IT, which you want to master and start to learn it principles and gow to build apps. Language is an instrument in hands of developer."
+5906,I’d think web apps are on the rise. so probably frameworks like angular
+6041,"Icarus was so good, try to go in as blind as possible because it’s a wild ride. Athlete A is really well done and interesting but also upsetting because of content, but if you’ve enjoyed the Epstein doc then I think you’ll be fine in that regard haha.
+
+Edit to add: American Factory and Voyeur."
+6042,"Wild wild country, can't recommend it enough. Try going into it with out reading anything about it. It really is wild."
+6043,I went into it completely blind and loved it. Such an interesting story and each episode had something crazier then the last
+6044,SHEELA!!
+6045,"While I loved Sheela (probably one of the intriguing characters I've ever watched), it was Jane Stork (a.k.a. Ma Shanti B), the elderly white haired lady from Australia, whose story really touched me the most. I mean, going from being a housewife to committing assassinations, I can't even imagine."
+6046,"I also found Swami Pren Niren (the lawyer) to be fascinating.  Dude clearly put his greatest talents into his greatest passion and beliefs.  Arguably misguided, but undeniably respectable."
+6047,"I found him the LEAST reliable narrator. He came across as willing to say anything, and bend over backwards, to make the Sanyasins look good and 'righteous'... and I found him to be completely still under the spell of the whole cult. Meanwhile, I found Ma Shanti B MUCH more relatable as someone who was part of it and left and realized the danger of what she was a part of. While I agree I found Swami fascinating, I found myself disliking his unwillingness to admit that any aspect of what was going on was severely fucked up."
+6048,"to be fair, he is a lawyer."
+6049,Sheela is an absolute psychopath. How she got such little time blows my mind. Lack of evidence I know but still. Literally zero empathy inside of her body. Makes me wonder what and the hell happened to her during childhood. She is acting. Always. In an uncontrollable way.
+6050,"Thank you for this recommendation, this came out to be the best documentary that I ever watched. It was a crazy ride!"
+6051,"I did a post a while back listing good true crime and human interest documentaries:
+
+[https://www.reddit.com/r/NetflixBestOf/comments/fm58id/discussion\_true\_crimehuman\_interest\_documentaries/?utm\_source=share&utm\_medium=web2x](https://www.reddit.com/r/NetflixBestOf/comments/fm58id/discussion_true_crimehuman_interest_documentaries/?utm_source=share&utm_medium=web2x)
+
+In addition, there are others good ones (not on Netflix, but worth seeking out, either on HBO or to rent on a streaming service):
+
+*  Mommy Dead and Dearest
+* I Love You, Now Die
+* I'll Be Gone in the Dark
+* The Wrong Man
+* Soaked in Bleach
+* Tickled
+* Crazy Love
+* Tabloid
+*  The Cheshire Murders 
+* Capturing the Friedmans
+* Beware the Slenderman
+* The Case Against Adnan Syed
+* The Jinx: the Life and Times of Robert Durst
+* Audrie and Daisy
+* Behind Closed Doors
+* Whos Killed Garrett Philips?"
+6052,"I Love you now Die will really take it out of you. I was so conflicted. The Cheshire Murders was originally HBO as well but one can find it easily, like on yt. That’s another documentary that made me so angry. It made no sense, not the documentary, but the crime and how it was handled."
+6053,"Yeah, it was heartbreaking and infuriating"
+6054,"Like seriously, how would you take a job as a peace officer/emergency services and just chill. I want folks to get back to their families unharmed at the end of their shift, but to ensure that maybe have 20 on your side since there’s way less bad guys instead of what they did. The father has some self control because something like that might break me. Like disillusionment and anger along with the usual feelings one would have toward criminals but so much more because so much more blame to go around, IMO,
+It’s like that Parkland school resource officer. Why take a job that you had no intention of doing? Just be the hall monitor or something, dont use up tax dollars and stuff to be trained and armed for the hell of it."
+6055,Thank you for this list. These are my favorite types of documentaries and there are some on your list I haven’t seen.
+6056,Glad I could be of help!
+6057,"Great List! 
+
+One I never see mentioned that I really liked was called, 
+Who Killed little Gregory?  
+
+It’s on Netflix."
+6058,"Dear Zachary is good but devastating. I also liked this one about a crazy running race in Georgia, but I cannot remember the name of it. Does anyone else remember that one??"
+6059,"Yeah, it's called The Barkley Marathons. Crazy race indeed, very inspiring :)"
+14980,Thank you!!
+6061,just watched barkley marathons based on your reco. great call.
+6062,"Yes I was going to mention this one. It is absolutely devastating but a compelling story nonetheless. No longer in Netflix, though, that I know."
+6063,"Father, Soldier Son is along the same lines kind of.  It is not lighthearted"
+6064,It’s on Prime now!
+6065,"Omg, if the op watches Dear Zachary, go in blind, don’t spoil it. I honestly couldn’t believe what I was watching by the end. If that was my country I would be so disillusioned."
+6066,"The Staircase.  
+
+A writer's wife dies under suspicious circumstances and he's tried for murder.  Absolutely amazing.  I watched it two years ago and I'm still wrestling with what unfolds in the documentary."
+6067,currently watching.
+6068,I saw the original series but heard they added more to it decade later. Are the extra episodes any good? I tried to get into them but failed I think because I knew so much about the case and aftermath.
+6069,"American Factory 
+
+and
+
+American Factory a conversation with the Obamas"
+6070,"Athlete A was really good, if not saddening. It was about the scandal with the US Olympic gymantic team and the team doctor. Hit me hugely as the girls I follow and admire have sadly been involved and abused by the one person who should have been protecting them...  really worth a watch though !"
+6071,"Hello! I'm a big documentary watcher. My suggestions are fairly true crime heavy, those tend to be the ones that stick to me. I hope that you find something that interests you! Sometimes I'll just browse through r/documentaries and see what pops up. They have a lot that are free on YouTube. 
+
+NETFLIX:
+
+
+How to Fix a Drug Scandal- follows the story of 2  chemists from  drug testing labs. Their jobs are to test if evidence is a drug or not. Things spiral from there and I found the story fascinating. Binged the whole docuseries in a day
+
+Sour Grapes- watched this one a while ago and have since rewatched. Documentary is centered around a new guy on the fine wine scene. Going to auctions and buying up hundreds of thousands of dollars of wine. Something isn't right here...
+
+Killer Inside: The Mind of Aaron Hernandez- famous story of a man killed. Looks into the effects of repeated brain injuries and if they cause a person to do things they wouldn't normally do. I didn't know much about this case going into it and it kept my interest. Binged docuseries in a day. 
+
+Blackfish- if you haven't watched it yet I do recommend it. Story is well known, the terrible treatment of orcas in captivity. Some of it is shocking, even if you feel like you know it all... it may surprise you. 
+
+HULU: ( I hope this is ok, I know a lot of the time people do have both streaming services)
+
+
+
+Susan Powell, an ID Murder Mystery- flat out shocking, horrible, tragic story of a woman murdered. Things I cannot unhear. Recommended if you have the emotional strength for a truly heartwrenching story. 
+
+An American Murder Story, Scott Peterson- docuseries following the murder of pregnant woman, Lacy Peterson. Also obviously heartbreaking. Case is very interesting and kept me watching. Binge watch for sure. 
+
+An American Murder Story, Casey Anthony- obviously an enraging story. I recommend all the American murder stories, they are well told and engrossing. While absolutley awful and tragic. 
+
+Last recommendation, though not on streaming services. Deep Web. The riveting story of the Silk Road and the man who created it."
+6072,"I put off watching Blackfish because I felt like I knew the jist of it and knew that those types of parks were bad, but I was still shocked by it."
+6073,"Absolutley! I felt similar, I ""knew"" about the treatment of orcas in captivity,  but it is way deeper than that. Truly jarring at times!"
+6074,'How to Fix a Drug Scandal' was incredible! Totally second this recommendation!
+6075,‘The Business is Drugs’ was really good. The only thing I didn’t like was how involved the host was. It felt very ‘look at me’. But she is a badass.
+6076,Finished watching this last night and I found it to be great as well. Very informative!
+6078,Waco. It’s not 100% a documentary but it is based on the events and it’s very good
+6079,"Senna, I went into it having only heard his name mentioned by a certain motorsport journalist on TV, at the end I had moisture in my eyes looking at his legacy."
+6080,Blackfish
+6081,"Explained. This is a series of short documentaries about many topics. But it’s so good, that even if you don’t care about the subject you’ll be interested. They’re amazing."
+6082,Making a Murderer. Trust me. It’ll piss you off to no end!!
+6083,Wild wild country . One of the best.
+6084,"Murder Mountain,  The Staircase,  Madeline McCann,  wormwood,  Icarus, Wild Wild Country, Amy.
+
+That’s off the top of my head these are all 5 stars"
+6085,"Rotten - 1 hour episodes on issues in the food industry, mostly about smaller producers getting screwed by larger ones. (2 seasons, 6 epsiodes each)
+
+Dirty Money - Profiles financial and corporate crime issues, 1hr episodes. (2 seasons, 6 episodes each)
+
+The Pharmacist - A pharmacist who voice records his whole life goes on a hunt to find his son's killer, and ends up taking on Purdue Pharma over its promotion of Oxycotin. Four episodes
+
+13th - A doc which explains how the 13th amendment allow slavery to survive in spirit through prison labour, and covers a wide range of injustices experienced by black Americans through history. Feature length.
+
+Flint Town - Profiles the woefully underfunded Flint Police Dept and its residents amidst the water crises and national policing crisis in the run up to the 2016 election. 8 episodes
+
+Abstract - Profiles artists and designers who are leaders or mavericks n their respective fields. 2 seasons, six episodes each.
+
+Animal People - A Joaqin Phoenix produced doc on the use of anti terrorism laws to prosecute animal rights activists. Feature length.
+
+American Factory - Profiles the American and Chinese workers at an automotive glass plant opened by a Chinese firm in Ohio. Feature Length.
+
+The Last Dance - Profiles Michael Jordan's career and personal life. 10 episodes.
+
+Cooked - Michael Pollan explores how Fire, Water, Air, and Earth influnced cooking throughout history. 4 episodes.
+
+The Family - Explores the secretive Christian organization The Fellowship, which puts on the National Prayer Breakfast annually, and its methods of influence in Washington and international politics.
+
+One Of Us - Shows a woman's harrowing attempt to leave the leave the Orthodox Jewish community in New York, and keep partial custody of her children. Feature length.
+
+Things that might not be on Netflix anymore, but bear mentioning:
+
+[The Overnighters](https://m.youtube.com/watch?v=n_50-lKvqF4) - I think its just on prime now.
+
+[Undefeated](https://www.documentaryarea.tv/player.php?title=Undefeated) Oscar Winning doc about a football team from an underprivileged highschool.
+
+Any PBS produced doc about the justice or penal system, there used to be a bunch, the one on bail and public defenders is heartbreaking."
+6086,"If you’re looking for a good, cathartic cry, “Dear Zachary” will definitely do it."
+6348,Icarus
+6088,I would recommend louis theroux documentaries. Theres a bumber on netflix and also youtube. Miami Mega Jail Part 1 and 2. Also louis visited the Tiger King many years ago. Its worth a watch tio.
+6089,"Thanks Buddy for your lovely recommendation, I will try it and tell you how it was to me, btw stay safe!"
+6090,Trial By Media
+6091,father soldier son
+6092,"Filmworker is a really food one if you’re interested in Stanley Kubrick at all, and even if you’re not it’s still a pretty fascinating watch."
+6093,I want to watch that but can’t find
+6094,Happy People: A Year in the Taiga.  Watched it 3 times and I see new stuff every time.  Not sure if it's still there
+6095,I very much enjoyed I am a Killer and Eddie Hall Strongman
+6096,Only God Knows where I am
+6097,"I enjoyed Icarus and that Hulk Hogan one. Both are mainstream. Apart from that, I kinda liked the Joan Didion documentary. I've read one of her books like 15 years ago and it was a pretty good doc."
+6098,I'm not really much of a History person but I enjoyed the World War II documentary series. I would also recommend Inside Bill's Brain and The Story of Diana if you want to understand more of Bill Gates and Princess Diana.
+6099,Best is Chernobyl but not on Netflix.
+6100,That's not even a fucking documentary.
+6101,"The Last Dance. I'm a big basketball and sports fan though so that played a role haha. It's coming to Netflix in the US on Sunday!
+
+https://www.addtothelist.com/title/1214-the-last-dance"
+6102,"Everyone, dance! ◙▒◙♫♩♬
+
+
+***
+^^^I ^^^am ^^^a ^^^bot
+
+[Contact My Human](http://www.reddit.com/message/compose/?to=BokiTheCracker)"
+6103,[Dead Man’s Line](https://www.amazon.com/gp/video/detail/B07ZL1M5HX/ref=atv_dp_share_cu_r)
+6104,the keepers and evil genius!
+6105,Father Soldier Son!! SOOOOOO good! Its hard to believe its a true story at times.
+6106,I recently watched last breath without knowing much about it. Can't recommend it enough.
+6107,My son really enjoyed The Pharmacist
+6108,Thanks everyone for inputs here appreciate the leads and insights on the shows.
+6109,Another one. My friend Rockefeller. One of the best.
+6110,Food Inc. changed my life
+6111,"How to fix a drug scandal
+
+Ken Burns Vietnam (I think this should be a mandatory watch for everyone, personally)"
+6112,"Unfortunately Vietnam is no longer available in the US but it is an amazing series. Anything made or produced by Ken Burns is amazing: The Civil War, The War, The Roosevelt’s, The Dust Bowl, and The National Parks are all a great watch."
+6113,"Oh man, that’s really disappointing. I think that documentary should be exempt from these negotiations. It’s such an important film."
+6115,"I hope so, it really is that important."
+6116,"Is it this one?
+
+https://youtu.be/gC54k-lGYZs
+
+I thought his docs were all a lot longer than 90 minutes"
+6117,No it appears that this is just a discussion of the documentary and the war itself. The Ken Burns Vietnam documentary is a 10 part series with episodes being between 90 and 120 minutes each.
+6118,The Vietnam War series that was on US Netflix was 10 full feature-length episodes. Had it in my list for awhile but never got around to it as I was never quite in the mood to start such an undertaking. Pretty bummed now. Edit: so yeah that’s probably one of the 10
+6119,This is 1 of 12. I’m confused. Does it look similar to his doc?
+6120,Not sure because that video on youtube is 12 parts.
+6121,"Jazz and Baseball are tip top as well.
+
+Does he plan to do the Great War?"
+6122,Baseball is so good. I re-watch that around once a year.
+6124,The Civil War should be required viewing for all Americans. I can't think of a more moving viewing experience.
+6125,"The West is my favorite! A bunch of Ken Burns is available on Amazon Prime in the US, off to watch some now!"
+6126,*The West* is a documentary series by Stephen Ives. Ken Burns lent his name to the project as executive producer in order to give his friend's work heightened visibility.
+6127,Are these available on Netflix?
+6128,I just looked them up and unfortunately none of them are on. Apparently all the Ken Burns documentaries have left Netflix in the US. One user mentioned that The Vietnam is on Amazon Prime but I don’t have Prime so I’m not sure if that’s true.
+6129,"It looks like it's not included with Amazon Prime, but through a subscription to PBS Documentaries through the service (Prime has premium channels that aren't included in the base membership). You can get a week-long free trial of the channel, but then it's a subscription."
+6130,"Interesting, not surprised since everything is under a subscription nowadays. Thanks for the info."
+6131,The Dust Bowl is brilliant. I never thought I'd ever be this drawn in to a documentary.
+6132,"All of his docs are streaming on Amazon Prime through the PBS Documentaries app as of August 4th. It also has about 900 hours of docs total, including “Nova,” “Frontline,” “American Masters,” “Nature,” “American Experience,” “Independent Lens,” and “POV,” ,"
+6133,I'm 50 years old and when I watched the Vietnam series every day I would call my mom and dad and say I can't believe all this happened and I'm so glad dad didn't have to go.
+6134,"I watched about an hour of Vietnam for about three days a week for two weeks. Cried every day. Talk about whitewashing, Call of Duty, lookin at you..."
+6135,"Yeah, it’s unfortunate how it’s virtually skipped over in history classes, too. I didn’t even know about My Lai until I took a history class taught by a Vietnam veteran in college."
+6136,I’m ashamed to say that I just had to look up My Lai after seeing this post... went to middle school through college in the US. Even my AP US History class didn’t cover it.
+6137,"If you ever feel like digging into it more, this book has a lot of the documents from the investigation and interviews with soldiers who were there and stuff.
+
+https://www.amazon.com/My-Lai-History-Documents-Bedford/dp/0312142277/ref=sr_1_4?dchild=1&keywords=my+lai+papers&qid=1598015676&sr=8-4"
+6138,I’ll check it out. Thank you!
+6139,I was taught about My Lai pretty extensively in one of my high school courses 5ish years ago so maybe things are changing for the better. Or maybe I was just lucky and it's still the norm not to teach it. Hopefully the former.
+6140,We read all about it in high school history back in the early 1990's. What's taught in US schools varies quite a lot depending on where the district is and how well it's funded.
+6141,Why is this guy named Ken burning Vietnam?
+6142,Watching now. Thx
+6143,Is Vietnam on youtube?
+6144,Wild Wild Country is a pretty crazy story. I thought it was good enough to watch again!
+6145,"Came here to recommend this, great watch!"
+6146,One of the few documentaries that isn’t narrated by David Attenborough  I’ve seen more than once. Really amazing.
+6147,I don’t think I’d have ever watched this if not for this sub putting me on. Give it a watch. You won’t regret it.
+6149,Watch the Ken Burns WW2 documentary. The Pacific theater is almost completely ignored in favor of the European theater but what they fought through and experienced was really awful.
+6150,And that soldiers did meth for energy!
+6151,"> I knew nothing about WW2
+
+Wait... this is a thing? Do you mind if I ask if your very young or from some super obscure country?"
+6152,"[The Toys That Made Us](https://www.youtube.com/watch?v=iABClQiLUuc) is one of my favorite documentary series on Netflix. It's about nostalgic toylines and how they came to be so popular, including info about the brand as a whole, like: connected movies, tv shows comics. There's episodes about TMNT, Power Rangers, Star Trek, Lego. Pretty cool stuff.
+
+Then theres a ""spin-off"" series called, [The Movies That Made Us](https://www.youtube.com/watch?v=KmxU31re22k)"
+6153,Really enjoyed The Movies that made us
+6154,Yeah! When I saw the Die Hard one I was like: “Frank Sinatra was gonna be John McClane?! WTF?!?!?!”
+6155,Hahah all I could think of was Jake Peralta.
+6156,"I enjoyed content just can’t stand the narration, especially in Movies that Made us."
+6157,"This was entertaining, not what I expected but it did brong back fond memories."
+6158,Apparently the doc makes are huge dicks. They interviewed and videotaped a  wrestler or two who have huge collections of wrestling toys and the wrestlers opted not to let them use the footage. The guy is far to nice to directly call them out but definitely talked about parts during his and  others podcasts. Stuff like being disrespectful/damaging the toys and then asking to cut them out of the movie all together but use footage of their collection with out credit too...
+6159,"[Athlete A](https://www.netflix.com/title/81034185?s=i&trkid=13747225) - This documentary follows a team of investigative journalists from The Indianapolis Star as they broke the story of doctor Larry Nassar assaulting young female gymnasts.
+
+[Icarus](https://www.netflix.com/title/80168079?s=i&trkid=13747225) -  chronicles Bryan Fogel's exploration of the option of doping to win an amateur cycling race... he happens upon a MAJOR international doping scandal when he asks for the help of Grigory Rodchenkov, the head of the Russian anti-doping laboratory.   
+[(Official Trailer here)](https://youtu.be/qXoRdSTrR-4)
+
+[Don’t F**k with Cats](https://www.netflix.com/title/81031373?s=i&trkid=13747225) - Tells the true story of one of Canada's most infamous murderers.  A must see for true-crime fans!
+
+[Tiger King](https://www.netflix.com/title/81115994?s=i&trkid=13747225) - centered on ""Joe Exotic,"" an infamous collector of giant cats such as tigers and lions that he kept at a ""zoo"" in Oklahoma.  Joe accused Carole of murdering her husband & feeding him to her big cats, and later tried to pay someone to murder her.  
+[(Official Trailer here)](https://youtu.be/acTdxsoa428)"
+6160,"Here to back up Icarus. It was excellent, and a lot different than I thought it would be."
+6161,"Yes! I thought it was going to be very different, even so, it was excellent."
+6162,This movie firmly puts into scope the lengths Russia will go to cheat.
+6163,"All of these. Don’t F**k with Cats isn’t for everyone. Icarus was really interesting. Athlete A was infuriating, but also really informative. 
+
+And Tiger King, well, is like 2020 in a documentary."
+6164,I started to watch Don't F*ck with Cats but as an animal lover I just couldn't.
+6165,"Yeah, it’s really tough. I can handle a lot of gore, blood, death, etc. but once it comes to animals...that shit tears me up."
+6166,Me too. BTK people? Sleep like a baby. Hurt an animal? Three months of trauma therapy.
+6167,At least you know the villian is going to rot in a jail cell alone for the rest of his life. But it did good because it's exposing and giving athletes in other countries the courage to speak up. Hit the uk men and women and Australia and new Zealand.. More emotional and verbal than physically
+6168,"😂😂😂..”Tiger King, well, is like 2020 in a documentary.”
+🤣🤣🤣😂😂😂
+So true."
+6169,Icarus started off one way and then took a HARD LEFT TURN
+6170,"I have no interest whatsoever in either cycling or doping but the number of times I saw Icarus recommended here eventually wore me down.
+
+It was engaging from the beginning, but the way the whole thing played out was good enough that I actually, out loud, asked my TV if this was really happening.
+
+And I give bonus points to anything that convinces me to talk to my TV."
+6171,"Came here to back up Athlete A. Not only does it follow the investigation and arrest of Dr. Larry Nassar, it also delves into the complete apathy that USA Gymnastics had for their athletes well-being as well as some insight to how sports culture (everywhere, but particularly in the US) can place value over achievement than well-being and safety.
+
+Edit: it has a hell of a powerful ending too."
+6172,Powerful ending. I wonder why they didn’t show the Dad that tried to attack him court. I thought for sure that would be on there and then it wasn’t.
+6173,Icarus and don’t Fuck with cats are sooo good
+6174,Tiger King is an interesting subject but an absolutely terrible documentary series. By the end of it I hated the documentary makers.
+6176,How clueless were the parents?
+6177,They were complicit in it because they were both looking for affection and attention from the guy. Fucked up family altogether
+6178,"Oh my word, it just came flooding back... I might have repressed it.
+
+The dude nailed the dad, the mom... and then the kid..."
+6179,Bingo ...not only was he a motherfucker he was also a fatherfucker
+6180,Shit was wild.
+6181,I just watched this on your recommendation: that’s one holy-shit-man what-the-fuck movie.
+6182,Is it worse than Dont fuck with cats?
+6183,"In it's own way, yes."
+6184,I saw this one and three identical strangers back to back in a fest. Both of them were mind-blowing. Tell me who I am on Netflix is another crazy watch.
+6185,Tell Me Who I Am was at Telluride last year and was the talk of the festival. I’m surprised it didn’t make a bigger splash with awards.
+6186,This one was good but infuriating
+6187,Little scared to give this a try
+6188,"Ultimately, I don’t think it’s a despair-inducing story (like Dear Zachary). It’s a really sad story, but the survivor is the one telling the story. It’s wild, though. Like if this was a fictional movie I’d question some of the plot points as completely unbelievable."
+6189,I thought I caught all these but I had missed this one somehow!
+6190,"God Knows Where I Am - I found it fascinating. The description reads, ""Linda lived on apples and rain until she died in an old New Hampshire farmhouse. The mental health system failed her."""
+6191,This doc had more of an affect on me than any other in a long time and I’m a documentary buff.
+6192,"Yes, that one affected me but ""Dear Zachary"" hurt my soul even more. Have you checked that one out?"
+6193,"""Dear Zachary"" crushed my heart.I still think about it from time to time"
+6194,"Netflix really delivers with true crime:
+
+Flint Town
+
+Evil Genius
+
+The Pharmacist
+
+The Confession Killer
+
+Abducted in Plain Sight
+
+Sports documentaries you can binge while knowing nothing about the sport:
+
+Cheer
+
+Last Chance U
+
+The Last Dance"
+6195,"I second Flint Town to the highest degree. I’m a born and raised Michigander so it hits very close to home. 
+
+Last Chance U and Cheer are both excellent. Greg Whiteley is honestly a creative genius."
+6196,Evil Genius is nuts and has stuck with me for a long time.
+6197,"Yes, OP! Definitely watch _Evil Genius!_"
+6198,The Pharmacist was really good.
+6199,I'm watching Last Chance U right now.
+6200,Last Dance
+6201,The editing is a little weird in that. A lot of great stuff but it sometimes seemed out of order to go on tangents.
+6202,I loved those Bulls and Jordan. I enjoyed Last Dance a fair amount but it is a little unrefined in some elements.
+6203,The editing problems had me ripping my hair out at times both within a single episode as well as one episode to the next. None of the timing makes sense at all
