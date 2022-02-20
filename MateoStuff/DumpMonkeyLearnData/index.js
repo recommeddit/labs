@@ -123,10 +123,7 @@ const MAX_LEN = 35;
 
     dataset.push({
       text,
-      annotations: annotations.map(({
-                                      start_char: start_idx,
-                                      end_char: end_idx,
-                                    }) => ({
+      annotations: annotations.map(({ start_char: start_idx, end_char: end_idx }) => ({
         text: text.substring(start_idx, end_idx),
         start_idx,
         end_idx,
@@ -138,7 +135,7 @@ const MAX_LEN = 35;
   console.log("\nDone iterating over the dataset! Writing to json...");
 
   (async () => {
-    await jetpack.writeAsync('./dataset.json', JSON.stringify(dataset, null, 2));
+    await jetpack.writeAsync(`./${process.env.OUTPUT_FILENAME}`, JSON.stringify(dataset, null, 2));
     console.log("Successfully wrote dataset to dataset.json!");
   })();
 
