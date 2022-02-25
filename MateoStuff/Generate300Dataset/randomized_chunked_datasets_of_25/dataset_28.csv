@@ -1,18 +1,18 @@
-idx,text,query
-73350,Anker,best battery bank
-51491,literally the most annoying case in existence. The leather case was a nice upgrade.,best iphone case
-185,Brew formula?,best terminal file manager reddit
-29733,"It wasn’t for a long time.  It’s only recently, especially with the new mobile app that I felt the price was finally justified",best money managing app
-51220,"Because it's a collaboration project. This is just me personally, I don't count collaborations as the individual artist's album",best rap album
-27979,Half a pot of black coffee.,best breakfast foods
-26409,Every politician ever. There. One thing.,best politician
-23733,"Rock n' Roll Racing. It had it all; customization, coop, multiple characters/cars, and a fantastic soundtrack. Screw Warcraft, THIS was Blizzards finest work.",best car racing video game
-33260,"https://www.greencarreports.com/news/1127590_nissan-leaf-as-home-energy-device-wallbox-will-soon-enable-it-in-the-u-s
+idx,query,text
+73350,best battery bank,Anker
+51491,best iphone case,literally the most annoying case in existence. The leather case was a nice upgrade.
+185,best terminal file manager reddit,Brew formula?
+29733,best money managing app,"It wasn’t for a long time.  It’s only recently, especially with the new mobile app that I felt the price was finally justified"
+51220,best rap album,"Because it's a collaboration project. This is just me personally, I don't count collaborations as the individual artist's album"
+27979,best breakfast foods,Half a pot of black coffee.
+26409,best politician,Every politician ever. There. One thing.
+23733,best car racing video game,"Rock n' Roll Racing. It had it all; customization, coop, multiple characters/cars, and a fantastic soundtrack. Screw Warcraft, THIS was Blizzards finest work."
+33260,best electric car,"https://www.greencarreports.com/news/1127590_nissan-leaf-as-home-energy-device-wallbox-will-soon-enable-it-in-the-u-s
 
 >The Leaf and most other CHAdeMO vehicles are capable of bi-directional charging “out of the box.” It’s just not a capability that Nissan has ever taken advantage of for home customers in the U.S. 
 
-Ok, they almost did it.",best electric car
-23252,"If you prefer arcade racing and some simulation:
+Ok, they almost did it."
+23252,best car racing video game,"If you prefer arcade racing and some simulation:
 
 * Forza Horizon 3
 
@@ -23,9 +23,9 @@ If you prefer sim racing:
 * rFactor 2
 * Project Cars
 
-There are other racing sims and games out there, but I'd say those are the most widely popular and recognized.",best car racing video game
-35348,Malort.,best alcoholic drink
-23225,"Social media is different. You can’t A/B test a printed newspaper in real time, and you can’t immediately blast something at the scale social media allows for on any other medium. Speed and quantity is the issue here, and it’s resulting in an eroding concept of truth.
+There are other racing sims and games out there, but I'd say those are the most widely popular and recognized."
+35348,best alcoholic drink,Malort.
+23225,best social networking site for CS,"Social media is different. You can’t A/B test a printed newspaper in real time, and you can’t immediately blast something at the scale social media allows for on any other medium. Speed and quantity is the issue here, and it’s resulting in an eroding concept of truth.
 
 
 The problem most people have, and what you’re guilty of, is the complete ignorance of inclusion and equality as a foundational necessity. If it’s not pursued from the jump, equality comes at the expense of someone else’s privilege. In this case, that privilege is using your money as a megaphone.
@@ -34,17 +34,17 @@ The problem most people have, and what you’re guilty of, is the complete ignor
 Say you have a landlord. It’s illegal to discriminate who he rents to. Yet, for years, he could go online and target ads for his vacancy to white, upper income families with kids, exploiting a lack of regulations. Now multiply these edge cases by millions and billions. Now take them all away... except you’re struggling to do that because it’s now your business model, propping up your valuation and pleasing shareholders. Your company is lobbying to prevent regulations, slowing down the velocity of change away from the circumstances that are more profitable for them.
 
 
-Social media has beneficial elements, but if you have to crawl over dead bodies to enjoy them, it’s probably not as great as you think. You’re justifying something whose benefits you enjoy, not actually making a reasonable case for why social media gets a raw deal.",best social networking site for CS
-20429,"Do you have Amazon Prime? Amazon Music is free for the non-unlimited one, which has more music. You can even download them. Spotify is free with Ads, so is Pandora.",best workout music
-67842,How the hell did Among Others beat Hyperion? That's an underdog story if ever I heard one.,best science fiction novel
-52896,Definitely. Even Stillmatic was incredible.,best hiphop album
-60837,John Mulaney and Patton Oswalt. I’m sure Reddit will jump down my throat but bill burr is only funny if you love tired jokes as much as you hate women.,Best comedy show on Netflix
-52086,"Like I said, my first one was similar to yours and my second one has been like new for as long as I had it. Which is basically a week or two since launch",best iphone case
-70385,"I wish I went for social work and continued my hs Spanish that I was quite good at by getting a Spanish minor. It’s becoming clear to me that’s what I’m meant to do now that I have my first degree. I fell for the lie that the only worthy degrees are STEM, have a degree in ecology with a geology concentration, even though that doesn’t play to any of my strengths. I’m still young and saving a good amount of money so I may just go back.",best major to study in college
-3237,"That webcam is incredible, I'd highly recommend it for that price. It also does the rendering through the hardware of the camera so it's not intensive on your setup.",best webcamera
-28755,Tea and a cigarette.,best breakfast foods
-61235,How does Dark Souls Remastered compares to Bloodborne? Are there more weapons? More builds? More difficult enemies? Is the gameplay clunkier? etc,Best RPG game on PS4
-42870,Perry Mason and I’ll be Gone in the Dark on HBO. Both are pretty great.,best detective show
-73592,"I use Villain Power Bank Portable Charger with 20000 mAh ( got here on Amazon: [https://www.amazon.com/dp/B08527CGRT](https://www.amazon.com/dp/B08527CGRT) ), for about three months already, and I gotta say that it's one of the most reliable thing I bring with me all the time. If your travel would last 4-5 days or even a whole week - it's gonna last for such period of time, charging everything, from laptops to any of your smartphone.",best battery bank
-61022,"The top comedy show I think is ""The good place"".. check out people's reaction here: https://www.reddit.com/r/netflix/comments/887gaf/the_good_place_is_actually_pretty_funny_and_binge/",Best comedy show on Netflix
-24199,And...... Favorited. Time to get started,best anime
+Social media has beneficial elements, but if you have to crawl over dead bodies to enjoy them, it’s probably not as great as you think. You’re justifying something whose benefits you enjoy, not actually making a reasonable case for why social media gets a raw deal."
+20429,best workout music,"Do you have Amazon Prime? Amazon Music is free for the non-unlimited one, which has more music. You can even download them. Spotify is free with Ads, so is Pandora."
+67842,best science fiction novel,How the hell did Among Others beat Hyperion? That's an underdog story if ever I heard one.
+52896,best hiphop album,Definitely. Even Stillmatic was incredible.
+60837,Best comedy show on Netflix,John Mulaney and Patton Oswalt. I’m sure Reddit will jump down my throat but bill burr is only funny if you love tired jokes as much as you hate women.
+52086,best iphone case,"Like I said, my first one was similar to yours and my second one has been like new for as long as I had it. Which is basically a week or two since launch"
+70385,best major to study in college,"I wish I went for social work and continued my hs Spanish that I was quite good at by getting a Spanish minor. It’s becoming clear to me that’s what I’m meant to do now that I have my first degree. I fell for the lie that the only worthy degrees are STEM, have a degree in ecology with a geology concentration, even though that doesn’t play to any of my strengths. I’m still young and saving a good amount of money so I may just go back."
+3237,best webcamera,"That webcam is incredible, I'd highly recommend it for that price. It also does the rendering through the hardware of the camera so it's not intensive on your setup."
+28755,best breakfast foods,Tea and a cigarette.
+61235,Best RPG game on PS4,How does Dark Souls Remastered compares to Bloodborne? Are there more weapons? More builds? More difficult enemies? Is the gameplay clunkier? etc
+42870,best detective show,Perry Mason and I’ll be Gone in the Dark on HBO. Both are pretty great.
+73592,best battery bank,"I use Villain Power Bank Portable Charger with 20000 mAh ( got here on Amazon: [https://www.amazon.com/dp/B08527CGRT](https://www.amazon.com/dp/B08527CGRT) ), for about three months already, and I gotta say that it's one of the most reliable thing I bring with me all the time. If your travel would last 4-5 days or even a whole week - it's gonna last for such period of time, charging everything, from laptops to any of your smartphone."
+61022,Best comedy show on Netflix,"The top comedy show I think is ""The good place"".. check out people's reaction here: https://www.reddit.com/r/netflix/comments/887gaf/the_good_place_is_actually_pretty_funny_and_binge/"
+24199,best anime,And...... Favorited. Time to get started

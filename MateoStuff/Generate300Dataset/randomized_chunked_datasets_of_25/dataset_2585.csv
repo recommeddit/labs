@@ -1,43 +1,43 @@
-idx,text,query
-54700,"I read many of those reviews before I purchased. I've only had mine for a year, and it's working pretty well still. I felt like it was inexpensive enough that I could purchase a new filtering mount when those problems arose.",best water filter
-58315,I'm disappointed that is the box boxes of sex panther come in.  I'm not sure exactly what I was expected but it sure involved more purple velour.,best cologne
-43641,A big cutting board is life changing in the kitchen.,best items under $100
-40,"As a vi guy, I've been using vifm for many years now and have often recommended it here on reddit and sites like kmandla's old blog.  But in my opinion it's beginning to suffer from feature bloat, so I'm considering alternatives.
+idx,query,text
+54700,best water filter,"I read many of those reviews before I purchased. I've only had mine for a year, and it's working pretty well still. I felt like it was inexpensive enough that I could purchase a new filtering mount when those problems arose."
+58315,best cologne,I'm disappointed that is the box boxes of sex panther come in.  I'm not sure exactly what I was expected but it sure involved more purple velour.
+43641,best items under $100,A big cutting board is life changing in the kitchen.
+40,best terminal file manager reddit,"As a vi guy, I've been using vifm for many years now and have often recommended it here on reddit and sites like kmandla's old blog.  But in my opinion it's beginning to suffer from feature bloat, so I'm considering alternatives.
 
 To my mind, the ""vi way"" is to leverage external programs as much as possible rather than building the same functionality into a single, monolithic program.  vifm seems to be straying from that path, in an attempt perhaps to match Midnight Commander feature for feature...
 
 File managers, btw, are to the shell utilities (cp, mv, etc.) what full-screen text editors like vi or emacs are to ed.   They show you the context of what you're working on and many people (including myself) find this useful.
 
-&#x200B;",best terminal file manager reddit
-45032,"pocket sized USB battery pack.
+&#x200B;"
+45032,best items under $100,"pocket sized USB battery pack.
 
-it's about the size of a lipstick tube so it fits in my pocket without trouble and i never have to worry about my phone dying after a late night out ever again (or at least, until i forget to recharge the battery pack).",best items under $100
-20502,Twilight of the Thunder God!,best workout music
-56541,"Nah, once I saw how smooth 144Hz was, I only wanted more.  240Hz is as clear as panning over to something with your own eyes.  I absolutely love it so far.",best desktop monitor
-59382,Si by Armani! I actually don’t like it that much (it’s very sweet) but I have to finish the bottle. I always get complimented and it lasts all day!,best perfume
-5092,Been waiting 2 days for Lowe’s to fill my order,best home improvement store
-2473,Headphone Reviews Buying Experience http://djheadphonereview.com/dj-headphone-reviews-2017/,best headphones
-64870,I kinda don’t want to say this so I don’t blow it up but Buena Onda is the move,best places to eat in Santa Barbara
-64997,The one by 7-11 is my go to place.,best places to eat in Santa Barbara
-6197,"Yes, OP! Definitely watch _Evil Genius!_",best Netflix documentary
-46064,"The strawberry ones belong in legend, also the old timers stuff was all amazing, can I eat your leftovers?",best trick or treating candy
-20538,Pure agression in compact disc: As The Palaces Burn by Lamb Of God,best workout music
-51952,"How clicky are the buttons on the case for you? I've got the leather case for my 13 Pro but the buttons (especially the power button) are very mushy and hard to press when compared to the leather case for the 11 Pro I had before.
+it's about the size of a lipstick tube so it fits in my pocket without trouble and i never have to worry about my phone dying after a late night out ever again (or at least, until i forget to recharge the battery pack)."
+20502,best workout music,Twilight of the Thunder God!
+56541,best desktop monitor,"Nah, once I saw how smooth 144Hz was, I only wanted more.  240Hz is as clear as panning over to something with your own eyes.  I absolutely love it so far."
+59382,best perfume,Si by Armani! I actually don’t like it that much (it’s very sweet) but I have to finish the bottle. I always get complimented and it lasts all day!
+5092,best home improvement store,Been waiting 2 days for Lowe’s to fill my order
+2473,best headphones,Headphone Reviews Buying Experience http://djheadphonereview.com/dj-headphone-reviews-2017/
+64870,best places to eat in Santa Barbara,I kinda don’t want to say this so I don’t blow it up but Buena Onda is the move
+64997,best places to eat in Santa Barbara,The one by 7-11 is my go to place.
+6197,best Netflix documentary,"Yes, OP! Definitely watch _Evil Genius!_"
+46064,best trick or treating candy,"The strawberry ones belong in legend, also the old timers stuff was all amazing, can I eat your leftovers?"
+20538,best workout music,Pure agression in compact disc: As The Palaces Burn by Lamb Of God
+51952,best iphone case,"How clicky are the buttons on the case for you? I've got the leather case for my 13 Pro but the buttons (especially the power button) are very mushy and hard to press when compared to the leather case for the 11 Pro I had before.
 
-Not sure if normal or a defective case.",best iphone case
-15052,Could anyone recommend a clean/non-sexual or religious contemporary or futuristic romance that's on their To-Read list?,best romantic novel
-18762,"Thank you, thank you so much for this.",best YouTube video
-33875,"you see the monster meme ? well...
+Not sure if normal or a defective case."
+15052,best romantic novel,Could anyone recommend a clean/non-sexual or religious contemporary or futuristic romance that's on their To-Read list?
+18762,best YouTube video,"Thank you, thank you so much for this."
+33875,best Pokemon game,"you see the monster meme ? well...
 
 the monster : me 
 the weapon : nostalgia 
 the tip of the weapon : pokemon black and white 1 
 the adventurer : this post 
 
-nothg else to say.",best Pokemon game
-58905,Caron Pour Une Homme is another classic fougere that may work. I have not tried it myself but I've heard great things from everyone who has!,best perfume
-18162,"Oh. My. God.  That poor woman.  If she's anything like my good innocent Catholic mother, i'm horrified for you.",best YouTube video
-13376,"Oh, because I'm supposed to write a spreadsheet program that exceeds Excel? Even though there is no real use for it as runtime execution is a significant performance hit. 
+nothg else to say."
+58905,best perfume,Caron Pour Une Homme is another classic fougere that may work. I have not tried it myself but I've heard great things from everyone who has!
+18162,best YouTube video,"Oh. My. God.  That poor woman.  If she's anything like my good innocent Catholic mother, i'm horrified for you."
+13376,best spreadsheet editor,"Oh, because I'm supposed to write a spreadsheet program that exceeds Excel? Even though there is no real use for it as runtime execution is a significant performance hit. 
 
 Everything, I've said is established fact. 
 
@@ -62,11 +62,11 @@ FYI this script will defeat anything you can run in Excel. (Matrix-Matrix produc
 
 If you can beat this in Excel, I will eat my shit (You can't it's impossible). 
 
-Excel is computationally worthless. There are better ways to implement it.",best spreadsheet editor
-64294,Andy Minter,best place to pirate audiobooks reddit
-22424,Ringo has been one of the most famous people in the world for over 50 years. That has to be exhausting.,best celebrity
-28942,"Breakfast burritos.
+Excel is computationally worthless. There are better ways to implement it."
+64294,best place to pirate audiobooks reddit,Andy Minter
+22424,best celebrity,Ringo has been one of the most famous people in the world for over 50 years. That has to be exhausting.
+28942,best breakfast foods,"Breakfast burritos.
 
 I cook up a bunch of egg/sausage mix on Sunday and either wrap em up right then, or just store it in the fridge and do 1 or 2 quick wraps each morning. Usually add a dollop of salsa too.
 
-I haven't eaten cereal in the morning since school, but sometimes if I'm up early I'll eat a quick bowl.",best breakfast foods
+I haven't eaten cereal in the morning since school, but sometimes if I'm up early I'll eat a quick bowl."

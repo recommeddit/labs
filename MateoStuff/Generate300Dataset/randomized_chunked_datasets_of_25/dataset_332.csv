@@ -1,12 +1,12 @@
-idx,text,query
-71481,He *NOSE* the truth!,best movies with a cool twist
-9756,"Hi, I work for UCSB Housing. Transfer students aren't eligible to live in the UCSB Residence Halls this year. Check out this page http://www.housing.ucsb.edu/community/transfer-student. If you look at the right you can see the UCSB apartments you're eligible to live in. Hope this info helps!",best dorm hall at UCSB
-44143,A keyboard. Learn to play some of your favorite songs. You will be surprised at the benefits of playing music.,best items under $100
-59986,"Hanae by Hanae Mori, I can’t believe how good it is- I’m so damn picky especially with hyper feminine fragrances and this one is just beyond delicious and intoxicating! To me it’s basically flowerbomb but so much better and smoother.",best perfume
-63496,Myblox,best package manager ios 14 jailbreak reddit
-73774,What screen protector do you use?,best matte screen protector for ipad
-54980,"If the water was distilled, would all the ions and organic molecules be removed?",best water filter
-64788,"so many choices.... ok I'll break them down by style:
+idx,query,text
+71481,best movies with a cool twist,He *NOSE* the truth!
+9756,best dorm hall at UCSB,"Hi, I work for UCSB Housing. Transfer students aren't eligible to live in the UCSB Residence Halls this year. Check out this page http://www.housing.ucsb.edu/community/transfer-student. If you look at the right you can see the UCSB apartments you're eligible to live in. Hope this info helps!"
+44143,best items under $100,A keyboard. Learn to play some of your favorite songs. You will be surprised at the benefits of playing music.
+59986,best perfume,"Hanae by Hanae Mori, I can’t believe how good it is- I’m so damn picky especially with hyper feminine fragrances and this one is just beyond delicious and intoxicating! To me it’s basically flowerbomb but so much better and smoother."
+63496,best package manager ios 14 jailbreak reddit,Myblox
+73774,best matte screen protector for ipad,What screen protector do you use?
+54980,best water filter,"If the water was distilled, would all the ions and organic molecules be removed?"
+64788,best places to eat in Santa Barbara,"so many choices.... ok I'll break them down by style:
 
 Japanese: Arigato Sushi
 
@@ -26,12 +26,12 @@ Brunch: Cajun Kitchen, Bree'osh, Jeannine's, FisHouse
 
 If you can't decide what to eat try the Public Market with a beer garden, wine grotto, and everything from tacos to ice cream and thai street food!
 
-There are so many unique and amazing places to eat you won't even break the surface with being here for a long weekend. But please try!",best places to eat in Santa Barbara
-33034,"Monster. 
+There are so many unique and amazing places to eat you won't even break the surface with being here for a long weekend. But please try!"
+33034,best energy drink,"Monster. 
 
-Just don't drink more than one can or you might die (seriously--there's a warning on the can and I'm pretty sure 2 people have actually died because they drank too much Monster)",best energy drink
-71292,"Fun fact it's actually translated to: 'Titkok kulcsa' in my langauge , and it means: 'Key of secrets'",best movies with a cool twist
-47238,"There are three places to go for barbecue - the Carolinas (pulled pork), Kansas City (all kinds of meat, sauces are what it's about here), or Texas(brisket). Anywhere in the south will have good barbecue, you just need to get out of the tourist traps is all.
+Just don't drink more than one can or you might die (seriously--there's a warning on the can and I'm pretty sure 2 people have actually died because they drank too much Monster)"
+71292,best movies with a cool twist,"Fun fact it's actually translated to: 'Titkok kulcsa' in my langauge , and it means: 'Key of secrets'"
+47238,best state to visit in the United States,"There are three places to go for barbecue - the Carolinas (pulled pork), Kansas City (all kinds of meat, sauces are what it's about here), or Texas(brisket). Anywhere in the south will have good barbecue, you just need to get out of the tourist traps is all.
 
 Personally, for what you asked for, I'd go to Austin, Texas. Good barbecue plus it's a younger (age of people-wise) city and it has a vibrant night life, and all the things that come with that. Plus you're in Texas and can do a lot of stuff that you can't do in England, or other places in America even, such as go to a range and fire a machine gun (if that's your thing). Also, football in Texas is super fucking serious business. High school football teams will be on the same scale as professional events with stadiums and all the rigmorale.
 
@@ -41,16 +41,16 @@ New Orleans is an awesome place to visit in the Spring/Summer, and since it's lo
 
 Dallas, Texas has barbecue, an awesome football stadium, and ~~casinos (which are like grown-up theme parks).~~ However, it also has some serious violent crime rates. You probably won't be in any danger, but definitely stay alert.
 
-Be weary of any suggestions in the northeast for barbecue (coming from someone in NJ). It's really not the same.",best state to visit in the United States
-20727,Check out “When the Curtain Falls” by Greta Van Fleet. They remind me a lot of Zeppelin and have some decent workout songs.,best workout music
-15792,"Or even <$25. It's so easy for sunglasses to break/get lost/get stolen, I just can't stomach spending much at all on them.",best sunglasses for fashion
-71604,I knew nothing about the plot of The Matrix so the red pill wake-up scene really threw me.,best movies with a cool twist
-11400,I know a Michelle. But I don't like her anymore.,best gifts for dad
-19505,"Townsend's. A historical reenactor with a cooking show where he makes 17th century America dishes in authentic (enough) environments. He also does a lot of videos about the quality of life and how they used various tools. Hes just super passionate about what he does, it's very endearing.",best YouTube video
-18174,I didn't realize it was possible to get hyped for something literally generic.,best YouTube video
-39435,I will see and I would switch to Firefox if it works,best web browser
-61304,Dragon Age,Best RPG game on PS4
-72271,"From the GitHub page, so words from the creator of the extension:
+Be weary of any suggestions in the northeast for barbecue (coming from someone in NJ). It's really not the same."
+20727,best workout music,Check out “When the Curtain Falls” by Greta Van Fleet. They remind me a lot of Zeppelin and have some decent workout songs.
+15792,best sunglasses for fashion,"Or even <$25. It's so easy for sunglasses to break/get lost/get stolen, I just can't stomach spending much at all on them."
+71604,best movies with a cool twist,I knew nothing about the plot of The Matrix so the red pill wake-up scene really threw me.
+11400,best gifts for dad,I know a Michelle. But I don't like her anymore.
+19505,best YouTube video,"Townsend's. A historical reenactor with a cooking show where he makes 17th century America dishes in authentic (enough) environments. He also does a lot of videos about the quality of life and how they used various tools. Hes just super passionate about what he does, it's very endearing."
+18174,best YouTube video,I didn't realize it was possible to get hyped for something literally generic.
+39435,best web browser,I will see and I would switch to Firefox if it works
+61304,Best RPG game on PS4,Dragon Age
+72271,best adblocker extension,"From the GitHub page, so words from the creator of the extension:
 
 >uBlock Origin is **NOT** an ""ad blocker"": [it is a wide-spectrum blocker](https://github.com/gorhill/uBlock/wiki/Blocking-mode)  \-- which happens to be able to function as a mere ""ad blocker"". The  default behavior of uBlock Origin when newly installed is to block ads,  trackers and malware sites -- through [*EasyList*](https://easylist.github.io/#easylist), [*EasyPrivacy*](https://easylist.github.io/#easyprivacy), [*Peter Lowe’s ad/tracking/malware servers*](https://pgl.yoyo.org/adservers/policy.php), [*Online Malicious URL Blocklist*](https://gitlab.com/curben/urlhaus-filter#urlhaus-malicious-url-blocklist), and uBlock Origin's [own filter lists](https://github.com/uBlockOrigin/uAssets/tree/master/filters).  
 >  
@@ -62,9 +62,9 @@ Be weary of any suggestions in the northeast for barbecue (coming from someone i
 >  
 >*EasyList*, *EasyPrivacy*, *Peter Lowe's*, *Online Malicious URL Blocklist*  and uBO's own lists are enabled by default when you install uBlock  Origin. Many more lists are readily available to block trackers,  analytics, and more. Hosts files are also supported.  
 >  
->Once you install uBlock Origin, you may easily un-select any of the  pre-selected filter lists if you think uBlock Origin blocks too much.  For reference, Adblock Plus installs with only *EasyList* enabled by default.",best adblocker extension
-19217,I wish I was this excited about anything :-(,best YouTube video
-50610,MOTM1,best rap album
-17421,"Of the games in this picture, it would be Cat Quest.",best iOS game
-22095,Alex Trebek from Jeopardy. He was so sweet,best celebrity
-46278,Sounds like a regular Friday night to me. Thanks! :),best trick or treating candy
+>Once you install uBlock Origin, you may easily un-select any of the  pre-selected filter lists if you think uBlock Origin blocks too much.  For reference, Adblock Plus installs with only *EasyList* enabled by default."
+19217,best YouTube video,I wish I was this excited about anything :-(
+50610,best rap album,MOTM1
+17421,best iOS game,"Of the games in this picture, it would be Cat Quest."
+22095,best celebrity,Alex Trebek from Jeopardy. He was so sweet
+46278,best trick or treating candy,Sounds like a regular Friday night to me. Thanks! :)

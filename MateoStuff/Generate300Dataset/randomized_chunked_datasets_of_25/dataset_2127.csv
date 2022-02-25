@@ -1,10 +1,10 @@
-idx,text,query
-25801,Funny. That's the exact reaction a lot of my american friends have when I explain cricket to them.,best cricket teams of all time
-38338,"NYT is good for features, stories, and strong general coverage and data stories. WaPo is what to sub and read if you want Insider DC and coverage of politics, national stuff, and a decent coverage of other media companies (Margaret Sullivan)",best newspapers to read
-40962,"I’ve read the whole thread and I’m glad you’re sticking up for percussion instruments but I’m completely unconvinced. Every instrument requires years of technique training before you can evens think about playing properly, and I find it extremely difficult to believe that properly mastering technique on a timpani takes longer than doing the same on guitar, clarinet or cello. And the tonal instruments have entire layers of complexity on top of that which really aren’t present in a timpani. 
+idx,query,text
+25801,best cricket teams of all time,Funny. That's the exact reaction a lot of my american friends have when I explain cricket to them.
+38338,best newspapers to read,"NYT is good for features, stories, and strong general coverage and data stories. WaPo is what to sub and read if you want Insider DC and coverage of politics, national stuff, and a decent coverage of other media companies (Margaret Sullivan)"
+40962,best instrument to play,"I’ve read the whole thread and I’m glad you’re sticking up for percussion instruments but I’m completely unconvinced. Every instrument requires years of technique training before you can evens think about playing properly, and I find it extremely difficult to believe that properly mastering technique on a timpani takes longer than doing the same on guitar, clarinet or cello. And the tonal instruments have entire layers of complexity on top of that which really aren’t present in a timpani. 
 
-Personally I’ve struggled to learn guitar for more than a decade, but have recently picked up drums and have found that quite easy in comparison. Nonetheless, I am certain that I would have found drums much more of a struggle had I not internalised a certain (very modest) amount of rhythm from the guitar.",best instrument to play
-62921,"Bayesian statistics: Bayesian Data Analysis is the best book, Statistical Rethinking is good for beginners
+Personally I’ve struggled to learn guitar for more than a decade, but have recently picked up drums and have found that quite easy in comparison. Nonetheless, I am certain that I would have found drums much more of a struggle had I not internalised a certain (very modest) amount of rhythm from the guitar."
+62921,Best Data Science textbook,"Bayesian statistics: Bayesian Data Analysis is the best book, Statistical Rethinking is good for beginners
 Machine Learning: Elements of statistical Learning is the best, Introduction to statistical learning is a little easier
 
 Neural Networks: Deep Learning
@@ -13,18 +13,18 @@ Time Series: this one is a tough call, Time Series Analysis and Its Applications
 
 Reinforcement Learning: people seem to like Reinforcement Learning: An Introduction, I learned from reading Google deep mind papers. 
 
-I recommend the Andrew Gelman blog. I like The signal and the noise as far as non theoretical books go.",Best Data Science textbook
-8948,"Is it 'necessary'? It's not like a mineral that you ingest or anything, it helps by direct contact with teeth, in the mouth. After it is swallowed, it has 'minimal effect' according to http://en.wikipedia.org/wiki/Fluoride_therapy .
-So this means that 'every little bit counts' I suppose. Both toothpaste and fluoridated water will help, and the more contact time, the better.",best toothpaste
-47052,"Since I don't think anyone else here has clarified the two words, the difference is between an anti-*biotic*, and an anti-septic.  Bacteria cannot build tolerances to anti-septics, things like bleach or alcohol or even fire.  They destroy the bacteria chemically, they make it physically impossible for the cultures, as well as most other life forms, to survive.
+I recommend the Andrew Gelman blog. I like The signal and the noise as far as non theoretical books go."
+8948,best toothpaste,"Is it 'necessary'? It's not like a mineral that you ingest or anything, it helps by direct contact with teeth, in the mouth. After it is swallowed, it has 'minimal effect' according to http://en.wikipedia.org/wiki/Fluoride_therapy .
+So this means that 'every little bit counts' I suppose. Both toothpaste and fluoridated water will help, and the more contact time, the better."
+47052,best hand santizer brand,"Since I don't think anyone else here has clarified the two words, the difference is between an anti-*biotic*, and an anti-septic.  Bacteria cannot build tolerances to anti-septics, things like bleach or alcohol or even fire.  They destroy the bacteria chemically, they make it physically impossible for the cultures, as well as most other life forms, to survive.
 
 Bacteria *can* build tolerance to anti-*biotics*.  These kill the bacteria biologically - preventing these particular life forms from existing, some by targeting the cell wall, others by targeting the cell membrane, others by the bacterial enzymes.  
 
-Also crucial, is that examples of anti-biotics aren't just limited to prescription pills given by your doctor.  You can find them in hand soaps and even in some hand sanitizers, in the form of ""triclosan"", which can build triclosan-resistant bacteria.",best hand santizer brand
-31689,Might I suggest a kindle to resolve your shit ton of books dilemma?,best hotel to live in
-10233,I've used these for years. Love them.,best pencil for drawing
-50864,"I'm late to the thread, but how the fuck hasn't **Me Against The World** been mentioned yet?",best rap album
-26625,"Not really my personal favorites but games that will definitely see play:
+Also crucial, is that examples of anti-biotics aren't just limited to prescription pills given by your doctor.  You can find them in hand soaps and even in some hand sanitizers, in the form of ""triclosan"", which can build triclosan-resistant bacteria."
+31689,best hotel to live in,Might I suggest a kindle to resolve your shit ton of books dilemma?
+10233,best pencil for drawing,I've used these for years. Love them.
+50864,best rap album,"I'm late to the thread, but how the fuck hasn't **Me Against The World** been mentioned yet?"
+26625,best board games,"Not really my personal favorites but games that will definitely see play:
 
 1. Settlers of Catan
 2. Ticket to Ride
@@ -35,14 +35,14 @@ Also crucial, is that examples of anti-biotics aren't just limited to prescripti
 7. The Climbers
 8. Istanbul
 9. Keyflower
-10. Puerto Rico",best board games
-8392,"Are you kidding? If you can, go ahead",best toothpaste
-55461,"Thanks for the response,  mate. I felt that some of the writing was weak in the first book,  yet I still couldn't put it down! I think that is indicative of something,  something special. I did notice massive improvement in the next two books.
+10. Puerto Rico"
+8392,best toothpaste,"Are you kidding? If you can, go ahead"
+55461,best action and adventure novel series,"Thanks for the response,  mate. I felt that some of the writing was weak in the first book,  yet I still couldn't put it down! I think that is indicative of something,  something special. I did notice massive improvement in the next two books.
 
 Please,  understand that I'm a huge fan and I'm super excited to read whatever you put out next. You're an air some writer and seeing the progression was honestly a very interesting part of reading your books. 
 
-All the best.",best action and adventure novel series
-25365,"1. Andrew - Before y’all start tryna kill me. Andrew actually portrayed the anger that Peter had, because many Spider-Man fans tend to forget that high school Peter was actually somewhat of an asshole. 
+All the best."
+25365,best spiderman actor,"1. Andrew - Before y’all start tryna kill me. Andrew actually portrayed the anger that Peter had, because many Spider-Man fans tend to forget that high school Peter was actually somewhat of an asshole. 
 
 He was anti social and straight up didn’t like people. Tobey is just a whiny bitch who lets people run over him. 
 
@@ -68,10 +68,10 @@ Andrew’s Peter was actually an asshole, and stood up for himself. And despite 
 
 10. Theme - Spider-Man 2. The failure of being Spider-Man and just how fucking hard it is. 
 
-11. Fitting actor for the role - Andrew. He’s what I always imagined Peter would look like. Skinny but lean, tallish but not NBA player like.",best spiderman actor
-35688,This is the most I've agreed with something here in a while,best alcoholic drink
-35119,Eli? Favre? Fitz? Gronk? Megatron? I mean they’re all (most) great players but common...,best NFL player
-27557,"RGV , Naseerudhdhin Shah all had issue with working with Aamir
+11. Fitting actor for the role - Andrew. He’s what I always imagined Peter would look like. Skinny but lean, tallish but not NBA player like."
+35688,best alcoholic drink,This is the most I've agreed with something here in a while
+35119,best NFL player,Eli? Favre? Fitz? Gronk? Megatron? I mean they’re all (most) great players but common...
+27557,best bollywood actor,"RGV , Naseerudhdhin Shah all had issue with working with Aamir
 
 But all of them appreciate him, it is just heir working style doesn't. Naseerushshin Shah praises Aamir more than any other major khan.
 
@@ -79,22 +79,22 @@ Go see the tweet of RGV after Dangal, he accept that Aamir is working on making 
 
 Rajkumar Hirani is not a pet director, he himself is big and they had good working experience, may be it is just that their working process matched. 
 
-Most of the directors Aamir has worked with, their most successful movie they got is with Aamir, so most probably he has significant contributionn and inputs in the movie making.",best bollywood actor
-26954,"You can play it solo, it's still fun and you don't need to gather a group",best board games
-13422,"Thank you, this is perfect!",best spreadsheet editor
-10755,The TSA isn't a party to the Geneva Convention.,best suitcase lock
-736,What's Love Potion?,best baskin robbins flavor reddit
-53409,"Apple sells Anker products on their store, so that’s always been good enough for me!",best usb c charging cable
-8561,Bleach.,best toothpaste
-3129,"Pre covid no one cared. Webcams were used mostly by non profesionals who didn't really know what they were doing. Any proffesional or wannabe steamer/whatever ended up buying a much more expensive solution (DSLR and caputure cards).  
+Most of the directors Aamir has worked with, their most successful movie they got is with Aamir, so most probably he has significant contributionn and inputs in the movie making."
+26954,best board games,"You can play it solo, it's still fun and you don't need to gather a group"
+13422,best spreadsheet editor,"Thank you, this is perfect!"
+10755,best suitcase lock,The TSA isn't a party to the Geneva Convention.
+736,best baskin robbins flavor reddit,What's Love Potion?
+53409,best usb c charging cable,"Apple sells Anker products on their store, so that’s always been good enough for me!"
+8561,best toothpaste,Bleach.
+3129,best webcamera,"Pre covid no one cared. Webcams were used mostly by non profesionals who didn't really know what they were doing. Any proffesional or wannabe steamer/whatever ended up buying a much more expensive solution (DSLR and caputure cards).  
 
 
 Once Covid hit all of the 'best' options went out of stock and largely still aren't in stock, while people are upsold on 'real cameras'.  
 A rubbish web cam is all thats needed for a tiny screen in Zoom or whatever anyway so why would the companies make a better product if the bad one sells out.  
 
 
-Business in 2021 isn't about making a good product that works and your customer is happy with its about making as much money as possible. Those things are mutually exclusive now it seems.",best webcamera
-61595,Bloodborne absolutely is an action RPG,Best RPG game on PS4
-32630,"I find Tripadvisor to be a good resource for reviews.
+Business in 2021 isn't about making a good product that works and your customer is happy with its about making as much money as possible. Those things are mutually exclusive now it seems."
+61595,Best RPG game on PS4,Bloodborne absolutely is an action RPG
+32630,best vacation resort,"I find Tripadvisor to be a good resource for reviews.
 
-However, don't settle on just one source for reviews.  Also, if you're trying to sort out the fake reviews from the real ones, look for the BAD reviews.  You won't find fake reviewers posting bad reviews, so you know they're real.  One bad review might be a disgruntled customer, but try to see if there's more than one bad review of the same type, then you know to stay away.",best vacation resort
+However, don't settle on just one source for reviews.  Also, if you're trying to sort out the fake reviews from the real ones, look for the BAD reviews.  You won't find fake reviewers posting bad reviews, so you know they're real.  One bad review might be a disgruntled customer, but try to see if there's more than one bad review of the same type, then you know to stay away."

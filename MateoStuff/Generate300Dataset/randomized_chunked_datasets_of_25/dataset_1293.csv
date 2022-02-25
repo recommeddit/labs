@@ -1,5 +1,5 @@
-idx,text,query
-3072,"The front facing camera on smartphones do have a better sensor and lens than most webcams, **but that is not the whole story.**
+idx,query,text
+3072,best webcamera,"The front facing camera on smartphones do have a better sensor and lens than most webcams, **but that is not the whole story.**
 
 Video and photos on a smartphone go through a ton of **real time software processing** in order to look that good. A ton of uncompressed raw data is sent directly from the camera sensor straight to the phone's SOC to be processed. I am talking about **several gigabits per second.** Way too much for USB 2 or even USB 3. USB 3.2 10Gbps might be able to handle that.
 
@@ -7,25 +7,25 @@ Compare this to a webcam. The sensor captures the image and then a **super cheap
 
 In theory, you can make a webcam that basically has a smartphone SOC inside it that does all the sophisticated image processing that smartphone cameras can do. However, once you do that, the price of the webcam ballons quickly. Once a webcam costs $300+, it is tough to justify compared to something like a cheap used DSLR.
 
-People seem to forget that USB webcams were a dying product category pre-COVID. No one gave a sh** about them for about a decade after every laptop and phone started coming with built in cameras.",best webcamera
-18830,[Owen Wilson Impression](https://www.youtube.com/watch?v=rOGbMwXnlQM),best YouTube video
-57869,"hahahah dude, this comment was from four months ago, did you really only just see it? 
+People seem to forget that USB webcams were a dying product category pre-COVID. No one gave a sh** about them for about a decade after every laptop and phone started coming with built in cameras."
+18830,best YouTube video,[Owen Wilson Impression](https://www.youtube.com/watch?v=rOGbMwXnlQM)
+57869,best cologne,"hahahah dude, this comment was from four months ago, did you really only just see it? 
 
-And yes, there is plenty more where that came from, as long as you weren't being facetious :)",best cologne
-16922,Nice idk how to do that,best iOS game
-71624,"* *[Frailty](http://www.imdb.com/title/tt0264616/reference)*. Yes, Matthew McConaughey is in it, and he's fantastic.
+And yes, there is plenty more where that came from, as long as you weren't being facetious :)"
+16922,best iOS game,Nice idk how to do that
+71624,best movies with a cool twist,"* *[Frailty](http://www.imdb.com/title/tt0264616/reference)*. Yes, Matthew McConaughey is in it, and he's fantastic.
 
 * *[The Jacket](http://www.imdb.com/title/tt0366627/reference)*.
 
-* *[Jacob's Ladder](http://www.imdb.com/title/tt0099871/reference)*.",best movies with a cool twist
-46836,"Soap and water work well if you actually have stuff on your hands - dirt, grime, fecal matter, that kind of stuff. There's a good chance simply removing that crap from your hands in a third-world country would improve things. Soap helps do this better than water alone. 
+* *[Jacob's Ladder](http://www.imdb.com/title/tt0099871/reference)*."
+46836,best hand santizer brand,"Soap and water work well if you actually have stuff on your hands - dirt, grime, fecal matter, that kind of stuff. There's a good chance simply removing that crap from your hands in a third-world country would improve things. Soap helps do this better than water alone. 
 
 With otherwise clean hands, however, soap and water only shows a ~1.5 log reduction in bacterial counts, which is pretty poor. Ethanol based hand sanitizers (60-95%) work significantly better than this. So... you're still wrong.
 
-Edit: btw, I think the article I referenced is available for free online at pubmed. It's a thick volume so you probably won't be interested in reading all of it, but there is a ton of good information in there.",best hand santizer brand
-22107,That’s amazing! I saw him on tour and he was hilarious.  He seems like he would be energetic in person,best celebrity
-27820,This sounds awesome!!,best breakfast foods
-24823,"These arent in any order. Steins gate is my favorite tho.
+Edit: btw, I think the article I referenced is available for free online at pubmed. It's a thick volume so you probably won't be interested in reading all of it, but there is a ton of good information in there."
+22107,best celebrity,That’s amazing! I saw him on tour and he was hilarious.  He seems like he would be energetic in person
+27820,best breakfast foods,This sounds awesome!!
+24823,best anime,"These arent in any order. Steins gate is my favorite tho.
 
 1)Steins gate 
 
@@ -45,26 +45,26 @@ Edit: btw, I think the article I referenced is available for free online at pubm
 
 9) Beserk
 
-10) Eden of the east",best anime
-60278,"I think it's kind of like basic fridges, all pretty similar. Get a vacuum sealer and don't get frost free.",best freezer brand
-44016,A [quadrocopter with HD camera](http://www.dx.com/p/wltoys-v959-2-4g-radio-control-4-ch-quadcopter-r-c-aircraft-w-2-5-lcd-remote-controller-camera-221673) and [a set of batteries](http://www.dx.com/p/wltoys-kv959-0005-600mah-battery-component-1-to-5-cable-for-v959-v222-four-axis-aircraft-3-pcs-238737).,best items under $100
-56715,"I just visited the Amazon link, top question was ""Does this already have Windows 7 on it?"" Made my night. Oh, and of course someone had to answer with ""no it has windows 8.""",best desktop monitor
-25673,ahem,best cricket teams of all time
-63726,"GTD, building a second brain, eat that frog - they all go hand in hand I think.",best books for time management reddit
-31738,This all sounds very familiar. Thanks.,best hotel to live in
-20396,"day to remember, neck deep, bring me the horizon, swift, arianna grande, kendrick.",best workout music
-43837,"Not my purchase but my parents but it's for me so it technically counts - my ADD meds, back in third grade it became so bad that I zoned out for the whole day and just stared at the wall or something getting nothing done. After the meds i became a good student and could actually focus, its since gotten better but the procrastination has stayed and is still really bad",best items under $100
-13330,Can I do the things in google spreadsheets that I do in VBA?,best spreadsheet editor
-17179,I miss this one game called Touch Pets Cats. Favorite game I played when I was a kid,best iOS game
-20655,The distance by CAKE is the only answer for this,best workout music
-9672,"manzi’s super quiet and right by carrillo. There’s like 4ish bathrooms per hallway with one stall + shower inside and you can lock the door, so not communal (obv everyone uses the same bathrooms but you get a lot more privacy this way).",best dorm hall at UCSB
-37410,Universal studios Orlando,best amusement park
-22010,"Bruce Campbell of Evil Dead fame.
+10) Eden of the east"
+60278,best freezer brand,"I think it's kind of like basic fridges, all pretty similar. Get a vacuum sealer and don't get frost free."
+44016,best items under $100,A [quadrocopter with HD camera](http://www.dx.com/p/wltoys-v959-2-4g-radio-control-4-ch-quadcopter-r-c-aircraft-w-2-5-lcd-remote-controller-camera-221673) and [a set of batteries](http://www.dx.com/p/wltoys-kv959-0005-600mah-battery-component-1-to-5-cable-for-v959-v222-four-axis-aircraft-3-pcs-238737).
+56715,best desktop monitor,"I just visited the Amazon link, top question was ""Does this already have Windows 7 on it?"" Made my night. Oh, and of course someone had to answer with ""no it has windows 8."""
+25673,best cricket teams of all time,ahem
+63726,best books for time management reddit,"GTD, building a second brain, eat that frog - they all go hand in hand I think."
+31738,best hotel to live in,This all sounds very familiar. Thanks.
+20396,best workout music,"day to remember, neck deep, bring me the horizon, swift, arianna grande, kendrick."
+43837,best items under $100,"Not my purchase but my parents but it's for me so it technically counts - my ADD meds, back in third grade it became so bad that I zoned out for the whole day and just stared at the wall or something getting nothing done. After the meds i became a good student and could actually focus, its since gotten better but the procrastination has stayed and is still really bad"
+13330,best spreadsheet editor,Can I do the things in google spreadsheets that I do in VBA?
+17179,best iOS game,I miss this one game called Touch Pets Cats. Favorite game I played when I was a kid
+20655,best workout music,The distance by CAKE is the only answer for this
+9672,best dorm hall at UCSB,"manzi’s super quiet and right by carrillo. There’s like 4ish bathrooms per hallway with one stall + shower inside and you can lock the door, so not communal (obv everyone uses the same bathrooms but you get a lot more privacy this way)."
+37410,best amusement park,Universal studios Orlando
+22010,best celebrity,"Bruce Campbell of Evil Dead fame.
 
 Tall as fuck, and really cheerful. I was working the front desk for Newbury Comics' corporate office and he and his assistant came in. I didn't even process the name when his assistant said it, just called back to the buyer whom Bruce was meeting. Then it hit me: ""Wait. **The** Bruce Campbell""?
 
 Bruce is standing to my right, looming like death. He smiles, extends a hand, laughs, and asks me my name. I made the requisite boomstick joke, and he also laughed at that.
 
-Much better behaved than Juliette Lewis, who showed up so drunk she couldn't walk down the ramp in front of me.",best celebrity
-55726,"There isn't much in terms of monsters, you're right, but the books have a lot of adventures, close calls, clever plots, etc. Plus, the characters are awesome!",best action and adventure novel series
-60370,Rick an Morty potentially one of the best under the radar series out there 🔥,Best comedy show on Netflix
+Much better behaved than Juliette Lewis, who showed up so drunk she couldn't walk down the ramp in front of me."
+55726,best action and adventure novel series,"There isn't much in terms of monsters, you're right, but the books have a lot of adventures, close calls, clever plots, etc. Plus, the characters are awesome!"
+60370,Best comedy show on Netflix,Rick an Morty potentially one of the best under the radar series out there 🔥

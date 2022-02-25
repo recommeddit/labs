@@ -1,18 +1,18 @@
-idx,text,query
-59143,"Tori Burch ""Eau de Parfum"", it's sold at Sephora. That or my Marc Jacobs ""Oh! Lola"".",best perfume
-65862,Ahh okay. I guess public state universities should prioritize instate! Thanks for changing my mind. Maybe there should be requirements for how many are admitted for instate and out of state.,best college in california
-55409,"I saw this comment and decided to read the book it promotes. let me just say, despite the first 20% of the novel being rather slow (ad at times disjointed) exposition, I'm 50% through and it has been nothing less than an exquisite read so far.",best action and adventure novel series
-5709,"So here's how you go about it: you need a portfolio, and you'll build it in steps. 
+idx,query,text
+59143,best perfume,"Tori Burch ""Eau de Parfum"", it's sold at Sephora. That or my Marc Jacobs ""Oh! Lola""."
+65862,best college in california,Ahh okay. I guess public state universities should prioritize instate! Thanks for changing my mind. Maybe there should be requirements for how many are admitted for instate and out of state.
+55409,best action and adventure novel series,"I saw this comment and decided to read the book it promotes. let me just say, despite the first 20% of the novel being rather slow (ad at times disjointed) exposition, I'm 50% through and it has been nothing less than an exquisite read so far."
+5709,best programming language for web development,"So here's how you go about it: you need a portfolio, and you'll build it in steps. 
 
 * Step 1) make a few free websites / webapps / mobile-apps. Build a promotional site for one of your friend's / family's businesses (eg, their photography website, etc). If you or a friend have had this ""killer app idea"", crank it out in Ionic. And of course, #3 is your actual portfolio website itself: `{yourname_or_businessname}.com`. Step 1 should take ~1mo.
 * Step 2) make a few _cheap_ sites/apps. Now you have something to prove your worth, time to test the water. Do this at [oDesk/upWork](https://www.upwork.com), [Elance](https://www.elance.com/), [Freelancer](https://www.freelancer.com), [Fiverr](https://www.fiverr.com), etc. These are websites for finding global talent. As such, you're competing with devs willing to work for $5/h. It's a career non-option for westerners, but it's a great place to start practicing with clients. These sites' customers kinda _expect_ to get what they pay for - trust me, I've hired from these sites, and have friends who did too. ""The work was sub-par, but hey - can't beat the price!"" In other words, you won't feel your career / reputation on the line quite as much in these ""practice grounds."" I'm sure I'm making legitimate bid-site users cringe, but that's how I've used these sites. Step 2 should take ~1-2mo.
 * Step 3) Now you have 4-6 portfolio pieces, you're in! The best way to get a solid gig is in person or through connections. Go to [meetups](http://www.meetup.com/] (search ""javascript"", ""angular"", etc) and present / network. Ask your friends / social networks if anyone's looking for talent. Now, this is a slower process than hunting online, but it yields higher-paying gigs, better clients, and overall more rewarding work - ask anyone. _While_ you're doing this (in the background) start searching online, but remembering that in-person/connection gigs are usually better, if you're presented with one of both ;) Ok, online. My favorite sites are the following:
   * W2: as in careers, part-time/full-time, on-site _jobs_: [indeed](http://www.indeed.com/), [simplyhired](http://www.simplyhired.com/), [linkedin](https://www.linkedin.com/), [hired](https://hired.com), [TopTal](https://www.toptal.com/). **Ignore this section**, since you're looking for freelance.
-  * 1099: as in freelancing, remote, one-off gigs. My favorites: [gunio](https://gun.io/dash/), [remoteok](http://remoteok.io/), [peopleperhour](http://www.peopleperhour.com/). RemoteOK aggregates many good gig boards, so I've excluded _those_. Any other boards someone would recommend? Also, google search jobs in your chosen technology, eg ""angular jobs"" or ""react jobs"". Some more I haven't investigated: [awesomeweb](https://www.awesomeweb.com/), [whitetruffle](https://www.whitetruffle.com/), ~~/r/forhire ([nevermind](https://www.reddit.com/r/digitalnomad/comments/3c9sep/does_anyone_find_work_on_rforhire/))~~",best programming language for web development
-30367,That is one hell of a k:d ratio.,best Mexican war to study
-2931,"shp9500, affordable and excellent soundstage for everything gaming, don't need anything else",best headphones
-1848,Gino's. Turkey panini is also fire.,best pizza place in Santa Barbara
-39237,"Android/IOS  ; -
+  * 1099: as in freelancing, remote, one-off gigs. My favorites: [gunio](https://gun.io/dash/), [remoteok](http://remoteok.io/), [peopleperhour](http://www.peopleperhour.com/). RemoteOK aggregates many good gig boards, so I've excluded _those_. Any other boards someone would recommend? Also, google search jobs in your chosen technology, eg ""angular jobs"" or ""react jobs"". Some more I haven't investigated: [awesomeweb](https://www.awesomeweb.com/), [whitetruffle](https://www.whitetruffle.com/), ~~/r/forhire ([nevermind](https://www.reddit.com/r/digitalnomad/comments/3c9sep/does_anyone_find_work_on_rforhire/))~~"
+30367,best Mexican war to study,That is one hell of a k:d ratio.
+2931,best headphones,"shp9500, affordable and excellent soundstage for everything gaming, don't need anything else"
+1848,best pizza place in Santa Barbara,Gino's. Turkey panini is also fire.
+39237,best web browser,"Android/IOS  ; -
 
 1. Kiwi browser extension Ublock origin , shortcuts, refresh , home , back button .
 2. Soul browser . filter [abp.oisd.nl](https://abp.oisd.nl)
@@ -21,19 +21,19 @@ Windows 10 64 bit  :-
 
 1. Firefox  add-on Ublock origin ,  for dark mode : - [https://addons.mozilla.org/en-US/firefox/addon/owl/](https://addons.mozilla.org/en-US/firefox/addon/owl/) 
 
-Give me award . Thanks",best web browser
-55771,Forgot to mention I’d really like some fun enchanted objects used in magical ways.,best action and adventure novel series
-73111,"I've installed it 3 times this year and had problems every time. Seems there are cases where it doesn't ""just work"" which takes me back to the Linux experience of the '90s.",best Linux distro
-30387,"Look, I've been really busy lately with work and stuff. I'll start besieging an island city-state next week. For sure this time.",best Mexican war to study
-59532,Yes 💓! I love makeup and fashion ☺️,best perfume
-10805,Knowing that they've been in your bag does not come with an admission of what they stole.,best suitcase lock
-20350,I slowly transitioned from rap to edm over the years. Sometimes I’ll play nightcore in the car without thinking and my friends are like “wtf bro this is the worst music I’ve heard in my entire life” 😂😂,best workout music
-1855,"Taffy’s for that style. My new favorite is Revolver pizza, on San Andreas. The closest to NY style I’ve found.",best pizza place in Santa Barbara
-51165,"They were a very prominent classic rock band. I realize now that I had much better options to pick from, but I had a song of theirs stuck in my head.",best rap album
-68073,"Shunnn.
+Give me award . Thanks"
+55771,best action and adventure novel series,Forgot to mention I’d really like some fun enchanted objects used in magical ways.
+73111,best Linux distro,"I've installed it 3 times this year and had problems every time. Seems there are cases where it doesn't ""just work"" which takes me back to the Linux experience of the '90s."
+30387,best Mexican war to study,"Look, I've been really busy lately with work and stuff. I'll start besieging an island city-state next week. For sure this time."
+59532,best perfume,Yes 💓! I love makeup and fashion ☺️
+10805,best suitcase lock,Knowing that they've been in your bag does not come with an admission of what they stole.
+20350,best workout music,I slowly transitioned from rap to edm over the years. Sometimes I’ll play nightcore in the car without thinking and my friends are like “wtf bro this is the worst music I’ve heard in my entire life” 😂😂
+1855,best pizza place in Santa Barbara,"Taffy’s for that style. My new favorite is Revolver pizza, on San Andreas. The closest to NY style I’ve found."
+51165,best rap album,"They were a very prominent classic rock band. I realize now that I had much better options to pick from, but I had a song of theirs stuck in my head."
+68073,best science fiction novel,"Shunnn.
 
-But seriously that book is hit or miss. Some of my friends it inspired to no end, myself included. One of the best scifi I've ever read. Others, friends I excitedly lent the book to, it just didn't work for. To each their own I suppose.",best science fiction novel
-27696,"Shahrukh Khan. My childhood is intrinsically linked with him. My parents tell me that I used to sleep-dance when Aisi Deewangi used to come on TV. I remember watching DTPH as a kid in the theatre and trying to convince my bemused family that I want a love marriage in the future because ""someone somewhere was made for me"". I rebelled when they refused to change my name to Rahul (they convinced me to keep my present name by reminding me that my real name is actually one that SRK had in another movie). Whenever I'm down, I hark back to his old stuff and all the happiest memories just come rushing back. Oh and if you don't believe that ""pyaar dosti hai.."", please, be married for a couple of years and wait for the romance to die down. At the end, love really boils down to the depth of the personal connection you have with your partner
+But seriously that book is hit or miss. Some of my friends it inspired to no end, myself included. One of the best scifi I've ever read. Others, friends I excitedly lent the book to, it just didn't work for. To each their own I suppose."
+27696,best bollywood actor,"Shahrukh Khan. My childhood is intrinsically linked with him. My parents tell me that I used to sleep-dance when Aisi Deewangi used to come on TV. I remember watching DTPH as a kid in the theatre and trying to convince my bemused family that I want a love marriage in the future because ""someone somewhere was made for me"". I rebelled when they refused to change my name to Rahul (they convinced me to keep my present name by reminding me that my real name is actually one that SRK had in another movie). Whenever I'm down, I hark back to his old stuff and all the happiest memories just come rushing back. Oh and if you don't believe that ""pyaar dosti hai.."", please, be married for a couple of years and wait for the romance to die down. At the end, love really boils down to the depth of the personal connection you have with your partner
 
 
 It's an emotional, irrational choice, but I love that man. His (possibly fabricated) backstory, his persona, his general opinions, his charm and wit during interviews... And of course loads of his movies. Of course, he's done some bizarre films in the past few years story-wise, but
@@ -42,10 +42,10 @@ It's an emotional, irrational choice, but I love that man. His (possibly fabrica
 After all these years? 
 
 
-Always.",best bollywood actor
-33345,"Phevs make no sense to me, because your still have all the potential issues and maintenance of the ICE.",best electric car
-3138,"I actually like my Razer Kiyo a lot, more than the much lauded c920 from Logitech I had given to my partner since she needed one for WFH. It also saves you needing a ring light!",best webcamera
-29102,"[**aCalendar - Android Calendar**](https://play.google.com/store/apps/details?id=org.withouthat.acalendar&referrer=utm_source%3Dreddit-playstorelinks__bot) by Tapir Apps GmbH |  Free with IAP | 10 million installs
+Always."
+33345,best electric car,"Phevs make no sense to me, because your still have all the potential issues and maintenance of the ICE."
+3138,best webcamera,"I actually like my Razer Kiyo a lot, more than the much lauded c920 from Logitech I had given to my partner since she needed one for WFH. It also saves you needing a ring light!"
+29102,best calendar tool,"[**aCalendar - Android Calendar**](https://play.google.com/store/apps/details?id=org.withouthat.acalendar&referrer=utm_source%3Dreddit-playstorelinks__bot) by Tapir Apps GmbH |  Free with IAP | 10 million installs
 
 
 
@@ -59,10 +59,10 @@ For questions or problems see our new help system at https;//acalendar.tapirapps
 
 ------
 
-[^Feedback](https://www.reddit.com/r/cris9696/comments/91a1ls/)",best calendar tool
-10434,TSA does not make minimum wage.. almost twice that.,best suitcase lock
-65024,"I don't want to be contrarian but I also don't get the allure of CST. I have been there plenty of times, yes for tri tip and live music and yes for their ""exotic"" game dishes for dinner. I simply don't get the appeal and popularity of it. It's super mediocre food, decor, and service.",best places to eat in Santa Barbara
-66074,I'm at a loss...as to why there is as system where education from public institutions is not affordable.,best college in california
-31542,"> Belmond Governor's Resident, Myanmar
+[^Feedback](https://www.reddit.com/r/cris9696/comments/91a1ls/)"
+10434,best suitcase lock,TSA does not make minimum wage.. almost twice that.
+65024,best places to eat in Santa Barbara,"I don't want to be contrarian but I also don't get the allure of CST. I have been there plenty of times, yes for tri tip and live music and yes for their ""exotic"" game dishes for dinner. I simply don't get the appeal and popularity of it. It's super mediocre food, decor, and service."
+66074,best college in california,I'm at a loss...as to why there is as system where education from public institutions is not affordable.
+31542,best hotel to live in,"> Belmond Governor's Resident, Myanmar
 
-It had seen better days when we were there, though obviously the range of choices in Myanmar as a whole isn't great.",best hotel to live in
+It had seen better days when we were there, though obviously the range of choices in Myanmar as a whole isn't great."

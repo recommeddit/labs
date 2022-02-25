@@ -1,6 +1,6 @@
-idx,text,query
-55021,I drove the Mt Washington Auto Road when I was up there a few years ago.  Just driving up that mountain was impressive... 80 degrees at the bottom and 40 at the top with awesome views along he way.  I’m sure hiking it would be even better but I had the children with me.,best places to hike in the east coast
-57175,">Oh I see. What I meant by bottled waters was mostly spring and mineral waters as those are ones I’m familiar with.
+idx,query,text
+55021,best places to hike in the east coast,I drove the Mt Washington Auto Road when I was up there a few years ago.  Just driving up that mountain was impressive... 80 degrees at the bottom and 40 at the top with awesome views along he way.  I’m sure hiking it would be even better but I had the children with me.
+57175,best water brand,">Oh I see. What I meant by bottled waters was mostly spring and mineral waters as those are ones I’m familiar with.
 
 Generally the include the actual source in small print on the back of the bottle. Even ones with 'spring' in the name often are just bottled from municipal water sources, so it's basically what you'd get turning on the tap if you lived in that city. Some of them use municipal water sources and then filter them further. Other's own their own wells or aquifers and either use the water as is or filter it further from there. 
 
@@ -16,12 +16,12 @@ Dasani didn't catch on in the UK because when they originally released it, it ha
 
 Regarding pH, 7 is the value where things switch from being basic to acidic. With pH < 7 being acidic and with pH > 7 being basic. Drinking water is generally around 6.5-8.5 from what I've seen. So as long as it's in that general range, pH isn't really a concern. For reference, Diet Coke has a pH of 3.28, slightly less acidic than vinegar which is generally in the 2-3 range. Bleach is at the other end around 11. 
 
-Hard vs Soft generally isn't a health concern. Hard water just contains more minerals which often make the water cloudy or cause appliances like water heaters to wear out more often. Obviously if the mineral making it hard is lead or arsenic that's an issue, but just hard or soft doesn't tell you much.",best water brand
-10926,"I just bought a North Face Recon backpack. It's spacious, comfortable, lightweight, and is pretty nice looking. It gives off a rugged look like you mean serious business with your gear. 
+Hard vs Soft generally isn't a health concern. Hard water just contains more minerals which often make the water cloudy or cause appliances like water heaters to wear out more often. Obviously if the mineral making it hard is lead or arsenic that's an issue, but just hard or soft doesn't tell you much."
+10926,best backpack for college,"I just bought a North Face Recon backpack. It's spacious, comfortable, lightweight, and is pretty nice looking. It gives off a rugged look like you mean serious business with your gear. 
 
-The only thing is that it's $99, but it lasts forever. If you a slightly cheaper backpack with the same quality and more color choices check out the borealis backpack.",best backpack for college
-19264,period questionmark,best YouTube video
-18041,"Kim: Watching the show u can see she’s the most humble even though she comes off different in social media and I like that she tries to learn to do North’s hair and be more aware of race issues//her constant appropriation of black culture and using North as an excuse. That video her and Malika made admist the Jordyn drama turned me off of her, very childish for someone her age
+The only thing is that it's $99, but it lasts forever. If you a slightly cheaper backpack with the same quality and more color choices check out the borealis backpack."
+19264,best YouTube video,period questionmark
+18041,best Kardashian,"Kim: Watching the show u can see she’s the most humble even though she comes off different in social media and I like that she tries to learn to do North’s hair and be more aware of race issues//her constant appropriation of black culture and using North as an excuse. That video her and Malika made admist the Jordyn drama turned me off of her, very childish for someone her age
 
 Kourt: I love her sense of humor and style, she stays in her lane as far as race issues and doesn’t try to appropriate black culture like her sisters//she seems lazy and out of touch with the real world. Loves the lifestyle but doesn’t wanna put in work and acts the most entitled even though she does the least and is the least popular
 
@@ -29,26 +29,26 @@ Khloe: Used to love her, she always seemed the most down to earth.// that commen
 
 Kylie: I like that she’s been lowkey lately, seems like she’d be fun to chill with and a good friend//I don’t like that she copies and steals ideas fashion wise. Also don’t like how she always goes on and on about wanting to be normal when she knows she doesn’t, she tried too hard to seem relatable. That whole Forbes self made issue is a mess. I don’t like that she acts like she started kylie Cosmetics in a garage with a $20K loan or something. Shows she’s out of touch with reality, but it’s expected when you’re born into money. Just own and accept your privilege 
 
-Kendall: pretty, nice style, minds her business. //Sane thing, she doesn’t realize how blessed she is for her modeling career to take off so quickly. Acts like she started from the bottom",best Kardashian
-23870,More like greatest fiction in the history of mankind piece,best anime
-10703,No need for it IMO. Like inverse_squared already wrote if someone wants to get into your luggage he will anyway. Put your valuable stuff in your carry-on luggage and everything should be fine.,best suitcase lock
-19365,"Exurb1a. He answers the best philosophical, scientific, and otherwise important life questions that you could ever ask. His videos are funny, impactful, and brilliant in a way that I truly think I am a better person after watching him. Big reccomend!!!",best YouTube video
-19018,Ex-girlfriend,best YouTube video
-26462,Not strictly true.  [Georgina Beyer - Trans mayor and MP](http://en.wikipedia.org/wiki/Georgina_Beyer),best politician
-51349,I really want a leather case but not sure how I would sanitize/wipe it down.,best iphone case
-48027,"If you're going to paint something, do it the color you want, not want some silly Internet guide tells you to. Do what makes you happy.",best color to paint with
-46776,I bought pura dór hand sanitizer gel 2 pack for 19.99 on amazon. When I received my package it gave me a website to leave a review and I would receive another free bottle of the same product. The free bottle should come on 3-4 weeks. The scent is strong (lemongrass) but it doesn’t bother me.,best hand santizer brand
-17076,"elite squad 8.5? realm of champs 7.5? both of those games were huge disappointments man, the only way these two can get on the top 10 list is if they are the only game in town",best iOS game
-11090,"LL Bean Deluxe Original. Not the most stylish, but it's as classic as you can get.",best backpack for college
-66198,"I haven't forgotten it, but your poll was entirely about how teams competed solely in Europe not domestically too. If this was about having the most trophies in history then Rangers and Celtic would hold the top two spots.",best soccer team in the world
-12415,Awww that’s so cute,best gifts for mom
-19696,"Not my chair, not my problem.",best YouTube video
-9752,Do tell.,best dorm hall at UCSB
-55934,"The first half of Rogue One ranged from bad to average. Once the movie hit Scariff it was amazing.
+Kendall: pretty, nice style, minds her business. //Sane thing, she doesn’t realize how blessed she is for her modeling career to take off so quickly. Acts like she started from the bottom"
+23870,best anime,More like greatest fiction in the history of mankind piece
+10703,best suitcase lock,No need for it IMO. Like inverse_squared already wrote if someone wants to get into your luggage he will anyway. Put your valuable stuff in your carry-on luggage and everything should be fine.
+19365,best YouTube video,"Exurb1a. He answers the best philosophical, scientific, and otherwise important life questions that you could ever ask. His videos are funny, impactful, and brilliant in a way that I truly think I am a better person after watching him. Big reccomend!!!"
+19018,best YouTube video,Ex-girlfriend
+26462,best politician,Not strictly true.  [Georgina Beyer - Trans mayor and MP](http://en.wikipedia.org/wiki/Georgina_Beyer)
+51349,best iphone case,I really want a leather case but not sure how I would sanitize/wipe it down.
+48027,best color to paint with,"If you're going to paint something, do it the color you want, not want some silly Internet guide tells you to. Do what makes you happy."
+46776,best hand santizer brand,I bought pura dór hand sanitizer gel 2 pack for 19.99 on amazon. When I received my package it gave me a website to leave a review and I would receive another free bottle of the same product. The free bottle should come on 3-4 weeks. The scent is strong (lemongrass) but it doesn’t bother me.
+17076,best iOS game,"elite squad 8.5? realm of champs 7.5? both of those games were huge disappointments man, the only way these two can get on the top 10 list is if they are the only game in town"
+11090,best backpack for college,"LL Bean Deluxe Original. Not the most stylish, but it's as classic as you can get."
+66198,best soccer team in the world,"I haven't forgotten it, but your poll was entirely about how teams competed solely in Europe not domestically too. If this was about having the most trophies in history then Rangers and Celtic would hold the top two spots."
+12415,best gifts for mom,Awww that’s so cute
+19696,best YouTube video,"Not my chair, not my problem."
+9752,best dorm hall at UCSB,Do tell.
+55934,best action and adventure movie,"The first half of Rogue One ranged from bad to average. Once the movie hit Scariff it was amazing.
 
-I enjoyed Solo even with a couple of rough patches. I didn't have high hopes going in as I was worried it would screw over Han's development in the Original Trilogy.",best action and adventure movie
-19065,"I practically die every time Nevil shows up. I still remember I had to pause the video at one point I was laughing so hard when ""he even TYPES in broken english""",best YouTube video
-60886,Now there's one I haven't heard of. What sort of humor?,Best comedy show on Netflix
-70101,"Yes. Doing something incredibly valuable, and being genuinely interested in it means you won.",best major to study in college
-60243,"Food prices are rising, and are not set to decline for quite some time.  Think of having a chest freezer as a slight hedge against rising costs.",best freezer brand
-61177,Trailer Park Boys.,Best comedy show on Netflix
+I enjoyed Solo even with a couple of rough patches. I didn't have high hopes going in as I was worried it would screw over Han's development in the Original Trilogy."
+19065,best YouTube video,"I practically die every time Nevil shows up. I still remember I had to pause the video at one point I was laughing so hard when ""he even TYPES in broken english"""
+60886,Best comedy show on Netflix,Now there's one I haven't heard of. What sort of humor?
+70101,best major to study in college,"Yes. Doing something incredibly valuable, and being genuinely interested in it means you won."
+60243,best freezer brand,"Food prices are rising, and are not set to decline for quite some time.  Think of having a chest freezer as a slight hedge against rising costs."
+61177,Best comedy show on Netflix,Trailer Park Boys.

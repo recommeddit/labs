@@ -1,7 +1,7 @@
-idx,text,query
-4850,"In Colorado, there seems to be a big difference in the number of employees on the floor helping customers. In Home Depot, I get people asking me if they can help me find something, which is awesome. At Lowes, I literally (yes, literally) have to sometimes walk through the entire store to find the one damn person that I can ask a question of, but of course there's already 4 other people there waiting to ask them a question.",best home improvement store
-15172,"If your yard has water or drain pipes, select a tree that isn’t known for invasive root systems.",best tree for the garden
-25197,"The best Spider-Man actors
+idx,query,text
+4850,best home improvement store,"In Colorado, there seems to be a big difference in the number of employees on the floor helping customers. In Home Depot, I get people asking me if they can help me find something, which is awesome. At Lowes, I literally (yes, literally) have to sometimes walk through the entire store to find the one damn person that I can ask a question of, but of course there's already 4 other people there waiting to ask them a question."
+15172,best tree for the garden,"If your yard has water or drain pipes, select a tree that isn’t known for invasive root systems."
+25197,best spiderman actor,"The best Spider-Man actors
 
 1. Tom Holland 
 
@@ -11,36 +11,36 @@ idx,text,query
 
 4. Jake Johnson 
 
-5. Andrew Garfield",best spiderman actor
-25217,Ha miles,best spiderman actor
-24829,"Love seeing banana fish get some credit!
+5. Andrew Garfield"
+25217,best spiderman actor,Ha miles
+24829,best anime,"Love seeing banana fish get some credit!
 
 &#x200B;
 
- Its not in my top 10 only because it got wayyyyy to repetitive wish the hostages, and him giving himself up to get caught.",best anime
-19835,My hip hop cardio playlist on Spotify https://open.spotify.com/user/9w1j5f0nepeqlvgzy9m5r17s1/playlist/4IjgmZecuLVEmVXO2VhuHJ?si=G504RJYnRzqmIv53Rk2RNA,best workout music
-70477,"English here!
+ Its not in my top 10 only because it got wayyyyy to repetitive wish the hostages, and him giving himself up to get caught."
+19835,best workout music,My hip hop cardio playlist on Spotify https://open.spotify.com/user/9w1j5f0nepeqlvgzy9m5r17s1/playlist/4IjgmZecuLVEmVXO2VhuHJ?si=G504RJYnRzqmIv53Rk2RNA
+70477,best major to study in college,"English here!
 
 Best: Class discussions are incredible, reading materials are almost always fascinating, essay prompts are generally fresh and interesting and allow for you to write more creatively than in other majors.  Additionally, an understanding of how literature is created is helpful if you enjoy creative writing, and the skills you learn in English translate indirectly into many different fields.
 
-Worst: God the career choices after graduation are awful, and there's really no room for error if you want to work within your field.  You can't go into an English major with a ""C's get degrees"" kind of outlook, because if you want to make it in this field you absolutely need to set yourself apart and give 110%.  You probably won't have much luck with just a bachelor's degree unless you flex your connections.  Even a master's degree might not get you very far outside of teaching, and you'll probably need a PhD to work in academia.",best major to study in college
-36010,"I usually have less than 20g of protein in the shake and add a bannana along with some peanut butter. Thats weird you get diarrhea though, I usually have a no wiper.",best alcoholic drink
-990,"Home made vanilla. 
+Worst: God the career choices after graduation are awful, and there's really no room for error if you want to work within your field.  You can't go into an English major with a ""C's get degrees"" kind of outlook, because if you want to make it in this field you absolutely need to set yourself apart and give 110%.  You probably won't have much luck with just a bachelor's degree unless you flex your connections.  Even a master's degree might not get you very far outside of teaching, and you'll probably need a PhD to work in academia."
+36010,best alcoholic drink,"I usually have less than 20g of protein in the shake and add a bannana along with some peanut butter. Thats weird you get diarrhea though, I usually have a no wiper."
+990,best ice cream flavor,"Home made vanilla. 
 
-I'm a boring person.",best ice cream flavor
-53420,"Anker, Belkin, Native Union, Mophie or Apple to be on the safe side.",best usb c charging cable
-28615,Once you go black...,best breakfast foods
-33459,"""Lordstown"" sounds like the name of a bar you'd get in a fight in.",best electric car
-35790,Is the dash of cold water frozen into a solid cube? Because that’s how i make it,best alcoholic drink
-22976,Diane Keaton. I was with my husband and kids at the beach where she owns a home. She complimented our “beautiful” children and was very friendly. My husband didn’t realize who it was until she was gone and I told him.,best celebrity
-19955,I so disagree with this list,best workout music
-20476,well I don't think you TRUST....in......MY....selfrighteous....idea that this was a song everyone already knew,best workout music
-37054,Lex Luthor? Did I miss something? O.o,best roller coaster at six flags
-30779,"Plus lots of shit, BO, and no sanitation",best country to live in
-58520,"I'm a girl, so I don't really have a use for men's cologne.  Enjoy!",best cologne
-30615,"You're using legal/political justifications, whereas some people, like me, are thinking more in terms of moral justification. Afghanistan was more morally justified than Iraq II, and Iraq II was very poorly handled in terms of securing long term political support. Both Afghanistan and Iraq II had crappy strategies because Bush might have gone skiing one too many times with his coke friends.",best Mexican war to study
-71367,Magnolia - if you call that a twist. Amazing movie regardless.,best movies with a cool twist
-37233,There's rumors that Dorney's getting rid of Possessed (I hope not) and possibly putting in a gravity group coaster. They have room to build without removing Possessed though,best amusement park
-43453,Or boil the water.  Pretty sure that was part of the instruction with my neti pot.  And salt as well.,best items under $100
-42660,I’ve watched Foyle’s War twice it’s so good if you like WWII stuff,best detective show
-46209,"Yea, preaching apples is really annoying.",best trick or treating candy
+I'm a boring person."
+53420,best usb c charging cable,"Anker, Belkin, Native Union, Mophie or Apple to be on the safe side."
+28615,best breakfast foods,Once you go black...
+33459,best electric car,"""Lordstown"" sounds like the name of a bar you'd get in a fight in."
+35790,best alcoholic drink,Is the dash of cold water frozen into a solid cube? Because that’s how i make it
+22976,best celebrity,Diane Keaton. I was with my husband and kids at the beach where she owns a home. She complimented our “beautiful” children and was very friendly. My husband didn’t realize who it was until she was gone and I told him.
+19955,best workout music,I so disagree with this list
+20476,best workout music,well I don't think you TRUST....in......MY....selfrighteous....idea that this was a song everyone already knew
+37054,best roller coaster at six flags,Lex Luthor? Did I miss something? O.o
+30779,best country to live in,"Plus lots of shit, BO, and no sanitation"
+58520,best cologne,"I'm a girl, so I don't really have a use for men's cologne.  Enjoy!"
+30615,best Mexican war to study,"You're using legal/political justifications, whereas some people, like me, are thinking more in terms of moral justification. Afghanistan was more morally justified than Iraq II, and Iraq II was very poorly handled in terms of securing long term political support. Both Afghanistan and Iraq II had crappy strategies because Bush might have gone skiing one too many times with his coke friends."
+71367,best movies with a cool twist,Magnolia - if you call that a twist. Amazing movie regardless.
+37233,best amusement park,There's rumors that Dorney's getting rid of Possessed (I hope not) and possibly putting in a gravity group coaster. They have room to build without removing Possessed though
+43453,best items under $100,Or boil the water.  Pretty sure that was part of the instruction with my neti pot.  And salt as well.
+42660,best detective show,I’ve watched Foyle’s War twice it’s so good if you like WWII stuff
+46209,best trick or treating candy,"Yea, preaching apples is really annoying."

@@ -1,17 +1,17 @@
-idx,text,query
-72077,That Gere can act? I was shocked.,best movies with a cool twist
-4539,Thanks for the VSCodium link!,best text editor
-42653,Midsomer murders,best detective show
-8618,http://i.qkme.me/3rf8x4.jpg,best toothpaste
-19547,...It's fake?,best YouTube video
-56968,"For a long time I was a big fan of Sink. It has an easy-to-use spout and it's always right next to a glass, so I think that's my most commonly used brand. It also pairs really well with Ice. 
+idx,query,text
+72077,best movies with a cool twist,That Gere can act? I was shocked.
+4539,best text editor,Thanks for the VSCodium link!
+42653,best detective show,Midsomer murders
+8618,best toothpaste,http://i.qkme.me/3rf8x4.jpg
+19547,best YouTube video,...It's fake?
+56968,best water brand,"For a long time I was a big fan of Sink. It has an easy-to-use spout and it's always right next to a glass, so I think that's my most commonly used brand. It also pairs really well with Ice. 
 
 In terms of sheer refreshment I have to recommend Hose. I have fond memories of grabbing a quick drink after running outside all day, and while Sink isn't ever too far away, Hose just provides a full force of refreshing, thirst-quenching goodness. 
 
-For my ""don't recommend"" list, I have to mention Toilet. Yes, the serving sizes are giant. Yes, you can easily share it with your friends. All those benefits are rendered useless when you learn how little the refillable containers get cleaned. I'd much rather keep going back to Sink or Hose than sitting at the Toilet for a while.",best water brand
-5008,"They probably did it as part of their ""Team Depot Inititave."" Each store usually does like 2-4 volunteer projects per year.",best home improvement store
-60992,"Good to know. I had written it off, if I'm honest.",Best comedy show on Netflix
-19452,"[Etho](https://www.youtube.com/channel/UCFKDEp9si4RmHFWJW1vYsMA) if you're into chill Minecraft videos
+For my ""don't recommend"" list, I have to mention Toilet. Yes, the serving sizes are giant. Yes, you can easily share it with your friends. All those benefits are rendered useless when you learn how little the refillable containers get cleaned. I'd much rather keep going back to Sink or Hose than sitting at the Toilet for a while."
+5008,best home improvement store,"They probably did it as part of their ""Team Depot Inititave."" Each store usually does like 2-4 volunteer projects per year."
+60992,Best comedy show on Netflix,"Good to know. I had written it off, if I'm honest."
+19452,best YouTube video,"[Etho](https://www.youtube.com/channel/UCFKDEp9si4RmHFWJW1vYsMA) if you're into chill Minecraft videos
 
 [Forgotten Weapons](https://www.youtube.com/channel/UCrfKGpvbEQXcbe68dzXgJuA) if you like to know the history and mechanics of guns
 
@@ -19,35 +19,35 @@ For my ""don't recommend"" list, I have to mention Toilet. Yes, the serving size
 
 [Jaiden Animations](https://www.youtube.com/channel/UCGwu0nbY2wSkW8N-cghnLpA) if you like to watch animated stories that are pretty funny
 
-[Soviet Womble](https://www.youtube.com/channel/UCQD3awTLw9i8Xzh85FKsuJA) if you want funny videos with a bunch of idiots playing games",best YouTube video
-47446,"Brother, y'all'll be fine. Texan here that grew up from Brownsville, TX to Pensacola.
+[Soviet Womble](https://www.youtube.com/channel/UCQD3awTLw9i8Xzh85FKsuJA) if you want funny videos with a bunch of idiots playing games"
+47446,best state to visit in the United States,"Brother, y'all'll be fine. Texan here that grew up from Brownsville, TX to Pensacola.
 
-You have shitty people everywhere. Plenty of yuppies and pricks, but we have our charm and friendliness, and that goes a very long way in my experience. Best of luck to you and your wife.",best state to visit in the United States
-13150,"she's 50 plus. I'm 20, got my first job that's why I wanted to give her something :D",best gifts for mom
-72349,Ooooohhhhh I forgot about ergo clears. I have a few of them sitting around and one of them is a 100g ergo clear and I absolutely love the feel of them.,best keyboard switches
-61839,Agreed.,Best RPG game on PS4
-7153,ahhh thank you!!,best iPhone
-38330,Well i can definitely relate to that. Wish I had more answers for you. I constantly struggle with what you're describing re: digital content overload and I still haven't really figured out a solution.,best newspapers to read
-37859,No. The third act was a poorly lit CGI mess like so many Marvel movies have. The family plot was strong enough by itself; there really was no need to put the soul eater stuff in there.,best Marvel movie
-67423,"I didnt....  First I created a simple class (40 lines maybe?) to turn xhr into a promise.  Dirt simple.  ($ajax.get('page').then(...) etc)  Then I started using fetch, because it was just there and I didn't need to include anything.  Then, one day, I wanted an upload progress bar.  My options were either to spend like another day figuring out how to add that to my class, or just include axios.  So, axios it is. At least on uploaders.",axios alternatives reddit
-30552,"The issue of Americans in questionable territory was definitely an impetus for Mexicans attacking the soldiers lead by Zachary Taylor.  Polk, being quite the Machiavelli, positioned Taylor beyond the [Nueces River](http://en.wikipedia.org/wiki/Mexican%E2%80%93American_War#Conflict_over_the_Nueces_Strip) intending to start an international conflict.  Polk also attempted to start an armed rebellion in California, enter John Fremont.  Also, Polk considered the Mexican refusal to treat with [John Slidell](http://en.wikipedia.org/wiki/John_Slidell#Merchant.2C_lawyer.2C_politician) (second paragraph) as provocation for military engagement.  
+You have shitty people everywhere. Plenty of yuppies and pricks, but we have our charm and friendliness, and that goes a very long way in my experience. Best of luck to you and your wife."
+13150,best gifts for mom,"she's 50 plus. I'm 20, got my first job that's why I wanted to give her something :D"
+72349,best keyboard switches,Ooooohhhhh I forgot about ergo clears. I have a few of them sitting around and one of them is a 100g ergo clear and I absolutely love the feel of them.
+61839,Best RPG game on PS4,Agreed.
+7153,best iPhone,ahhh thank you!!
+38330,best newspapers to read,Well i can definitely relate to that. Wish I had more answers for you. I constantly struggle with what you're describing re: digital content overload and I still haven't really figured out a solution.
+37859,best Marvel movie,No. The third act was a poorly lit CGI mess like so many Marvel movies have. The family plot was strong enough by itself; there really was no need to put the soul eater stuff in there.
+67423,axios alternatives reddit,"I didnt....  First I created a simple class (40 lines maybe?) to turn xhr into a promise.  Dirt simple.  ($ajax.get('page').then(...) etc)  Then I started using fetch, because it was just there and I didn't need to include anything.  Then, one day, I wanted an upload progress bar.  My options were either to spend like another day figuring out how to add that to my class, or just include axios.  So, axios it is. At least on uploaders."
+30552,best Mexican war to study,"The issue of Americans in questionable territory was definitely an impetus for Mexicans attacking the soldiers lead by Zachary Taylor.  Polk, being quite the Machiavelli, positioned Taylor beyond the [Nueces River](http://en.wikipedia.org/wiki/Mexican%E2%80%93American_War#Conflict_over_the_Nueces_Strip) intending to start an international conflict.  Polk also attempted to start an armed rebellion in California, enter John Fremont.  Also, Polk considered the Mexican refusal to treat with [John Slidell](http://en.wikipedia.org/wiki/John_Slidell#Merchant.2C_lawyer.2C_politician) (second paragraph) as provocation for military engagement.  
 
 Abraham Lincoln was gained early fame in congress as ""Spotty Lincoln"" for introducing the [Spot Resolutions](http://en.wikipedia.org/wiki/Spot_Resolutions), which protested President Polk to prove that the spot American troops were attacked on was indeed on American soil, which would garner war.  
 
-The Mexican-American war was possibly the most engineered war in American history, possibly aside from the Iraq War in 2003.",best Mexican war to study
-49032,"I am eyeing the same monitor but coming from a pretty basic 22"" 1080p 60Hz TN monitor my main concerns are:
+The Mexican-American war was possibly the most engineered war in American history, possibly aside from the Iraq War in 2003."
+49032,best gaming monitor,"I am eyeing the same monitor but coming from a pretty basic 22"" 1080p 60Hz TN monitor my main concerns are:
 
 - My 1660ti
 - The blacks
 
 ..and its price.
 
-What's your experience with respect to the above?",best gaming monitor
-25069,Doesn't that largely apply to the Raimi films too?,best spiderman actor
-8109,You have changed my whole view of the world,best toothpaste
-49372,Yeah lol they're weird but the names have a meaning. The 27 means 27 inch and the 21 means model year 2021. But I totally get you lol,best gaming monitor
-47852,"I just finished my freshmen year at Tech. Neither maths I took allowed calculator (integral calculus and linear algebra), and physics 1 (classical) exams only allowed ones that COULD NOT STORE TEXT (to prevent cheating). So rather than buy a new one, I used my good old TI-32 from middle school. I believe there are better options.
+What's your experience with respect to the above?"
+25069,best spiderman actor,Doesn't that largely apply to the Raimi films too?
+8109,best toothpaste,You have changed my whole view of the world
+49372,best gaming monitor,Yeah lol they're weird but the names have a meaning. The 27 means 27 inch and the 21 means model year 2021. But I totally get you lol
+47852,best graphing calculator for vector calculus,"I just finished my freshmen year at Tech. Neither maths I took allowed calculator (integral calculus and linear algebra), and physics 1 (classical) exams only allowed ones that COULD NOT STORE TEXT (to prevent cheating). So rather than buy a new one, I used my good old TI-32 from middle school. I believe there are better options.
 
-I also used my TI-84 CE on homework and other calculations that I needed to do. (I worked faster with the 84, so I used that on physics homework.... and also on linear occasionally if I was desperate to finish quick)",best graphing calculator for vector calculus
-5392,Anyone have one for sheets?,best home improvement store
-6632,"If money is the main concern, the SE/2 is cheaper than the 11 and should be supported for just as long as the 11.",best iPhone
+I also used my TI-84 CE on homework and other calculations that I needed to do. (I worked faster with the 84, so I used that on physics homework.... and also on linear occasionally if I was desperate to finish quick)"
+5392,best home improvement store,Anyone have one for sheets?
+6632,best iPhone,"If money is the main concern, the SE/2 is cheaper than the 11 and should be supported for just as long as the 11."

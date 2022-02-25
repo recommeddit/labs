@@ -1,12 +1,12 @@
-idx,text,query
-43319,"Let me guess, you were also limited on June 18th?",best ad service for mobile applications
-4895,"Got it, yes Lowe’s had some nice flooring when I visited the other week. Still think I will go with an online retailer since I loved the samples they sent me, but Lowe’s had a really good selection.",best home improvement store
-8308,It just sounded super hardcore to me haha,best toothpaste
-53868,"Kan Jang tablets, Chinese medicine that has been backed up by [science](http://www.ncbi.nlm.nih.gov/pubmed/14750201).",best medicine for a cold
-36556,Prosecco :),best alcoholic drink
-17527,"The only games I have played for over 5 years are Puzzle and Dragons and Wayward Souls.
-Those seriously passed the test of time for me.",best iOS game
-57866,"Main Entry: 1re·pel·lent
+idx,query,text
+43319,best ad service for mobile applications,"Let me guess, you were also limited on June 18th?"
+4895,best home improvement store,"Got it, yes Lowe’s had some nice flooring when I visited the other week. Still think I will go with an online retailer since I loved the samples they sent me, but Lowe’s had a really good selection."
+8308,best toothpaste,It just sounded super hardcore to me haha
+53868,best medicine for a cold,"Kan Jang tablets, Chinese medicine that has been backed up by [science](http://www.ncbi.nlm.nih.gov/pubmed/14750201)."
+36556,best alcoholic drink,Prosecco :)
+17527,best iOS game,"The only games I have played for over 5 years are Puzzle and Dragons and Wayward Souls.
+Those seriously passed the test of time for me."
+57866,best cologne,"Main Entry: 1re·pel·lent
 Variant(s): also re·pel·lant \ri-ˈpe-lənt\
 Function: adjective
 Etymology: Latin repellent-, repellens, present participle of repellere
@@ -15,15 +15,15 @@ Date: 1643
 1 : serving or tending to drive away or ward off —often used in combination <a mosquito-repellent spray>
 2 : arousing aversion or disgust 
 
-i think you need a new word",best cologne
-44004,Or spend it on underwear for homeless people.,best items under $100
-7402,So there is no such thing as a good green laptop? :( I don’t really wanna use a case…,best laptop for general use
-1504,THANK YOU. I'm sick of people saying oriental and thinking they're being cultural. Phonies,best ice cream flavor
-596,deleted  ^^^^^^^^^^^^^^^^0.3817  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/15966),best vpn for torrenting reddit
-12891,"Definitely not, especially if you stay at home with her ALL the time! I work and I still need time away sometimes.",best gifts for mom
-44668,Menstrual cup,best items under $100
-24849,"Uncle Ben getting murdered isn't part of the backstory in Homecoming, so that version of Spider-man wouldn't have that emotional baggage to carry around.",best spiderman actor
-3836,"There are tons of State Universities that offer almost all online courses or 100% online to complete a degree. The one thing you need to be careful of is that although it will not say on your degree you were an online student it will sometimes list a campus or college that has no physical presence. That is how an employer will be able to tell you did online.
+i think you need a new word"
+44004,best items under $100,Or spend it on underwear for homeless people.
+7402,best laptop for general use,So there is no such thing as a good green laptop? :( I don’t really wanna use a case…
+1504,best ice cream flavor,THANK YOU. I'm sick of people saying oriental and thinking they're being cultural. Phonies
+596,best vpn for torrenting reddit,deleted  ^^^^^^^^^^^^^^^^0.3817  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/15966)
+12891,best gifts for mom,"Definitely not, especially if you stay at home with her ALL the time! I work and I still need time away sometimes."
+44668,best items under $100,Menstrual cup
+24849,best spiderman actor,"Uncle Ben getting murdered isn't part of the backstory in Homecoming, so that version of Spider-man wouldn't have that emotional baggage to carry around."
+3836,best online college,"There are tons of State Universities that offer almost all online courses or 100% online to complete a degree. The one thing you need to be careful of is that although it will not say on your degree you were an online student it will sometimes list a campus or college that has no physical presence. That is how an employer will be able to tell you did online.
 
 That being said there are colleges where they will simply list the college campus or college on the degree that has a physical presence. With those no one can tell you are online only. I just say this if this is something you care about because online does have a stigma about it.
 
@@ -35,20 +35,20 @@ Penn State Online
 Arizona State 
 Thomas Edison University
 
-Those are just off the top of my head. One thing to remember is that some universities do not advertise being online only but you can usually get 90% of your degree online. For example I know a university that requires you to take 12 credits in person and you can take the rest online.",best online college
-51569,"Incipio Dual Pro for me, I've trusted it on every iPhone I've owned!",best iphone case
-34962,https://media0.giphy.com/media/3oFzms9ePB1MOMo2ek/giphy.gif?cid=790b7611d317087ac1dcb52b3eac10f53b96f901a063fdfb&rid=giphy.gif&ct=g,best NFL player
-61126,Sherlock BBC,Best comedy show on Netflix
-8693,"That seemed to be the consensus in everything I've read today, yes, but I'm not a medical professional.",best toothpaste
-71237,"I've been planning to watch that for two weeks now, but nothing motivated me to watch it. Until you commented :)",best movies with a cool twist
-37087,In that area? Easily King's Dominion or Busch Gardens Williamsburg. Busch Gardens is a great park but King's Dominion has better coasters.,best amusement park
-60230,"You can buy ""newer"" ones that are energy star rated. We found ours at a Salvation Army thrift store. I think it was was maybe 2 years old.",best freezer brand
-51877,"The bunk is actually so big and square on my Tech 21 Evo Check, that it props the promp up a smidge when layed down, like the smallest little incline. It's not bad, and doesn't wobble because it covers over 60% or so of the back horizontal space.",best iphone case
-20722,Before I forget- Slipknot,best workout music
-65844,"By all your criteria, the University of Cambridge is the best public university in the world. It is consistently ranked amongst the top universities in the world by multiple independent ranking systems, and always higher than any UC campus. 
+Those are just off the top of my head. One thing to remember is that some universities do not advertise being online only but you can usually get 90% of your degree online. For example I know a university that requires you to take 12 credits in person and you can take the rest online."
+51569,best iphone case,"Incipio Dual Pro for me, I've trusted it on every iPhone I've owned!"
+34962,best NFL player,https://media0.giphy.com/media/3oFzms9ePB1MOMo2ek/giphy.gif?cid=790b7611d317087ac1dcb52b3eac10f53b96f901a063fdfb&rid=giphy.gif&ct=g
+61126,Best comedy show on Netflix,Sherlock BBC
+8693,best toothpaste,"That seemed to be the consensus in everything I've read today, yes, but I'm not a medical professional."
+71237,best movies with a cool twist,"I've been planning to watch that for two weeks now, but nothing motivated me to watch it. Until you commented :)"
+37087,best amusement park,In that area? Easily King's Dominion or Busch Gardens Williamsburg. Busch Gardens is a great park but King's Dominion has better coasters.
+60230,best freezer brand,"You can buy ""newer"" ones that are energy star rated. We found ours at a Salvation Army thrift store. I think it was was maybe 2 years old."
+51877,best iphone case,"The bunk is actually so big and square on my Tech 21 Evo Check, that it props the promp up a smidge when layed down, like the smallest little incline. It's not bad, and doesn't wobble because it covers over 60% or so of the back horizontal space."
+20722,best workout music,Before I forget- Slipknot
+65844,best college in california,"By all your criteria, the University of Cambridge is the best public university in the world. It is consistently ranked amongst the top universities in the world by multiple independent ranking systems, and always higher than any UC campus. 
 
 It also has over 90 Nobel prizes associated with it, which is impressive as the UC system has around four times the academic staff as Cambridge.
 
 The university of Cambridge are involved in almost all sports imaginable, often with dozens of teams for popular sports. The top echelons can hire out international sports stadiums to play and is broadcast on TV, something no other UK university other than Oxford does. In this respect it matches the US universities.
 
-Cambridge runs a collegiate system, and is a public school, so it is possible to get the best.",best college in california
+Cambridge runs a collegiate system, and is a public school, so it is possible to get the best."

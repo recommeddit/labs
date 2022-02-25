@@ -1,8 +1,8 @@
-idx,text,query
-1272,Agreed! Half baked is second best.,best ice cream flavor
-1829,Unique Pizza - Noemi’s - very good,best pizza place in Santa Barbara
-8626,I would be grumpy too if I lived in Sweden. All the free healthcare in the world won't save you from that dreaded winter depression.,best toothpaste
-27016,"#Further Data Analysis
+idx,query,text
+1272,best ice cream flavor,Agreed! Half baked is second best.
+1829,best pizza place in Santa Barbara,Unique Pizza - Noemi’s - very good
+8626,best toothpaste,I would be grumpy too if I lived in Sweden. All the free healthcare in the world won't save you from that dreaded winter depression.
+27016,best board games,"#Further Data Analysis
 
 ##Games by Year
 
@@ -65,45 +65,45 @@ Seeing this data I wonder how much is design and component quality improvement, 
 
 I've already seen an effect online where a person gets into the hobby and all the new game styles they encounter over the next few years are great; but then novelty wears off and they start recognizing common mechanisms and find games 3-5 years after they got into the hobby to be ""hyped"" (while new gamers find them stunningly innovative). So many reviewers also rode the rise of social media and YouTube, and that boom time was post-2009; is it fairly possible that their immersion into the hobby during the rise of this new media influenced their preferences?  What would the boardgame landscape have looked like (and ratings) if most encontered games in the mid-90s or mid-00s and then became big reviewers?
 
-Anyway, I'd also urge caution on drawing any conclusions from such a simple analysis of data. It is just interesting tidbits to consider when looking at a wider array of elements.  Now it will be interesting to see what impact COVID-19 will have on the hobby in the next coming decade, as I think that might start another shift in the hobby (more towards having digital options to play or methods to play physical games remotely - you know, like how people used to play chess by mailing each other their moves as they play over months).",best board games
-42249,It's a pretty classic story in the Greek tradition.  Vengeance and hubris lead to destruction.,movies like Inception
-68776,It's just that I don't agree with it at all...,best science fiction novel
-10638,"It's not about breaking in.
+Anyway, I'd also urge caution on drawing any conclusions from such a simple analysis of data. It is just interesting tidbits to consider when looking at a wider array of elements.  Now it will be interesting to see what impact COVID-19 will have on the hobby in the next coming decade, as I think that might start another shift in the hobby (more towards having digital options to play or methods to play physical games remotely - you know, like how people used to play chess by mailing each other their moves as they play over months)."
+42249,movies like Inception,It's a pretty classic story in the Greek tradition.  Vengeance and hubris lead to destruction.
+68776,best science fiction novel,It's just that I don't agree with it at all...
+10638,best suitcase lock,"It's not about breaking in.
 
- Ever had a broken zipper or your jeans?",best suitcase lock
-19039,"Smarter Every Day should be part of your science channel list
+ Ever had a broken zipper or your jeans?"
+19039,best YouTube video,"Smarter Every Day should be part of your science channel list
 
-Other than that some really great recommendations!!!",best YouTube video
-67350,"Axios does not handle https proxying to http easily, while others lib does that fine. Let’s ditch axios.",axios alternatives reddit
-28272,"My go to is egg-in-the-hole (egg in a basket, blah blah, whatever you call it) because it's stupid fast and delicious. Other than that, if I have more time, it's a frittata in the cast iron. Impressive results, totally a no-brainer to make.",best breakfast foods
-30934,"Somalia is actually pretty awesome, nothing shit about it.",best country to live in
-64382,"I once downloaded from the site you mentioned, but in my experience, it was filled with ads, and it was hell downloading from them. I recommend the sites:
+Other than that some really great recommendations!!!"
+67350,axios alternatives reddit,"Axios does not handle https proxying to http easily, while others lib does that fine. Let’s ditch axios."
+28272,best breakfast foods,"My go to is egg-in-the-hole (egg in a basket, blah blah, whatever you call it) because it's stupid fast and delicious. Other than that, if I have more time, it's a frittata in the cast iron. Impressive results, totally a no-brainer to make."
+30934,best country to live in,"Somalia is actually pretty awesome, nothing shit about it."
+64382,best place to pirate mac apps reddit,"I once downloaded from the site you mentioned, but in my experience, it was filled with ads, and it was hell downloading from them. I recommend the sites:
 
 https://macdrop.net
 
 https://www.macbed.com
 
-They also post TNT team cracks, and out of the two, I recommend macdrop.",best place to pirate mac apps reddit
-43517,So what pillow do you have ?,best items under $100
-43693,I use my ENO single nest for camping. Instead of a tent I set up my hammock & a bug net/tarp & it’s amazing,best items under $100
-7994,Hey sorry to bother you again but I ordered the hp envy 13 that you posted in your big list in the 2nd highest price point. Is that the same hp envy that you linked to hps site to the guy above ? I want to make sure I ordered the better one if they’re not the same.,best laptop for general use
-2154,"Aren't pizza's everywhere expensive? They use to be the cheapest thing to eat in college, lived on them back in the day. Now you would have to take out a student loan before ordering.
+They also post TNT team cracks, and out of the two, I recommend macdrop."
+43517,best items under $100,So what pillow do you have ?
+43693,best items under $100,I use my ENO single nest for camping. Instead of a tent I set up my hammock & a bug net/tarp & it’s amazing
+7994,best laptop for general use,Hey sorry to bother you again but I ordered the hp envy 13 that you posted in your big list in the 2nd highest price point. Is that the same hp envy that you linked to hps site to the guy above ? I want to make sure I ordered the better one if they’re not the same.
+2154,best pizza place in Santa Barbara,"Aren't pizza's everywhere expensive? They use to be the cheapest thing to eat in college, lived on them back in the day. Now you would have to take out a student loan before ordering.
 
-I make my own, for pennies, best in town.",best pizza place in Santa Barbara
-63034,"If you're coming from a HTML & CSS, Sass background, starting with Gatsby, Styled Components & Polished could be a way to go. 
+I make my own, for pennies, best in town."
+63034,Best online React course,"If you're coming from a HTML & CSS, Sass background, starting with Gatsby, Styled Components & Polished could be a way to go. 
 
 As web designer you can immediately *see* why it can be useful and use your existing skills to create stuff, just with React added for convenience. The're many Gatsby starters and their source code that you can study.
-You may not want to start with webapps and the ""boring"" stuff most React courses teach, but just create more interactive websites or landing pages and enhance your existing skills first.",Best online React course
-39561,This Week in Microbiology: http://www.microbeworld.org/podcasts/this-week-in-microbiology,best podcast for biologists
-40361,"Only on 10 series and newer cards, hope that means it works for you!",best midrange GPU
-35530,"Disaronno was the first liquor I could drink strait, its like Dr. Peppers laid back sister.
+You may not want to start with webapps and the ""boring"" stuff most React courses teach, but just create more interactive websites or landing pages and enhance your existing skills first."
+39561,best podcast for biologists,This Week in Microbiology: http://www.microbeworld.org/podcasts/this-week-in-microbiology
+40361,best midrange GPU,"Only on 10 series and newer cards, hope that means it works for you!"
+35530,best alcoholic drink,"Disaronno was the first liquor I could drink strait, its like Dr. Peppers laid back sister.
 
 
-EDIT: Or pehaps Dr. Pepper's distractingly attractive assistant.",best alcoholic drink
-946,"My roommate last year had this fucking rad desk lamp. I wish I had one too. It's basically a lamp that keeps the light where it should be, it doesn't light up the room at all, just the desk. 
+EDIT: Or pehaps Dr. Pepper's distractingly attractive assistant."
+946,best desk lamp,"My roommate last year had this fucking rad desk lamp. I wish I had one too. It's basically a lamp that keeps the light where it should be, it doesn't light up the room at all, just the desk. 
 
-EDIT: My roommate had what OP posted.",best desk lamp
-60465,Community is good,Best comedy show on Netflix
-12676,"Seriously. My 4-year-old would be devastated if I told her she's not my BFF; she says I'm hers everyday. Then again, pretty much everyone is her BFF, so there's that.",best gifts for mom
-61197,I totally agree. I'm in the middle of a rewatch with my son and we are now halfway through season 9. Just not the same without Jack.,Best comedy show on Netflix
-70439,Never heard of that.  Care to teach me what its about?,best major to study in college
+EDIT: My roommate had what OP posted."
+60465,Best comedy show on Netflix,Community is good
+12676,best gifts for mom,"Seriously. My 4-year-old would be devastated if I told her she's not my BFF; she says I'm hers everyday. Then again, pretty much everyone is her BFF, so there's that."
+61197,Best comedy show on Netflix,I totally agree. I'm in the middle of a rewatch with my son and we are now halfway through season 9. Just not the same without Jack.
+70439,best major to study in college,Never heard of that.  Care to teach me what its about?

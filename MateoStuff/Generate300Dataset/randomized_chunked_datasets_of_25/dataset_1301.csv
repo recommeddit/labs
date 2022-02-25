@@ -1,44 +1,44 @@
-idx,text,query
-8302,"Dentists definitely recommend electric toothbrushes! I was recommended one years ago when I had a case of acute gum infection and the hygienist I seen recently also asked if I use one. 
+idx,query,text
+8302,best toothpaste,"Dentists definitely recommend electric toothbrushes! I was recommended one years ago when I had a case of acute gum infection and the hygienist I seen recently also asked if I use one. 
 
-I'm prone to having problems with my gums because my teeth are tightly packed, meaning food gets stuck and it's incredibly hard for me to floss. It's cleaning **between** your teeth and under your gumline that so many people miss!",best toothpaste
-54651,"I second this. Never looked back once I tried Artisan, liked the zero and I absolutely love the Hien it’s my main, I do wanna try the Otsu but as u said “always out of stock” so yea give lethal gaming gear a shot. Check out boardzy on YouTube he did a review on it",best artisan mousepad alternatives
-49192,"[This one](https://www.morecyberdeals.com/asus/) from asus is awesome. It's right in the budget too (actually, I found it to be cheaper than a lot of the other monitors I was looking at). No 4K tho AFAIK",best gaming monitor
-72390,"Seriously though the best switches are probably Outemu v2, Aliaz, and Zeal (in that order), not necessarily because of the tactility, but because the tolerances of the housings are very tight, and because the housings are also PCB mount, so all-around least likely to wobble. You can put whatever stems you like in them. I didn't list Invyr Panda just because they aren't in production anymore.",best keyboard switches
-31482,"J.W.Marriot in Cairo, Egypt. expensive but you never get bored. you can order room service while taking a shit",best hotel to live in
-12544,"""So hurry up and be successful, because I'm getting tired.  Love you.""",best gifts for mom
-28338,"Week days:  protein shake on rising.  Cottage cheese or yogurt later
+I'm prone to having problems with my gums because my teeth are tightly packed, meaning food gets stuck and it's incredibly hard for me to floss. It's cleaning **between** your teeth and under your gumline that so many people miss!"
+54651,best artisan mousepad alternatives,"I second this. Never looked back once I tried Artisan, liked the zero and I absolutely love the Hien it’s my main, I do wanna try the Otsu but as u said “always out of stock” so yea give lethal gaming gear a shot. Check out boardzy on YouTube he did a review on it"
+49192,best gaming monitor,"[This one](https://www.morecyberdeals.com/asus/) from asus is awesome. It's right in the budget too (actually, I found it to be cheaper than a lot of the other monitors I was looking at). No 4K tho AFAIK"
+72390,best keyboard switches,"Seriously though the best switches are probably Outemu v2, Aliaz, and Zeal (in that order), not necessarily because of the tactility, but because the tolerances of the housings are very tight, and because the housings are also PCB mount, so all-around least likely to wobble. You can put whatever stems you like in them. I didn't list Invyr Panda just because they aren't in production anymore."
+31482,best hotel to live in,"J.W.Marriot in Cairo, Egypt. expensive but you never get bored. you can order room service while taking a shit"
+12544,best gifts for mom,"""So hurry up and be successful, because I'm getting tired.  Love you."""
+28338,best breakfast foods,"Week days:  protein shake on rising.  Cottage cheese or yogurt later
 
 Weekends:  eggs (scrambled or fried) and breakfast meat.  Usually home made breakfast sausage
 
-Always:  coffee",best breakfast foods
-32698,"I think they have their time and place. If you're looking for somewhere you can lie on a beach all day, drink a lot, and not worry about doing any planning yourself, then yeah they can be great. If you're looking for any substance or cultural experience out of your vacation, then you'll be disappointed.",best vacation resort
-57045,Ahh up in Mass a lot of the generics are bottled out of ME springs,best water brand
-73362,"Seconding this, had two anker powebanks through the years, both were amazing!",best battery bank
-23140,"Got a job via Reddit once, but... that was more serendipity.",best social networking site for CS
-51463,You should definitely take a look at Otterbox case. Extreme protection and nice design.,best iphone case
-5926,"Javascript is certainly a requirement, however to a great extent what you do backend work in is up to your employer and sometimes if self employed the customer.    So you really should be flexible with language skills.   I'd seriously consider Python and Java as good starting places.    Python really is a tool that you can use no matter where you career goes even if used for nothing but simple scripts.   
+Always:  coffee"
+32698,best vacation resort,"I think they have their time and place. If you're looking for somewhere you can lie on a beach all day, drink a lot, and not worry about doing any planning yourself, then yeah they can be great. If you're looking for any substance or cultural experience out of your vacation, then you'll be disappointed."
+57045,best water brand,Ahh up in Mass a lot of the generics are bottled out of ME springs
+73362,best battery bank,"Seconding this, had two anker powebanks through the years, both were amazing!"
+23140,best social networking site for CS,"Got a job via Reddit once, but... that was more serendipity."
+51463,best iphone case,You should definitely take a look at Otterbox case. Extreme protection and nice design.
+5926,best programming language for web development,"Javascript is certainly a requirement, however to a great extent what you do backend work in is up to your employer and sometimes if self employed the customer.    So you really should be flexible with language skills.   I'd seriously consider Python and Java as good starting places.    Python really is a tool that you can use no matter where you career goes even if used for nothing but simple scripts.   
 
-Now to expose yourself to more modern concepts look at Swift and Rust.    Neither can be considered web development platforms right now (at least not with a huge mind set behind them in the area) but there are some interesting concept to learn there.",best programming language for web development
-71466,"The Mask, Dumb and Dumber and Ace Ventura we all released the same year (1994). What a year!",best movies with a cool twist
-45110,"If your guitar is under $100 and it is actually good please tell me your magic secret
+Now to expose yourself to more modern concepts look at Swift and Rust.    Neither can be considered web development platforms right now (at least not with a huge mind set behind them in the area) but there are some interesting concept to learn there."
+71466,best movies with a cool twist,"The Mask, Dumb and Dumber and Ace Ventura we all released the same year (1994). What a year!"
+45110,best items under $100,"If your guitar is under $100 and it is actually good please tell me your magic secret
 
-EDIT: alright I get it there are many magic secrets to cheap guitars lmao",best items under $100
-59103,"Honest to god, Kim Kardashian Gold (fall scent), and Chanel Eau Fraiche (spring scent)",best perfume
-40811,"All I can say is that if a guy told me he plays a [theremin](http://en.wikipedia.org/wiki/Theremin) as a hobby, I would *definitely* want to get to know him better.",best instrument to play
-20885,I literally have almost all of these songs in my playlist too so no shame man,best workout music
-33732,"My Model 3 has been the best winter car I've ever driven, there's never a concern about ""will it crank"" there's no warmup time needed, it's an incredible cold weather (-20F) car. 
+EDIT: alright I get it there are many magic secrets to cheap guitars lmao"
+59103,best perfume,"Honest to god, Kim Kardashian Gold (fall scent), and Chanel Eau Fraiche (spring scent)"
+40811,best instrument to play,"All I can say is that if a guy told me he plays a [theremin](http://en.wikipedia.org/wiki/Theremin) as a hobby, I would *definitely* want to get to know him better."
+20885,best workout music,I literally have almost all of these songs in my playlist too so no shame man
+33732,best electric car,"My Model 3 has been the best winter car I've ever driven, there's never a concern about ""will it crank"" there's no warmup time needed, it's an incredible cold weather (-20F) car. 
 
 Hydrogen is DOA. There's too much energy loss taking electricity, making hydrogen, storing it, then turning it back into electricity before using it to move the car, when you could just take electricity and move the car.
 
-The biggest disadvantage of hydrogen by far though is that you don't have a hydrogen fueling station in every building, but every building (in the developed world, anyway) has electricity. Therefore any parking spot is already a charging spot, with enough planning. Often with no more work than an extension cord.",best electric car
-53992,"Haha yeah I can't actually have baths anymore anyway, I was going to improvise with an electric blanket for that part. 
+The biggest disadvantage of hydrogen by far though is that you don't have a hydrogen fueling station in every building, but every building (in the developed world, anyway) has electricity. Therefore any parking spot is already a charging spot, with enough planning. Often with no more work than an extension cord."
+53992,best medicine for a cold,"Haha yeah I can't actually have baths anymore anyway, I was going to improvise with an electric blanket for that part. 
 
-But colds are no fuuuuun *whine*",best medicine for a cold
-11127,"Going to go ahead and 3rd this recommendation. I bought mine 6 years ago and it still looks nearly like it did the day I got it, and I take it everywhere... It's an over the shoulder bike messenger bag, but they have plenty of [backpack](http://www.chromebagsstore.com/bags/packs.html) models like barry_baltimore linked to.
+But colds are no fuuuuun *whine*"
+11127,best backpack for college,"Going to go ahead and 3rd this recommendation. I bought mine 6 years ago and it still looks nearly like it did the day I got it, and I take it everywhere... It's an over the shoulder bike messenger bag, but they have plenty of [backpack](http://www.chromebagsstore.com/bags/packs.html) models like barry_baltimore linked to.
 
-I have never owned a better built, better looking, or more functionally complete bag for school in the 9 years I spent in Universities",best backpack for college
-37528,You could make that argument and lose.,best amusement park
-15963,"OP's question focused on durability. Ray Bans definitely feel like much nicer sunglasses, but you can snap them in half with your bare hands just as easily as the cheapos.",best sunglasses for fashion
-19730,[This one cracks me up everytime!](https://www.youtube.com/watch?v=beDN-q3UcbY) If I had a really bad day I just watch this..,best YouTube video
-48299,"Nooo, you devil!",best color to paint with
+I have never owned a better built, better looking, or more functionally complete bag for school in the 9 years I spent in Universities"
+37528,best amusement park,You could make that argument and lose.
+15963,best sunglasses for fashion,"OP's question focused on durability. Ray Bans definitely feel like much nicer sunglasses, but you can snap them in half with your bare hands just as easily as the cheapos."
+19730,best YouTube video,[This one cracks me up everytime!](https://www.youtube.com/watch?v=beDN-q3UcbY) If I had a really bad day I just watch this..
+48299,best color to paint with,"Nooo, you devil!"

@@ -1,8 +1,8 @@
-idx,text,query
-55686,Don't forget zombies in space!,best action and adventure novel series
-35964,Natural Ice: because there's more to beer than taste,best alcoholic drink
-55219,Ahh those Quebs. I'm from the States but live in Montreal these days so I know what you mean ;),best places to hike in the east coast
-2360,"Best and recommended noise-cancelling wireless headphones 40-400 USD: 
+idx,query,text
+55686,best action and adventure novel series,Don't forget zombies in space!
+35964,best alcoholic drink,Natural Ice: because there's more to beer than taste
+55219,best places to hike in the east coast,Ahh those Quebs. I'm from the States but live in Montreal these days so I know what you mean ;)
+2360,best headphones,"Best and recommended noise-cancelling wireless headphones 40-400 USD: 
 
 * Bose QC 35 ← top sound quality
 * Bose 700 ← top sound quality
@@ -33,10 +33,10 @@ Non-cancelling wireless
 * beats by dre Solo3 Wireless
 * JBL LIVE 500BT
 * Sennheiser HD 4.40BT
-* Skullcandy Hesh 3 Wireless",best headphones
-30270,"Honestly I can't remember it being covered, though I went to a few different schools so it may have fallen between the cracks that way rather than never taught. It is also possible that it was covered for a week or two and I forgot being taught it but I know that I did most of my learning about it on my own through wikipedia.",best Mexican war to study
-18336,r/threadkillers,best YouTube video
-14639,"Oh goodness, I knew there was a reason we were sympatico! 
+* Skullcandy Hesh 3 Wireless"
+30270,best Mexican war to study,"Honestly I can't remember it being covered, though I went to a few different schools so it may have fallen between the cracks that way rather than never taught. It is also possible that it was covered for a week or two and I forgot being taught it but I know that I did most of my learning about it on my own through wikipedia."
+18336,best YouTube video,r/threadkillers
+14639,best romantic novel,"Oh goodness, I knew there was a reason we were sympatico! 
 
 Yes! She wrote a LOT more. But the quality varies. 
 
@@ -50,13 +50,13 @@ The Story Girl is another two-volume episodic work, collecting, as the title sug
 
 There's Pat of Silver Bush, and Magic for Marigold, Jane of Lantern Hill,  in which Montgomery deploys the ""smart girl on a farm/isolated environment, living with older relatives"" trope thing again, and they aren't super memorable - more like alternate takes on familiar territory. 
 
-Oh! There's a couple other new-adult-ish romance books. Kilmeny of the Orchard is about guy crushing after a mute girl who plays the violin beautifully. It's kind of cute - I don't remember it super well, though teen me was extremely into the whole ""forbidden love/barrier to communication/shutaway"" thing. And A Tangled Web, some crazy melodramatic multigenerational family curse story that resolves with several romances. I have been meaning to reread this, since I read it as a kid when I was too young to cotton to some grownup marriage drama plot. But when Montgomery goes serious, it often falls quite flat, and I suspect this is the case here.",best romantic novel
-71591,Titanic. Who'da thought a bit of ice could have sunk a ship...,best movies with a cool twist
-45230,An original XBox and Morrowind.,best gaming system
-46098,Jugga jigga wug jigga jigga wug jigga wugga jug,best trick or treating candy
-28855,"I make a cold oatmeal mush.  I take quick oats and grind them in the blender then add honey, milk and cocoa.  You can add whatever you like. - jam, cinnamon, etc.   I let it chill overnight till about yogurt consistently then put it in individual containers - about 1 cup.   It’s about 200 calories and really filling.  Less than $2 to make 5 servings.  I supplement this with a hard boiled egg and some fruit for a full meal.",best breakfast foods
-4506,"It can still be open source and cost money. It's rare to see, but those two aren't mutually exclusive.",best text editor
-65349,">What are you using to see what band you are using? 
+Oh! There's a couple other new-adult-ish romance books. Kilmeny of the Orchard is about guy crushing after a mute girl who plays the violin beautifully. It's kind of cute - I don't remember it super well, though teen me was extremely into the whole ""forbidden love/barrier to communication/shutaway"" thing. And A Tangled Web, some crazy melodramatic multigenerational family curse story that resolves with several romances. I have been meaning to reread this, since I read it as a kid when I was too young to cotton to some grownup marriage drama plot. But when Montgomery goes serious, it often falls quite flat, and I suspect this is the case here."
+71591,best movies with a cool twist,Titanic. Who'da thought a bit of ice could have sunk a ship...
+45230,best gaming system,An original XBox and Morrowind.
+46098,best trick or treating candy,Jugga jigga wug jigga jigga wug jigga wugga jug
+28855,best breakfast foods,"I make a cold oatmeal mush.  I take quick oats and grind them in the blender then add honey, milk and cocoa.  You can add whatever you like. - jam, cinnamon, etc.   I let it chill overnight till about yogurt consistently then put it in individual containers - about 1 cup.   It’s about 200 calories and really filling.  Less than $2 to make 5 servings.  I supplement this with a hard boiled egg and some fruit for a full meal."
+4506,best text editor,"It can still be open source and cost money. It's rare to see, but those two aren't mutually exclusive."
+65349,best phone service company,">What are you using to see what band you are using? 
 
 LTE Discovery to see the bands (they've added 5g recently), 
 network signal guru and QCT Modem Capabilities to force bands.
@@ -64,28 +64,28 @@ network signal guru and QCT Modem Capabilities to force bands.
 >Also what devices are you using. 
 I have a pixel 4a 5g (unlocked, so without the mmWave radio).
 
-So I can force band 5 LTE easily here, but it doesn't switch over to 5g. Every time it switches to 5g, it's either on band 66 or band 2. I'm confident that I'm on those bands because I'm forcing those bands and double checking with the discovery app, that I am indeed on those apps. Once I establish the LTE discovery app works consistently, I stop forcing any bands and I can see how it automatically switches to B2 and B66 to get to 5g.",best phone service company
-15712,Persol 649,best sunglasses for fashion
-27017,"> a full 2/3 of ""top rated"" games by these critics are from 2014 on
+So I can force band 5 LTE easily here, but it doesn't switch over to 5g. Every time it switches to 5g, it's either on band 66 or band 2. I'm confident that I'm on those bands because I'm forcing those bands and double checking with the discovery app, that I am indeed on those apps. Once I establish the LTE discovery app works consistently, I stop forcing any bands and I can see how it automatically switches to B2 and B66 to get to 5g."
+15712,best sunglasses for fashion,Persol 649
+27017,best board games,"> a full 2/3 of ""top rated"" games by these critics are from 2014 on
 
-I'm not surprised by this. In my opinion 2014-2016 was when a ton of really great board games all came out at once. It's like there was a slow build up and then an explosion in 2014. Honestly I'm sort of wondering if that was a bit of a golden age. I feel like over the past few years there haven't been as many amazing games coming out each year, at least compared to that time period.",best board games
-70086,">skills, work experiences, internships, connections,
+I'm not surprised by this. In my opinion 2014-2016 was when a ton of really great board games all came out at once. It's like there was a slow build up and then an explosion in 2014. Honestly I'm sort of wondering if that was a bit of a golden age. I feel like over the past few years there haven't been as many amazing games coming out each year, at least compared to that time period."
+70086,best major to study in college,">skills, work experiences, internships, connections,
 
-This right here is key. I got a degree in Sociology but because of my work experience and skills was still able to find a pretty damn good job. I can't say the degree was a complete mistake, it is an interesting subject to me and did help get my job. But without experience and a well developed skill set I'd be shit-outta-luck,",best major to study in college
-32194,"I stayed at Il Sogno Di Giulietta in Verona, just across the courtyard from Juliet's house with the famous balcony. As a shakespeare nerd I had a lot of fun staying someplace that felt so exclusive and having access to the tiny courtyard after hours. Even though Juliet's house is so touristy and it was kind of annoying having to fight the tourists, it was a cute place. 
+This right here is key. I got a degree in Sociology but because of my work experience and skills was still able to find a pretty damn good job. I can't say the degree was a complete mistake, it is an interesting subject to me and did help get my job. But without experience and a well developed skill set I'd be shit-outta-luck,"
+32194,best hotel to live in,"I stayed at Il Sogno Di Giulietta in Verona, just across the courtyard from Juliet's house with the famous balcony. As a shakespeare nerd I had a lot of fun staying someplace that felt so exclusive and having access to the tiny courtyard after hours. Even though Juliet's house is so touristy and it was kind of annoying having to fight the tourists, it was a cute place. 
 
 The rooms themselves were phenomenal. My boyfriend and I could each lay out on the bed and starfish without touching each other. I've never slept in such a nice bed in my life. Then there were the jacuzzi tubs, the smart system set up in the rooms, the excellent in room breakfast. 
 
-The most fun hotel stay I've ever had in my life.",best hotel to live in
-13399,"I understand perfectly well what you mean, we disagree on the definition of ""power user"" which is why I don't like the term ""power user.""  The commonly accepted definition for a Microsoft Excel ""power user"" includes the ability to design macros.",best spreadsheet editor
-40108,"Oh man, this scares me. That's why I take backups once every month or so just because I'm paranoid and afraid of things like this. Thank you for the heads up >.<",best Chrome extensions
-51323,"I was going to wait for that one, but I decided that I’ll probably be using the MagSafe popsocket often enough to not notice it.",best iphone case
-15182,Nah. That one will make your house look cheap!,best tree for the garden
-6208,"I’m not sure I understand what people are saying about the editing. It’s not *that* hard to follow, and as someone who knows nothing about basketball - or sports, really - I found the whole series super engrossing. 
+The most fun hotel stay I've ever had in my life."
+13399,best spreadsheet editor,"I understand perfectly well what you mean, we disagree on the definition of ""power user"" which is why I don't like the term ""power user.""  The commonly accepted definition for a Microsoft Excel ""power user"" includes the ability to design macros."
+40108,best Chrome extensions,"Oh man, this scares me. That's why I take backups once every month or so just because I'm paranoid and afraid of things like this. Thank you for the heads up >.<"
+51323,best iphone case,"I was going to wait for that one, but I decided that I’ll probably be using the MagSafe popsocket often enough to not notice it."
+15182,best tree for the garden,Nah. That one will make your house look cheap!
+6208,best Netflix documentary,"I’m not sure I understand what people are saying about the editing. It’s not *that* hard to follow, and as someone who knows nothing about basketball - or sports, really - I found the whole series super engrossing. 
 
-But that’s just me!",best Netflix documentary
-64425,"> I think New Balance and Adidas are worse.... it's going to be fun to try and do this for their shoes now :)
+But that’s just me!"
+64425,Best Nike running shoes,"> I think New Balance and Adidas are worse.... it's going to be fun to try and do this for their shoes now :)
 
-PLEASE do this for New Balance, they are the only shoe that really fits me well (I have wide feet) and all the numbers and what not are confusing as hell",Best Nike running shoes
-19113,A lovely soviet sink,best YouTube video
-54476,"Not bad, remove the feet, unscrew, open and be careful of any ribbons, take out old cable, place in new one, screw back together, put on new feet. Now if you have a cable from lethalgaming or wparacords with a 3d printed stress relief you're good to go, but if you get a ""standard"" paracord from somewhere like dreamcables you'll need to heat shrink wrap and size it up. It's honestly not too hard and dreamcables make fantastic cables, plus you can generally always get them in stock whereas lethalgaming only drops cables once a week that sell out fast and wparacords is a bit backlogged.",best artisan mousepad alternatives
+PLEASE do this for New Balance, they are the only shoe that really fits me well (I have wide feet) and all the numbers and what not are confusing as hell"
+19113,best YouTube video,A lovely soviet sink
+54476,best artisan mousepad alternatives,"Not bad, remove the feet, unscrew, open and be careful of any ribbons, take out old cable, place in new one, screw back together, put on new feet. Now if you have a cable from lethalgaming or wparacords with a 3d printed stress relief you're good to go, but if you get a ""standard"" paracord from somewhere like dreamcables you'll need to heat shrink wrap and size it up. It's honestly not too hard and dreamcables make fantastic cables, plus you can generally always get them in stock whereas lethalgaming only drops cables once a week that sell out fast and wparacords is a bit backlogged."

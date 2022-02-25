@@ -1,31 +1,31 @@
-idx,text,query
-30025,"I've used money manager for 7mos but it betrayed me. :( I turned on the daily backup but, when my phone was accidentally wiped, I discovered the app hasn't been backing up my files for the last 3mos.",best money managing app
-20783,Eye of the tiger- Survivor,best workout music
-54904,http://www.ted.com/talks/lang/en/michael_pritchard_invents_a_water_filter.html,best water filter
-56797,"What's the refresh rate on that? On its specs under the power section it says ""50/60Hz""..?",best desktop monitor
-69914,"Just do Drop Sort.
+idx,query,text
+30025,best money managing app,"I've used money manager for 7mos but it betrayed me. :( I turned on the daily backup but, when my phone was accidentally wiped, I discovered the app hasn't been backing up my files for the last 3mos."
+20783,best workout music,Eye of the tiger- Survivor
+54904,best water filter,http://www.ted.com/talks/lang/en/michael_pritchard_invents_a_water_filter.html
+56797,best desktop monitor,"What's the refresh rate on that? On its specs under the power section it says ""50/60Hz""..?"
+69914,best major to study in college,"Just do Drop Sort.
 
 Drop Sort is an algorithm that will *always* return a sorted list in O(n). 
 
-Drop sort is just start on the second element of the list. If the element is smaller than the previous element, drop it from the list, else move to the next element. Repeat for the entire list. You will always take n-1 operations worst case, the list will always be sorted. It is a lossy algorithm, just like Jpeg.",best major to study in college
-22518,Ran into Stone Cold Steve Austin outside the Toronto Skydome after WrestleMania 18. I told him he had a good match that night and he shook my hand and said “nice to meet you sir”. Seriously the only person I’ve ever been ok with calling me “sir”. I was like a 21 year old nobody at the time.,best celebrity
-11992,A joke book.,best gifts for dad
-20930,Billy definitely the hardest workout song released in the last few years imo,best workout music
-70776,Nothing will ever top 13 year old me in 2003 watching fight club for the first time when my friends mom rented it at blockbuster for us.,best movies with a cool twist
-68229,"Neuromancer by William Gibson
+Drop sort is just start on the second element of the list. If the element is smaller than the previous element, drop it from the list, else move to the next element. Repeat for the entire list. You will always take n-1 operations worst case, the list will always be sorted. It is a lossy algorithm, just like Jpeg."
+22518,best celebrity,Ran into Stone Cold Steve Austin outside the Toronto Skydome after WrestleMania 18. I told him he had a good match that night and he shook my hand and said “nice to meet you sir”. Seriously the only person I’ve ever been ok with calling me “sir”. I was like a 21 year old nobody at the time.
+11992,best gifts for dad,A joke book.
+20930,best workout music,Billy definitely the hardest workout song released in the last few years imo
+70776,best movies with a cool twist,Nothing will ever top 13 year old me in 2003 watching fight club for the first time when my friends mom rented it at blockbuster for us.
+68229,best science fiction novel,"Neuromancer by William Gibson
 Snow crash by Neal Stephenson 
 The three body problem by cixin lui
 Hyperion by Dan Simmons
 The handmaids tale by Margeret Atwood
 
 
-These are books that I could reread every couple of years. I’d like to include Dune by Frank Herbert also.",best science fiction novel
-40405,"That's still not trivial though. Is the Corvette a ""budget"" car simply because Porsches cost more, or is $57k still a lot to pay for a car? 
+These are books that I could reread every couple of years. I’d like to include Dune by Frank Herbert also."
+40405,best midrange GPU,"That's still not trivial though. Is the Corvette a ""budget"" car simply because Porsches cost more, or is $57k still a lot to pay for a car? 
 
-I simply don't see the RTX cards as ""budget"" cards. Your 570 is a budget card.",best midrange GPU
-70740,"The first Saw movie is utterly incredible, and unfortunately got overshadowed by the quick decline in its sequels' quality.",best movies with a cool twist
-16726,"If you don’t mind spending some cash, Siberian cats are a wonderful, dog-like cat breed.  While no cats are truly hypoallergenic, Siberians carry far less of the protein in their saliva that you are allergic to.  I have a coworker whose husband is *deathly* allergic to cats (literally cannot be in the vicinity of a cat without an asthma attack) and they successfully own a Siberian.  Their temperament is amazing.  If I wasn’t so anti-purchasing a cat, I’d get one.  (Though obviously in your circumstances you don’t have a lot of options!)",best pet for toddlers
-26676,"Just my opinion;
+I simply don't see the RTX cards as ""budget"" cards. Your 570 is a budget card."
+70740,best movies with a cool twist,"The first Saw movie is utterly incredible, and unfortunately got overshadowed by the quick decline in its sequels' quality."
+16726,best pet for toddlers,"If you don’t mind spending some cash, Siberian cats are a wonderful, dog-like cat breed.  While no cats are truly hypoallergenic, Siberians carry far less of the protein in their saliva that you are allergic to.  I have a coworker whose husband is *deathly* allergic to cats (literally cannot be in the vicinity of a cat without an asthma attack) and they successfully own a Siberian.  Their temperament is amazing.  If I wasn’t so anti-purchasing a cat, I’d get one.  (Though obviously in your circumstances you don’t have a lot of options!)"
+26676,best board games,"Just my opinion;
 
 - Carcassonne
 - Ticket to Ride
@@ -36,17 +36,17 @@ I simply don't see the RTX cards as ""budget"" cards. Your 570 is a budget card.
 - Codenames Pictures
 - Five Tribes
 - Hero Realms
-- Mystic Vale",best board games
-18042,"I don't think Kylie is out of touch with reality. She admits she is not self-made and had a lot of help from others. The ""self-made"" thing was started entirely by Forbes.",best Kardashian
-62422,"It's fantastic indeed! And with each companion having a rich, long story (that may conflict with other companions's stories), you definitely want to play it more than once!",Best RPG game on PS4
-23879,One piece is my favorite anime/manga of all time and I strongly disagree with your opinions but you are entitled to one so I respect it and if everybody liked one thing who would be there to argue about it 🙃,best anime
-43443,I'm just excited is all... perhaps a little too earnest,best ad service for mobile applications
-61199,I loved her character. The Cameron Mitchell character didn't bring much to the show but Vala was a breath of fresh air.,Best comedy show on Netflix
-58499,"Also, Nautica Voyage is EXTREMELY distinctive.",best cologne
-3266,"I bought a Ryzen 7 2700x for a dedicated streaming computer and... well, long story short, it doesn't have integrated graphics. So be aware of that.
+- Mystic Vale"
+18042,best Kardashian,"I don't think Kylie is out of touch with reality. She admits she is not self-made and had a lot of help from others. The ""self-made"" thing was started entirely by Forbes."
+62422,Best RPG game on PS4,"It's fantastic indeed! And with each companion having a rich, long story (that may conflict with other companions's stories), you definitely want to play it more than once!"
+23879,best anime,One piece is my favorite anime/manga of all time and I strongly disagree with your opinions but you are entitled to one so I respect it and if everybody liked one thing who would be there to argue about it 🙃
+43443,best ad service for mobile applications,I'm just excited is all... perhaps a little too earnest
+61199,Best comedy show on Netflix,I loved her character. The Cameron Mitchell character didn't bring much to the show but Vala was a breath of fresh air.
+58499,best cologne,"Also, Nautica Voyage is EXTREMELY distinctive."
+3266,best webcamera,"I bought a Ryzen 7 2700x for a dedicated streaming computer and... well, long story short, it doesn't have integrated graphics. So be aware of that.
 
-I also use this computer when rendering out video files (which I really need to do more often), and it is *substantially* faster at this task than the i7-7700k in my main/gaming rig. I did need to update the UEFI on my board, though. I was having a ton of performance and stability issues before.",best webcamera
-64025,"Don’t need an invite, just need to apply and answer some questions regarding rules. But your call :)",best place to pirate audiobooks reddit
-64755,Yes! I walked past Friday for the first time since they closed and got so bummed. I loved getting fish and chips and mushy peas and taking them back over to the Joyce.,best places to eat in Santa Barbara
-4409,Unusual? I don't know anyone who doesn't use vim in my company and the companies we did work for.,best text editor
-72155,I didn't see it coming either!  That's the best kind of twist.,best movies with a cool twist
+I also use this computer when rendering out video files (which I really need to do more often), and it is *substantially* faster at this task than the i7-7700k in my main/gaming rig. I did need to update the UEFI on my board, though. I was having a ton of performance and stability issues before."
+64025,best place to pirate audiobooks reddit,"Don’t need an invite, just need to apply and answer some questions regarding rules. But your call :)"
+64755,best places to eat in Santa Barbara,Yes! I walked past Friday for the first time since they closed and got so bummed. I loved getting fish and chips and mushy peas and taking them back over to the Joyce.
+4409,best text editor,Unusual? I don't know anyone who doesn't use vim in my company and the companies we did work for.
+72155,best movies with a cool twist,I didn't see it coming either!  That's the best kind of twist.

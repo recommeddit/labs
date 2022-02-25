@@ -1,17 +1,17 @@
-idx,text,query
-25089,Tobey McGuire was the best Spider-Man. Change my mind.,best spiderman actor
-42282,Moon. 2009 British film.,movies like Inception
-70390,"Honestly after doing a music theory course, I wish I was doing that. I know it’s harder to make money in music than STEM, but the class didn’t make me want to cry so there’s that. 
+idx,query,text
+25089,best spiderman actor,Tobey McGuire was the best Spider-Man. Change my mind.
+42282,movies like Inception,Moon. 2009 British film.
+70390,best major to study in college,"Honestly after doing a music theory course, I wish I was doing that. I know it’s harder to make money in music than STEM, but the class didn’t make me want to cry so there’s that. 
 
 
-Or queer/gender studies. I took a queer theory course last semester and that seems amazing",best major to study in college
-56375,"Alright, thanks for your input!
+Or queer/gender studies. I took a queer theory course last semester and that seems amazing"
+56375,best desktop monitor,"Alright, thanks for your input!
 
-I probably don't need 240hz, but I want it and if I get a 165hz.. I'll probably regret it in the future, lol.",best desktop monitor
-47422,"Bryce Canyon, Grand Canyon, Antelope Canyon and Zion. Although every area had amazing, and I mean fucking amazing sights to see, my favorite part was coming out of my shitty hotel near Zion park with absolutely no wifi, driving a mile out into the desert with no lights whatsoever and looking at the sky. You can literally see the whole milky way, and as someone from New England, it was amazing.",best state to visit in the United States
-4922,I go to Lowe’s but only because they are the closest to me and they give a military discount.,best home improvement store
-26147,"Just fyi, the word is assassin, not assassinator",best politician
-52706,"[InI - Center of Attention](https://www.youtube.com/watch?v=fFEVxpJtPm8)
+I probably don't need 240hz, but I want it and if I get a 165hz.. I'll probably regret it in the future, lol."
+47422,best state to visit in the United States,"Bryce Canyon, Grand Canyon, Antelope Canyon and Zion. Although every area had amazing, and I mean fucking amazing sights to see, my favorite part was coming out of my shitty hotel near Zion park with absolutely no wifi, driving a mile out into the desert with no lights whatsoever and looking at the sky. You can literally see the whole milky way, and as someone from New England, it was amazing."
+4922,best home improvement store,I go to Lowe’s but only because they are the closest to me and they give a military discount.
+26147,best politician,"Just fyi, the word is assassin, not assassinator"
+52706,best hiphop album,"[InI - Center of Attention](https://www.youtube.com/watch?v=fFEVxpJtPm8)
 
 [Smif-N-Wessun - Dah Shinin](https://www.youtube.com/watch?v=CPAKaXqWvWQ)
 
@@ -19,24 +19,24 @@ I probably don't need 240hz, but I want it and if I get a 165hz.. I'll probably 
 
 [Masta Ace - A Long Hot Summer](https://www.youtube.com/watch?v=7fVrouSYqRQ)
 
-Tried to pick a few that don't usually show up on these lists but definitely should.",best hiphop album
-45963,"""Oh you have braces? Here's some jujyfruits.""
+Tried to pick a few that don't usually show up on these lists but definitely should."
+45963,best trick or treating candy,"""Oh you have braces? Here's some jujyfruits.""
 
-I'm definitely going to do that... I am evil.",best trick or treating candy
-29595,"King Kong is also available on PC, I bought it back when it came out.",best game console
-4700,"Yup, Lowes delivery guys rock. They moved my old stove out to the garage and were extremely thankful I offered them a cold bottle of water.",best home improvement store
-9113,Oh sweet baby Jesus...I have done the same thing. It was like every nerve in every tooth was exposed at the same time. I could not even talk because the air hitting my raw teeth made me want to cry. My dentist told me to rinse with flouride rinse and I got many strange looks from the people in the grocery store when I tore open the flouride seal and started swishing and whimpering in the check-out line.,best toothpaste
-73162,N❄️ 1 m8.,best Linux distro
-723,Hi. I consider this as the [best vpn for torrenting](https://fivebestvpn.com/best-vpn-for-torrenting/) compared to other services. Recommend to read the article.,best vpn for torrenting reddit
-22552,You rode The Haunted Mansion with Michael Clarke Duncan? I have never in my life had celebrity-encounter envy until now.,best celebrity
-55990,"Ya but that wasn’t a fun adventure movie honestly I
-Passed out in the middle and I was really excited for it haha",best action and adventure movie
-54112,I go out and get blind drunk. When my hangover goes away it usually takes the cold with it.,best medicine for a cold
-34467,Tom Brady has like 2 more rings.,best NFL player
-56028,77% or 3.9/5 (RT) and a 7.5/10 on IMBD demonstrates that a decent number of people thought it was at least good.,best action and adventure movie
-36324,my horrible Sundays beg to differ lol,best alcoholic drink
-45438,"PS4. Go back and play some of the other exclusives you may have missed like horizon zero dawn and god of war. They’re very much worth checking out. And as for the Xbox exclusives, just get the Xbox game pass on pc. It’s only $1 right now and $5 per month after that to get Xbox games at launch on pc. Also great for other non-exclusives like the outer worlds",best gaming system
-1290,I fucking love chocolate but chocolate ice cream is just... Weird,best ice cream flavor
-6571,This documentary was really good. The cops pissed me off at every turn. I was angry watching this the entire time lool!!,best Netflix documentary
-58564,"Some good answers in there too, including mine :-)",best cologne
-45508,I also advocate the Fable trilogy,best gaming system
+I'm definitely going to do that... I am evil."
+29595,best game console,"King Kong is also available on PC, I bought it back when it came out."
+4700,best home improvement store,"Yup, Lowes delivery guys rock. They moved my old stove out to the garage and were extremely thankful I offered them a cold bottle of water."
+9113,best toothpaste,Oh sweet baby Jesus...I have done the same thing. It was like every nerve in every tooth was exposed at the same time. I could not even talk because the air hitting my raw teeth made me want to cry. My dentist told me to rinse with flouride rinse and I got many strange looks from the people in the grocery store when I tore open the flouride seal and started swishing and whimpering in the check-out line.
+73162,best Linux distro,N❄️ 1 m8.
+723,best vpn for torrenting reddit,Hi. I consider this as the [best vpn for torrenting](https://fivebestvpn.com/best-vpn-for-torrenting/) compared to other services. Recommend to read the article.
+22552,best celebrity,You rode The Haunted Mansion with Michael Clarke Duncan? I have never in my life had celebrity-encounter envy until now.
+55990,best action and adventure movie,"Ya but that wasn’t a fun adventure movie honestly I
+Passed out in the middle and I was really excited for it haha"
+54112,best medicine for a cold,I go out and get blind drunk. When my hangover goes away it usually takes the cold with it.
+34467,best NFL player,Tom Brady has like 2 more rings.
+56028,best action and adventure movie,77% or 3.9/5 (RT) and a 7.5/10 on IMBD demonstrates that a decent number of people thought it was at least good.
+36324,best alcoholic drink,my horrible Sundays beg to differ lol
+45438,best gaming system,"PS4. Go back and play some of the other exclusives you may have missed like horizon zero dawn and god of war. They’re very much worth checking out. And as for the Xbox exclusives, just get the Xbox game pass on pc. It’s only $1 right now and $5 per month after that to get Xbox games at launch on pc. Also great for other non-exclusives like the outer worlds"
+1290,best ice cream flavor,I fucking love chocolate but chocolate ice cream is just... Weird
+6571,best Netflix documentary,This documentary was really good. The cops pissed me off at every turn. I was angry watching this the entire time lool!!
+58564,best cologne,"Some good answers in there too, including mine :-)"
+45508,best gaming system,I also advocate the Fable trilogy

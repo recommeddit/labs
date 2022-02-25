@@ -1,16 +1,16 @@
-idx,text,query
-16981,Ha! I loved sorcery you’ll have a blast.,best iOS game
-59507,Interesting....,best perfume
-36565,"The Jolly rancher. Dragonberry,cranberry and a splash of DonQ",best alcoholic drink
-24612,Is iron blooded orphans the beginning of gundam?,best anime
-59489,Female. Like some tea. Dealing well on kitchen (cooking good).,best perfume
-24953,"I’m gonna get so much hate for this but, Garfield.",best spiderman actor
-54552,Thanks for answering my questions dude! You’re amazing and your review is very insightful. Have an awesome day!,best artisan mousepad alternatives
-31782,"How do you stay in shape if you're constantly ""eating out""? I'm pretty sure the hotel food isn't that healthy.
+idx,query,text
+16981,best iOS game,Ha! I loved sorcery you’ll have a blast.
+59507,best perfume,Interesting....
+36565,best alcoholic drink,"The Jolly rancher. Dragonberry,cranberry and a splash of DonQ"
+24612,best anime,Is iron blooded orphans the beginning of gundam?
+59489,best perfume,Female. Like some tea. Dealing well on kitchen (cooking good).
+24953,best spiderman actor,"I’m gonna get so much hate for this but, Garfield."
+54552,best artisan mousepad alternatives,Thanks for answering my questions dude! You’re amazing and your review is very insightful. Have an awesome day!
+31782,best hotel to live in,"How do you stay in shape if you're constantly ""eating out""? I'm pretty sure the hotel food isn't that healthy.
 
-Do you go to the hotel gym a lot?",best hotel to live in
-4394,WebStorm. It's an IDE.,best text editor
-14784,"[**Sunshine**](https://www.goodreads.com/book/show/8088.Sunshine)
+Do you go to the hotel gym a lot?"
+4394,best text editor,WebStorm. It's an IDE.
+14784,best romantic novel,"[**Sunshine**](https://www.goodreads.com/book/show/8088.Sunshine)
 
 ^(By: Robin McKinley | 405 pages | Published: 2003 | Popular Shelves: vampires, fantasy, urban-fantasy, paranormal, fiction | )[^(Search ""Sunshine by Robin Mckinley"")](https://www.goodreads.com/search?q=Sunshine by Robin Mckinley&search_type=books)
 
@@ -18,21 +18,21 @@ Do you go to the hotel gym a lot?",best hotel to live in
 
 ***
 
-^(88993 books suggested | )^(Bug? DM me! | )[^(Source)](https://github.com/rodohanna/reddit-goodreads-bot)",best romantic novel
-55445,"This was going to be my number 1 recommendation. It's exactly what you're looking for. It's a lot of fun, full of action and adventure, has some excellent characters and limited POVs.",best action and adventure novel series
-55349,"great suggestion. such a good series. downvotes be damned, it should be mentioned at least once. It's terrific.",best action and adventure novel series
-24239,"The MAL list has a lot of sequel bias.  Sequels tend to be overrated (on every website, not only MAL), because anyone who dislikes an anime is unlikely to watch the sequel.  Among the non-sequel series, Cowboy Bebop is #6.
+^(88993 books suggested | )^(Bug? DM me! | )[^(Source)](https://github.com/rodohanna/reddit-goodreads-bot)"
+55445,best action and adventure novel series,"This was going to be my number 1 recommendation. It's exactly what you're looking for. It's a lot of fun, full of action and adventure, has some excellent characters and limited POVs."
+55349,best action and adventure novel series,"great suggestion. such a good series. downvotes be damned, it should be mentioned at least once. It's terrific."
+24239,best anime,"The MAL list has a lot of sequel bias.  Sequels tend to be overrated (on every website, not only MAL), because anyone who dislikes an anime is unlikely to watch the sequel.  Among the non-sequel series, Cowboy Bebop is #6.
 
-But yes, there are a lot of teenagers on MAL.  It would be interesting if we could see the average rating for each age group.",best anime
-20286,remember all caps when you spell the man name,best workout music
-39572,the naked scientists,best podcast for biologists
-27681,"Most of the top stars are good. The Khans have a special place in my heart as I grew up watching them, but out of them all, even though lately his movies haven’t been that good; Shahrukh is my all time favourite.",best bollywood actor
-25609,"I find it interesting that Bangladesh and Ireland have an almost identical trend and the gap stays about the same for the last 10 years. On the other hand, New Zealand and Zimbabwe have almost opposite trends throughout the entire period.",best cricket teams of all time
-5910,"> Thick clients can stand by themselves. They don't need a remote service to function (although they may still talk to remote services for certain extra features).
+But yes, there are a lot of teenagers on MAL.  It would be interesting if we could see the average rating for each age group."
+20286,best workout music,remember all caps when you spell the man name
+39572,best podcast for biologists,the naked scientists
+27681,best bollywood actor,"Most of the top stars are good. The Khans have a special place in my heart as I grew up watching them, but out of them all, even though lately his movies haven’t been that good; Shahrukh is my all time favourite."
+25609,best cricket teams of all time,"I find it interesting that Bangladesh and Ireland have an almost identical trend and the gap stays about the same for the last 10 years. On the other hand, New Zealand and Zimbabwe have almost opposite trends throughout the entire period."
+5910,best programming language for web development,"> Thick clients can stand by themselves. They don't need a remote service to function (although they may still talk to remote services for certain extra features).
 
-That is interesting and not something I have heard before. I always assumed thick clients, while doing a lot of the work, were reliant on the remote service for the data to work on. This is food for thought for me thanks.",best programming language for web development
-13768,"I first read their original paper a few months ago, and the professor commented on that sentence specifically. Hilarious understatement.",best research paper archive
-69980,"It also doesn't pay nearly as well as other development gigs. 
+That is interesting and not something I have heard before. I always assumed thick clients, while doing a lot of the work, were reliant on the remote service for the data to work on. This is food for thought for me thanks."
+13768,best research paper archive,"I first read their original paper a few months ago, and the professor commented on that sentence specifically. Hilarious understatement."
+69980,best major to study in college,"It also doesn't pay nearly as well as other development gigs. 
 
 Also do not for the life of you get into game testing. Holy shit.
 
@@ -43,9 +43,9 @@ I don't do game testing but I know a bunch about it from some people I know. Tes
 
 Game testing is the worst though. You're basically just repeating parts of games all day. Like you have to run into walls, do all sorts of really crappy tasks for hours on end. And that's if you're lucky enough to do real games. I've known a few people who had to QA shit like the Kardashian mobile game. Think of all those horrible mobile games out there. There are people whose jobs it is to test that. 
 
-Anyways, I would really avoid QA as much as possible. You can make a career out of it, but it's kind of a shitty gig that isn't very stimulating that becomes increasingly hard to escape from the longer you're there. You can escape to something like development, but a lot of places don't like letting their QA people move to other groups. And then, if you stay there long enough, unless you've been simultaneously cultivating other skills, the only thing you're going to be qualified and have experience is QA which means at your next job, you get a bit more money and even more stress.",best major to study in college
-36383,Everclear.,best alcoholic drink
-65323,"Hey popetorak, can you please clarify what is wrong? I want to make sure I’m updating the correct information. Thanks!",best phone service company
-26763,"7 wonders is great! Forbidden dessert is a good co-op, not as involved as Pandemic but still good.",best board games
-48041,But you didn't pick it,best color to paint with
-52792,No one gives credit to music for earthworms,best hiphop album
+Anyways, I would really avoid QA as much as possible. You can make a career out of it, but it's kind of a shitty gig that isn't very stimulating that becomes increasingly hard to escape from the longer you're there. You can escape to something like development, but a lot of places don't like letting their QA people move to other groups. And then, if you stay there long enough, unless you've been simultaneously cultivating other skills, the only thing you're going to be qualified and have experience is QA which means at your next job, you get a bit more money and even more stress."
+36383,best alcoholic drink,Everclear.
+65323,best phone service company,"Hey popetorak, can you please clarify what is wrong? I want to make sure I’m updating the correct information. Thanks!"
+26763,best board games,"7 wonders is great! Forbidden dessert is a good co-op, not as involved as Pandemic but still good."
+48041,best color to paint with,But you didn't pick it
+52792,best hiphop album,No one gives credit to music for earthworms

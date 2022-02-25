@@ -1,12 +1,12 @@
-idx,text,query
-9177,"Don't forget drop-topping, playing your favorite CDs",best toothpaste
-56997,i just drink for the assdeadicks,best water brand
-26353,"Just don't tweet the goddamn pic, fuck.",best politician
-65297,"Okay! Thank you for your patience! The chart is now updated! There should now only be two True/False values in each of the true/false columns, all now lowercase. 
+idx,query,text
+9177,best toothpaste,"Don't forget drop-topping, playing your favorite CDs"
+56997,best water brand,i just drink for the assdeadicks
+26353,best politician,"Just don't tweet the goddamn pic, fuck."
+65297,best phone service company,"Okay! Thank you for your patience! The chart is now updated! There should now only be two True/False values in each of the true/false columns, all now lowercase. 
 
-Please let me know if you have any other issues or I can help out in any other way.",best phone service company
-69434,"It's not about who you know, it's about who knows you.",best major to study in college
-50659,"Hip Hop Albums
+Please let me know if you have any other issues or I can help out in any other way."
+69434,best major to study in college,"It's not about who you know, it's about who knows you."
+50659,best rap album,"Hip Hop Albums
 
 1. Roadrunner NLNM - Brockhampton
 2. The Off Season - J. Cole
@@ -25,39 +25,39 @@ Non Hip Hop Albums
 7. Smiling With No Teeth - Genesis Owusu
 8. Bright Green Fields - Squid
 9. Daddys Home - St. Vincent
-10. OK Human - Weezer",best rap album
-33771,"A BEV is a non-starter for me, so a PHEV or EREV would be the best choice for me.  I'm not alone in this either.
+10. OK Human - Weezer"
+33771,best electric car,"A BEV is a non-starter for me, so a PHEV or EREV would be the best choice for me.  I'm not alone in this either.
 
 Additionally, they will help solve the ""chicken or egg"" scenario with BEVs and chargers.  People don't want to buy BEVs without good charging infrastructure.  People don't want to build charging infrastructure without BEVs.
 
-Glad BEVs work for you, but they aren't a solution for everyone.",best electric car
-9515,What about Bob Burger?,best toothpaste
-557,"I don't use wacom for taking notes.
+Glad BEVs work for you, but they aren't a solution for everyone."
+9515,best toothpaste,What about Bob Burger?
+557,best mac app to annotate pdf with wacom tablet reddit,"I don't use wacom for taking notes.
 
-This is just a idea. How about getting those virtual keyboard with handwriting input. And using your wacom to write on that.",best mac app to annotate pdf with wacom tablet reddit
-63828,"I really liked [The Power of Habit](http://www.amazon.com/The-Power-Habit-What-Business/dp/081298160X) by Charles Duhigg.  It has some excellent case studies that look at businesses as well as individuals, and examine how habits work, how they get into your brain, and what techniques you can use to change them.",best books for building better habits reddit
-21728,"I think it makes it better, since it's mixed with their usual phrases.",best winnie the pooh comic
-57579,Good list. Hits the safe scents that IMO work on most people. I'll reinforce going to a department store. Spray it - go holiday shopping - see how you like it on your skin.,best cologne
-45389,"Like most here, PC is by far my main platform. I do have a PS4 and a Switch as well.
+This is just a idea. How about getting those virtual keyboard with handwriting input. And using your wacom to write on that."
+63828,best books for building better habits reddit,"I really liked [The Power of Habit](http://www.amazon.com/The-Power-Habit-What-Business/dp/081298160X) by Charles Duhigg.  It has some excellent case studies that look at businesses as well as individuals, and examine how habits work, how they get into your brain, and what techniques you can use to change them."
+21728,best winnie the pooh comic,"I think it makes it better, since it's mixed with their usual phrases."
+57579,best cologne,Good list. Hits the safe scents that IMO work on most people. I'll reinforce going to a department store. Spray it - go holiday shopping - see how you like it on your skin.
+45389,best gaming system,"Like most here, PC is by far my main platform. I do have a PS4 and a Switch as well.
 
 In the last 12 months I have bought 1 PS4 game and 1 Switch game. I will likely be getting Mario Golf as well, but that will be all the console games.
 
 Where as my PC I have bought 10+ games easily in 2021. 
 
-As for Resident Evil, I just finished it on PC. Ultrawide, custom FOV, and much cheaper than buying on console.",best gaming system
-64386,"The download for chrome ist on the website of Google Chrome. The Download for VLC ist on the Webseite of videolan.org. And so on...
+As for Resident Evil, I just finished it on PC. Ultrawide, custom FOV, and much cheaper than buying on console."
+64386,best place to pirate mac apps reddit,"The download for chrome ist on the website of Google Chrome. The Download for VLC ist on the Webseite of videolan.org. And so on...
 
-You should download Software always directly from the developers website  or thru the link on the developers website.",best place to pirate mac apps reddit
-36311,"Is that the Australian company? I didn't know they made alcoholic drinks, I'll have to try that!",best alcoholic drink
-42393,I remember watching it twice in the theater and then reading that it was all just a huge elaborate way to get him to stop smoking.  My mind was blown.,movies like Inception
-69301,"I would have finished my second major in Decision Science (what they called Data Science before that was a thing) a decade ago. Turns out Data Science actually became a thing, and it pays bank.",best major to study in college
-32949,SoBe made a great energy drink.,best energy drink
-30951,Vancouver is expensive af.,best country to live in
-11430,I actually want a new tie but my family won't buy one because it's too cliche.,best gifts for dad
-1260,Anchovy,best ice cream flavor
-26503,Lie like a rug.,best politician
-30383,WuTang?,best Mexican war to study
-32302,That's like four Toblerones and a bottle of Evian!,best hotel to live in
-25560,"Pretty hard to leave out Sydney Barnes - http://www.espncricinfo.com/england/content/player/8996.html 
+You should download Software always directly from the developers website  or thru the link on the developers website."
+36311,best alcoholic drink,"Is that the Australian company? I didn't know they made alcoholic drinks, I'll have to try that!"
+42393,movies like Inception,I remember watching it twice in the theater and then reading that it was all just a huge elaborate way to get him to stop smoking.  My mind was blown.
+69301,best major to study in college,"I would have finished my second major in Decision Science (what they called Data Science before that was a thing) a decade ago. Turns out Data Science actually became a thing, and it pays bank."
+32949,best energy drink,SoBe made a great energy drink.
+30951,best country to live in,Vancouver is expensive af.
+11430,best gifts for dad,I actually want a new tie but my family won't buy one because it's too cliche.
+1260,best ice cream flavor,Anchovy
+26503,best politician,Lie like a rug.
+30383,best Mexican war to study,WuTang?
+32302,best hotel to live in,That's like four Toblerones and a bottle of Evian!
+25560,best cricket teams of all time,"Pretty hard to leave out Sydney Barnes - http://www.espncricinfo.com/england/content/player/8996.html 
 
-And yet everyone has?",best cricket teams of all time
+And yet everyone has?"

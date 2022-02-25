@@ -1,23 +1,23 @@
-idx,text,query
-24369,"Kill la kill let's fucking gooooooooo. This list also made me realize how many ""top tier"" anime I haven't seen yet, I only recognize about 10 on this list",best anime
-38722,Daily Fail.,best newspapers to read
-38647,"Why are you being so obtuse? Although admittedly this did mildly tickle me, despite being at my expense.
+idx,query,text
+24369,best anime,"Kill la kill let's fucking gooooooooo. This list also made me realize how many ""top tier"" anime I haven't seen yet, I only recognize about 10 on this list"
+38722,best newspapers to read,Daily Fail.
+38647,best newspapers to read,"Why are you being so obtuse? Although admittedly this did mildly tickle me, despite being at my expense.
 
-I think the gaurdian is shit. I think the DM is shit. The telegraph is shit. They're all shit. Read them all, totally ignore everything they say, and then imagine something slightly in the middle and you get a more reasonable representation of reality than you would by just reading one of them. That's all I'm saying.",best newspapers to read
-47204,"Crater Lake in Oregon, amazing",best state to visit in the United States
-46149,One of my older neighbors always gave out scotch tape. To each their own I guess.,best trick or treating candy
-17774,Kris and Kourtney before Kylie?? Australia bush fires springs to mind.,best Kardashian
-16478,I'd copy the image address from the album or website of anything you like and ask in the simple questions thread to see if people know some options!,best sunglasses for fashion
-42326,Upvote for Man From Earth. Get's you thinking about religion in a different light!,movies like Inception
-6476,Rivers and Tides,best Netflix documentary
-31518,"I don’t much like hotels. Remind me of business trips. I prefer to stay at friends’ places or with family when I have the option. Even on business, back when we traveled...
+I think the gaurdian is shit. I think the DM is shit. The telegraph is shit. They're all shit. Read them all, totally ignore everything they say, and then imagine something slightly in the middle and you get a more reasonable representation of reality than you would by just reading one of them. That's all I'm saying."
+47204,best state to visit in the United States,"Crater Lake in Oregon, amazing"
+46149,best trick or treating candy,One of my older neighbors always gave out scotch tape. To each their own I guess.
+17774,best Kardashian,Kris and Kourtney before Kylie?? Australia bush fires springs to mind.
+16478,best sunglasses for fashion,I'd copy the image address from the album or website of anything you like and ask in the simple questions thread to see if people know some options!
+42326,movies like Inception,Upvote for Man From Earth. Get's you thinking about religion in a different light!
+6476,best Netflix documentary,Rivers and Tides
+31518,best hotel to live in,"I don’t much like hotels. Remind me of business trips. I prefer to stay at friends’ places or with family when I have the option. Even on business, back when we traveled...
 
 Shangri La in Sydney was okay. Hotel Chelsea and Sir Francis Drake interesting...
 
 Actually, my favourite hotel experience was probably the tiny ‘SportHotel’ in St Moritz-Bad when I escaped studying in Milan for a weekend snowboarding at the start of the season... wood panelling on all the walls, and old kitsch posters; well-heated rooms, a continental breakfast of local cheeses from the Engadine and salumi and stolid Swiss sourdough. €54 per night. 
 
-Or a random B&B in Hobart with free port and chocolates. Supplemented with local whisky, it was the basis of a very comfortable stay...",best hotel to live in
-66,"I'm not quite sure how to mirror this consistently to github, so my server will have to do. Someone wanting to see it was a good excuse to clean it up and fix some speed issues, so thanks.
+Or a random B&B in Hobart with free port and chocolates. Supplemented with local whisky, it was the basis of a very comfortable stay..."
+66,best terminal file manager reddit,"I'm not quite sure how to mirror this consistently to github, so my server will have to do. Someone wanting to see it was a good excuse to clean it up and fix some speed issues, so thanks.
 
 [thumbs](http://git.msscripting.com/lorx/bin/src/branch/master/thumbs)
 
@@ -34,14 +34,14 @@ You can add it to your ranger scope.sh
         webm)
           thumbs ""$path"" ""$cached"" && exit 6 || exit 1;;
       esac
-    fi",best terminal file manager reddit
-7051,The smearing (at least on the XS) was very noticeable in low-light situations. I’ll take greyish blacks over smearing while scrolling any day of the week.,best iPhone
-16155,"I'll second American Optical. Probably the best value in sunglasses. Solid frames, great styles, and their glass lenses can't be beaten for clarity. The bayonet temples are great for wearing under a motorcycle helmet, too. Opticsplanet has them on sale pretty often.",best sunglasses for fashion
-45354,"PS4, goat of all time",best gaming system
-32328,"> One guy from maintenance said he'd do it, but he wanted a promotion and a 5 year contract with a payout in the event of early dismissal. 
+    fi"
+7051,best iPhone,The smearing (at least on the XS) was very noticeable in low-light situations. I’ll take greyish blacks over smearing while scrolling any day of the week.
+16155,best sunglasses for fashion,"I'll second American Optical. Probably the best value in sunglasses. Solid frames, great styles, and their glass lenses can't be beaten for clarity. The bayonet temples are great for wearing under a motorcycle helmet, too. Opticsplanet has them on sale pretty often."
+45354,best gaming system,"PS4, goat of all time"
+32328,best hotel to live in,"> One guy from maintenance said he'd do it, but he wanted a promotion and a 5 year contract with a payout in the event of early dismissal. 
 
-Chaos is a ladder.",best hotel to live in
-14986,"Ok, there are lots of good suggestions here (Courtney Milan especially!). I've been reading romances since I was 16 or so, so I'm pretty jaded. I need real conflict, not just plots that could be resolved by two people actually talking to each other, to keep me interested.  There are two series that I just keep coming back to to: 
+Chaos is a ladder."
+14986,best romantic novel,"Ok, there are lots of good suggestions here (Courtney Milan especially!). I've been reading romances since I was 16 or so, so I'm pretty jaded. I need real conflict, not just plots that could be resolved by two people actually talking to each other, to keep me interested.  There are two series that I just keep coming back to to: 
 
 Joanna Bourne's historical spy romances will ruin you for other series. She has deeply complex (and sometimes quite flawed) characters who have to really earn their happy endings. There's action, romance, and real suspense in each one. Every time I read them I think what a fantastic movie/miniseries they'd make. Her website tells you what order to read them in. Her writing is on a whole different level than your average romance series. 
 
@@ -50,20 +50,20 @@ Her website is here: http://www.joannabourne.com/books.html
 
 Second, I also deeply enjoyed MelJean Brook's Steampunk romance series, and I'm not really into Steampunk. Not going to lie, there are parts that are challenging, but I loved each and every one of these. The world building is astounding and you really really feel the pull for each of the couples. Start with The Iron Duke. 
 
-Update: I don't know how I managed to forget my favorite author ever, Connie Brockway. As You Desire, So Enchanting, The Other Guy's Bride, and My Dearest Enemy are the best of the best. You can read them over and over.",best romantic novel
-72572,"I currently have mx blues but I find that a lot of the time it doesn't naturally reset when my fingers are on it and it is in the position where the click is. Wouldn't reccomend it for first person games, it's better for mobas I Guess. I've tried mx reds and browns and I like them both better.",best keyboard switches
-34745,"That's fair, but even if you compare them age vs age or 1st year vs 1st year, it's still not that close.
+Update: I don't know how I managed to forget my favorite author ever, Connie Brockway. As You Desire, So Enchanting, The Other Guy's Bride, and My Dearest Enemy are the best of the best. You can read them over and over."
+72572,best keyboard switches,"I currently have mx blues but I find that a lot of the time it doesn't naturally reset when my fingers are on it and it is in the position where the click is. Wouldn't reccomend it for first person games, it's better for mobas I Guess. I've tried mx reds and browns and I like them both better."
+34745,best NFL player,"That's fair, but even if you compare them age vs age or 1st year vs 1st year, it's still not that close.
 
-I wouldn't say that Peyton ""hit his prime sooner"" than he was just better coming into the league obviously, 1st overall vs. 6th round pick. 1 year age difference isn't much when comparing two players over the course of 15 years.",best NFL player
-17741,none of them,best Kardashian
-66063,"That’s great. How’s the CS programs at CSUCI (and CSU in general, if you know)? I’ve always been interested in doing college recruiting at CSU",best college in california
-2379,"If you have a nice set of IEMs or headphones with a replaceable cable, you can invest in a good short cable. I prefer the radsone es100 to the btr5, it can power up to my Audeze LCD-2s with ease",best headphones
-65493,Fantath-tic -A1C Tyson,best phone service company
-69858,"Been doing it for a few years, graduated in 2009
+I wouldn't say that Peyton ""hit his prime sooner"" than he was just better coming into the league obviously, 1st overall vs. 6th round pick. 1 year age difference isn't much when comparing two players over the course of 15 years."
+17741,best Kardashian,none of them
+66063,best college in california,"That’s great. How’s the CS programs at CSUCI (and CSU in general, if you know)? I’ve always been interested in doing college recruiting at CSU"
+2379,best headphones,"If you have a nice set of IEMs or headphones with a replaceable cable, you can invest in a good short cable. I prefer the radsone es100 to the btr5, it can power up to my Audeze LCD-2s with ease"
+65493,best phone service company,Fantath-tic -A1C Tyson
+69858,best major to study in college,"Been doing it for a few years, graduated in 2009
 
 Pros: Great pay, constant need for work, lots of options, fun work.
 
-Cons: There is also a lot of competition, given how popular engineering is right now. College really doesn't prepare you like I think it should, you need real life experience before you'll truly be helpful.",best major to study in college
-19292,"The one where Ryan Is Carol Channing and rams his head into the lights in Drew’s desk and glass shatters everywhere. 
-[“Tell me. Am I bleeding?”](https://youtu.be/AkH3F7X7xQU)",best YouTube video
-34758,This is dumb every single QB that has signed a major contract never needs to work again. Look at Jimmy G just signed massive contract for next 5 years so 6 years from now he could play for free and still have Fuck you money. So this whole he is married to Gisele he can take a discount is dumb every top guy at the top of pro sport is earning money for grand kids not money they will ever need.,best NFL player
+Cons: There is also a lot of competition, given how popular engineering is right now. College really doesn't prepare you like I think it should, you need real life experience before you'll truly be helpful."
+19292,best YouTube video,"The one where Ryan Is Carol Channing and rams his head into the lights in Drew’s desk and glass shatters everywhere. 
+[“Tell me. Am I bleeding?”](https://youtu.be/AkH3F7X7xQU)"
+34758,best NFL player,This is dumb every single QB that has signed a major contract never needs to work again. Look at Jimmy G just signed massive contract for next 5 years so 6 years from now he could play for free and still have Fuck you money. So this whole he is married to Gisele he can take a discount is dumb every top guy at the top of pro sport is earning money for grand kids not money they will ever need.

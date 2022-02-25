@@ -1,38 +1,38 @@
-idx,text,query
-17357,Played 24 games of this list (not all on my iphone since there a lot of ports). But the best iOS games I played are not here.,best iOS game
-41481,"So, piano?",best instrument to play
-2760,"I know they're old, but what do you think of the Razer Man O War? I have a set that I'm looking to change out for something else but I really appreciate the wireless factor as I have pet parrots that love chewing on wires. I keep reading that the sound and mic quality are huge problems with so many of these wireless headsets, but I've never had any issues with my headset as far as sound and mic quality. Am I judging from a lack of experience or did they just manage to get it right the one time? If it is just lack of experience, how much better/worse is the one I have than the options you listed here? I've been giving serious thought to the virtuoso but this gives me pause.",best headphones
-67864,"Good top ten. I took the same approach with my list. As for *Contact*, I enjoyed it very much, and I was pleasantly surprised by how good it was considering that Sagan was not primarily a fiction writer.",best science fiction novel
-21256,"COME ON AND SLAM,
+idx,query,text
+17357,best iOS game,Played 24 games of this list (not all on my iphone since there a lot of ports). But the best iOS games I played are not here.
+41481,best instrument to play,"So, piano?"
+2760,best headphones,"I know they're old, but what do you think of the Razer Man O War? I have a set that I'm looking to change out for something else but I really appreciate the wireless factor as I have pet parrots that love chewing on wires. I keep reading that the sound and mic quality are huge problems with so many of these wireless headsets, but I've never had any issues with my headset as far as sound and mic quality. Am I judging from a lack of experience or did they just manage to get it right the one time? If it is just lack of experience, how much better/worse is the one I have than the options you listed here? I've been giving serious thought to the virtuoso but this gives me pause."
+67864,best science fiction novel,"Good top ten. I took the same approach with my list. As for *Contact*, I enjoyed it very much, and I was pleasantly surprised by how good it was considering that Sagan was not primarily a fiction writer."
+21256,best workout music,"COME ON AND SLAM,
 
-WELCOME TO THE JAM",best workout music
-36949,"I'd say it depends on what you like. I think both woodies are good, and Superman is one of my favorites. Of course I'm a bit biased since I've been going there for years. 
+WELCOME TO THE JAM"
+36949,best roller coaster at six flags,"I'd say it depends on what you like. I think both woodies are good, and Superman is one of my favorites. Of course I'm a bit biased since I've been going there for years. 
 
-My daughter says Roar is her favorite coaster.",best roller coaster at six flags
-36605,"Vodka lemonade and lime, double. 
+My daughter says Roar is her favorite coaster."
+36605,best alcoholic drink,"Vodka lemonade and lime, double. 
 
-It's light and it's tasty. And I can also swap for water/no vodka if required; not that I've ever actually done that.",best alcoholic drink
-13210,"If she's the type to enjoy spa stuff (I know I'm not) then something like that - otherwise, I would suggest anything that she does enjoy to pamper herself. 
+It's light and it's tasty. And I can also swap for water/no vodka if required; not that I've ever actually done that."
+13210,best gifts for mom,"If she's the type to enjoy spa stuff (I know I'm not) then something like that - otherwise, I would suggest anything that she does enjoy to pamper herself. 
 
-For me, it would be time to go to yoga class, or maybe a new yoga mat or something else for a hobby I enjoy (even if it's just the TIME to pursue that hobby, since I'm sure she's been way too busy). Hell even a nice hotel room where she can order room service and take a long nap and relax in a jacuzzi tub might be appreciated.",best gifts for mom
-4441,same,best text editor
-25252,"I honestly enjoy all three. I used to have distaste for Tobey but being older has changed that. I also think Andrew would make a fantastic older/college graduate age Spider-man, not high school. Tom is just perfect for right now though, especially if they pull a Harry Potter and have him grow up",best spiderman actor
-67859,I see your point. To the young reader Ender's Game would be more appealing. But as a mature reader I think Speaker for the Dead is perhaps Cards finest work.,best science fiction novel
-30274,The what?,best Mexican war to study
-29062,You might like Asana. It's free if you are just using it for yourself. www.asana.com,best calendar tool
-72854,"I used Tumbleweed for a while. It's nice, I really like zypper's syntax and that you have a snapshot tool so with btrfs you can easily make a snapshot before update and roll it back if things go south. You have however the hassle of installing codecs but that's similar to leap, and there's also the debate whether you should use zypper up or dup for updates.",best Linux distro
-20179,"Can vouch for this. Jogged 5 miles yesterday to RATM. When the bridge hit for ""Killing In The Name"" around mile 4, I can tell you despite my side cramps and sore calves, I sprinted the entire duration of that bit. My body can eat a dick for being a pussy like that.",best workout music
-23577,"Fun fact: NTSC version of GT4 can run on PS2 at 1080i (yes, really) if you have a component cable, so it will look pretty good even on current TVs. That game was definitely build to last.",best car racing video game
-11687,"Got dad a stag handle, folded steel knife. For cheap Pakistani steel, it took a hell of a blade. That thing has remained razor sharp, and it's his go-to work knife. I think it was only like $30, we made a better sheath for it. 
+For me, it would be time to go to yoga class, or maybe a new yoga mat or something else for a hobby I enjoy (even if it's just the TIME to pursue that hobby, since I'm sure she's been way too busy). Hell even a nice hotel room where she can order room service and take a long nap and relax in a jacuzzi tub might be appreciated."
+4441,best text editor,same
+25252,best spiderman actor,"I honestly enjoy all three. I used to have distaste for Tobey but being older has changed that. I also think Andrew would make a fantastic older/college graduate age Spider-man, not high school. Tom is just perfect for right now though, especially if they pull a Harry Potter and have him grow up"
+67859,best science fiction novel,I see your point. To the young reader Ender's Game would be more appealing. But as a mature reader I think Speaker for the Dead is perhaps Cards finest work.
+30274,best Mexican war to study,The what?
+29062,best calendar tool,You might like Asana. It's free if you are just using it for yourself. www.asana.com
+72854,best Linux distro,"I used Tumbleweed for a while. It's nice, I really like zypper's syntax and that you have a snapshot tool so with btrfs you can easily make a snapshot before update and roll it back if things go south. You have however the hassle of installing codecs but that's similar to leap, and there's also the debate whether you should use zypper up or dup for updates."
+20179,best workout music,"Can vouch for this. Jogged 5 miles yesterday to RATM. When the bridge hit for ""Killing In The Name"" around mile 4, I can tell you despite my side cramps and sore calves, I sprinted the entire duration of that bit. My body can eat a dick for being a pussy like that."
+23577,best car racing video game,"Fun fact: NTSC version of GT4 can run on PS2 at 1080i (yes, really) if you have a component cable, so it will look pretty good even on current TVs. That game was definitely build to last."
+11687,best gifts for dad,"Got dad a stag handle, folded steel knife. For cheap Pakistani steel, it took a hell of a blade. That thing has remained razor sharp, and it's his go-to work knife. I think it was only like $30, we made a better sheath for it. 
 
-Worked out so well that I bought myself a fixed blade one, great work knife",best gifts for dad
-18867,"https://www.youtube.com/watch?v=rJaJbdnwfMU
+Worked out so well that I bought myself a fixed blade one, great work knife"
+18867,best YouTube video,"https://www.youtube.com/watch?v=rJaJbdnwfMU
 
-It's something",best YouTube video
-69552,What about masters?,best major to study in college
-47974,Your best bet for main living areas are very like neutral colors like tans greys etc..,best color to paint with
-64182,"Yeah, that’s why it’s in first place on my list ;) mobilism.me is a mirror of the .org domain",best place to pirate audiobooks reddit
-62467,"It is a really great game.  It takes a bit to really grab some players, so don't give up on it too early.  I was hooked in the first hour, but others say it takes a while.",Best RPG game on PS4
-68520,"Yea, once I get started I'm sure I'll binge the entire series. I can read 4-6x faster than listening to audio books and my attention isn't consistent listening to it, so I miss to much. I haven't been reading much fiction lately so I'll definitely make that a priority. Getting through the series in audio-books would take way to long.",best science fiction novel
-23947,"That’s so homophobic, tf is wrong with you. I’m cancelling you",best anime
-66221,So about the same as the people who picked Juventus and Inter?,best soccer team in the world
+It's something"
+69552,best major to study in college,What about masters?
+47974,best color to paint with,Your best bet for main living areas are very like neutral colors like tans greys etc..
+64182,best place to pirate audiobooks reddit,"Yeah, that’s why it’s in first place on my list ;) mobilism.me is a mirror of the .org domain"
+62467,Best RPG game on PS4,"It is a really great game.  It takes a bit to really grab some players, so don't give up on it too early.  I was hooked in the first hour, but others say it takes a while."
+68520,best science fiction novel,"Yea, once I get started I'm sure I'll binge the entire series. I can read 4-6x faster than listening to audio books and my attention isn't consistent listening to it, so I miss to much. I haven't been reading much fiction lately so I'll definitely make that a priority. Getting through the series in audio-books would take way to long."
+23947,best anime,"That’s so homophobic, tf is wrong with you. I’m cancelling you"
+66221,best soccer team in the world,So about the same as the people who picked Juventus and Inter?

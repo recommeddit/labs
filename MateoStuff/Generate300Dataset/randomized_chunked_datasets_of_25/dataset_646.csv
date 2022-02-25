@@ -1,34 +1,34 @@
-idx,text,query
-57707,"I prefer no cologne and actively avoid people wearing it . Just fyi that's something that happens. I have a sensitive nose, but I know recovering alcoholics also avoid cologne in cases.",best cologne
-21422,That's no man! That's a laddyyyyy,best workout music
-40865,"The tuba.
+idx,query,text
+57707,best cologne,"I prefer no cologne and actively avoid people wearing it . Just fyi that's something that happens. I have a sensitive nose, but I know recovering alcoholics also avoid cologne in cases."
+21422,best workout music,That's no man! That's a laddyyyyy
+40865,best instrument to play,"The tuba.
 
-Bitches love the tuba.",best instrument to play
-73260,"Worth pointing out that openSUSE will give you familiar experience if you are ""Windows Power User"". Mostly thanks to YaST. Otherwise, I would still recommend at least starting with anything Ubuntu based, especially  Mint or PopOS. Once you get to know how your system works and what you expect from system you might find distros for more advanced users, providing unique perks (openSUSE 's YaST, OBS and snapper, Arch 's AUR to name ones i know of)",best Linux distro
-48957,"Be careful about telling people to get the GL850 for photo editing, especially if your primary still image output is for the web, then I wouldn't recommend a wide gamut monitor since what you will be seeing won't be reflected in what you post to the web in the 8-bit sRGB format, due to the majority of people using sRGB.
+Bitches love the tuba."
+73260,best Linux distro,"Worth pointing out that openSUSE will give you familiar experience if you are ""Windows Power User"". Mostly thanks to YaST. Otherwise, I would still recommend at least starting with anything Ubuntu based, especially  Mint or PopOS. Once you get to know how your system works and what you expect from system you might find distros for more advanced users, providing unique perks (openSUSE 's YaST, OBS and snapper, Arch 's AUR to name ones i know of)"
+48957,best gaming monitor,"Be careful about telling people to get the GL850 for photo editing, especially if your primary still image output is for the web, then I wouldn't recommend a wide gamut monitor since what you will be seeing won't be reflected in what you post to the web in the 8-bit sRGB format, due to the majority of people using sRGB.
 
 I work in photography so I have a wide gamut NEC digital image monitor, but my editing output is just for the web, so I have it set to sRGB. If I need any wide gamut output for CMYK printing or anything it would be a different story.
 
 Anther problem is, mid to low end monitors do not do the wide gamut very well, as expressed by many experts, often even after calibration. However, some people love the overly saturated and extreme vibrance look that the wide gamut gives, but I wouldn't use it for photo editing for the web.
 
-The most ideal workflow for photo editing would be, work from a raw data/RAW files, render that raw data in the widest gamut, highest bit depth you can, and then you would convert down to an sRGB image for the web or mobile devices.",best gaming monitor
-18677,"Casually Explained - relatable topics explained well, casually, Tier Zoo - learning about animals made funny, HalfAsInteresting - random and interesting topics made funny and explained simply",best YouTube video
-58386,"They've done studies, you know.",best cologne
-7846,"If you can spend more, the MAG-15 is worth it. But for the price point of $800, the Gateway is the best option currently.",best laptop for general use
-68646,Solaris #34? :/,best science fiction novel
-37973,"This is not how Rotten Tomatoes works. If you want to use it to rank the 10 best Marvel Studios movies, you should use the average ratings. This is just percentages of reviewers giving it a 'positive' review.",best Marvel movie
-6182,Is it worse than Dont fuck with cats?,best Netflix documentary
-16064,"That's what I did, I got my pair of ray bans for like $60 I believe",best sunglasses for fashion
-70175,Even in the US? Lots of IT/programming work is being outsourced since it's much cheaper overseas.,best major to study in college
-33772,"For limited use cases (on street parking) I can see where PHEVs have advantages over BEVs. But I've had a PHEV and it sucked compared to a BEV in basically every way. Even road trips in the BEV are more enjoyable than the PHEV.
+The most ideal workflow for photo editing would be, work from a raw data/RAW files, render that raw data in the widest gamut, highest bit depth you can, and then you would convert down to an sRGB image for the web or mobile devices."
+18677,best YouTube video,"Casually Explained - relatable topics explained well, casually, Tier Zoo - learning about animals made funny, HalfAsInteresting - random and interesting topics made funny and explained simply"
+58386,best cologne,"They've done studies, you know."
+7846,best laptop for general use,"If you can spend more, the MAG-15 is worth it. But for the price point of $800, the Gateway is the best option currently."
+68646,best science fiction novel,Solaris #34? :/
+37973,best Marvel movie,"This is not how Rotten Tomatoes works. If you want to use it to rank the 10 best Marvel Studios movies, you should use the average ratings. This is just percentages of reviewers giving it a 'positive' review."
+6182,best Netflix documentary,Is it worse than Dont fuck with cats?
+16064,best sunglasses for fashion,"That's what I did, I got my pair of ray bans for like $60 I believe"
+70175,best major to study in college,Even in the US? Lots of IT/programming work is being outsourced since it's much cheaper overseas.
+33772,best electric car,"For limited use cases (on street parking) I can see where PHEVs have advantages over BEVs. But I've had a PHEV and it sucked compared to a BEV in basically every way. Even road trips in the BEV are more enjoyable than the PHEV.
 
 Infrastructure won't get built for PHEVs. PHEVs don't make business sense to put DC Fast Charge capability into, so they can't use the chargers that are most needed for BEV adoption. PHEVs do not help the BEV road trip infrastructure, period. 
 
-They may help convince more workplaces, apartments, malls, etc. to put in Level 2 AC charging, but that's not where the BEV infrastructure gap is.",best electric car
-61375,Assassins Creed Odyssey. Gorgeous open world game. Lots of fun.,Best RPG game on PS4
-53951,I trust **Horrendously Spicy Food**. Sweat till it hurts. Works great.,best medicine for a cold
-55585,I'm about to restart it while I ponder my next series. Its been a few years since I finished it.,best action and adventure novel series
-67431,"> This was the main Use Case that prompted me to write this. I was also convinced it couldn't be done because of the Promise-based design.
+They may help convince more workplaces, apartments, malls, etc. to put in Level 2 AC charging, but that's not where the BEV infrastructure gap is."
+61375,Best RPG game on PS4,Assassins Creed Odyssey. Gorgeous open world game. Lots of fun.
+53951,best medicine for a cold,I trust **Horrendously Spicy Food**. Sweat till it hurts. Works great.
+55585,best action and adventure novel series,I'm about to restart it while I ponder my next series. Its been a few years since I finished it.
+67431,axios alternatives reddit,"> This was the main Use Case that prompted me to write this. I was also convinced it couldn't be done because of the Promise-based design.
 
 There is no mention about the progress being used for uploads only downloads? There is mention of uploads prior but not related to progress %. Your article should point out that it's usable for uploads if it works with uploads as well?(Haven't gone over it yet, but it didn't look like it'd work to me)
 
@@ -38,11 +38,11 @@ According to [this issue](https://github.com/whatwg/fetch/issues/577), it's not 
 
 > It requires chunked encoding which pretty much limits it to h2. (You can't negotiate chunked encoding in h1.1 until after request has been sent, which is too late.)
 
-Also browser support seems [a bit flakey still](https://caniuse.com/#feat=streams)(no good for IE, [experimental in FF](https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Using_readable_streams)). The spec seems to still be [under development](https://streams.spec.whatwg.org/)? But the ReadableStream uploading part was [merged into spec almost 2 years ago](https://github.com/whatwg/fetch/pull/425)... so still seems to be handled better atm via axios.",axios alternatives reddit
-45211,"My first running shoes, Nike Vomero 11. Totally life changing, because I used to get toe cramps all the time and now I don't.",best items under $100
-20899,PR anthem,best workout music
-33359,Autocorrect be inventing new cars,best electric car
-43077,"*Baptiste* has already begun airing on the BBC; no news yet on a US network picking it up, though.",best detective show
-13040,"You should give her a nice picture of you, and any siblings if you have them. Put it in a nice, small frame. My mom's similar to yours, but she asks for stuff like that every year",best gifts for mom
-4101,"Not exactly, Scotland has 4 years free higher education - for Scottish residents. International students - even from the EU (or as you point out the English) must still pay fees.",best online college
-24947,I just wish he was given more of a chance. His talent was wasted on Sony's desperate attempt to keep some rights...,best spiderman actor
+Also browser support seems [a bit flakey still](https://caniuse.com/#feat=streams)(no good for IE, [experimental in FF](https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Using_readable_streams)). The spec seems to still be [under development](https://streams.spec.whatwg.org/)? But the ReadableStream uploading part was [merged into spec almost 2 years ago](https://github.com/whatwg/fetch/pull/425)... so still seems to be handled better atm via axios."
+45211,best items under $100,"My first running shoes, Nike Vomero 11. Totally life changing, because I used to get toe cramps all the time and now I don't."
+20899,best workout music,PR anthem
+33359,best electric car,Autocorrect be inventing new cars
+43077,best detective show,"*Baptiste* has already begun airing on the BBC; no news yet on a US network picking it up, though."
+13040,best gifts for mom,"You should give her a nice picture of you, and any siblings if you have them. Put it in a nice, small frame. My mom's similar to yours, but she asks for stuff like that every year"
+4101,best online college,"Not exactly, Scotland has 4 years free higher education - for Scottish residents. International students - even from the EU (or as you point out the English) must still pay fees."
+24947,best spiderman actor,I just wish he was given more of a chance. His talent was wasted on Sony's desperate attempt to keep some rights...

@@ -1,11 +1,11 @@
-idx,text,query
-66087,"You can always [contact the /r/DVC mods](http://www.reddit.com/message/compose?to=%23DVC), kcg5 and daminkz, but three mods with only 5 readers seems a little bit of overkill. ;)
+idx,query,text
+66087,best college in california,"You can always [contact the /r/DVC mods](http://www.reddit.com/message/compose?to=%23DVC), kcg5 and daminkz, but three mods with only 5 readers seems a little bit of overkill. ;)
 
-The best thing would be to create a Google News Alert for ""Diablo Valley College"" and start posting good links to the reddit.",best college in california
-55245,"If you can't find a good loop, you can always hike out three days, turn around and hike back.",best places to hike in the east coast
-1896,"I’ve had this one actually, it’s alright compared to everything else I’ve had here.",best pizza place in Santa Barbara
-40906,"But it’s not necessarily easier, as there are other issues like embouchure that chordal instruments don’t have.",best instrument to play
-5957,"I was really just talking about scaling when I mentioned ""You aren't gonna need it"".
+The best thing would be to create a Google News Alert for ""Diablo Valley College"" and start posting good links to the reddit."
+55245,best places to hike in the east coast,"If you can't find a good loop, you can always hike out three days, turn around and hike back."
+1896,best pizza place in Santa Barbara,"I’ve had this one actually, it’s alright compared to everything else I’ve had here."
+40906,best instrument to play,"But it’s not necessarily easier, as there are other issues like embouchure that chordal instruments don’t have."
+5957,best programming language for web development,"I was really just talking about scaling when I mentioned ""You aren't gonna need it"".
 
 When it comes to schema design, that's an area where I would take the opposite attitude.  With schema design, you really want to ensure it won't be hard to expand/change things in the future.  
 
@@ -20,37 +20,37 @@ He was talking about git there, but it makes sense when thinking about a good SQ
 
 But obviously need to balance what's worth putting more time into now -vs- unlikely to be needed any time soon.
 
-I suggest normalizing the database as much as possible.  And make lots of uses on SQL VIEWs that JOIN tables together for most of your output/read queries.  I'm finding that more and more now, that I very rarely queries tables directly for the ""R"" (read) in CRUD.  Most of my queries used for displaying existing records to users comes from SQL VIEWs.  Makes things much simpler when dealing with permissions and soft-deletes etc too.",best programming language for web development
-6959,"Best iphone: 6/6s 
+I suggest normalizing the database as much as possible.  And make lots of uses on SQL VIEWs that JOIN tables together for most of your output/read queries.  I'm finding that more and more now, that I very rarely queries tables directly for the ""R"" (read) in CRUD.  Most of my queries used for displaying existing records to users comes from SQL VIEWs.  Makes things much simpler when dealing with permissions and soft-deletes etc too."
+6959,best iPhone,"Best iphone: 6/6s 
 
 Worst iphone: 5c
 
-Even tho i’ve never owned an 6/6s they seemed like such massive changes and leaps forward.",best iPhone
-44925,Wut. Dude... my light game is improving today. First the flashlight guy and now this.,best items under $100
-72539,*switch tester,best keyboard switches
-6642,"I was using an iPhone 6 I got from my mom until recently, now my younger brother is using it.
+Even tho i’ve never owned an 6/6s they seemed like such massive changes and leaps forward."
+44925,best items under $100,Wut. Dude... my light game is improving today. First the flashlight guy and now this.
+72539,best keyboard switches,*switch tester
+6642,best iPhone,"I was using an iPhone 6 I got from my mom until recently, now my younger brother is using it.
 
-I’m currently using an iPhone 7, again used from my mom.",best iPhone
-5897,"Seconding this. I've been writing a chess engine recently and for performance reasons I had to switch from Python to Golang, and I've been loving Go so far. It has pretty much most of what you want in a modern, compiled programming language.
+I’m currently using an iPhone 7, again used from my mom."
+5897,best programming language for web development,"Seconding this. I've been writing a chess engine recently and for performance reasons I had to switch from Python to Golang, and I've been loving Go so far. It has pretty much most of what you want in a modern, compiled programming language.
 
 In fact, Go honestly seems to follow Python's Zen better than Python does sometimes lol. Which...can be a good and bad thing sometimes (for example there's no ternary operator, since Go's philsophy is that there should be one, unambiguous way of doing something. But you get used to things like this pretty quick, and sometimes it really does  make you to write cleaner code).
 
 Oh, and the learning curve wasn't bad at all. Now keep in mind I have experience programming, so Go might not be the language to start with (emphasis on the might), but it's definitely a great modern language. 
 
-So OP and others, definitely check Go out, especially for people coming from languages like Python and Ruby who are hesitant to dive into a language like C++.",best programming language for web development
-11042,I was also looking to buy one but was turned off by negative reviews on their construction (all their bags seemed to fall apart around the end of the first year for the most part).,best backpack for college
-34531,He's an awesome player and awesome character but the get off my lawn vibe towards the rookie mettinberger took away some of his cool...and let's not forget the letterman jacket fiasco,best NFL player
-66197,You seem to have forgotten that teams also compete in domestic competitions...,best soccer team in the world
-25141,"Hands down had the best Spider-Man movies by a long shot, and yes he was the best Spider-Man also but Andrew Garfield and Tom Holland are both good too, they’re all very different versions of the hero as they’re all pretty good. But yeah Team Tobey.",best spiderman actor
-39893,"uBlock Origin is a must.  I've always had ABP, but uBlock is so much better.",best Chrome extensions
-33517,"Thank you, that's what my concerns were, range reductions.
+So OP and others, definitely check Go out, especially for people coming from languages like Python and Ruby who are hesitant to dive into a language like C++."
+11042,best backpack for college,I was also looking to buy one but was turned off by negative reviews on their construction (all their bags seemed to fall apart around the end of the first year for the most part).
+34531,best NFL player,He's an awesome player and awesome character but the get off my lawn vibe towards the rookie mettinberger took away some of his cool...and let's not forget the letterman jacket fiasco
+66197,best soccer team in the world,You seem to have forgotten that teams also compete in domestic competitions...
+25141,best spiderman actor,"Hands down had the best Spider-Man movies by a long shot, and yes he was the best Spider-Man also but Andrew Garfield and Tom Holland are both good too, they’re all very different versions of the hero as they’re all pretty good. But yeah Team Tobey."
+39893,best Chrome extensions,"uBlock Origin is a must.  I've always had ABP, but uBlock is so much better."
+33517,best electric car,"Thank you, that's what my concerns were, range reductions.
 
-I get wanting to not make a big deal about this during the early adoption phase of EVs. We don't want to scare folks away before things get rolling. Is it still too early to speak of this limitation?",best electric car
-17678,"chef town, evermerge, alchemiastory, june's journey, all the final fantasy games, especially mobius, record keeper, and brave exvius. i also like war of the visions, disney arena, obey me! otome, mystic messenger, moecanchange, some of the majhong games are fun if they have a story with them like mahjong journey or city tours, i like the secret society , mystery society, hidden city, jewels of the wild west, paranormal society, there are really an endless amount of free ios games that you can try. i also recommend getting a mudclient and playing MUD (Multi-User Dungeon) games on your phone.",best iOS game
-801,Pistachio Ice cream. Tbh I don't think it tastes like pistachio at all but the flavor is addictive!,best baskin robbins flavor reddit
-42555,"What did you think of S3? Great show, but I thought the first two seasons were much stronger.",best detective show
-25196,"John Mulaney was the best. I could watch Peter Porker in every movie. You name it, Peter Porker cameo.",best spiderman actor
-17990,"Kourtney 
+I get wanting to not make a big deal about this during the early adoption phase of EVs. We don't want to scare folks away before things get rolling. Is it still too early to speak of this limitation?"
+17678,best iOS game,"chef town, evermerge, alchemiastory, june's journey, all the final fantasy games, especially mobius, record keeper, and brave exvius. i also like war of the visions, disney arena, obey me! otome, mystic messenger, moecanchange, some of the majhong games are fun if they have a story with them like mahjong journey or city tours, i like the secret society , mystery society, hidden city, jewels of the wild west, paranormal society, there are really an endless amount of free ios games that you can try. i also recommend getting a mudclient and playing MUD (Multi-User Dungeon) games on your phone."
+801,best baskin robbins flavor reddit,Pistachio Ice cream. Tbh I don't think it tastes like pistachio at all but the flavor is addictive!
+42555,best detective show,"What did you think of S3? Great show, but I thought the first two seasons were much stronger."
+25196,best spiderman actor,"John Mulaney was the best. I could watch Peter Porker in every movie. You name it, Peter Porker cameo."
+17990,best Kardashian,"Kourtney 
 
 Kim
 
@@ -58,10 +58,10 @@ Kylie
 
 Kendall
 
-Khloe",best Kardashian
-24254,It's honestly impressive that Madoka is ranked at #4 since the first three shows are very old. And it looks like Madoka is the only anime from 2010s to rank on top 10.,best anime
-56351,Yeah. I also think 42 is still on the side of being too big but it’s a size I’m willing to work with unlike 48.,best desktop monitor
-23984,"My Top 10 Favourite Anime:
+Khloe"
+24254,best anime,It's honestly impressive that Madoka is ranked at #4 since the first three shows are very old. And it looks like Madoka is the only anime from 2010s to rank on top 10.
+56351,best desktop monitor,Yeah. I also think 42 is still on the side of being too big but it’s a size I’m willing to work with unlike 48.
+23984,best anime,"My Top 10 Favourite Anime:
 
 10th: The Seven Deadly Sins
 
@@ -81,7 +81,7 @@ Khloe",best Kardashian
 
 2nd: JoJo's Bizarre Adventure
 
-1st: Gintama",best anime
-68581,"It's not always old books; that's your prejudice shining through. 
+1st: Gintama"
+68581,best science fiction novel,"It's not always old books; that's your prejudice shining through. 
 
-Me, personally, I would immediately recommend *Blindsight* by Peter Watts, which was published in 2006. Neal Stephenson would be up there. Nancy Kress. I'm a little pissed off by your attitude or I could think of others. Good SciFi transcends the ages, but the best SciFi, the essential stuff, isn't always old.",best science fiction novel
+Me, personally, I would immediately recommend *Blindsight* by Peter Watts, which was published in 2006. Neal Stephenson would be up there. Nancy Kress. I'm a little pissed off by your attitude or I could think of others. Good SciFi transcends the ages, but the best SciFi, the essential stuff, isn't always old."

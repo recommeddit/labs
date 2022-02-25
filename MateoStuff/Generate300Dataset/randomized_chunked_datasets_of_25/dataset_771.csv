@@ -1,13 +1,13 @@
-idx,text,query
-33483,Then why did you use 60k as a cutoff?,best electric car
-53797,"My grandma drank a glass of HOT beer every day and never caught a cold. I pimped it: 1 pint of hot beer (don't boil!), add 2 teaspoons of honey and 2 or 3 drops of mint oil. Drink it slow, but DRINK it. Take 1 aspirin and go to bed. Make sure that there's fresh air in the room you are sleeping in. Wear something that will absorb sweat, because you will be transpiring like a boss (and that's good). If you don't have to work: take 3-4 garlic cloves, mash them. Add honey and (for Heaven's sake, just a drop or two!) tabasco. Swallow it slowly. Garlic is very antibacterial, but will turn you into an unpopular person. Sleep as much as you can. Believe me, I am undergoing that cure right now and feel a lot better than having to take chemical stuff. 
+idx,query,text
+33483,best electric car,Then why did you use 60k as a cutoff?
+53797,best medicine for a cold,"My grandma drank a glass of HOT beer every day and never caught a cold. I pimped it: 1 pint of hot beer (don't boil!), add 2 teaspoons of honey and 2 or 3 drops of mint oil. Drink it slow, but DRINK it. Take 1 aspirin and go to bed. Make sure that there's fresh air in the room you are sleeping in. Wear something that will absorb sweat, because you will be transpiring like a boss (and that's good). If you don't have to work: take 3-4 garlic cloves, mash them. Add honey and (for Heaven's sake, just a drop or two!) tabasco. Swallow it slowly. Garlic is very antibacterial, but will turn you into an unpopular person. Sleep as much as you can. Believe me, I am undergoing that cure right now and feel a lot better than having to take chemical stuff. 
 
 Btw: Grandma was 90 when she passed away in her sleep.
 
-Get well soon.",best medicine for a cold
-37198,Does this exclude Disney and Universal parks?,best amusement park
-8897,I've used arm and hammer advanced whitening for as long as I can remember (told I have healthy teeth). Is the baking soda in this not considered abrasive?,best toothpaste
-30837,"There are some things that make NZ a fantastic place to live, or at the very least seem like big selling points e.g:
+Get well soon."
+37198,best amusement park,Does this exclude Disney and Universal parks?
+8897,best toothpaste,I've used arm and hammer advanced whitening for as long as I can remember (told I have healthy teeth). Is the baking soda in this not considered abrasive?
+30837,best country to live in,"There are some things that make NZ a fantastic place to live, or at the very least seem like big selling points e.g:
 
 * Nothing here can kill you - We have no snakes, our spiders can't kill you and most of our native species are birds or bugs.  Even our police are safer because they don't carry guns for normal duty so people are rarely killed by police.
 * Public healthcare is actually a really good thing - If you live here and you need hospital level care then you won't pay so there are no big medical debts.
@@ -21,41 +21,41 @@ Things you don't realise until you're living here:
 * International travel is expensive, especially at times when a lot of people are travelling.  A lot of airlines that fly here have agreements with other airlines as well so you could be on a flight with people who booked through 3 different airlines.
 * The only time NZ is mentioned on TV or in movies is as the butt of a joke.
 
-Edit for formatting",best country to live in
-72888,"You are saying that you want to learn to run, maintain and modify the distro as deeply as you can.
+Edit for formatting"
+72888,best Linux distro,"You are saying that you want to learn to run, maintain and modify the distro as deeply as you can.
 
 Now, for new users I wouldn't normally say this but: ArchLinux. It's fantastic because it's purely a ""DYI"" distro. By setting everything up yourself you'll learn so much.
 
-If you try Arch, the best reading material is the arch wiki. It's brilliant.",best Linux distro
-35712,"Was a bartender at Applebee's
+If you try Arch, the best reading material is the arch wiki. It's brilliant."
+35712,best alcoholic drink,"Was a bartender at Applebee's
 
-LIIT prep, 1 gallon of sour mix and one 750ml bottle each. gut rot vodka, tequila, white rum, gin. Fill the glass with ice, pour in mix, top with a splash of coke for color and garnish with lemon if you feel like it and it isn't busy.",best alcoholic drink
-52908,Bruh I was doing this between classes. I'll add to it later.,best hiphop album
-26847,GH is $100 and 20lb…. Don’t know if that was an intentional exaggeration…,best board games
-11054,Fjallraven Raven is working pretty well for me.,best backpack for college
-47597,Bridges of Madison County if you're into that.,best state to visit in the United States
-72796,Depends on your budget,best wireless lightweight mouse
-47182,Jackson Hole Wyoming is probably one of the greatest places you will visit. Also south florida where i live.,best state to visit in the United States
-5961,"Cool, sounds good, have fun!
+LIIT prep, 1 gallon of sour mix and one 750ml bottle each. gut rot vodka, tequila, white rum, gin. Fill the glass with ice, pour in mix, top with a splash of coke for color and garnish with lemon if you feel like it and it isn't busy."
+52908,best hiphop album,Bruh I was doing this between classes. I'll add to it later.
+26847,best board games,GH is $100 and 20lb…. Don’t know if that was an intentional exaggeration…
+11054,best backpack for college,Fjallraven Raven is working pretty well for me.
+47597,best state to visit in the United States,Bridges of Madison County if you're into that.
+72796,best wireless lightweight mouse,Depends on your budget
+47182,best state to visit in the United States,Jackson Hole Wyoming is probably one of the greatest places you will visit. Also south florida where i live.
+5961,best programming language for web development,"Cool, sounds good, have fun!
 
 
 > Angular, React, Vue.
 
-I've been looking into these lately, and I'm going to go with React for now... seems to already have a heap of libararies that can already replace all the stuff jQuery ones I've used in the past... amazing how quickly they've all come out, and with quite a lot of options/functionality.  I'm also going to use React for both server and client side rendering.",best programming language for web development
-36909,haha. this looks spot on. SFOG is a bucket list park for sure. what was your favorite there?,best roller coaster at six flags
-6210,It's a great series but it jumps back and forth through time which is a bit jarring.,best Netflix documentary
-51384,Thanks for letting me know :),best iphone case
-49101,"I have a 32 inch Alienware ultrawide (3440x1440) with g-sync that runs at 120Hz. I like it quite a bit but I honestly wish I'd just opted for a 4K monitor instead - I want more vertical resolution.
+I've been looking into these lately, and I'm going to go with React for now... seems to already have a heap of libararies that can already replace all the stuff jQuery ones I've used in the past... amazing how quickly they've all come out, and with quite a lot of options/functionality.  I'm also going to use React for both server and client side rendering."
+36909,best roller coaster at six flags,haha. this looks spot on. SFOG is a bucket list park for sure. what was your favorite there?
+6210,best Netflix documentary,It's a great series but it jumps back and forth through time which is a bit jarring.
+51384,best iphone case,Thanks for letting me know :)
+49101,best gaming monitor,"I have a 32 inch Alienware ultrawide (3440x1440) with g-sync that runs at 120Hz. I like it quite a bit but I honestly wish I'd just opted for a 4K monitor instead - I want more vertical resolution.
 
 If you want the ""best"" gaming monitors, look for ones that do true HDR (i.e. over 1000 nits) with either G-Sync Ultimate or Freesync depending on what card you use, along with 144Hz+
 
-EDIT: I'd suggest the Acer X32 which can run G-Sync Ultimate at 200Hz and has a fantastic color gamut and 1440 nits HDR support. Cost is $3,600 but you said price wasn't a problem. review here"": https://www.cnet.com/news/acers-predator-x32-gaming-monitor-seems-awesome-its-also-3600-ces-2020/",best gaming monitor
-35768,"> Red headed slut
+EDIT: I'd suggest the Acer X32 which can run G-Sync Ultimate at 200Hz and has a fantastic color gamut and 1440 nits HDR support. Cost is $3,600 but you said price wasn't a problem. review here"": https://www.cnet.com/news/acers-predator-x32-gaming-monitor-seems-awesome-its-also-3600-ces-2020/"
+35768,best alcoholic drink,"> Red headed slut
 
-What do you want?",best alcoholic drink
-1157,Chortles :),best ice cream flavor
-60441,On the list!,Best comedy show on Netflix
-59238,So now I spill coffee daily on myself or what,best perfume
-11518,2 days quiet,best gifts for dad
-25261,"True, he immediately showed all the best aspects of spiderman",best spiderman actor
-3539,wait is the hotter weather=hotter people thing true? Makes sense lol,best college for research
+What do you want?"
+1157,best ice cream flavor,Chortles :)
+60441,Best comedy show on Netflix,On the list!
+59238,best perfume,So now I spill coffee daily on myself or what
+11518,best gifts for dad,2 days quiet
+25261,best spiderman actor,"True, he immediately showed all the best aspects of spiderman"
+3539,best college for research,wait is the hotter weather=hotter people thing true? Makes sense lol

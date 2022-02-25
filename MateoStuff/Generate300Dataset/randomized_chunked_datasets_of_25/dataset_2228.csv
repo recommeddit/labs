@@ -1,12 +1,12 @@
-idx,text,query
-12181,I feel you on that fluffy shit. My girlfriend got me a pair of plush llamas for Christmas and I ~~squealed~~ politely thanked her for such a thoughtful gift.,best gifts for dad
-28059,Waffles,best breakfast foods
-58814,Nuit d'issey is terrific. Sport is like the Budweiser of EDP's.,best cologne
-44917,"How do you target your back? My chiro has one of these and he uses it every time I throw something out and have to go see him; it makes a world of difference.
+idx,query,text
+12181,best gifts for dad,I feel you on that fluffy shit. My girlfriend got me a pair of plush llamas for Christmas and I ~~squealed~~ politely thanked her for such a thoughtful gift.
+28059,best breakfast foods,Waffles
+58814,best cologne,Nuit d'issey is terrific. Sport is like the Budweiser of EDP's.
+44917,best items under $100,"How do you target your back? My chiro has one of these and he uses it every time I throw something out and have to go see him; it makes a world of difference.
 
-I've seen these on Amazon and just never grabbed one cause I'm not sure how I can actually hit the trigger points on my back without becoming double jointed",best items under $100
-66450,We’re 9th?!?!? LETS GOO CABRONES!,best soccer team in the world
-16895,"Not in any particular order:
+I've seen these on Amazon and just never grabbed one cause I'm not sure how I can actually hit the trigger points on my back without becoming double jointed"
+66450,best soccer team in the world,We’re 9th?!?!? LETS GOO CABRONES!
+16895,best iOS game,"Not in any particular order:
 
 Minecraft
 
@@ -16,10 +16,10 @@ The Quest (and expansions!)
 
 868-HACK (hard to decide between this one and Imbroglio, I love them both)
 
-Mindustry (which just got an AWESOME UPDATE!!!)",best iOS game
-37901,"Not sure about worst but my favourites are homecoming, ragnarok, guardians, ant man 2. Endgame, infinity war and the first avengers film. The others are still really good but there my favourites. The fist and second Thor films were a bit boring",best Marvel movie
-45927,Kit Kats and the mini crunch bars,best trick or treating candy
-67667,"Well no, I'm sure it's not trivial when you don't understand promises and haven't even looked at a single page of Fetch documentation. I was going to write your code in a not insane way, but I got into it and I'm actually not even sure what you're trying to accomplish. 
+Mindustry (which just got an AWESOME UPDATE!!!)"
+37901,best Marvel movie,"Not sure about worst but my favourites are homecoming, ragnarok, guardians, ant man 2. Endgame, infinity war and the first avengers film. The others are still really good but there my favourites. The fist and second Thor films were a bit boring"
+45927,best trick or treating candy,Kit Kats and the mini crunch bars
+67667,axios alternatives reddit,"Well no, I'm sure it's not trivial when you don't understand promises and haven't even looked at a single page of Fetch documentation. I was going to write your code in a not insane way, but I got into it and I'm actually not even sure what you're trying to accomplish. 
 
 This is what most of my quick-n-dirty fetches look like and I guess what you're trying to do? I'm not really sure why you're trying to create new Promises from within a Promise or trying to parse JSON from text instead of using the json response parser...... 
 
@@ -37,19 +37,19 @@ Edit: lol I looked at your links after I posted this code and this is almost ide
 
 How did you pull that insane code out of your butt based on this? It's literally ""if not ok, throw error""... how is this not trivial? Why are you rejecting instead of throwing? Why are you resolving instead of returning? Why do you have a weird `JSON.parse(res.text())` instead of `res.json()`, you're not even testing for any different return types or anything? Did you even look at those the answers in those links or just see a long winded confused question and decide to link them? 
 
-You know what, don't answer. I'm just going to disable replies.",axios alternatives reddit
-73074,Same reason lol. Package management in debian based distros is such a clusterfuck. Pacman is superior to apt imo.,best Linux distro
-15318,Destroyers of planets.,best tree for the garden
-5707,How to find the clients?,best programming language for web development
-36569,Bourbon on the rocks with a splash of water.,best alcoholic drink
-41614,Yesssss. I feel like Possessor went kind of unnoticed. It was easily my favorite movie last year.,movies like Inception
-44455,"One of those headband flashlights. Buy one and thank me later.
+You know what, don't answer. I'm just going to disable replies."
+73074,best Linux distro,Same reason lol. Package management in debian based distros is such a clusterfuck. Pacman is superior to apt imo.
+15318,best tree for the garden,Destroyers of planets.
+5707,best programming language for web development,How to find the clients?
+36569,best alcoholic drink,Bourbon on the rocks with a splash of water.
+41614,movies like Inception,Yesssss. I feel like Possessor went kind of unnoticed. It was easily my favorite movie last year.
+44455,best items under $100,"One of those headband flashlights. Buy one and thank me later.
 
- My brother's wife made fun of him for getting me  one for Christmas. Turned out to be one of the most practical, useful gifts I've ever received. I use it at all the time.",best items under $100
-54960,"I live on a well that's in the Marcellus shale...we have some of the poorest water quality in the country (lots of iron, calcium, and sulfur.) We do have a water softener and a millipore line filter that gets rid of a lot of the junk as it's coming into the building, but we still get rust stains and rotten egg smell with the water, especially after it rains. That is to say, it's so bad that a good water treatment system doesn't get rid of it all.
+ My brother's wife made fun of him for getting me  one for Christmas. Turned out to be one of the most practical, useful gifts I've ever received. I use it at all the time."
+54960,best water filter,"I live on a well that's in the Marcellus shale...we have some of the poorest water quality in the country (lots of iron, calcium, and sulfur.) We do have a water softener and a millipore line filter that gets rid of a lot of the junk as it's coming into the building, but we still get rust stains and rotten egg smell with the water, especially after it rains. That is to say, it's so bad that a good water treatment system doesn't get rid of it all.
 
-We use a pur filter water pitcher. It may not get everything, but it definitely makes the water palatable. Without it the water tastes awful. Gets expensive, though...we have to replace the filter twice a often as recommended.",best water filter
-62703,"1. Shadowblunder 5, gates of discordance
+We use a pur filter water pitcher. It may not get everything, but it definitely makes the water palatable. Without it the water tastes awful. Gets expensive, though...we have to replace the filter twice a often as recommended."
+62703,Best RPG game on PS4,"1. Shadowblunder 5, gates of discordance
 2. Winds of moronicord, rad edition
 3. The impenetrable 6, still impenetrable
 4. Fortress of unkindness, tales of belonging
@@ -58,14 +58,14 @@ We use a pur filter water pitcher. It may not get everything, but it definitely 
 7. SLAP! 9, weakened hand 
 8. Borgancia & Akindot go to school
 9. Westerwinds, tale of southcharms
-10. KARMA BEMCHMARX",Best RPG game on PS4
-46302,"2-3 ""fun size"" bars is easily enough per kid. Some houses will just give one. Also, you should leave your door closed and just watch t.v. or something. They will knock.",best trick or treating candy
-13777,"~~Incorrect! That rule was put in place explicitly in 1974. Watson, Crick, and Wilkins won their Nobel in 1962.~~
+10. KARMA BEMCHMARX"
+46302,best trick or treating candy,"2-3 ""fun size"" bars is easily enough per kid. Some houses will just give one. Also, you should leave your door closed and just watch t.v. or something. They will knock."
+13777,best research paper archive,"~~Incorrect! That rule was put in place explicitly in 1974. Watson, Crick, and Wilkins won their Nobel in 1962.~~
 
-Edit: So, as pointed out below, it has been noted that posthumous awards were possible before 1974, but not posthumous nominations.",best research paper archive
-57913,Lacoste Essential. Everyone wears Aqua di Gio and Abercrombie but those smell really good too.,best cologne
-57364,Was about to reply this too. Imagine paying for bottled water. I only drink it when I get it for free from an event or something. I prefer a simple reusable bottle not because I’m some uwu environmentalist type but because I just like getting water without paying for it.,best water brand
-11403,thank god i'm black,best gifts for dad
-27253,Thanks for clarifying that you’re not trying to pump the literal largest market cap companies on earth. I have to admit that was my suspicion.,best stocks to buy
-73478,"Some folks on this subreddit made [this wonderful guide](https://docs.google.com/spreadsheets/d/1T3npea9QoEtCpQor8W25_VSJTgXuy6QgCEvt4FrHMvA/edit#gid=0). You can figure out what mAh value you need, and then compare weights and costs.",best battery bank
-22294,Adam Sandler.,best celebrity
+Edit: So, as pointed out below, it has been noted that posthumous awards were possible before 1974, but not posthumous nominations."
+57913,best cologne,Lacoste Essential. Everyone wears Aqua di Gio and Abercrombie but those smell really good too.
+57364,best water brand,Was about to reply this too. Imagine paying for bottled water. I only drink it when I get it for free from an event or something. I prefer a simple reusable bottle not because I’m some uwu environmentalist type but because I just like getting water without paying for it.
+11403,best gifts for dad,thank god i'm black
+27253,best stocks to buy,Thanks for clarifying that you’re not trying to pump the literal largest market cap companies on earth. I have to admit that was my suspicion.
+73478,best battery bank,"Some folks on this subreddit made [this wonderful guide](https://docs.google.com/spreadsheets/d/1T3npea9QoEtCpQor8W25_VSJTgXuy6QgCEvt4FrHMvA/edit#gid=0). You can figure out what mAh value you need, and then compare weights and costs."
+22294,best celebrity,Adam Sandler.

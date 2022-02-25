@@ -1,15 +1,15 @@
-idx,text,query
-36389,IPAs,best alcoholic drink
-16836,You could have her volunteer at an animal shelter so she gets time around pets and also gets to understand the responsibility that goes into taking care of them.,best pet for toddlers
-50609,Watching Movies with the sound off had some incredibly producing,best rap album
-51227,It just sounded like pieces of different Kanye albums quickly thrown together,best rap album
-6332,The Pharmacist,best Netflix documentary
-9143,That's the trick. Use a hammer and you'll never have to clean them again.,best toothpaste
-2198,So glad to see that someone did something with Paesano's. That dude that used to own the place made me not want to get food there.,best pizza place in Santa Barbara
-13678,Nice repost. Even used the SAME fucking link.,best research paper archive
-37814,"Most of the appeal, for me, was Simu Liu and Awkwafina. I want a D+ series of them hanging out. I could watch them all day.",best Marvel movie
-40714,Voice and drums are more satisfying but piano and guitar are waaaaay more impressive.,best instrument to play
-67540,"For `fetch`, you might want to replace that
+idx,query,text
+36389,best alcoholic drink,IPAs
+16836,best pet for toddlers,You could have her volunteer at an animal shelter so she gets time around pets and also gets to understand the responsibility that goes into taking care of them.
+50609,best rap album,Watching Movies with the sound off had some incredibly producing
+51227,best rap album,It just sounded like pieces of different Kanye albums quickly thrown together
+6332,best Netflix documentary,The Pharmacist
+9143,best toothpaste,That's the trick. Use a hammer and you'll never have to clean them again.
+2198,best pizza place in Santa Barbara,So glad to see that someone did something with Paesano's. That dude that used to own the place made me not want to get food there.
+13678,best research paper archive,Nice repost. Even used the SAME fucking link.
+37814,best Marvel movie,"Most of the appeal, for me, was Simu Liu and Awkwafina. I want a D+ series of them hanging out. I could watch them all day."
+40714,best instrument to play,Voice and drums are more satisfying but piano and guitar are waaaaay more impressive.
+67540,axios alternatives reddit,"For `fetch`, you might want to replace that
 
     if (res.status !== 200) {
     }
@@ -21,26 +21,26 @@ with
 
 `res.ok` will be true if and only if the status code is greater than or equal to 200 and less than ~~400~~ 300.
 
-I'm pretty sure you know and just made a typo, but you'll also want to `await` that `res.json()`.",axios alternatives reddit
-25965,Man that middle order is stuff of dreams,best cricket teams of all time
-52987,RICH GANG THAT TOUR PT 1 IS A CLASSIC,best hiphop album
-40142,">eplyGive AwardshareReportSave
+I'm pretty sure you know and just made a typo, but you'll also want to `await` that `res.json()`."
+25965,best cricket teams of all time,Man that middle order is stuff of dreams
+52987,best hiphop album,RICH GANG THAT TOUR PT 1 IS A CLASSIC
+40142,best Chrome extensions,">eplyGive AwardshareReportSave
 
-good selection!",best Chrome extensions
-28519,It varies from person to person.,best breakfast foods
-39205,Vivaldi it's got great customization like theme schedule and tab placement plus it can use all chrome extensions,best web browser
-56940,This Poland Spring bottle I have right now says 100%,best water brand
-16572,"I’d vote no on hamsters personally. 
+good selection!"
+28519,best breakfast foods,It varies from person to person.
+39205,best web browser,Vivaldi it's got great customization like theme schedule and tab placement plus it can use all chrome extensions
+56940,best water brand,This Poland Spring bottle I have right now says 100%
+16572,best pet for toddlers,"I’d vote no on hamsters personally. 
 
 They’re just a mess. They can escape (neighbor just cut through her drywall because somehow hamster got in there and then couldn’t get back out), they don’t always do well in pairs (had 2 growing up. Well 1, who always killed her partner so a rotating second hamster), and they get the shits and die pretty easily (niece upgraded her hamster to a dog when it died a week after they brought it home). One of my friends got one and her therapist was like ‘wtf were you thinking? Never get a hamster!’ Lol. 
 
-I know you said space is tight, but a small dog might be a good fit. Particularly if you can find an older one that is good with kids. We had our Pomeranian in 2 NYC apartments that were like ~800 sq feet and he was fine with it. He got walks twice a day and mostly wanted to sit near the window and sunbathe.",best pet for toddlers
-66546,Wasn't any better under Koeman though was it? We have been laying like shit for years.,best soccer team in the world
-16786,"Well, you want an animal you don't have to exercise or groom or take outside to potty... that's not a dog.",best pet for toddlers
-43040,Bron/Broen,best detective show
-47220,"Boston Massachusetts, best aquarium in the world. Plus am winning if you're up for it.",best state to visit in the United States
-29094,I've tried it and it's pretty decent overall but again  it's not very esthetically pleasing :(,best calendar tool
-44460,"I'm glad at least one of the groups listened to you.  I've met a lot of folks who do SAR/PSAR, and they all seem to agree that people greatly overestimate their own abilities and underestimate the environment.
+I know you said space is tight, but a small dog might be a good fit. Particularly if you can find an older one that is good with kids. We had our Pomeranian in 2 NYC apartments that were like ~800 sq feet and he was fine with it. He got walks twice a day and mostly wanted to sit near the window and sunbathe."
+66546,best soccer team in the world,Wasn't any better under Koeman though was it? We have been laying like shit for years.
+16786,best pet for toddlers,"Well, you want an animal you don't have to exercise or groom or take outside to potty... that's not a dog."
+43040,best detective show,Bron/Broen
+47220,best state to visit in the United States,"Boston Massachusetts, best aquarium in the world. Plus am winning if you're up for it."
+29094,best calendar tool,I've tried it and it's pretty decent overall but again  it's not very esthetically pleasing :(
+44460,best items under $100,"I'm glad at least one of the groups listened to you.  I've met a lot of folks who do SAR/PSAR, and they all seem to agree that people greatly overestimate their own abilities and underestimate the environment.
 
-For my part, I'm totally okay if everyone else on the trail makes fun of me for being overprepared.  I'd rather be the nerd who takes extra water, snacks, a headlamp, a first aid kit, compass and topo map, and layers on a simple 4 mi. hike than risk becoming just another statistic.  I've also had to give folks some of my water on more than one occasion (too many people seem to think a 20 oz. bottle of Dasani will be sufficient for a 5+ mi hike in the desert or mountains), so I often carry an extra bottle tucked in my pack.",best items under $100
-8067,"The last one WOULD be here, but he died of tooth decay.",best toothpaste
+For my part, I'm totally okay if everyone else on the trail makes fun of me for being overprepared.  I'd rather be the nerd who takes extra water, snacks, a headlamp, a first aid kit, compass and topo map, and layers on a simple 4 mi. hike than risk becoming just another statistic.  I've also had to give folks some of my water on more than one occasion (too many people seem to think a 20 oz. bottle of Dasani will be sufficient for a 5+ mi hike in the desert or mountains), so I often carry an extra bottle tucked in my pack."
+8067,best toothpaste,"The last one WOULD be here, but he died of tooth decay."

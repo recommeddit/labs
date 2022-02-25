@@ -1,6 +1,6 @@
-idx,text,query
-34242,They seem to think Rodgers is the 10th best player in the NFL.  I wouldn't put much stock in these lists.,best NFL player
-5685,"I think you can get freelance work for sure, but I also think ""digital nomad"" jobs can be full-time. There are a good number of startups who really need good front-end work that have no location requirements. 
+idx,query,text
+34242,best NFL player,They seem to think Rodgers is the 10th best player in the NFL.  I wouldn't put much stock in these lists.
+5685,best programming language for web development,"I think you can get freelance work for sure, but I also think ""digital nomad"" jobs can be full-time. There are a good number of startups who really need good front-end work that have no location requirements. 
 
 I spent a very long time making a lot of money (over six figures USD) doing nothing but highly customized WordPress themes. The work was 90%+ HTML/CSS with light JS (mostly changing container classes to trigger CSS states) with the rest being the PHP to insert WP template tags. (You can hire this out very easily; I did that for the last few years even though I know how to do it myself.)
 
@@ -8,35 +8,35 @@ Don't fall into the trap of believing that there's a magical quantity of knowled
 
 You'll pick up skills with experience. I recommend picking up as many as you can over time, because it keeps the job exciting. But no matter what you work on, HTML/CSS will come up. And JS will be close behind. 
 
-Good luck!",best programming language for web development
-53303,"try ugreen, very happy with mine!",best usb c charging cable
-68854,"Good christ, of everything on that list this one is getting me the most.  Fantasy?  Stormlight.  Scifi?  Stormlight.  Epic?  Stormlight.  Grimdark?  Stormlight.  
+Good luck!"
+53303,best usb c charging cable,"try ugreen, very happy with mine!"
+68854,best science fiction novel,"Good christ, of everything on that list this one is getting me the most.  Fantasy?  Stormlight.  Scifi?  Stormlight.  Epic?  Stormlight.  Grimdark?  Stormlight.  
 
-I swear I could ask for a recommendation and put ""please no mormon authors"" and get recommended stormlight just because why not",best science fiction novel
-67304,"Same, I use `node-fetch` for node things as well.",axios alternatives reddit
-19853,"[Shinzou wo Sasageyo! ](https://youtu.be/mM9eplEO6JM) but really, nearly all the themes from Attack on Titan are workout bangers for your inner weeb",best workout music
-8653,"Man, I can't wait for [Keep32](http://www.cbsnews.com/8301-504763_162-57470345-10391704/can-keep-32-chemical-keep-you-cavity-free/) to hit the market.",best toothpaste
-72810,"That's a great idea, I am fast learner. I don't want to try on VM, but I can install with my Windows right ?",best Linux distro
-71021,2000,best movies with a cool twist
-35222,"Pour out half a 2L and fill the rest with Rye, good to go all day ice fishing",best alcoholic drink
-28851,"Someone a while back posted a protein pancake recipe made from oats, half a banana, and 4 egg whites. I've made it twice, adding in some of my own stuff, and it's worked wonders for me. If you want, I can link you the original recipe and my own modified version.
+I swear I could ask for a recommendation and put ""please no mormon authors"" and get recommended stormlight just because why not"
+67304,axios alternatives reddit,"Same, I use `node-fetch` for node things as well."
+19853,best workout music,"[Shinzou wo Sasageyo! ](https://youtu.be/mM9eplEO6JM) but really, nearly all the themes from Attack on Titan are workout bangers for your inner weeb"
+8653,best toothpaste,"Man, I can't wait for [Keep32](http://www.cbsnews.com/8301-504763_162-57470345-10391704/can-keep-32-chemical-keep-you-cavity-free/) to hit the market."
+72810,best Linux distro,"That's a great idea, I am fast learner. I don't want to try on VM, but I can install with my Windows right ?"
+71021,best movies with a cool twist,2000
+35222,best alcoholic drink,"Pour out half a 2L and fill the rest with Rye, good to go all day ice fishing"
+28851,best breakfast foods,"Someone a while back posted a protein pancake recipe made from oats, half a banana, and 4 egg whites. I've made it twice, adding in some of my own stuff, and it's worked wonders for me. If you want, I can link you the original recipe and my own modified version.
 
-Also, oatmeal in general.",best breakfast foods
-56503,"Edit: I don't mean to hijack this thread, just wanted to give my opinion.
+Also, oatmeal in general."
+56503,best desktop monitor,"Edit: I don't mean to hijack this thread, just wanted to give my opinion.
 
-Not enough to make it worth paying too much more, I have a 23 inch HP at 60hz and a same size 75hz Asus monitor, both at 1440p, I can't tell much of a difference if any between. Contrasting my 75hz monitor to my friends 144hz monitor shows the huge leap, I regret my choice for two and would happily go with one now and then another later.",best desktop monitor
-41936,"Used to be on Netflix but isn't right now, Enter the Void",movies like Inception
-69353,COmputer science. I did Info Systems/security,best major to study in college
-44321,"As a librarian, welcome back! We've missed you.",best items under $100
-13794,"I don't think the idea that they stole or used data from Franklin is unknown. While I do think it's important that people are aware of this, that fact is not really relevant to the discussion at hand, which is about well written and concise papers.",best research paper archive
-48510,"I would push them on the price. Also, we went with Dover White and it looks great as an off White choice.",best color to paint with
-22821,"Probably too late to jump in this conversation, but I filmed a documentary on clean water and sanitation in rural villages in India.  Matt Damon contacted my group (about 5 students on a low budget) and said he heard about what we were doing and that he'd be in India.  Ended up spending some time with him and his brother (and Gary White) and traveling from village to village.  People didn't know who the famous person was (they knew one of us was famous though) and would come up and great all of us with equal excitement.  The whole time Matt just chatted us up about what we wanted to do with our lives, basketball, issues related to our film, etc.  Seriously a great dude.  I have loads of respect for him.  He also gave us a killer interview and in one of the villages, the kids had prepared a song for him...he responded later in the day by singing a song for them.",best celebrity
-36110,"""Swamp water"" from my neck of the woods.",best alcoholic drink
-10486,protip: zip-tie the lock to the handle so they dont move the zipper.,best suitcase lock
-67822,I’ve been using superagent because I like and use callbacks. Axios callback support was lacking when I tried it.,axios alternatives reddit
-39601,"I'm not aware of any show like that, but I would definitely listen if someone wanted to make it!",best podcast for biologists
-1637,You're fantastic thank you!,best ice cream flavor
-39831,"The difference as far as I can tell is that Reddit ads are actually hosted by Reddit, so it's harder to block them. Most websites load ads externally, which is honestly even worse because they don't have to worry about bandwidth on their servers when loading up tons of ads.
+Not enough to make it worth paying too much more, I have a 23 inch HP at 60hz and a same size 75hz Asus monitor, both at 1440p, I can't tell much of a difference if any between. Contrasting my 75hz monitor to my friends 144hz monitor shows the huge leap, I regret my choice for two and would happily go with one now and then another later."
+41936,movies like Inception,"Used to be on Netflix but isn't right now, Enter the Void"
+69353,best major to study in college,COmputer science. I did Info Systems/security
+44321,best items under $100,"As a librarian, welcome back! We've missed you."
+13794,best research paper archive,"I don't think the idea that they stole or used data from Franklin is unknown. While I do think it's important that people are aware of this, that fact is not really relevant to the discussion at hand, which is about well written and concise papers."
+48510,best color to paint with,"I would push them on the price. Also, we went with Dover White and it looks great as an off White choice."
+22821,best celebrity,"Probably too late to jump in this conversation, but I filmed a documentary on clean water and sanitation in rural villages in India.  Matt Damon contacted my group (about 5 students on a low budget) and said he heard about what we were doing and that he'd be in India.  Ended up spending some time with him and his brother (and Gary White) and traveling from village to village.  People didn't know who the famous person was (they knew one of us was famous though) and would come up and great all of us with equal excitement.  The whole time Matt just chatted us up about what we wanted to do with our lives, basketball, issues related to our film, etc.  Seriously a great dude.  I have loads of respect for him.  He also gave us a killer interview and in one of the villages, the kids had prepared a song for him...he responded later in the day by singing a song for them."
+36110,best alcoholic drink,"""Swamp water"" from my neck of the woods."
+10486,best suitcase lock,protip: zip-tie the lock to the handle so they dont move the zipper.
+67822,axios alternatives reddit,I’ve been using superagent because I like and use callbacks. Axios callback support was lacking when I tried it.
+39601,best podcast for biologists,"I'm not aware of any show like that, but I would definitely listen if someone wanted to make it!"
+1637,best ice cream flavor,You're fantastic thank you!
+39831,best Chrome extensions,"The difference as far as I can tell is that Reddit ads are actually hosted by Reddit, so it's harder to block them. Most websites load ads externally, which is honestly even worse because they don't have to worry about bandwidth on their servers when loading up tons of ads.
 
-It's probably still possible to block Reddit ads, so just give it some time I guess.",best Chrome extensions
-9270,Alright looks like I'm gonna retire this toothpaste. Thank you!,best toothpaste
+It's probably still possible to block Reddit ads, so just give it some time I guess."
+9270,best toothpaste,Alright looks like I'm gonna retire this toothpaste. Thank you!

@@ -1,18 +1,18 @@
-idx,text,query
-3225,I paid €60 for this in February and just looked up the exact same link I bought from and it’s €100. Crazy. I’m very happy with mine and would definitely buy it again for €100 if that was my budget. It doesn’t do great with natural sunlight ( not sure if others do ) so I stay in a darkish corner while using it ( streaming or recording ) and have other lights to shine on my face like desk lights and its great!,best webcamera
-16440,I like the Mumen Rider one and the one which looks like  anti-solar ecplise glasses the most,best sunglasses for fashion
-51835,Are you going to make a video “12 iPhone 12s”,best iphone case
-38214,"The problem is, who decides what is credible and what is not? It's the watchman problem all over again. Ultimately, regarding most political issues, accuracy cannot be easily determined without research and thus a paper that balances its bias would be more likely to present a neutral viewpoint than one which just shows ""correct"" information, as I'm sure both Fox News and nbc believe what they are spouting is true and sourced.",best newspapers to read
-5401,Repair clinic. How to's. Appliance & lawn/outdoor equipment parts. Weird shit you're not going to find at a big box.,best home improvement store
-12194,Lets be real here ... we all want LEGOs.,best gifts for dad
-27791,I eat this almost every morning. I can't help but love me a bagel breakfast sandwich.,best breakfast foods
-57226,"the purest water possible is distilled, and it tastes horrible. 
+idx,query,text
+3225,best webcamera,I paid €60 for this in February and just looked up the exact same link I bought from and it’s €100. Crazy. I’m very happy with mine and would definitely buy it again for €100 if that was my budget. It doesn’t do great with natural sunlight ( not sure if others do ) so I stay in a darkish corner while using it ( streaming or recording ) and have other lights to shine on my face like desk lights and its great!
+16440,best sunglasses for fashion,I like the Mumen Rider one and the one which looks like  anti-solar ecplise glasses the most
+51835,best iphone case,Are you going to make a video “12 iPhone 12s”
+38214,best newspapers to read,"The problem is, who decides what is credible and what is not? It's the watchman problem all over again. Ultimately, regarding most political issues, accuracy cannot be easily determined without research and thus a paper that balances its bias would be more likely to present a neutral viewpoint than one which just shows ""correct"" information, as I'm sure both Fox News and nbc believe what they are spouting is true and sourced."
+5401,best home improvement store,Repair clinic. How to's. Appliance & lawn/outdoor equipment parts. Weird shit you're not going to find at a big box.
+12194,best gifts for dad,Lets be real here ... we all want LEGOs.
+27791,best breakfast foods,I eat this almost every morning. I can't help but love me a bagel breakfast sandwich.
+57226,best water brand,"the purest water possible is distilled, and it tastes horrible. 
 
-it all depends on which water tastes the best to you.  personally i really like french water like evian and vittel.  i can't tell the difference between most expensive brands like voss or fiji and tap water.  but french water has a really distinct flavor/mouthfeel.  luckily i found the local grocery store near me has a generic mineral water that tastes just like evian and is waaay cheaper.",best water brand
-67487,"I think I prefer maintaining the use of the `catch`, because if the `get` was to return an error, then I don't think it will go into the `then` block.
+it all depends on which water tastes the best to you.  personally i really like french water like evian and vittel.  i can't tell the difference between most expensive brands like voss or fiji and tap water.  but french water has a really distinct flavor/mouthfeel.  luckily i found the local grocery store near me has a generic mineral water that tastes just like evian and is waaay cheaper."
+67487,axios alternatives reddit,"I think I prefer maintaining the use of the `catch`, because if the `get` was to return an error, then I don't think it will go into the `then` block.
 
-I could be mistaken though.",axios alternatives reddit
-4492,"I'm using **VS Code** and I prefer **Text Editor** rather than an **IDE**.
+I could be mistaken though."
+4492,best text editor,"I'm using **VS Code** and I prefer **Text Editor** rather than an **IDE**.
 
 &#x200B;
 
@@ -20,23 +20,23 @@ I chose VS Code over Atom cause it's more lightweight than atom, loads faster an
 
 it's also supports extensions and have an active community.
 
-(being lightweight, fast and being an Editor nor an IDE were my factors)",best text editor
-62249,"I have gear that is better than gear levels above me! The game gave me legendary gear when I wasn’t  even level thirty. Plus, the bounty hunters are all much higher levels than me so they give me equipment that I can’t unlock for a while and when I get to that level I’ve gotten better rewards from main missions. I’m about level thirty six now, and most of my gear is legendary level thirty equipment. So, no matter how much grinding I do, it’s always useless. I guess that’s why it’s joyless for me.",Best RPG game on PS4
-38232,Yeah but the quality of journalism in The Wall St Journal has declined since Murdoch bought it.,best newspapers to read
-17256,"Triggered (lmao) that OP didn’t include HLD in his post, easily one of the best game I’ve played this year, so satisfying.",best iOS game
-38264,"They and the entire profession of economics live under that delusion. The econ sub-reddit once tried to ban ""political"" content...yeah, try and figure out the logistics of that.",best newspapers to read
-4389,"It depends on the language and the quality of the addon. JS and TS for example are directly integrated and work perfectly with all the features that you describe, and I heard the C# one is also quite nice.
+(being lightweight, fast and being an Editor nor an IDE were my factors)"
+62249,Best RPG game on PS4,"I have gear that is better than gear levels above me! The game gave me legendary gear when I wasn’t  even level thirty. Plus, the bounty hunters are all much higher levels than me so they give me equipment that I can’t unlock for a while and when I get to that level I’ve gotten better rewards from main missions. I’m about level thirty six now, and most of my gear is legendary level thirty equipment. So, no matter how much grinding I do, it’s always useless. I guess that’s why it’s joyless for me."
+38232,best newspapers to read,Yeah but the quality of journalism in The Wall St Journal has declined since Murdoch bought it.
+17256,best iOS game,"Triggered (lmao) that OP didn’t include HLD in his post, easily one of the best game I’ve played this year, so satisfying."
+38264,best newspapers to read,"They and the entire profession of economics live under that delusion. The econ sub-reddit once tried to ban ""political"" content...yeah, try and figure out the logistics of that."
+4389,best text editor,"It depends on the language and the quality of the addon. JS and TS for example are directly integrated and work perfectly with all the features that you describe, and I heard the C# one is also quite nice.
 
-I remember that PHP and Ruby with Sublime and Atom were crap to use though, so I always went back to Jetbrains. Dunno about the VS Code equivalents",best text editor
-37658,"For me it’s the opposite, awesome movie but meh character. Probably spoiled by Christopher Priests interpretation of the character.",best Marvel movie
-40368,"The 2 mentioned cards have about equal performance, but the RX 580 is usually cheaper.",best midrange GPU
-61682,"Persona 5 Royal is a must play, period. *Specially*, if you like RPG and anime.
+I remember that PHP and Ruby with Sublime and Atom were crap to use though, so I always went back to Jetbrains. Dunno about the VS Code equivalents"
+37658,best Marvel movie,"For me it’s the opposite, awesome movie but meh character. Probably spoiled by Christopher Priests interpretation of the character."
+40368,best midrange GPU,"The 2 mentioned cards have about equal performance, but the RX 580 is usually cheaper."
+61682,Best RPG game on PS4,"Persona 5 Royal is a must play, period. *Specially*, if you like RPG and anime.
 
-If you liked BotW, Horizon: Zero Dawn might be right up your alley.",Best RPG game on PS4
-18236,This has the same tasteful mix of pathetic and awkward cringe as a Parks and Rec scene,best YouTube video
-41815,"If you're anything like me (these are all in my ""favorites"") you'll love most or all of them!",movies like Inception
-18647,I love the care and research The 8 Bit Guy puts into good videos. It is really interesting learning about various old computers.,best YouTube video
-51960,I leave it up to on my desk to tap it for time or if I got any notifications.,best iphone case
-37966,Let's not count the trolls,best Marvel movie
-56579,"If you're used to using one monitor already though, getting a second monitor isn't a bad idea for non-gaming uses.  If you're trying to watch content on the second monitor while you play games though, unfortunately it probably will cause problems.  If you have a place near you with a good return policy on monitors, or even a friend who can lend you a monitor, it wouldn't hurt to test it out on your system and see whether it causes issues or not.  Some people do say that their setup doesn't have any issues, but I think those people either don't recognize that their system actually does have problems, or maybe they're just super lucky.",best desktop monitor
-41017,"Saxophone. It’s very responsive, and the fingerings are the easiest to learn of any woodwind. Plus there’s so much popular music that includes saxes, so there’s plenty of music to play for fun. If clarinet was easy for you, sax will be even easier. I’ve played clarinet for over a decade, gotten a degree in music performance on clarinet. I’ve played sax for half as long and haven’t studied it as intensely, and can do just as much if not more on sax than clarinet. It’s just a very forgiving instrument.",best instrument to play
+If you liked BotW, Horizon: Zero Dawn might be right up your alley."
+18236,best YouTube video,This has the same tasteful mix of pathetic and awkward cringe as a Parks and Rec scene
+41815,movies like Inception,"If you're anything like me (these are all in my ""favorites"") you'll love most or all of them!"
+18647,best YouTube video,I love the care and research The 8 Bit Guy puts into good videos. It is really interesting learning about various old computers.
+51960,best iphone case,I leave it up to on my desk to tap it for time or if I got any notifications.
+37966,best Marvel movie,Let's not count the trolls
+56579,best desktop monitor,"If you're used to using one monitor already though, getting a second monitor isn't a bad idea for non-gaming uses.  If you're trying to watch content on the second monitor while you play games though, unfortunately it probably will cause problems.  If you have a place near you with a good return policy on monitors, or even a friend who can lend you a monitor, it wouldn't hurt to test it out on your system and see whether it causes issues or not.  Some people do say that their setup doesn't have any issues, but I think those people either don't recognize that their system actually does have problems, or maybe they're just super lucky."
+41017,best instrument to play,"Saxophone. It’s very responsive, and the fingerings are the easiest to learn of any woodwind. Plus there’s so much popular music that includes saxes, so there’s plenty of music to play for fun. If clarinet was easy for you, sax will be even easier. I’ve played clarinet for over a decade, gotten a degree in music performance on clarinet. I’ve played sax for half as long and haven’t studied it as intensely, and can do just as much if not more on sax than clarinet. It’s just a very forgiving instrument."

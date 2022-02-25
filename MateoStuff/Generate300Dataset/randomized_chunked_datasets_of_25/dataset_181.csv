@@ -1,24 +1,24 @@
-idx,text,query
-61791,Valkyria Chronicles doesn't get mentioned enough. Love that game.,Best RPG game on PS4
-46158,I really love candy corn tbh,best trick or treating candy
-57265,Gallon jugs of distilled water from the grocery store plus Third Wave will do the trick,best water brand
-52288,"yes, i twas",best hiphop album
-24284,"I think Haruhi used to be a lot more popular than it is now.  It used to be in the top 5 on MAL.
+idx,query,text
+61791,Best RPG game on PS4,Valkyria Chronicles doesn't get mentioned enough. Love that game.
+46158,best trick or treating candy,I really love candy corn tbh
+57265,best water brand,Gallon jugs of distilled water from the grocery store plus Third Wave will do the trick
+52288,best hiphop album,"yes, i twas"
+24284,best anime,"I think Haruhi used to be a lot more popular than it is now.  It used to be in the top 5 on MAL.
 
-Haruhi is actually the first anime series that I watched, so I guess you could say that it got me into anime.",best anime
-29090,Google calendar,best calendar tool
-55702,The Jack Crow scenes serve to ultimately build up to provide a basis for the redemption of Felix as a person and not just The Engine.,best action and adventure novel series
-73057,"debian for the servers, ubuntu for the desktops.",best Linux distro
-16816,I think a plush dog is what you are looking for,best pet for toddlers
-21534,3 Months. Well done,best winnie the pooh comic
-37681,Well this system sucks lol. Black Panther at 1 and Infinity War at 10 immediately threw me off.,best Marvel movie
-27354,"ABBV for dividends, ESGU, JNJ, and SMH for growth. ORGN for innovation/disruption. The co-CEO has been touted as the Elon Musk of chemical engineering. 
+Haruhi is actually the first anime series that I watched, so I guess you could say that it got me into anime."
+29090,best calendar tool,Google calendar
+55702,best action and adventure novel series,The Jack Crow scenes serve to ultimately build up to provide a basis for the redemption of Felix as a person and not just The Engine.
+73057,best Linux distro,"debian for the servers, ubuntu for the desktops."
+16816,best pet for toddlers,I think a plush dog is what you are looking for
+21534,best winnie the pooh comic,3 Months. Well done
+37681,best Marvel movie,Well this system sucks lol. Black Panther at 1 and Infinity War at 10 immediately threw me off.
+27354,best stocks to buy,"ABBV for dividends, ESGU, JNJ, and SMH for growth. ORGN for innovation/disruption. The co-CEO has been touted as the Elon Musk of chemical engineering. 
 
-The others I don’t own, except a few shares so far in FORG.",best stocks to buy
-44200,as long as you don't shove your nails in your asshole like a savage you'll be good,best items under $100
-23983,"Watamote, 1997 Berserk, Toradora, kill la kill,  Anohana, High Score Girl,  Amagi Brilliant Park, Demon Slayer, My Hero, any Miyazaki film",best anime
-65969,The community colleges pump out nurses so they'd be up there and the program is usually only 2 years.,best college in california
-58970,"I’m going to try my hand at this. I’m a woman in my early 20s. This list is also in no order, and it’s all over the place since I’m really indecisive! I also own mostly sample sizes and small decants. I’ve also only got 9 to put on the list so appologies! 
+The others I don’t own, except a few shares so far in FORG."
+44200,best items under $100,as long as you don't shove your nails in your asshole like a savage you'll be good
+23983,best anime,"Watamote, 1997 Berserk, Toradora, kill la kill,  Anohana, High Score Girl,  Amagi Brilliant Park, Demon Slayer, My Hero, any Miyazaki film"
+65969,best college in california,The community colleges pump out nurses so they'd be up there and the program is usually only 2 years.
+58970,best perfume,"I’m going to try my hand at this. I’m a woman in my early 20s. This list is also in no order, and it’s all over the place since I’m really indecisive! I also own mostly sample sizes and small decants. I’ve also only got 9 to put on the list so appologies! 
 
 1) Tocca Stella by Tocca - this was my perfume throughout high school and there’s something wonderfully nostalgic in the oranges
 
@@ -36,18 +36,18 @@ The others I don’t own, except a few shares so far in FORG.",best stocks to bu
 
 8) Sì by Giorgio Armani - it’s pleasant and simple, I wear this to work most days. 
 
-9) Fleur de Portofino by Tom Ford - flowery, possibly my favourite scent. A gift from an ex boyfriend so I don’t wear as often, but it makes me think of being outside at a flower garden",best perfume
-65052,Do you think this is a knock against the article or you?,best places to eat in Santa Barbara
-3348,"Hey man thanks for this, I already have a really insane pc but I just decided to get into streaming and I was about to drop a lot of money on a webcam cause I figured I needed a good one if I wanted to get any kind of viewers but I just ordered the c270 cause I realized that I’m just starting and I’m doing it for fun so I shouldn’t invest to much money!",best webcamera
-69403,"What if your department only has about 4 people in it? Granted, I've taken classes from all of them by now, but who else should I be networking with? 
- English creative writing major here, graduating in May.",best major to study in college
-256,"I love Dolphin, but one of my most requested features is to order ""hidden files and folders"" at the bottom (similar to the default behavior in Nemo).
+9) Fleur de Portofino by Tom Ford - flowery, possibly my favourite scent. A gift from an ex boyfriend so I don’t wear as often, but it makes me think of being outside at a flower garden"
+65052,best places to eat in Santa Barbara,Do you think this is a knock against the article or you?
+3348,best webcamera,"Hey man thanks for this, I already have a really insane pc but I just decided to get into streaming and I was about to drop a lot of money on a webcam cause I figured I needed a good one if I wanted to get any kind of viewers but I just ordered the c270 cause I realized that I’m just starting and I’m doing it for fun so I shouldn’t invest to much money!"
+69403,best major to study in college,"What if your department only has about 4 people in it? Granted, I've taken classes from all of them by now, but who else should I be networking with? 
+ English creative writing major here, graduating in May."
+256,best terminal file manager reddit,"I love Dolphin, but one of my most requested features is to order ""hidden files and folders"" at the bottom (similar to the default behavior in Nemo).
 
-This request was rejected because [every option makes the code more complex, and adds additional code paths](https://bugs.kde.org/show_bug.cgi?id=333219), which blew my mind considering the millions of options within KDE.",best terminal file manager reddit
-41378,Skin conch shell.,best instrument to play
-399,"Dired within Emacs, and I'm in Emacs all the time anyway. I've tried most of the others mentioned here and I just prefer it. I'd rather use one thing, and if it lacks a feature I can just write a bit of elisp.",best terminal file manager reddit
-50696,Tyron is so so good,best rap album
-65800,"The state also comes away looking really good when you just look at the public school rankings.  Using the same rankings service (US News & World Report National Universities Ranking) here are CA's schools among the [nation's public universities](https://www.usnews.com/best-colleges/rankings/national-universities/top-public?_mode=table):  
+This request was rejected because [every option makes the code more complex, and adds additional code paths](https://bugs.kde.org/show_bug.cgi?id=333219), which blew my mind considering the millions of options within KDE."
+41378,best instrument to play,Skin conch shell.
+399,best terminal file manager reddit,"Dired within Emacs, and I'm in Emacs all the time anyway. I've tried most of the others mentioned here and I just prefer it. I'd rather use one thing, and if it lacks a feature I can just write a bit of elisp."
+50696,best rap album,Tyron is so so good
+65800,best college in california,"The state also comes away looking really good when you just look at the public school rankings.  Using the same rankings service (US News & World Report National Universities Ranking) here are CA's schools among the [nation's public universities](https://www.usnews.com/best-colleges/rankings/national-universities/top-public?_mode=table):  
 
 Public School Rank | School
 ---|---
@@ -96,5 +96,5 @@ Takeaways:
 
 * CA has 6 out of the Top 11 in the public school rankings.
 * SDSU and Fresno State managed to get ranked in the National Universities rankings despite being CSU campuses.  The other 21 Cal State campuses, including Cal Poly SLO, are in the Regional Universities (West) rankings with the exception of Cal Maritime, which is listed in the Regional Colleges (West) category.
-* With UC Merced rising to a tie for 44th place among public schools, the 9 UC campuses with undergraduate populations now all boast a ranking better than or equal to the best public schools in 25 US states.",best college in california
-10529,That or a flare gun,best suitcase lock
+* With UC Merced rising to a tie for 44th place among public schools, the 9 UC campuses with undergraduate populations now all boast a ranking better than or equal to the best public schools in 25 US states."
+10529,best suitcase lock,That or a flare gun

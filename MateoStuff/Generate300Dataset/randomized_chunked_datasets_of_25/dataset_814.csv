@@ -1,11 +1,11 @@
-idx,text,query
-62913,It’s easy to find...there’s memes galore.,Best Data Science textbook
-14728,The Lover by Margarette Duras and the Kindness of Women by J.G. Ballard.,best romantic novel
-37419,"Busch Gardens Williamsburg in Virginia, followed closely by Dollywood in Tennessee.",best amusement park
-50585,"Being a studio engineer doesn't make you any more qualified to judge what the best produced rap album is.  I hated yeezus and didn't think it worked at all; I thought most if the songs on it were just annoying or abrasive.  
-Mbdtf I thought was great from front to back. Each song was very different but it still sounded good as a whole. I enjoyed all the instrumentals a lot even though I don't think kanye is generally the best lyricist by any means.",best rap album
-34094,"He absolutely did not reach his potential. He played with a God awful offense. If he had been with a team that actually could have blocked for him, or made it so he wasn't their only option, he would have demolished defenses.",best NFL player
-1406,"All of them. \*mic drop\*
+idx,query,text
+62913,Best Data Science textbook,It’s easy to find...there’s memes galore.
+14728,best romantic novel,The Lover by Margarette Duras and the Kindness of Women by J.G. Ballard.
+37419,best amusement park,"Busch Gardens Williamsburg in Virginia, followed closely by Dollywood in Tennessee."
+50585,best rap album,"Being a studio engineer doesn't make you any more qualified to judge what the best produced rap album is.  I hated yeezus and didn't think it worked at all; I thought most if the songs on it were just annoying or abrasive.  
+Mbdtf I thought was great from front to back. Each song was very different but it still sounded good as a whole. I enjoyed all the instrumentals a lot even though I don't think kanye is generally the best lyricist by any means."
+34094,best NFL player,"He absolutely did not reach his potential. He played with a God awful offense. If he had been with a team that actually could have blocked for him, or made it so he wasn't their only option, he would have demolished defenses."
+1406,best ice cream flavor,"All of them. \*mic drop\*
 
 &#x200B;
 
@@ -13,37 +13,37 @@ Mbdtf I thought was great from front to back. Each song was very different but i
 
 EDIT: It's sad that this is my most upvoted comment lol (I don't even have 1k karma)
 
-EDIT 2: ok it is not sad anymore this has over 50",best ice cream flavor
-46801,Scope on your stinky testicles was recommended on Reddit awhile back.,best hand santizer brand
-22261,I love Dave Sedaris!,best celebrity
-49633,Ye they're nice. Ideally I want a 4k one. I've been using a 32 for so long now I think if I went to a 27 it would feel like a postage stamp.,best gaming monitor
-42943,Penny dreadful,best detective show
-52043,I just need a case that is MagSafe puck compatible with a spigen car mount…,best iphone case
-63903,b-ok.cc,best place to pirate audiobooks reddit
-33763,For me it's not about power. It's about the sound of the engine as it races to the red line. The light shaking of the car at idle and the increases in gs as the turbos kick in. There's so much more going on than just acceleration which is why you see so many people rave about slower cars like the miata and s2000.,best electric car
-30453,"I quote Bart Simpson: ""There are no good wars, with the following exceptions: The American Revolution, World War II, and the Star Wars Trilogy""",best Mexican war to study
-4803,"In my town I have a Lowes directly across the street from a Home Depot.  I usually go to one, until for what ever reason, it pisses me off and then I go to the other, and I continue this cycle.  If both have ticked me off at the same time, I'll then go to Menards.  I don't really care for Menards, they seem overpriced...",best home improvement store
-42934,"Definitely check out Evil Genius on Netflix and The Jinx on HBO. The latter was really crazy in that there was some follow-up craziness in real time as the show came out and as a result of what the show revealed, which was nuts to behold. Won't have the same impact now but the story itself is crazy.
+EDIT 2: ok it is not sad anymore this has over 50"
+46801,best hand santizer brand,Scope on your stinky testicles was recommended on Reddit awhile back.
+22261,best celebrity,I love Dave Sedaris!
+49633,best gaming monitor,Ye they're nice. Ideally I want a 4k one. I've been using a 32 for so long now I think if I went to a 27 it would feel like a postage stamp.
+42943,best detective show,Penny dreadful
+52043,best iphone case,I just need a case that is MagSafe puck compatible with a spigen car mount…
+63903,best place to pirate audiobooks reddit,b-ok.cc
+33763,best electric car,For me it's not about power. It's about the sound of the engine as it races to the red line. The light shaking of the car at idle and the increases in gs as the turbos kick in. There's so much more going on than just acceleration which is why you see so many people rave about slower cars like the miata and s2000.
+30453,best Mexican war to study,"I quote Bart Simpson: ""There are no good wars, with the following exceptions: The American Revolution, World War II, and the Star Wars Trilogy"""
+4803,best home improvement store,"In my town I have a Lowes directly across the street from a Home Depot.  I usually go to one, until for what ever reason, it pisses me off and then I go to the other, and I continue this cycle.  If both have ticked me off at the same time, I'll then go to Menards.  I don't really care for Menards, they seem overpriced..."
+42934,best detective show,"Definitely check out Evil Genius on Netflix and The Jinx on HBO. The latter was really crazy in that there was some follow-up craziness in real time as the show came out and as a result of what the show revealed, which was nuts to behold. Won't have the same impact now but the story itself is crazy.
 
-Drama-wise, definitely check out Breaking Bad, The Sopranos and The Wire if you haven't already. All absolutely top notch TV. And by that I mean arguably the best of all time.",best detective show
-21971,What a dude.,best celebrity
-32586,"I kinda agree with this. I don't know if I'll feel different for a honey moon, but currently my gf and I are really into going places and staying at someone's home/apartment rather than a hotel. Services like [airbnb](http://www.airbnb.com) make it really safe, easy and cheap.
+Drama-wise, definitely check out Breaking Bad, The Sopranos and The Wire if you haven't already. All absolutely top notch TV. And by that I mean arguably the best of all time."
+21971,best celebrity,What a dude.
+32586,best vacation resort,"I kinda agree with this. I don't know if I'll feel different for a honey moon, but currently my gf and I are really into going places and staying at someone's home/apartment rather than a hotel. Services like [airbnb](http://www.airbnb.com) make it really safe, easy and cheap.
 
 We recently finished a trip to Paris, somewhere I thought I'd never see. [This was our apartment view](http://i.imgur.com/1Yh0Wvp.jpg). It was really cool to live like a local, go down to the local cafés and order drinks and breakfast. By the end of the trip, this one cafe knew our orders.
 
-I mean, it's cool to relax and shit, but honestly you pay so much money to get to a far off destination. Do you really want to spend it taking sterile tours and hiding in your hotel's beach front?",best vacation resort
-5269,"Australian Site but still a great store (Ships to Aus - NZ and USA)
+I mean, it's cool to relax and shit, but honestly you pay so much money to get to a far off destination. Do you really want to spend it taking sterile tours and hiding in your hotel's beach front?"
+5269,best home improvement store,"Australian Site but still a great store (Ships to Aus - NZ and USA)
 
 &#x200B;
 
- [Toy Universe](https://www.toyuniverse.com.au)",best home improvement store
-30038,"Up for this! I used to switch around apps after a few months but since I used this I never looked back. All the reports are very useful which is missing from the other apps. Set up is not really complicated. I have all my ATMs, Credit Cards, Loan, and even Investment portfolio in the app. That way I see a complete picture of my financial standing at anytime.
+ [Toy Universe](https://www.toyuniverse.com.au)"
+30038,best money managing app,"Up for this! I used to switch around apps after a few months but since I used this I never looked back. All the reports are very useful which is missing from the other apps. Set up is not really complicated. I have all my ATMs, Credit Cards, Loan, and even Investment portfolio in the app. That way I see a complete picture of my financial standing at anytime.
 
 Also very quick replies for any question via email.
 
-I think Bluecoins is also Filipino-made so I didn't mind paying the P100-200 for all the premium features (one-time payment).",best money managing app
-53255,"This. Turn your phone off and use a needle or safety pin in there, get that pocket lint out.",best usb c charging cable
-3686,"Ah yes, the blue banana. The least appetizing of bananas.",best college for research
-62845,We are using BMA quite often. But then 3/5 data scientist/analysts (job title is unclear in our org) went to the same uni and wrote their thesis for the same prof.,Best Data Science textbook
-69207,Director-level business development,best major to study in college
-28323,"I don't eat breakfast normally but on the weekends my favourite brunch is bacon and cheese fritters. Basically I fry some bacon, mix with two grated potatoes, small can of sweet corn, bunch of chives, two eggs, some cheddar and 1/4 cup flour then fry them. I top them with greek yoghurt mixed with garlic and it serves two to three people. Sooo delicious but it's unhealthy so I don't eat it often.",best breakfast foods
+I think Bluecoins is also Filipino-made so I didn't mind paying the P100-200 for all the premium features (one-time payment)."
+53255,best usb c charging cable,"This. Turn your phone off and use a needle or safety pin in there, get that pocket lint out."
+3686,best college for research,"Ah yes, the blue banana. The least appetizing of bananas."
+62845,Best Data Science textbook,We are using BMA quite often. But then 3/5 data scientist/analysts (job title is unclear in our org) went to the same uni and wrote their thesis for the same prof.
+69207,best major to study in college,Director-level business development
+28323,best breakfast foods,"I don't eat breakfast normally but on the weekends my favourite brunch is bacon and cheese fritters. Basically I fry some bacon, mix with two grated potatoes, small can of sweet corn, bunch of chives, two eggs, some cheddar and 1/4 cup flour then fry them. I top them with greek yoghurt mixed with garlic and it serves two to three people. Sooo delicious but it's unhealthy so I don't eat it often."

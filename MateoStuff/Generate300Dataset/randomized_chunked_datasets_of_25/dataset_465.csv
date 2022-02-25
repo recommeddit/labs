@@ -1,30 +1,30 @@
-idx,text,query
-28017,French toast. I could eat a loaf of it without issue.,best breakfast foods
-27390,"Amyris AMRS, they are big in genomics and precision fermentation, already make 400 mio. In revenue with a market cap of 4 billion $ and the future looks bright for them. You can take a look at them in r/Amyris",best stocks to buy
-25796,"Yeah. My Dad told me to try to see the best in everyone, but the truth is that the more I hear about that fella, the more I don't care for him...",best cricket teams of all time
-44638,Which pillow?,best items under $100
-53253,"I recently purchased a (less than) $10 Anker microUSB cable, and in glad to see I made the right choice!",best usb c charging cable
-31399,I meant on purchases alone..not too sure about the annual tax part,best country to live in
-39294,"If Firefox is using an unexpected amount of RAM, report a bug by following the steps below:
+idx,query,text
+28017,best breakfast foods,French toast. I could eat a loaf of it without issue.
+27390,best stocks to buy,"Amyris AMRS, they are big in genomics and precision fermentation, already make 400 mio. In revenue with a market cap of 4 billion $ and the future looks bright for them. You can take a look at them in r/Amyris"
+25796,best cricket teams of all time,"Yeah. My Dad told me to try to see the best in everyone, but the truth is that the more I hear about that fella, the more I don't care for him..."
+44638,best items under $100,Which pillow?
+53253,best usb c charging cable,"I recently purchased a (less than) $10 Anker microUSB cable, and in glad to see I made the right choice!"
+31399,best country to live in,I meant on purchases alone..not too sure about the annual tax part
+39294,best web browser,"If Firefox is using an unexpected amount of RAM, report a bug by following the steps below:
 
 1. Open ```about:memory?verbose``` in a new tab.
 2. Click *Measure and save...*
 3. Attach the memory report to a [new bug](https://bugzilla.mozilla.org/enter_bug.cgi?product=Core&component=Memory%20Allocator)
 4. Paste your ```about:support``` info (Click *Copy text to clipboard*) to your bug.
 
-> [If you are experiencing a bug, the best way to ensure that something can be done about your bug is to report it in Bugzilla. This might seem a little bit intimidating for somebody who is new to bug reporting, but Mozillians are really nice!](http://dblohm7.ca/blog/2014/08/14/diffusion-of-responsibility/)",best web browser
-4484,Sublime Text 3 is honestly the best. Beautiful syntax and customizability,best text editor
-41500,Piano,best instrument to play
-28660,"As an American, I gladly submit defeat. We can't be fat asses in *every* meal.",best breakfast foods
-31400,"Aaah, sorry. 21% on luxury goods, 9-11% on basic needs",best country to live in
-2474,I  use Shure in ear headphones for monitoring and for he sound isolation properties during other things. The combination of the sound isolation and the better quality audio made me rewatch a lot of movies and see what I am missing withoutnoutside distractions. I would highly recommend the se315 or se415 if you are just starting.,best headphones
-17211,Minecraft and Terraria,best iOS game
-14413,"I really liked it, I thought it had lots of options. She could be a Bea, Trixie, or just straight Beatrix. I thought it had style! Hopefully she won’t hate me for my choice. She’s only just over a year old.",best romantic novel
-54042,This one intrigues me.  Writing it down for future use.,best medicine for a cold
-66779,"Argentina had 27 million people in 1978, and 30 million in 1986. Both years in which it won the World Cup. It currently has 45 million people.
+> [If you are experiencing a bug, the best way to ensure that something can be done about your bug is to report it in Bugzilla. This might seem a little bit intimidating for somebody who is new to bug reporting, but Mozillians are really nice!](http://dblohm7.ca/blog/2014/08/14/diffusion-of-responsibility/)"
+4484,best text editor,Sublime Text 3 is honestly the best. Beautiful syntax and customizability
+41500,best instrument to play,Piano
+28660,best breakfast foods,"As an American, I gladly submit defeat. We can't be fat asses in *every* meal."
+31400,best country to live in,"Aaah, sorry. 21% on luxury goods, 9-11% on basic needs"
+2474,best headphones,I  use Shure in ear headphones for monitoring and for he sound isolation properties during other things. The combination of the sound isolation and the better quality audio made me rewatch a lot of movies and see what I am missing withoutnoutside distractions. I would highly recommend the se315 or se415 if you are just starting.
+17211,best iOS game,Minecraft and Terraria
+14413,best romantic novel,"I really liked it, I thought it had lots of options. She could be a Bea, Trixie, or just straight Beatrix. I thought it had style! Hopefully she won’t hate me for my choice. She’s only just over a year old."
+54042,best medicine for a cold,This one intrigues me.  Writing it down for future use.
+66779,best soccer team in the world,"Argentina had 27 million people in 1978, and 30 million in 1986. Both years in which it won the World Cup. It currently has 45 million people.
 
-[Source.](https://www.worldometers.info/world-population/argentina-population/)",best soccer team in the world
-62667,"1. Might & Magic VII
+[Source.](https://www.worldometers.info/world-population/argentina-population/)"
+62667,Best RPG game on PS4,"1. Might & Magic VII
 2. Wizardry 8
 3. Grimoire: Heralds of the Winged Exemplar
 4. Dark Souls
@@ -35,10 +35,10 @@ idx,text,query
 9. Legend of Grimrock II
 10. ADOM
 
-I tried to limt myself to one title per series. Otherwise it would be full of Might & Magic and Final Fantasy titles. The order of the top 10 would also vary depending on my mood.",Best RPG game on PS4
-40166,But the speeds of the 16 GBs would differ from one another,best midrange CPU
-62220,It goes on sale for under $30 quite often which i think is worth the price,Best RPG game on PS4
-16917,"Archero 
+I tried to limt myself to one title per series. Otherwise it would be full of Might & Magic and Final Fantasy titles. The order of the top 10 would also vary depending on my mood."
+40166,best midrange CPU,But the speeds of the 16 GBs would differ from one another
+62220,Best RPG game on PS4,It goes on sale for under $30 quite often which i think is worth the price
+16917,best iOS game,"Archero 
 
 Soul Knight
 
@@ -46,9 +46,9 @@ Otherworld Legends
 
 Mobile Legends
 
-Night Of The Full Moon",best iOS game
-2639,"Oh, hey Lachlan 🙋",best headphones
-48488,Well my frame has wheels for a reason!,best color to paint with
-27867,Cheese Omelette. Enough to make my mouth water.,best breakfast foods
-32211,"Ha, a ""joint effort"".",best hotel to live in
-44729,I bought the same drill!  It’s been a champ for nearly 20 years and will likely last me the rest of my life.,best items under $100
+Night Of The Full Moon"
+2639,best headphones,"Oh, hey Lachlan 🙋"
+48488,best color to paint with,Well my frame has wheels for a reason!
+27867,best breakfast foods,Cheese Omelette. Enough to make my mouth water.
+32211,best hotel to live in,"Ha, a ""joint effort""."
+44729,best items under $100,I bought the same drill!  It’s been a champ for nearly 20 years and will likely last me the rest of my life.

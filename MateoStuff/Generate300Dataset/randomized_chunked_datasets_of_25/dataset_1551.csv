@@ -1,11 +1,11 @@
-idx,text,query
-62114,I'm playing God of War right now and I am THOUROUGHLY enjoying it,Best RPG game on PS4
-13636,"Another thing most people don't know about: journals don't run free of cost. They have staff and other important expenses. Support them when you can, since they mostly run on soft money.",best research paper archive
-8910,What brand of toothpaste do you recommend?  What about any pharmacy products like SF 5000?,best toothpaste
-18092,It’s an expression that means someone’s a bit dumb,best Kardashian
-36016,"Pickle juice is great for hydrating as well. I can't remember who, but there was a NFL coach who would keep it on the sideline.",best alcoholic drink
-42743,Hotel Beau Sejour and Tabula Rasa (this one is especially spectacular),best detective show
-34067,"Alright, let's start with the games I haven't played and my estimations of where they'd likely rank if I had. For context, I got into the Pokemon craze near the end of Gen 4 and beginning of Gen 5 and while Explorers of Time was my first ever Pokemon game, Black and White was my first main series game, so bear in mind I have a biased opinion:
+idx,query,text
+62114,Best RPG game on PS4,I'm playing God of War right now and I am THOUROUGHLY enjoying it
+13636,best research paper archive,"Another thing most people don't know about: journals don't run free of cost. They have staff and other important expenses. Support them when you can, since they mostly run on soft money."
+8910,best toothpaste,What brand of toothpaste do you recommend?  What about any pharmacy products like SF 5000?
+18092,best Kardashian,It’s an expression that means someone’s a bit dumb
+36016,best alcoholic drink,"Pickle juice is great for hydrating as well. I can't remember who, but there was a NFL coach who would keep it on the sideline."
+42743,best detective show,Hotel Beau Sejour and Tabula Rasa (this one is especially spectacular)
+34067,best Pokemon game,"Alright, let's start with the games I haven't played and my estimations of where they'd likely rank if I had. For context, I got into the Pokemon craze near the end of Gen 4 and beginning of Gen 5 and while Explorers of Time was my first ever Pokemon game, Black and White was my first main series game, so bear in mind I have a biased opinion:
 
 I haven't played Yellow and it would basically be the same as Red and Blue with slightly more colour anyway, so only slightly higher.
 
@@ -28,18 +28,18 @@ I haven't played Diamond & Pearl, but it would likely be in the bottom half due 
 11. X & Y - These games aren't that bad in my opinion, but between the dumbing down of boss battles, excessive Gen 1 pandering and unremarkable story, I can see why people dislike these games so much. However, it also introduced some of the best designs in the series despite there being less Pokemon and the almighty power of Mega Evolution, which I found to be an interesting concept. This is another middle of the road game for me, but is lower than RS because of how poorly Mega Evolution was handled. (looking at you, Mega Mewtwo X and Y)
 12. Red & Blue - I admit, these games may be a glitchy mess, but that's part of what makes them so entertaining, watching Jrose11's videos and finding out just how bad the AI is is hilarious and interesting and while I do agree for the most part that these games haven't aged well, I still have fond memories of playing Pokemon Blue on my Dad's old Gameboy, then Red on the virtual console. Also, like I said before, the story is done well for how simple it is. The problems I have with it are obvious; the AI is bad, grinding's atrocious, there are as many meh Pokemon as there are good ones and there's nothing to do after catching Mewtwo.
 13. Sword & Shield - Keep in mind I've only played through the main campaign but these were the only games I felt guilty for enjoying. The story was the worst in the series apart from the Gym Battles and while Raid Battles were fun for a time, I didn't like the commercialised nature Pokemon was going in, which really turned me off wanting to spend my time and money on the Isle of Armour and Crown Tundra. Adding to this, the Pokemon designs weren't super well done in my opinion with a few exceptions and the Pro-National Dex protestors made me feel guilty for not boycotting the game.
-14. Gold & Silver - I honestly don't like these games, they embody all of the problems I have with HGSS, but with next to none of their redeeming qualities. To add to this, they're just too easy, I might have had trouble with Whitney's Miltank before, but with my experience on the virtual console I was able to beat it easily. The AI in general in these games isn't great and most of the Johto Pokemon are forgettable, not being helped by the fact that again, Johto is infested with Kanto Pokemon. Gen 2 is in a weird spot overall when it comes to Pokemon I think; It lacks the buggy entertainment factor that Gen 1 provided, but isn't advanced enough to compare to Gen 3's innovation when it came to Abilities. Seriously, just play HGSS.",best Pokemon game
-47881,"Yea, I wasn't sure of which subreddit to post it on",best graphing calculator for vector calculus
-57955,Frankincense oil.,best cologne
-22702,"And here I was, hoping this was an actual subreddit.",best celebrity
-20583,Right now - Korn,best workout music
-10900,I once tried to ship a pelican but it was just making too much noise. Just getting it into a suitcase was a real struggle.,best suitcase lock
-66287,I wouldn't.,best soccer team in the world
-27937,I believe you mean sweet aroma. Sweat aroma would be interesting though....,best breakfast foods
-68671,"Revelation space is EXACTLY what I love about hard sci-fi and space opera. I've read pretty much everything Reynolds has written. The Three Body Problem trilogy is next on my list of books to read. I think Niven's Ringworld/known space universe is worth a mention too (the five Fleet of Worlds novels only, as the rest is older than 18 years)",best science fiction novel
-14062,"check r/Piracy megathread, has lots of good ebook pirate sites",best place to get free books
-37564,Mt. Olympus in Wisconsin.,best amusement park
-40334,">why the downvotes you dipshits? 12th gen intel is buggy, pricey, and runs hot. I am providing sound advice.
+14. Gold & Silver - I honestly don't like these games, they embody all of the problems I have with HGSS, but with next to none of their redeeming qualities. To add to this, they're just too easy, I might have had trouble with Whitney's Miltank before, but with my experience on the virtual console I was able to beat it easily. The AI in general in these games isn't great and most of the Johto Pokemon are forgettable, not being helped by the fact that again, Johto is infested with Kanto Pokemon. Gen 2 is in a weird spot overall when it comes to Pokemon I think; It lacks the buggy entertainment factor that Gen 1 provided, but isn't advanced enough to compare to Gen 3's innovation when it came to Abilities. Seriously, just play HGSS."
+47881,best graphing calculator for vector calculus,"Yea, I wasn't sure of which subreddit to post it on"
+57955,best cologne,Frankincense oil.
+22702,best celebrity,"And here I was, hoping this was an actual subreddit."
+20583,best workout music,Right now - Korn
+10900,best suitcase lock,I once tried to ship a pelican but it was just making too much noise. Just getting it into a suitcase was a real struggle.
+66287,best soccer team in the world,I wouldn't.
+27937,best breakfast foods,I believe you mean sweet aroma. Sweat aroma would be interesting though....
+68671,best science fiction novel,"Revelation space is EXACTLY what I love about hard sci-fi and space opera. I've read pretty much everything Reynolds has written. The Three Body Problem trilogy is next on my list of books to read. I think Niven's Ringworld/known space universe is worth a mention too (the five Fleet of Worlds novels only, as the rest is older than 18 years)"
+14062,best place to get free books,"check r/Piracy megathread, has lots of good ebook pirate sites"
+37564,best amusement park,Mt. Olympus in Wisconsin.
+40334,best midrange CPU,">why the downvotes you dipshits? 12th gen intel is buggy, pricey, and runs hot. I am providing sound advice.
 
 12th gen is not ""buggy"" as there are very simple fixes that let games run just fine. This wont (And isn't even now just by turning off e-cores with the press of a button) be an issue.
 
@@ -49,9 +49,9 @@ It also only runs hot under very specific scenarios that 95% of users will never
 
 Everything you said is fairly wrong. There's no reason as of today, 11/16/21 to be going with AMD and a 5600/5800x unless you are looking to save $100 and really cant afford spending the extra.
 
-TL;DR: The $100 extra for a $200 z690 DDR4 board is worth the extra money. And the CPU is better at the same price range. And you get way better futureproofing. And it runs less hot at \*most\* tasks aside from stress testing reasons. And the ""buggy"" aspect is overrated and easily fixed and reverted once your done playing one of the 50 games that doesn't work (And will probably get fixed anyway).",best midrange CPU
-64020,No problem :),best place to pirate audiobooks reddit
-22396,"After college, I was living the intern life in New York, so I had to hunt around for a job that would be fine with me working just evenings. The first call I got was Kmart, so for about a month, I worked at Kmart Penn Station. 
+TL;DR: The $100 extra for a $200 z690 DDR4 board is worth the extra money. And the CPU is better at the same price range. And you get way better futureproofing. And it runs less hot at \*most\* tasks aside from stress testing reasons. And the ""buggy"" aspect is overrated and easily fixed and reverted once your done playing one of the 50 games that doesn't work (And will probably get fixed anyway)."
+64020,best place to pirate audiobooks reddit,No problem :)
+22396,best celebrity,"After college, I was living the intern life in New York, so I had to hunt around for a job that would be fine with me working just evenings. The first call I got was Kmart, so for about a month, I worked at Kmart Penn Station. 
 
 One night, this guy with his hat pulled down low and this really cheerful girl came into the electronics department where I worked. It was a wild, wild store with tons of sketchy characters, so right away I was wary of him. Anyhow, they looked at the game selection for a minute, then the girl asked me if they could get Madden 2013. I obliged, took it from the case and began cashing them out. It was over the $50 minimum where I had to ask for ID with a credit card purchase, so I asked the sketchy fella for his ID. He told me, in this hushed little voice that he didn’t have it with him. 
 
@@ -59,13 +59,13 @@ Mhm. So I called up security to get the okay to finish up the transaction. As I�
 
 Daniel Radcliffe. His girlfriend was beaming at me as the expected recognition washed over my dumb, tired face. He was super super gracious, and my height, which I loved even more (we’re both a firm 5’ 5”). 
 
-And, I was pleased to be so calm and collected about the whole thing that they both got out of there without anyone else knowing who he was.",best celebrity
-69387,you gave me a lisp.,best major to study in college
-51638,"UAG cases are great. I recommend their Monarch, pathfinder, and plasma cases!",best iphone case
-70817,"For me the only thing that beats Slevin is Oldboy.
+And, I was pleased to be so calm and collected about the whole thing that they both got out of there without anyone else knowing who he was."
+69387,best major to study in college,you gave me a lisp.
+51638,best iphone case,"UAG cases are great. I recommend their Monarch, pathfinder, and plasma cases!"
+70817,best movies with a cool twist,"For me the only thing that beats Slevin is Oldboy.
 
 Unbreakable and Sixth Sense is up there too.
 
-Fight Club knocked me off the chair.",best movies with a cool twist
-17326,Oh. I'm not OP,best iOS game
-35123,I think any list without Namath is null and void.,best NFL player
+Fight Club knocked me off the chair."
+17326,best iOS game,Oh. I'm not OP
+35123,best NFL player,I think any list without Namath is null and void.

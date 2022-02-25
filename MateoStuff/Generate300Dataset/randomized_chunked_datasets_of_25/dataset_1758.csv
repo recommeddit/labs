@@ -1,18 +1,18 @@
-idx,text,query
-8528,"Wouldn't losing bacteria in your mouth, good or bad, make fungi much more happier in your mouth? Isn't this the kind of stuff that causes oral thrush?",best toothpaste
-33903,Gen 4 as a whole is the best imo but im biased,best Pokemon game
-68641,"One of my favorite authors. It’s not Sci-Fi, but the Baroque Cycle was a work of art. The sort of sequel Cryptonomicon is also great. Could call that one “Cyber-science” fiction.",best science fiction novel
-27336,Boeing,best stocks to buy
-57023,"Luh-kwah, you heretic.  I DONT CARE IF THE FRENCH SAY SO...",best water brand
-66238,You say that as though Liverpool don't have FA cups and Bayern don't have DFB's. I'd say domestic knockout tournaments aren't as important or as difficult to win as leagues or champions leagues.,best soccer team in the world
-41900,Jacobs Ladder,movies like Inception
-16755,"I usually recommend beagles as family dogs for a family that wants something smaller than a lab or golden. Beagles are sturdy, like to be pet, and not high energy. Also excellent at cleaning up any crumbs or unwanted leftovers :).",best pet for toddlers
-14834,"I recently got a library card, it is a god send",best romantic novel
-39447,You should use the DuckDuckGo browser on Android.,best web browser
-42606,I've got to finish this one.,best detective show
-22760,"I'm male and I would also like to know how I can marry Ryan Gosling. You know, because he has a lot of money and stuff... yeah that's why...",best celebrity
-20114,"No matter how many cats I break bread wit, I'll break who you sendin me",best workout music
-3909,"Ah.  Yeah, I can see that.  Those poor kids I see moseying about at CNU look so poor and downtrodden.  Legitimate Sacrifice?  Most of those kids have no clue what a legitimate sacrifice is.  What, exactly are you ""sacrificing""?  
+idx,query,text
+8528,best toothpaste,"Wouldn't losing bacteria in your mouth, good or bad, make fungi much more happier in your mouth? Isn't this the kind of stuff that causes oral thrush?"
+33903,best Pokemon game,Gen 4 as a whole is the best imo but im biased
+68641,best science fiction novel,"One of my favorite authors. It’s not Sci-Fi, but the Baroque Cycle was a work of art. The sort of sequel Cryptonomicon is also great. Could call that one “Cyber-science” fiction."
+27336,best stocks to buy,Boeing
+57023,best water brand,"Luh-kwah, you heretic.  I DONT CARE IF THE FRENCH SAY SO..."
+66238,best soccer team in the world,You say that as though Liverpool don't have FA cups and Bayern don't have DFB's. I'd say domestic knockout tournaments aren't as important or as difficult to win as leagues or champions leagues.
+41900,movies like Inception,Jacobs Ladder
+16755,best pet for toddlers,"I usually recommend beagles as family dogs for a family that wants something smaller than a lab or golden. Beagles are sturdy, like to be pet, and not high energy. Also excellent at cleaning up any crumbs or unwanted leftovers :)."
+14834,best romantic novel,"I recently got a library card, it is a god send"
+39447,best web browser,You should use the DuckDuckGo browser on Android.
+42606,best detective show,I've got to finish this one.
+22760,best celebrity,"I'm male and I would also like to know how I can marry Ryan Gosling. You know, because he has a lot of money and stuff... yeah that's why..."
+20114,best workout music,"No matter how many cats I break bread wit, I'll break who you sendin me"
+3909,best online college,"Ah.  Yeah, I can see that.  Those poor kids I see moseying about at CNU look so poor and downtrodden.  Legitimate Sacrifice?  Most of those kids have no clue what a legitimate sacrifice is.  What, exactly are you ""sacrificing""?  
 
 I'd have loved to go to college right out of high school.  Spent that dreamy time taking care of my mother until she died of cancer.  Pity I couldn't have made that college sacrifice.  After that, I enlisted into the Army.  Now THAT was a cake walk.  All those leadership skills just handed to me on a platter, rather than having to earn them like those poor hardworking college kids.  All those technical skills just dropped into my lap while those poor college kids had to slave over their classes.  
 
@@ -26,17 +26,17 @@ I was a project manager running a portfolio of projects long before I hung up th
 
 Yeah, I went to college online.  Difference between me and you, I had *context* to apply to my studies.  The best you could hope for is to be able to remember a fraction of whatever you learned in school when the situation arises where you can apply it.  
 
-You scan a resume for ten seconds, then toss it, or like you, thinking less of a person because they got their degree online- regardless of the school.  You honestly think you did the right thing by your company?  You honestly think you fairly and accurately evaluated that person to determine if they were the best fir for the job?  No.  You didn't.  Same applies for thinking you are somehow superior to someone because of how they got their degree.  All you did was look down on someone because they don't look like you.",best online college
-54074,Tea and Vick's Vaporub on your chest/throat area and upper lip (right under your nose),best medicine for a cold
-48348,"I like Benjamin Moore Decorator’s White or Dove White. If you like a different brand of paint, the paint folks can tint it to whatever color you want, even if it isn’t the same brand as the base.",best color to paint with
-62131,"Try Jedi fallen order, great game",Best RPG game on PS4
-42755,The Killing (us version),best detective show
-11976,"To drink decent Scotch with my brothers while we bar-b-que in the back yard, worry free.",best gifts for dad
-13623,"Probably a stupid question but, hypothetically, could you offer to venmo the author or something just to help them make money? Or would that violate the terms of having a publisher?",best research paper archive
-44418,"Basic exercise equipment. For under $100 you can get a yoga mat, handweights, and a resistance band. You can find a ton of workout videos for free online; between that and going for walks on a regular basis you can always have some sort of exercise no matter how tired you are or how little time you have.",best items under $100
-52045,Won’t fit. Camera is significantly larger. 13 pro max case will fit a 12 pro max but not vice versa.,best iphone case
-27663,Tabassum Hashmi,best bollywood actor
-48536,"Cranberry   
+You scan a resume for ten seconds, then toss it, or like you, thinking less of a person because they got their degree online- regardless of the school.  You honestly think you did the right thing by your company?  You honestly think you fairly and accurately evaluated that person to determine if they were the best fir for the job?  No.  You didn't.  Same applies for thinking you are somehow superior to someone because of how they got their degree.  All you did was look down on someone because they don't look like you."
+54074,best medicine for a cold,Tea and Vick's Vaporub on your chest/throat area and upper lip (right under your nose)
+48348,best color to paint with,"I like Benjamin Moore Decorator’s White or Dove White. If you like a different brand of paint, the paint folks can tint it to whatever color you want, even if it isn’t the same brand as the base."
+62131,Best RPG game on PS4,"Try Jedi fallen order, great game"
+42755,best detective show,The Killing (us version)
+11976,best gifts for dad,"To drink decent Scotch with my brothers while we bar-b-que in the back yard, worry free."
+13623,best research paper archive,"Probably a stupid question but, hypothetically, could you offer to venmo the author or something just to help them make money? Or would that violate the terms of having a publisher?"
+44418,best items under $100,"Basic exercise equipment. For under $100 you can get a yoga mat, handweights, and a resistance band. You can find a ton of workout videos for free online; between that and going for walks on a regular basis you can always have some sort of exercise no matter how tired you are or how little time you have."
+52045,best iphone case,Won’t fit. Camera is significantly larger. 13 pro max case will fit a 12 pro max but not vice versa.
+27663,best bollywood actor,Tabassum Hashmi
+48536,best color to paint with,"Cranberry   
 http://www.lauraashley.com/uk/paints/water-based-paint-pale-cranberry/invt/palecranberrypa  
   
 or a   
@@ -44,5 +44,5 @@ or a
 Golden yellow  
 http://www.lauraashley.com/uk/paints/water-based-paint-gold/invt/goldpa
 
-got for a yellow ivory on the coving and white celing",best color to paint with
-67323,I do agree somewhat.,axios alternatives reddit
+got for a yellow ivory on the coving and white celing"
+67323,axios alternatives reddit,I do agree somewhat.

@@ -1,8 +1,8 @@
-idx,text,query
-59921,The Bombshell Nights lotion smells really good too.,best perfume
-12976,Seasons 1-10 of Stargate SG-1 on DVD.,best gifts for mom
-36798,"Lemon Drops, Cosmos, Vodka sodas, Vodka/cran, Bicardi/Cran (was my college go to,) Beer choices are: Blue Moon, Stella, Kirin, Sapporo, Peroni",best alcoholic drink
-28636,"Hey there fellow South Indian. Here's some North Indian breakfasts too. 
+idx,query,text
+59921,best perfume,The Bombshell Nights lotion smells really good too.
+12976,best gifts for mom,Seasons 1-10 of Stargate SG-1 on DVD.
+36798,best alcoholic drink,"Lemon Drops, Cosmos, Vodka sodas, Vodka/cran, Bicardi/Cran (was my college go to,) Beer choices are: Blue Moon, Stella, Kirin, Sapporo, Peroni"
+28636,best breakfast foods,"Hey there fellow South Indian. Here's some North Indian breakfasts too. 
 
 Savoury stuffed pancakes (Parathas)
 Spiced sago with roasted and crushed peanuts (Sabudana khichdi)
@@ -10,15 +10,15 @@ Flat rice flakes with vegetables and spices (Poha)
 
 Aand some more south indian dishes
 Steamed rice noodles (Sevai)
-Dosa itself has a ton of varieties - Utthappam, masala dosa, rava dosa...",best breakfast foods
-13146,Augh!!! White Citrus is my GO TO weekday fragrance! My thoughts exactly about Loves Lemon! Ha. Great minds do think alike! 😂,best gifts for mom
-31148,If I have a 40 hour work week in Heaven then I'm gonna sue God,best country to live in
-47128,"Yes, definitely Austin, and go to a UT football game while you are there!",best state to visit in the United States
-3832,What state? Try searching for “(your state) distance education” to find regular universities with online degree programs.,best online college
-72518,Going to be completely honest. Cherry MX Blues for the sound.,best keyboard switches
-36613,"Try Lion, it's a slightly better version of Rasputin.  Oddly enough, from Sri Lanka, of all places.",best alcoholic drink
-43101,"There was also a US game of the same name based on the UK show, and a US show of the same name that was unrelated.",best detective show
-26711,"I thought with Gloomhaven at #1 it was already a prank.
+Dosa itself has a ton of varieties - Utthappam, masala dosa, rava dosa..."
+13146,best gifts for mom,Augh!!! White Citrus is my GO TO weekday fragrance! My thoughts exactly about Loves Lemon! Ha. Great minds do think alike! 😂
+31148,best country to live in,If I have a 40 hour work week in Heaven then I'm gonna sue God
+47128,best state to visit in the United States,"Yes, definitely Austin, and go to a UT football game while you are there!"
+3832,best online college,What state? Try searching for “(your state) distance education” to find regular universities with online degree programs.
+72518,best keyboard switches,Going to be completely honest. Cherry MX Blues for the sound.
+36613,best alcoholic drink,"Try Lion, it's a slightly better version of Rasputin.  Oddly enough, from Sri Lanka, of all places."
+43101,best detective show,"There was also a US game of the same name based on the UK show, and a US show of the same name that was unrelated."
+26711,best board games,"I thought with Gloomhaven at #1 it was already a prank.
 
 &#x200B;
 
@@ -28,27 +28,27 @@ Dosa itself has a ton of varieties - Utthappam, masala dosa, rava dosa...",best 
 
 &#x200B;
 
-don't hate me......",best board games
-21546,[Zero bothers given](http://i.imgur.com/8zBZe.gif),best winnie the pooh comic
-29836,Agree. EveryDollar from Dave Ramsey is great!,best money managing app
-57742,"Agreed,  it's not super pungent and has a nice floral smell to it.",best cologne
-237,"There’s an alternative called nnn.
+don't hate me......"
+21546,best winnie the pooh comic,[Zero bothers given](http://i.imgur.com/8zBZe.gif)
+29836,best money managing app,Agree. EveryDollar from Dave Ramsey is great!
+57742,best cologne,"Agreed,  it's not super pungent and has a nice floral smell to it."
+237,best terminal file manager reddit,"There’s an alternative called nnn.
 
-https://wiki.archlinux.org/index.php/Nnn",best terminal file manager reddit
-2765,"Bluetooth focuses on audio quality first. Mic quality second.
+https://wiki.archlinux.org/index.php/Nnn"
+2765,best headphones,"Bluetooth focuses on audio quality first. Mic quality second.
 
 2.4GHz wireless has similar issues and limitations which it's why audio quality is never great and mic quality always sucks.
 
-Bluetooth Atleast leans to what's important. Gaming company's kinda half ass both.",best headphones
-71570,Also Fallen,best movies with a cool twist
-63037,"Yep, him and I also enjoyed John Smilga's React - [https://www.youtube.com/watch?v=4UZrsTqkcW4&t=12919s](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=12919s)
+Bluetooth Atleast leans to what's important. Gaming company's kinda half ass both."
+71570,best movies with a cool twist,Also Fallen
+63037,Best online React course,"Yep, him and I also enjoyed John Smilga's React - [https://www.youtube.com/watch?v=4UZrsTqkcW4&t=12919s](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=12919s)
 
-The reason is he goes under the hood on a lot of topics and explains why certain things are resulting into certain outputs. As opposed to just writing a useEffect hook and saying: ""oh this is a an effect hook, lets move on.""",Best online React course
-64024,You need an invite and the whole process seems a bit complicated when I just want to download an audiobook every now and then. Not really a power user,best place to pirate audiobooks reddit
-7449,"Hi, if weight matters a lot, go for the Acer Swift X on my list. It offers a great balance between performance, battery life, and weight. It should be solid for games at med-high settings 1080p and general use.",best laptop for general use
-17441,"Sky is a masterpiece. Brawl Stars is incredible. Among Us is so much fun to play with friends. Mariokart Tour is a great way to kill time.
+The reason is he goes under the hood on a lot of topics and explains why certain things are resulting into certain outputs. As opposed to just writing a useEffect hook and saying: ""oh this is a an effect hook, lets move on."""
+64024,best place to pirate audiobooks reddit,You need an invite and the whole process seems a bit complicated when I just want to download an audiobook every now and then. Not really a power user
+7449,best laptop for general use,"Hi, if weight matters a lot, go for the Acer Swift X on my list. It offers a great balance between performance, battery life, and weight. It should be solid for games at med-high settings 1080p and general use."
+17441,best iOS game,"Sky is a masterpiece. Brawl Stars is incredible. Among Us is so much fun to play with friends. Mariokart Tour is a great way to kill time.
 
-In no particular order these four.",best iOS game
-66908,"Remember that Ferenc is typically Hungarian, it's a very common surname in that country and it doesn't exist elsewhere, this is oftenly a massive hint to guess someone is hungarian",best soccer team in the world
-3944,My firm hired a woman who had a masters degree in accounting from the university of phoenix. she was bad. really bad. She didn't even know the most basic accounting procedures and was fired after a month.,best online college
-25665,I am currently reading a collection of Ian chappels articles from 80s. Windies attack was monotonous and on a bad day their lack of variety was shown clearly. With Warnie in Aussie side and Waughs/Ponting's side matching Lloyds team batting I would go with Aussies.,best cricket teams of all time
+In no particular order these four."
+66908,best soccer team in the world,"Remember that Ferenc is typically Hungarian, it's a very common surname in that country and it doesn't exist elsewhere, this is oftenly a massive hint to guess someone is hungarian"
+3944,best online college,My firm hired a woman who had a masters degree in accounting from the university of phoenix. she was bad. really bad. She didn't even know the most basic accounting procedures and was fired after a month.
+25665,best cricket teams of all time,I am currently reading a collection of Ian chappels articles from 80s. Windies attack was monotonous and on a bad day their lack of variety was shown clearly. With Warnie in Aussie side and Waughs/Ponting's side matching Lloyds team batting I would go with Aussies.

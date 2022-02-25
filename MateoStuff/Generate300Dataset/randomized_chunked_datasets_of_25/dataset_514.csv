@@ -1,6 +1,6 @@
-idx,text,query
-21947,:’),best celebrity
-43748,"I shared this before but it's definitely the best purchase of my life.
+idx,query,text
+21947,best celebrity,:’)
+43748,best items under $100,"I shared this before but it's definitely the best purchase of my life.
 
 When I was about 10 years old my parents and I were in our backyard clearing out a ton of weeds that had gotten out of hand. I had trouble focusing because our next door neighbor had this really adorable puppy and all I wanted to do was play with him.
 
@@ -16,16 +16,16 @@ He passed three years ago, after being by my side for almost 17 years. Not a day
 
 It never would have happened if I hadn't asked my parents if we could have him. I don't think my life would be the same without him and even though I'm sad he's gone, I'm grateful I had him in my life. 
 
-Edit: [Bonus picture of him looking cool I found while looking for something else](https://i.imgur.com/mNzzEsk.jpg)",best items under $100
-38482,i do the crossword in the paper on break at work.,best newspapers to read
-34400,Carson Wentz,best NFL player
-18832,That is actually a really good impersonation. It got weird in the end o.0,best YouTube video
-7545,"It very much depends on what you're looking for, but it is generally a decent device.",best laptop for general use
-25579,"Thank you, that means a lot. I hope it catches on, I would love to be a part of my country's emergence in the Cricket world ;).",best cricket teams of all time
-19691,[Numa numa!](https://www.youtube.com/watch?v=M8JClsMPKuE),best YouTube video
-63849,"So awesome, thanks!",best place to pirate audiobooks reddit
-27815,Full Scottish - as above plus sliced haggis,best breakfast foods
-24594,"For me it is:
+Edit: [Bonus picture of him looking cool I found while looking for something else](https://i.imgur.com/mNzzEsk.jpg)"
+38482,best newspapers to read,i do the crossword in the paper on break at work.
+34400,best NFL player,Carson Wentz
+18832,best YouTube video,That is actually a really good impersonation. It got weird in the end o.0
+7545,best laptop for general use,"It very much depends on what you're looking for, but it is generally a decent device."
+25579,best cricket teams of all time,"Thank you, that means a lot. I hope it catches on, I would love to be a part of my country's emergence in the Cricket world ;)."
+19691,best YouTube video,[Numa numa!](https://www.youtube.com/watch?v=M8JClsMPKuE)
+63849,best place to pirate audiobooks reddit,"So awesome, thanks!"
+27815,best breakfast foods,Full Scottish - as above plus sliced haggis
+24594,best anime,"For me it is:
 
 1. K-ON! - Great animation about drinking tea and making fun of used jokes. It has its unique charm, especially in the last episodes.
 
@@ -35,14 +35,14 @@ Edit: [Bonus picture of him looking cool I found while looking for something els
 
 4. Planetarian: the Reverie of a Little Planet - beautiful, subtle and moving. It's also really short (5 episodes).
 
-5. Monster - great plot; many characters with individual traits, story, and purpose.",best anime
-36680,"Happy Birthday! I love anything sweet and fruity. If I’m going to a cocktail place I’ll have a Pornstar Martini, and if that’s not on the menu then anything sweet (I look for passion fruit, cherry or raspberry flavours). If we’re doing wine I like white Zinfandel. If I fancy spirits then usually either amaretto and cranberry juice or flavoured gin/vodka and lemonade. 
+5. Monster - great plot; many characters with individual traits, story, and purpose."
+36680,best alcoholic drink,"Happy Birthday! I love anything sweet and fruity. If I’m going to a cocktail place I’ll have a Pornstar Martini, and if that’s not on the menu then anything sweet (I look for passion fruit, cherry or raspberry flavours). If we’re doing wine I like white Zinfandel. If I fancy spirits then usually either amaretto and cranberry juice or flavoured gin/vodka and lemonade. 
 
 
-Edit: apparently I can’t spell",best alcoholic drink
-17831,"Excuse me, it’s actually spelled “Kulie”",best Kardashian
-54378,"They restock quite often, once a week or so. Worth the wait imo.",best artisan mousepad alternatives
-24496,"1. Mobile Suit Gundam Unicorn
+Edit: apparently I can’t spell"
+17831,best Kardashian,"Excuse me, it’s actually spelled “Kulie”"
+54378,best artisan mousepad alternatives,"They restock quite often, once a week or so. Worth the wait imo."
+24496,best anime,"1. Mobile Suit Gundam Unicorn
 
 2. Legend of the Galactic Heroes
 
@@ -62,18 +62,18 @@ Edit: apparently I can’t spell",best alcoholic drink
 
 10. Casshern Sins / Mobile Suit Zeta Gundam, with the former making it onto my MAL because I already have three other Gundam shows on the list lol
 
-I'd slot the second Gurren Lagann movie somewhere near the top if I was counting movies, but for simplicity's sake I prefer keeping my favorite movies separate from my favorite anime (to say nothing of the fact that Gurren Lagann the *show* is already on the list anyways).",best anime
-30830,"As a New Zealander: We live so goddamn far from the rest of the world, it sucks so bad. Shipping costs are through the roof and even just going to Australia is a HUGE deal.
-Plus, the internet is really slow.",best country to live in
-61094,Terriers,Best comedy show on Netflix
-67514,That would be nice if they do that. It would make the JavaScript ecosystem feel a bit more universal.,axios alternatives reddit
-42533,The Fall is incredibly well done. But it literally took me three years to be able to watch another serial killer show after that. It's extremely heavy/disturbing so just make sure you're prepared.,best detective show
-28613,"In my experience, you get the best coffee by getting unground beans and grinding them yourself. I've heard that the type of coffee maker also plays a part. For instance, a nice french press will make better coffee than a black and decker from walmart. My parents use a keurig with fresh ground beans and its fucking delicious, even black.",best breakfast foods
-33397,The VoltsWatten,best electric car
-39581,"Mine are from iTunes:
+I'd slot the second Gurren Lagann movie somewhere near the top if I was counting movies, but for simplicity's sake I prefer keeping my favorite movies separate from my favorite anime (to say nothing of the fact that Gurren Lagann the *show* is already on the list anyways)."
+30830,best country to live in,"As a New Zealander: We live so goddamn far from the rest of the world, it sucks so bad. Shipping costs are through the roof and even just going to Australia is a HUGE deal.
+Plus, the internet is really slow."
+61094,Best comedy show on Netflix,Terriers
+67514,axios alternatives reddit,That would be nice if they do that. It would make the JavaScript ecosystem feel a bit more universal.
+42533,best detective show,The Fall is incredibly well done. But it literally took me three years to be able to watch another serial killer show after that. It's extremely heavy/disturbing so just make sure you're prepared.
+28613,best breakfast foods,"In my experience, you get the best coffee by getting unground beans and grinding them yourself. I've heard that the type of coffee maker also plays a part. For instance, a nice french press will make better coffee than a black and decker from walmart. My parents use a keurig with fresh ground beans and its fucking delicious, even black."
+33397,best electric car,The VoltsWatten
+39581,best podcast for biologists,"Mine are from iTunes:
 -Big Ideas - some science, some more general topics covered as well, some science policy and education.
 -Quirks and Quarks - don't listen to it myself, lots do, it's under the CBC section of iTunes podcasts.
--There's a handful of French ones whose names I can't remember right now. I'd look them up, but I only ever open up iTunes about once a month to reload, because it's such a piece of garbage (though if it ran at a decent speed I would only notice how well it facilitates organization).",best podcast for biologists
-4391,If I was paid to use emacs I still wouldn't do it,best text editor
-42422,The Cell?,movies like Inception
-9712,Thanks! Manzanita sounds awesome for location and rooms! Ahhh too many choices!,best dorm hall at UCSB
+-There's a handful of French ones whose names I can't remember right now. I'd look them up, but I only ever open up iTunes about once a month to reload, because it's such a piece of garbage (though if it ran at a decent speed I would only notice how well it facilitates organization)."
+4391,best text editor,If I was paid to use emacs I still wouldn't do it
+42422,movies like Inception,The Cell?
+9712,best dorm hall at UCSB,Thanks! Manzanita sounds awesome for location and rooms! Ahhh too many choices!

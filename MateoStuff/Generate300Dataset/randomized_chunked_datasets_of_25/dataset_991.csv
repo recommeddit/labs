@@ -1,17 +1,17 @@
-idx,text,query
-28145,"A breakfast burrito with eggs, bacon, sausage and potatoes. Ketchup instead of salsa.",best breakfast foods
-12482,A new vacuum cleaner. My mom wanted one.,best gifts for mom
-6454,I'm a sports fan. I will check it out.,best Netflix documentary
-13068,I really hope you're my kid.,best gifts for mom
-8669,">Edit (x2) do not brush your teeth with baking soda or similar products. You’re never going to grow back that enamel you’ve sandpapered off every morning and night!
+idx,query,text
+28145,best breakfast foods,"A breakfast burrito with eggs, bacon, sausage and potatoes. Ketchup instead of salsa."
+12482,best gifts for mom,A new vacuum cleaner. My mom wanted one.
+6454,best Netflix documentary,I'm a sports fan. I will check it out.
+13068,best gifts for mom,I really hope you're my kid.
+8669,best toothpaste,">Edit (x2) do not brush your teeth with baking soda or similar products. You’re never going to grow back that enamel you’ve sandpapered off every morning and night!
 
-Are baking soda toothpastes bad too? Or just the straight up baking soda? Are the whitening toothpastes that abrade your teeth messing with my enamel?",best toothpaste
-1065,"Lavender. 
+Are baking soda toothpastes bad too? Or just the straight up baking soda? Are the whitening toothpastes that abrade your teeth messing with my enamel?"
+1065,best ice cream flavor,"Lavender. 
 
-I used to hate the hell out of flower flavored things - made me feel like I was eating soap but one day I decided to go for it and suddenly Lavender Ice Cream has changed my life forever.",best ice cream flavor
-35700,Thad is in the building! I demand respect!,best alcoholic drink
-27539,"Thanks, just favourite films and actors of mine.... I am quite interested about your list. Your knowledge on old films is very extensive. I have always taken your recommendations seriously.....+ you are the coolest guy I have seen on this sub which thinking about your age is impressive.....",best bollywood actor
-30828,"Another Irish here.
+I used to hate the hell out of flower flavored things - made me feel like I was eating soap but one day I decided to go for it and suddenly Lavender Ice Cream has changed my life forever."
+35700,best alcoholic drink,Thad is in the building! I demand respect!
+27539,best bollywood actor,"Thanks, just favourite films and actors of mine.... I am quite interested about your list. Your knowledge on old films is very extensive. I have always taken your recommendations seriously.....+ you are the coolest guy I have seen on this sub which thinking about your age is impressive....."
+30828,best country to live in,"Another Irish here.
 
 Firstly, I'd say that Ireland is basically a centre-right country. I'd wager that about 80% of the people I've talked to (mostly teenagers) are for marriage equality. However, my father's generation (~40) would be more like 55-60% in favour. In any case, I expect that Ireland will only become more liberal in the next few decades, as my generation matures.
 
@@ -19,10 +19,10 @@ Speaking Irish is utterly optional. In fact, the majority of Irish people could 
 
 Regarding college choice, I'm afraid I can't give you anything more than conjecture, so take what I say with a pinch of salt. But, as far as I know, UCD is a more STEM focused college than Trinity, which is more well known for its arts and humanities (particularly the English department). Therefore I suggest you go to UCD for a CS course (not to be confused with the college on the other side of Dublin, DCU.)
 
-I hope that what I've said helps you in making a decision!",best country to live in
-65232,"Stetson, this list shows an incredible amount of work. Great job!! I used to try to maintain a much smaller list but gave up with all of the changes that happen in the prepaid sector. This was before T-Mobile greatly expanded their network so I didn't include T-Mobile plans at that time due to coverage. I've been a prepaid customer since 2008 and I've tried quite a few providers since then. I've looked at your latest update to your chart and I see that you list Ultra Mobile's $39/m 50gb plan but you don't recommend it. I'm just curious as to why you don't. Have you not tried the plan yet? I see it as similar as US Mobile's 'unlimited all' except the taxes are less and it includes hotspot, international text and some international calling. It doesn't include international roaming like US Mobile does but that seems to be the only downside. I think it compares very well to the US Mobile All Unlimited plans on Verizon but at the lowest price point.",best phone service company
-9428,\#howdoihashtagonreddit,best toothpaste
-17813,"KOURTNEY--chill, mom, not as concerned with fame as her sisters...the secret badass of the show and the coolest sister (unpopular opinion, i kno)
+I hope that what I've said helps you in making a decision!"
+65232,best phone service company,"Stetson, this list shows an incredible amount of work. Great job!! I used to try to maintain a much smaller list but gave up with all of the changes that happen in the prepaid sector. This was before T-Mobile greatly expanded their network so I didn't include T-Mobile plans at that time due to coverage. I've been a prepaid customer since 2008 and I've tried quite a few providers since then. I've looked at your latest update to your chart and I see that you list Ultra Mobile's $39/m 50gb plan but you don't recommend it. I'm just curious as to why you don't. Have you not tried the plan yet? I see it as similar as US Mobile's 'unlimited all' except the taxes are less and it includes hotspot, international text and some international calling. It doesn't include international roaming like US Mobile does but that seems to be the only downside. I think it compares very well to the US Mobile All Unlimited plans on Verizon but at the lowest price point."
+9428,best toothpaste,\#howdoihashtagonreddit
+17813,best Kardashian,"KOURTNEY--chill, mom, not as concerned with fame as her sisters...the secret badass of the show and the coolest sister (unpopular opinion, i kno)
 
 Cory--chills in the background while Kris treats him like shit
 
@@ -36,13 +36,13 @@ Rob--tragic...watched an earlier episode where Rob cries during family therapy a
 
 Kendall--i feel like she thinks she's cooler than she is?
 
- Honorable mention: blac chyna...almost blac Kardashian!!!!!!! COME ON. That is epic",best Kardashian
-30355,"Don't forget that Villeneuve was a pantywaster who was brown-trousered-scared of the British. At the time of the battle he'd decided to retreat, but his ships were so poorly trained that they couldn't tack through the wind or stay on station, resulting in his entire fleet being a crescent-shaped smear on the ocean when Collingwood and the Royal Sovereign bum-rushed them.
+ Honorable mention: blac chyna...almost blac Kardashian!!!!!!! COME ON. That is epic"
+30355,best Mexican war to study,"Don't forget that Villeneuve was a pantywaster who was brown-trousered-scared of the British. At the time of the battle he'd decided to retreat, but his ships were so poorly trained that they couldn't tack through the wind or stay on station, resulting in his entire fleet being a crescent-shaped smear on the ocean when Collingwood and the Royal Sovereign bum-rushed them.
 
-About the only ship in the Combined Fleet that distinguished itself was the Redoubtable (French 74) which managed to keep the Victory off the French flagship and needed the combined attentions of both Victory and Temeraire to make it strike. As I recall, the Redoubtable lost well over half their crew dead, with the majority of the survivors wounded. Only 35 men out of 650 made it off that ship alive and uninjured.",best Mexican war to study
-11424,"Last year, my son's daycare made a foam board picture of him with his handprints on the back. Being a newborn, we have tons of pictures of him, but this one is special to me for reasons that are tough to explain. When I changed jobs, it was the last thing I took off of my old desk and the first thing I put up at my new one.",best gifts for dad
-44924,Smart bulbs. Put one in a lamp in your bedroom and have it slowly brighten in the morning. It will change your life.,best items under $100
-59885,"oooh ive got 4 currently. all are relatively cheap, with the most expensive around 80$ (but half price if you buy two)
+About the only ship in the Combined Fleet that distinguished itself was the Redoubtable (French 74) which managed to keep the Victory off the French flagship and needed the combined attentions of both Victory and Temeraire to make it strike. As I recall, the Redoubtable lost well over half their crew dead, with the majority of the survivors wounded. Only 35 men out of 650 made it off that ship alive and uninjured."
+11424,best gifts for dad,"Last year, my son's daycare made a foam board picture of him with his handprints on the back. Being a newborn, we have tons of pictures of him, but this one is special to me for reasons that are tough to explain. When I changed jobs, it was the last thing I took off of my old desk and the first thing I put up at my new one."
+44924,best items under $100,Smart bulbs. Put one in a lamp in your bedroom and have it slowly brighten in the morning. It will change your life.
+59885,best perfume,"oooh ive got 4 currently. all are relatively cheap, with the most expensive around 80$ (but half price if you buy two)
 
 * absolute fuchsia diamond paris
 * princess marina de bourbon paris marina blue
@@ -55,18 +55,18 @@ marina blue is a very light, fresh scent, it reminds me of the ocean a bit even 
 
 scandalous is the ""heaviest"" scent i own. its the sort of thing i would wear on a date where i planned to do more than kiss :P
 
-i am happy is a light, fruityish scent, it has the least smell of the alcohol, and lasts the shortest period of time (it was only 18$) Its the sort of thing i put on in the morning, or marina blue, rather than fuchsia or scandalous, which strike me as more evening scents :)",best perfume
-65592,That's owned by T-Mobile.,best phone service company
-68339,">	u/ProfessorAtreides
+i am happy is a light, fruityish scent, it has the least smell of the alcohol, and lasts the shortest period of time (it was only 18$) Its the sort of thing i put on in the morning, or marina blue, rather than fuchsia or scandalous, which strike me as more evening scents :)"
+65592,best phone service company,That's owned by T-Mobile.
+68339,best science fiction novel,">	u/ProfessorAtreides
 
-🤔",best science fiction novel
-58251,"I feel like a fucking idiot.
+🤔"
+58251,best cologne,"I feel like a fucking idiot.
 
-I was in the middle of googling it to see what it smelled like. T_T",best cologne
-338,"I use pcmanfm-qt, because it's DE-independent and I don't use an specific DE.
+I was in the middle of googling it to see what it smelled like. T_T"
+338,best terminal file manager reddit,"I use pcmanfm-qt, because it's DE-independent and I don't use an specific DE.
 
-And, also, as a terminal file manager, I use ranger. Really powerful!",best terminal file manager reddit
-57548,"I have a few different colognes for different occasions.
+And, also, as a terminal file manager, I use ranger. Really powerful!"
+57548,best cologne,"I have a few different colognes for different occasions.
 
 * 1. Dior Sauvage - Safe scent, need to go easy on the trigger with this one. It's extremely popular and if you're at an event/wedding you'll probably notice it on other people.
 * 2. Prada L'Homme - the cologne I wear when I'm on the job. Very clean and inoffensive. Smells like expensive soap with the prominent iris note.
@@ -74,8 +74,8 @@ And, also, as a terminal file manager, I use ranger. Really powerful!",best term
 * 4. Dior Fahrenheit - This one is a classic from the 80's, it has a unique gasoline-type of note that comes from the leather/violet leaf, this one works on cold winter days.
 * 5. Creed Aventus - I only wear this one on special occasions, I lucked out and got a bottle at Costco for around $70. You'll see a lot of hype online for it, but it's definitely not worth the high price tag of $300+ in my opinion.
 
-Best advice I can give is to go to your local department store and get some samples and see what jumps out at you. Don't get too sucked into what you see online or what girls say is their favourite, in reality as long as you apply the right amount (1-2 sprays) and the cologne works with your body chemistry, you're going to smell good regardless of what you choose.",best cologne
-23727,"I have a couple depending on how I want to race that day. 
+Best advice I can give is to go to your local department store and get some samples and see what jumps out at you. Don't get too sucked into what you see online or what girls say is their favourite, in reality as long as you apply the right amount (1-2 sprays) and the cologne works with your body chemistry, you're going to smell good regardless of what you choose."
+23727,best car racing video game,"I have a couple depending on how I want to race that day. 
 
 All out thrill and adrenaline:  Dirt Rally.
 
@@ -87,15 +87,15 @@ All these games offer something different. I probably play dirt rally the most, 
 
 Assetto Corsa has an excellent handling model and is very challenging. Another bonus about this game is there is nearly unlimited cars/tracks through mods, oh and drifting is phenomenal, however there's no way to ""keep a score"" As there is in Forza.
 
-Forza is a game I've been playing since forza 3, and I still think it's the best casual racing series ever, shit load of cars, fun handling model, seamless multiplayer with friends. Obvious downside is it's on Xbox one, but Horizon 3 is pretty good (not as good is the ""motorsport"" games in my opinion) and can be had on pc.",best car racing video game
-32240,"Ohhhh......I'm very private and travel alone. My first thing is to stick the ""Do Not Disturb"" sign up. I was in and out (B-and-B) would have breakfast, talk with the staff and other guests, hit my festival, etc.
+Forza is a game I've been playing since forza 3, and I still think it's the best casual racing series ever, shit load of cars, fun handling model, seamless multiplayer with friends. Obvious downside is it's on Xbox one, but Horizon 3 is pretty good (not as good is the ""motorsport"" games in my opinion) and can be had on pc."
+32240,best hotel to live in,"Ohhhh......I'm very private and travel alone. My first thing is to stick the ""Do Not Disturb"" sign up. I was in and out (B-and-B) would have breakfast, talk with the staff and other guests, hit my festival, etc.
 
-I was SUPER annoyed when I came back the fourth day to my room being cleaned and the sign ignored. It never occurred to me that maybe they were just ""checking up"".",best hotel to live in
-63051,Thank you for the suggestion friend!,Best online React course
-9289,"Dentist told me to avoid the whitening toothpastes as they really do a number on your enamel!  I had no idea until I told her at my last cleaning that I'd been experiencing some temperature sensitivity all of a sudden...I just thought it was because I was older and when she found out that I had been using whitening toothpastes, she told me to stop.
+I was SUPER annoyed when I came back the fourth day to my room being cleaned and the sign ignored. It never occurred to me that maybe they were just ""checking up""."
+63051,Best online React course,Thank you for the suggestion friend!
+9289,best toothpaste,"Dentist told me to avoid the whitening toothpastes as they really do a number on your enamel!  I had no idea until I told her at my last cleaning that I'd been experiencing some temperature sensitivity all of a sudden...I just thought it was because I was older and when she found out that I had been using whitening toothpastes, she told me to stop.
 
 best thing is to floss at night every night and brush twice daily (AM, PM).
 
 Avoid sugary things as much as possible.
 
-what also helped me - and I have no idea if this actually helps - but after eating or drinking anything other than water, I always rinse my mouth with water.  It seems to help (?) because in my 46yrs, I have only had 3 cavities and both were tiny enough that it could be filled w/out freezing.  The last time I went to the dentist prior to my last visit was about 2yrs, no cavities.",best toothpaste
+what also helped me - and I have no idea if this actually helps - but after eating or drinking anything other than water, I always rinse my mouth with water.  It seems to help (?) because in my 46yrs, I have only had 3 cavities and both were tiny enough that it could be filled w/out freezing.  The last time I went to the dentist prior to my last visit was about 2yrs, no cavities."

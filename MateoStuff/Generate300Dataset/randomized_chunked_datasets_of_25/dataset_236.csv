@@ -1,13 +1,13 @@
-idx,text,query
-5849,yes but what if I want to make a subscription mechanic in the website then I need python or java right?,best programming language for web development
-59282,Either Flowerbomb by Viktor and Rolf or Tobacco Vanille by Tom Ford.,best perfume
-68551,"Huh, weird.  I did not like most of the ones at the top.  My first pick for ""best book"" is at #30.  Maybe #17.  Tastes vary.",best science fiction novel
-54265,How many dickloads should I drink?  I fear I may have over done it,best medicine for a cold
-34835,Getting Diggs was a brilliant move by the bills. Gives Allen a #1 and frees other receivers by drawing coverage. It’d be nice to see them win a super bowl,best NFL player
-32938,"Rockstar SuperSours Green Apple. The old version. Rest in piece :\
+idx,query,text
+5849,best programming language for web development,yes but what if I want to make a subscription mechanic in the website then I need python or java right?
+59282,best perfume,Either Flowerbomb by Viktor and Rolf or Tobacco Vanille by Tom Ford.
+68551,best science fiction novel,"Huh, weird.  I did not like most of the ones at the top.  My first pick for ""best book"" is at #30.  Maybe #17.  Tastes vary."
+54265,best medicine for a cold,How many dickloads should I drink?  I fear I may have over done it
+34835,best NFL player,Getting Diggs was a brilliant move by the bills. Gives Allen a #1 and frees other receivers by drawing coverage. It’d be nice to see them win a super bowl
+32938,best energy drink,"Rockstar SuperSours Green Apple. The old version. Rest in piece :\
 
-Monster Ripper is a close second. Never got the chance to try the original M80",best energy drink
-37916,"1. Avengers: Infinity War
+Monster Ripper is a close second. Never got the chance to try the original M80"
+37916,best Marvel movie,"1. Avengers: Infinity War
 
 2. Thor: Ragnarok
 
@@ -45,32 +45,32 @@ Monster Ripper is a close second. Never got the chance to try the original M80",
 
 19. The Incredible Hulk
 
-20. Thor: Dark World",best Marvel movie
-57934,212 Men by Carolina Herrera.  The best smelling cologne ever!,best cologne
-4634,VSCodium (VS Code without telemetry garbage) and micro for quick edits.,best text editor
-30162,I need more of these Dramatic Phonecalls of History kind of stories,best Mexican war to study
-5360,"Lee Valley Tools.  
+20. Thor: Dark World"
+57934,best cologne,212 Men by Carolina Herrera.  The best smelling cologne ever!
+4634,best text editor,VSCodium (VS Code without telemetry garbage) and micro for quick edits.
+30162,best Mexican war to study,I need more of these Dramatic Phonecalls of History kind of stories
+5360,best home improvement store,"Lee Valley Tools.  
 
 In addition to hand tools, they also have garden and kitchen stuff I've not seen anywhere else.  But the real shine is the hardware selection.  You want fancy drawer pulls, knobs, etc?  Check them out.
 
-Princess Auto is the closest thing to America's Northern Tool if you are in Canada.",best home improvement store
-43363,"I've also heard about Facebook ads, but never tried it out. Did you?",best ad service for mobile applications
-47091,"Morrison, CO. is where Red Rocks is.",best state to visit in the United States
-18126,"Oh sorry, I misinterpreted the comment 🐸 sorry my bad",best Kardashian
-13349,"My honest opinion is that it absolutely is, but there is so much room for improvement.
+Princess Auto is the closest thing to America's Northern Tool if you are in Canada."
+43363,best ad service for mobile applications,"I've also heard about Facebook ads, but never tried it out. Did you?"
+47091,best state to visit in the United States,"Morrison, CO. is where Red Rocks is."
+18126,best Kardashian,"Oh sorry, I misinterpreted the comment 🐸 sorry my bad"
+13349,best spreadsheet editor,"My honest opinion is that it absolutely is, but there is so much room for improvement.
 
 There are a lot of ridiculous aspects to Excel, a lot of missing functionality and bad UX choices. There are major obstacles for a lot of use cases.
 
 That said, it's still better than any competitor. I get annoyed when I run into something frustrating in Excel, but I wouldn't even be able to get *to* those points in any competitor. There are a handful of things Sheets will do better, yes, but far more things Excel will do better than Sheets.
 
-The real lesson, I think, is that there is room for a serious Excel competitor. And I think we need one, because here we are in 2020 and you *still* can't change Excel's number autoconversion behavior, or have macros work without clearing the undo stack.",best spreadsheet editor
-65054,"Handlebar may still be the best coffee in SB, but it's gone downhill unfortunately. We've been huge fans from the beginning when we still lived there, we loved that place, it could turn a bad day good. Grabbed some drip last time we went through and it was fucking awful, like I've had better donut shop coffee awful. We were actually sad. Every shop has a not great day, but that place used to be really reliable. This happens to so many joints in SB, I'm not surprised. Anyone know of a better place for coffee next time we're there?",best places to eat in Santa Barbara
-47922,I'm personally not a fan but I am starting to see more of it,best color to paint with
-3963,Do professors hate her?,best online college
-58558,Soap!,best cologne
-18755,/r/ContagiousLaughter,best YouTube video
-47516,"Went to Asheville NC on my honeymoon. Then again, I have a huge thing for historical homes and guilded age mansions in particular.",best state to visit in the United States
-28806,"***Baked Oatmeal!***
+The real lesson, I think, is that there is room for a serious Excel competitor. And I think we need one, because here we are in 2020 and you *still* can't change Excel's number autoconversion behavior, or have macros work without clearing the undo stack."
+65054,best places to eat in Santa Barbara,"Handlebar may still be the best coffee in SB, but it's gone downhill unfortunately. We've been huge fans from the beginning when we still lived there, we loved that place, it could turn a bad day good. Grabbed some drip last time we went through and it was fucking awful, like I've had better donut shop coffee awful. We were actually sad. Every shop has a not great day, but that place used to be really reliable. This happens to so many joints in SB, I'm not surprised. Anyone know of a better place for coffee next time we're there?"
+47922,best color to paint with,I'm personally not a fan but I am starting to see more of it
+3963,best online college,Do professors hate her?
+58558,best cologne,Soap!
+18755,best YouTube video,/r/ContagiousLaughter
+47516,best state to visit in the United States,"Went to Asheville NC on my honeymoon. Then again, I have a huge thing for historical homes and guilded age mansions in particular."
+28806,best breakfast foods,"***Baked Oatmeal!***
 
 I make this on the weekend, and I've got a delicious hot breakfast ready in minutes. Add a little milk, or if you're feeling luxurious, add *cream*!
 
@@ -100,9 +100,9 @@ Combine the banana mash in the large bowl with the eggs, sugar, vanilla, salt, a
 
 Spray an 8×8 inch baking dish with non-stick spray and then pour in the oat mixture.
 
-Bake in the preheated 375 degree oven and bake for about 45 minutes or until the top is golden brown and the center is no longer wet to the touch.",best breakfast foods
-64564,"Brooks Adrenaline is a stability shoe, so if works and you like it:
+Bake in the preheated 375 degree oven and bake for about 45 minutes or until the top is golden brown and the center is no longer wet to the touch."
+64564,Best Nike running shoes,"Brooks Adrenaline is a stability shoe, so if works and you like it:
 
-I think the Nike Structure or React Infinity Run is where you want to look. You may want to go Infinity Run 1 on sale, because a lot of people have been reporting issues with the tongue ripping on the new model.",Best Nike running shoes
-64483,This is awesome work! Much appreciated. Shared on FB as well to spread the word. Look forward to the New Balance review. They have so many types of shoes! I am quite overwhelmed there!,Best Nike running shoes
-17302,Wayward Souls,best iOS game
+I think the Nike Structure or React Infinity Run is where you want to look. You may want to go Infinity Run 1 on sale, because a lot of people have been reporting issues with the tongue ripping on the new model."
+64483,Best Nike running shoes,This is awesome work! Much appreciated. Shared on FB as well to spread the word. Look forward to the New Balance review. They have so many types of shoes! I am quite overwhelmed there!
+17302,best iOS game,Wayward Souls

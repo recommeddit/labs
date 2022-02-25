@@ -1,16 +1,16 @@
-idx,text,query
-39114,"idk if there's any hard data out there but anecdotally Edge seems to use significantly less RAM than Chrome, even with all the same extensions and tabs open.",best web browser
-11265,"My grandpa always used to ask for socks.
+idx,query,text
+39114,best web browser,"idk if there's any hard data out there but anecdotally Edge seems to use significantly less RAM than Chrome, even with all the same extensions and tabs open."
+11265,best gifts for dad,"My grandpa always used to ask for socks.
 
-When he died, it was a few months before Father's Day. I put a package of socks on his tombstone when Father's Day came.",best gifts for dad
-10855,It's like your TSA workers are from the 50s,best suitcase lock
-38470,"The only time I read a physhical newspaper is when I read the free commuter news paper [Metro](http://en.wikipedia.org/wiki/Metro_International), otherwise I check out the news online.",best newspapers to read
-37547,Never even heard of Knoebels...,best amusement park
-14875,Lol. I actually sent this to my husband and told him that these in physical book form would make a perfect Christmas present. I am taking an internet hiatus from Dec 24-Jan 1 and was planning to re-read some caveman erotica but this would be better,best romantic novel
-38548,"Only when I get it free on my way to university or when entering an airplane. Otherwise I don't.
+When he died, it was a few months before Father's Day. I put a package of socks on his tombstone when Father's Day came."
+10855,best suitcase lock,It's like your TSA workers are from the 50s
+38470,best newspapers to read,"The only time I read a physhical newspaper is when I read the free commuter news paper [Metro](http://en.wikipedia.org/wiki/Metro_International), otherwise I check out the news online."
+37547,best amusement park,Never even heard of Knoebels...
+14875,best romantic novel,Lol. I actually sent this to my husband and told him that these in physical book form would make a perfect Christmas present. I am taking an internet hiatus from Dec 24-Jan 1 and was planning to re-read some caveman erotica but this would be better
+38548,best newspapers to read,"Only when I get it free on my way to university or when entering an airplane. Otherwise I don't.
 
-It's a waste of money and ressources. All the trees that fall for newspapers and all the lasting things I don't buy for the money I save... no thank you, there is more and more detailed information to be found in the internet AND it's much faster available.",best newspapers to read
-44261,"Because you are here, I believe it is safe for me to assume that you spend an assload of time in front of your computer.  
+It's a waste of money and ressources. All the trees that fall for newspapers and all the lasting things I don't buy for the money I save... no thank you, there is more and more detailed information to be found in the internet AND it's much faster available."
+44261,best items under $100,"Because you are here, I believe it is safe for me to assume that you spend an assload of time in front of your computer.  
 
 You *need* a good chair. You can get a very nice office chair for under $100. I got mine at Staples, and that is far from the cheapest place to get one. Your butt, back, and legs will thank you. You may also consider a standing desk or an exercise ball to keep yourself from being too sedentary.  
 
@@ -18,8 +18,8 @@ Consider a mechanical keyboard. They are sturdy as hell and usually come with ni
 
 Mouse too. Figure out how you hold your mouse, estimate the size of your hand, and then find a really good mouse of a style that will make you most comfortable. Don't skimp on the mousepad either.  
 
-This will probably be over $100, but a second/third monitor can make a bigger difference than you might expect. I spend the majority of my life sitting in front of a computer, as I suspect many Redditors do, so it is important to make this experience as comfortable, healthy, and enjoyable as possible.",best items under $100
-16827,"If you guys don't want a pet, don't get one. It's pretty simple. She's 8 and yeah, she wants a dog, but I wanted a pony and didn't get one. She can have a dog when she's older and lives on her own, or when you guys are more ready for the task.
+This will probably be over $100, but a second/third monitor can make a bigger difference than you might expect. I spend the majority of my life sitting in front of a computer, as I suspect many Redditors do, so it is important to make this experience as comfortable, healthy, and enjoyable as possible."
+16827,best pet for toddlers,"If you guys don't want a pet, don't get one. It's pretty simple. She's 8 and yeah, she wants a dog, but I wanted a pony and didn't get one. She can have a dog when she's older and lives on her own, or when you guys are more ready for the task.
 
 *If* you really want to scratch this itch, you guys do have the option to foster a dog through a rescue or shelter in your area. The benefits to fostering is many-fold, but here are some highlights:
 
@@ -31,16 +31,16 @@ This will probably be over $100, but a second/third monitor can make a bigger di
 
 * Your daughter gets to experience the joy of a dog, helping the dog adjust to ""family life"", and gets to unite this animal with their forever family, which can be a sad, but rewarding experience.
 
-* You can do it repeatedly or just once, without feeling like you're living in a zoo 24/7.",best pet for toddlers
-1463,Thanks! I sure will do!,best ice cream flavor
-1933,middle child,best pizza place in Santa Barbara
-47509,"My bed
+* You can do it repeatedly or just once, without feeling like you're living in a zoo 24/7."
+1463,best ice cream flavor,Thanks! I sure will do!
+1933,best pizza place in Santa Barbara,middle child
+47509,best state to visit in the United States,"My bed
 
-Also happy cake day!",best state to visit in the United States
-12548,┬──┬ ノ( ゜-゜ノ),best gifts for mom
-64617,Agree. These are my favorite shoes to run in.,Best Nike running shoes
-9417,"I didnt, so I bought my house without a realtor. Just had a lawyer draw up the paperwork for a tenth of what the realtor would have cost",best toothpaste
-67485,"Just so you know you don't need to wrap the axios promise chain in an explicit Promise, even to drill down into the response. You can just return the axios call itself which will end up returning whatever you returned from the last .then() call. That should simplify your code a bit.
+Also happy cake day!"
+12548,best gifts for mom,┬──┬ ノ( ゜-゜ノ)
+64617,Best Nike running shoes,Agree. These are my favorite shoes to run in.
+9417,best toothpaste,"I didnt, so I bought my house without a realtor. Just had a lawyer draw up the paperwork for a tenth of what the realtor would have cost"
+67485,axios alternatives reddit,"Just so you know you don't need to wrap the axios promise chain in an explicit Promise, even to drill down into the response. You can just return the axios call itself which will end up returning whatever you returned from the last .then() call. That should simplify your code a bit.
 
 &#x200B;
 
@@ -50,25 +50,25 @@ you don't even need to add the .catch() part in the method if you don't need to 
 
 &#x200B;
 
-Also: If you like Promises make sure you take the time to learn how to do async/await instead. It transforms promises into a much much cleaner paradigm and can be used anywhere promises are. It might seem daunting at first glance but I promise you won't look back.",axios alternatives reddit
-18122,I haven't seen revenge body but i always get the impression that she's the most emotionally mature person,best Kardashian
-18922,[Pizazz!](https://www.youtube.com/watch?v=JjgvRemYrmI),best YouTube video
-54054,"Tired of lying in the sunshine staying home to watch the rain.
+Also: If you like Promises make sure you take the time to learn how to do async/await instead. It transforms promises into a much much cleaner paradigm and can be used anywhere promises are. It might seem daunting at first glance but I promise you won't look back."
+18122,best Kardashian,I haven't seen revenge body but i always get the impression that she's the most emotionally mature person
+18922,best YouTube video,[Pizazz!](https://www.youtube.com/watch?v=JjgvRemYrmI)
+54054,best medicine for a cold,"Tired of lying in the sunshine staying home to watch the rain.
  
 You are young and life is long and there is time to kill today. 
 
 And then one day you find ten years have got behind you. 
 
-No one told you when to run, you missed the starting gun.",best medicine for a cold
-21555,This is one fucking weird karma train!,best winnie the pooh comic
-29741,"I just got sick of the ads and other things. Under Intuit I think the ads have gotten more numerous. When I login the last thing I want to see is half a page of ads in my face. The $50 annual fee for YNAB is worth it just for no ads. 
+No one told you when to run, you missed the starting gun."
+21555,best winnie the pooh comic,This is one fucking weird karma train!
+29741,best money managing app,"I just got sick of the ads and other things. Under Intuit I think the ads have gotten more numerous. When I login the last thing I want to see is half a page of ads in my face. The $50 annual fee for YNAB is worth it just for no ads. 
 
 Also Mint would miscategorize a lot of things so I would have to go back and correct them. Might as well do it myself upfront(YNAB) to start with. 
 
-I also found I prefer the YNAB system more. It is the envelope system of budgeting. While Mint is more trying to forecast everything.",best money managing app
-42912,Yes. Can't recommend enough. I binged it this weekend.,best detective show
-19842,"Aborted, Dying Fetus, Despised Icon, Cryptopsy, Unearth, Slipknot (old), Cattle Decap",best workout music
-6814,"XS Max truly feels like it could be ‘future-proof’. Performance has held up, multitasking is smooth, design like a modernized take on my old favorite black iPhone 4, and iOS keeps getting more polished as time goes on. 
+I also found I prefer the YNAB system more. It is the envelope system of budgeting. While Mint is more trying to forecast everything."
+42912,best detective show,Yes. Can't recommend enough. I binged it this weekend.
+19842,best workout music,"Aborted, Dying Fetus, Despised Icon, Cryptopsy, Unearth, Slipknot (old), Cattle Decap"
+6814,best iPhone,"XS Max truly feels like it could be ‘future-proof’. Performance has held up, multitasking is smooth, design like a modernized take on my old favorite black iPhone 4, and iOS keeps getting more polished as time goes on. 
 
-Plus it came at a crossroads as the first Max sized display, with added battery life from Plus line, and the last iPhone with 3D Touch. Haptic Touch is alright, but compared to LIDAR and a 3rd camera, it is part of what I use throughout the day, daily.",best iPhone
-23096,Hey can i walk ya home?,best celebrity
+Plus it came at a crossroads as the first Max sized display, with added battery life from Plus line, and the last iPhone with 3D Touch. Haptic Touch is alright, but compared to LIDAR and a 3rd camera, it is part of what I use throughout the day, daily."
+23096,best celebrity,Hey can i walk ya home?

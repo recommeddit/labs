@@ -1,22 +1,22 @@
-idx,text,query
-71425,When Riggs and Murtaugh switch in *Lethal Weapon 5*.,best movies with a cool twist
-28659,And the mushrooms!,best breakfast foods
-44677,"Best purchase I've made was a weighted blanket ($70).
+idx,query,text
+71425,best movies with a cool twist,When Riggs and Murtaugh switch in *Lethal Weapon 5*.
+28659,best breakfast foods,And the mushrooms!
+44677,best items under $100,"Best purchase I've made was a weighted blanket ($70).
 
-No more waking up swimming in sweat. Instead of stacking large and bulky blankets until I feel comfortable enough, I just fold the weighted blanket in half over my torso and fall asleep like a baby.",best items under $100
-45592,Enjoy it! Tons of fun games on that system. And congrats on saving money you earned to be able to treat yourself. Respect.,best gaming system
-67541,"Such an annoying API though. I get it, but all too often I write:
+No more waking up swimming in sweat. Instead of stacking large and bulky blankets until I feel comfortable enough, I just fold the weighted blanket in half over my torso and fall asleep like a baby."
+45592,best gaming system,Enjoy it! Tons of fun games on that system. And congrats on saving money you earned to be able to treat yourself. Respect.
+67541,axios alternatives reddit,"Such an annoying API though. I get it, but all too often I write:
 
 ```javascript
 (async function() {
     const response = await (await fetch(""https://www.google.com"")).text();
 })();
-```",axios alternatives reddit
-64699,"Me too, they're so cheap and never had any problems with them.",Best Nike running shoes
-73700,ICarez is surprisingly good...I’m enjoying using my iPad Pro 2020 more than before...also for the price you get 2 screens...thats a decent offer.,best matte screen protector for ipad
-54521,"I got the Raiden Mid maybe a year or so ago, still feels like new, I'm never buying any other pad but Artisan pads again.",best artisan mousepad alternatives
-46692,"It is very localized. In IL Chicago burbs if you find now a unicorn you might get lucky enough to find clorox wipes or win $1,000,000 some day. I scored 4 tubes of clorox wipes since March so far...",best hand santizer brand
-24821,"My list at the moment (no movies):
+```"
+64699,Best Nike running shoes,"Me too, they're so cheap and never had any problems with them."
+73700,best matte screen protector for ipad,ICarez is surprisingly good...I’m enjoying using my iPad Pro 2020 more than before...also for the price you get 2 screens...thats a decent offer.
+54521,best artisan mousepad alternatives,"I got the Raiden Mid maybe a year or so ago, still feels like new, I'm never buying any other pad but Artisan pads again."
+46692,best hand santizer brand,"It is very localized. In IL Chicago burbs if you find now a unicorn you might get lucky enough to find clorox wipes or win $1,000,000 some day. I scored 4 tubes of clorox wipes since March so far..."
+24821,best anime,"My list at the moment (no movies):
 
 Inuyasha
 
@@ -41,8 +41,8 @@ Kamisama Kiss
 
 
 
-Honorable mention: YYH, Junjou Romantica, JJK and Cardcaptor Sakura",best anime
-21424,"Metal
+Honorable mention: YYH, Junjou Romantica, JJK and Cardcaptor Sakura"
+21424,best workout music,"Metal
 
 [Screaming Eagles - Sabaton](https://youtu.be/eFO0Xo9TZ54)
 
@@ -72,22 +72,22 @@ Honorable mention: YYH, Junjou Romantica, JJK and Cardcaptor Sakura",best anime
 
 [Keelhauled - Alestorm](https://youtu.be/ta-Z_psXODw)
 
-[Kickstart my Heart - Mötley Crüe](https://youtu.be/NrOemQaEJGU)",best workout music
-30624,">It was a violation of the US's neutral rights, but the British weren't the ones killing American citizens and destroying their property
+[Kickstart my Heart - Mötley Crüe](https://youtu.be/NrOemQaEJGU)"
+30624,best Mexican war to study,">It was a violation of the US's neutral rights, but the British weren't the ones killing American citizens and destroying their property
 
 The British absolutely were seizing american property and preventing trade.  
 
 >In other words they tried to entice a war between the US/Mexico, as the Germans were aware that they were annoying the US quite a bit with their use of submarines.
 
-no.  They were making plans assuming that the anglophile Woodrow Wilson would eventually find a way into the war on his own, which he did.",best Mexican war to study
-6724,"Hopefully, yes.",best iPhone
-18893,[IM DA BES](https://www.youtube.com/watch?v=ZVUyyHYkBHk),best YouTube video
-50619,Liquid sword-gza honestly my favorite album production wise and im not a Wu-Tang stan its chronically slept on here,best rap album
-13531,This. They almost never reply.,best research paper archive
-57248,"Buy an RO, best investment into my coffee ever.",best water brand
-26973,It’s unquestionably overrated,best board games
-30440,the american civil war is one of the most fascinating conflicts of history. it happened at a time in history when antiquity and modernity were coming to a clash. this was that clash. you could probably spend a lifetime reading about the civil war and still find things interesting.,best Mexican war to study
-52868,"(This is just a list for my faves atm)
+no.  They were making plans assuming that the anglophile Woodrow Wilson would eventually find a way into the war on his own, which he did."
+6724,best iPhone,"Hopefully, yes."
+18893,best YouTube video,[IM DA BES](https://www.youtube.com/watch?v=ZVUyyHYkBHk)
+50619,best rap album,Liquid sword-gza honestly my favorite album production wise and im not a Wu-Tang stan its chronically slept on here
+13531,best research paper archive,This. They almost never reply.
+57248,best water brand,"Buy an RO, best investment into my coffee ever."
+26973,best board games,It’s unquestionably overrated
+30440,best Mexican war to study,the american civil war is one of the most fascinating conflicts of history. it happened at a time in history when antiquity and modernity were coming to a clash. this was that clash. you could probably spend a lifetime reading about the civil war and still find things interesting.
+52868,best hiphop album,"(This is just a list for my faves atm)
 
 In no particular order:
 
@@ -109,12 +109,12 @@ Yung Lean- Warlord
 
 The Notorious B.I.G.- Life after death
 
-Danny Brown- Atrocity Exhibition",best hiphop album
-14665,"> Catherine Coulter's regency books
+Danny Brown- Atrocity Exhibition"
+14665,best romantic novel,"> Catherine Coulter's regency books
 
-Have you read Georgette Heyer? How does Coulter compare?",best romantic novel
-2459,"/r/headphones: Senn HD650 + Schiit stack, easily over 500$",best headphones
-36825,"1. Iron Rattler  
+Have you read Georgette Heyer? How does Coulter compare?"
+2459,best headphones,"/r/headphones: Senn HD650 + Schiit stack, easily over 500$"
+36825,best roller coaster at six flags,"1. Iron Rattler  
 1. X2  
 1. Tatsu  
 1. Goliath (SFOG)  
@@ -125,6 +125,6 @@ Have you read Georgette Heyer? How does Coulter compare?",best romantic novel
 1. Viper (SFGAM)  1.
 1. X-Flight  
 
-I know there are several that I haven't been on yet that would make this list (ie: El Toro).",best roller coaster at six flags
-40023,"Inbox was/is discontinued, though, yeah?",best Chrome extensions
-17072,"That's weird, I can't seem to find Star Wars: Starfighter missions in the App store. I'm using an iPhone Xr in the United States.",best iOS game
+I know there are several that I haven't been on yet that would make this list (ie: El Toro)."
+40023,best Chrome extensions,"Inbox was/is discontinued, though, yeah?"
+17072,best iOS game,"That's weird, I can't seem to find Star Wars: Starfighter missions in the App store. I'm using an iPhone Xr in the United States."

@@ -1,14 +1,14 @@
-idx,text,query
-2315,New Vintage Grill and cheap beer too.,best pizza place in Santa Barbara
-23805,Dirt Rally and any of the Grid games are really good. Besides that I have no idea.,best car racing video game
-24336,Happy to see Eureka Seven so high! My all-time favorite.,best anime
-70434,isn't that industrial design?,best major to study in college
-8849,"Mythbusters tried to do a segment on it but weren't allowed by the network (or something like that) big you google it, you'll find a video of Adam talking about the fact that only what a dentist does to whiten teeth actually works.",best toothpaste
-8619,"""Jeg foreslår at du har samleje med dig selv!""
-Okay, I can't speak Swedish..",best toothpaste
-62545,I mean. Hands down its witcher 3 there is no contest.,Best RPG game on PS4
-51956,"""You're laying your phone wrong."" - Steve Jobs",best iphone case
-27117,"I haven't played with the drafting corporations variant, but I mostly agree with your critique, although I think it's still one of of the best games I own.  It's just not suited for everyone.  Personally, I love and hate Terraforming Mars, here are my thoughts:
+idx,query,text
+2315,best pizza place in Santa Barbara,New Vintage Grill and cheap beer too.
+23805,best car racing video game,Dirt Rally and any of the Grid games are really good. Besides that I have no idea.
+24336,best anime,Happy to see Eureka Seven so high! My all-time favorite.
+70434,best major to study in college,isn't that industrial design?
+8849,best toothpaste,"Mythbusters tried to do a segment on it but weren't allowed by the network (or something like that) big you google it, you'll find a video of Adam talking about the fact that only what a dentist does to whiten teeth actually works."
+8619,best toothpaste,"""Jeg foreslår at du har samleje med dig selv!""
+Okay, I can't speak Swedish.."
+62545,Best RPG game on PS4,I mean. Hands down its witcher 3 there is no contest.
+51956,best iphone case,"""You're laying your phone wrong."" - Steve Jobs"
+27117,best board games,"I haven't played with the drafting corporations variant, but I mostly agree with your critique, although I think it's still one of of the best games I own.  It's just not suited for everyone.  Personally, I love and hate Terraforming Mars, here are my thoughts:
 
 Good:
 
@@ -22,25 +22,25 @@ Bad:
 1. Terrible components.  It's almost laughable how much they cheaped out here.  A more consistent art style, better components, and better packaging would have done wonders for this game.  Hoping a later edition addresses this issue.
 2. At least in my experience, this game can be extremely frustrating come mid/late game if you are not winning, which can sour the experience.  With our group, by the last few generations, there's a clear winner, and there's often little you can do to stop them, as they're already ahead and simply producing more than everyone else, so catching up is nearly impossible. This leaves other players frustrated by the end of the game as they're just watching themselves lose.
 3. Your interactions with other players are pretty much entirely sour experiences.  They eliminate some of your resources, you take a spot on the board they were eyeing, they take a milestone on the turn before you were going to claim it.  Lots of exchanging bitter blows.
-4. Outside of skilled play through experience, this game can boil down to luck of the draw, especially with a strong opening hand.",best board games
-17069,"same feelings about Random Dice. quite pleasantly surprised how into it ive gotten.
+4. Outside of skilled play through experience, this game can boil down to luck of the draw, especially with a strong opening hand."
+17069,best iOS game,"same feelings about Random Dice. quite pleasantly surprised how into it ive gotten.
 
-protip : prop means proportional. i embarrassingly, took far too long to realize this!",best iOS game
-30282,"I don't even remember touching on it at all. It was kinda like ""oh btw the Mexican-American War happened. anyway let's move on""",best Mexican war to study
-41532,"Tone wise, electric guitar beats piano no question. Music wise, the piano is more versatile.",best instrument to play
-69241,I'm in the same boat. I'm doing CS now but it's terribly boring to me. I would probably do engineering.,best major to study in college
-51225,"It just doesn't wow me as much as his other albums do, it feels like he's being messy to be interesting instead of actually making the music itself interesting. Nothing about it really stands out to me",best rap album
-21419,"Mega Man soundtracks
+protip : prop means proportional. i embarrassingly, took far too long to realize this!"
+30282,best Mexican war to study,"I don't even remember touching on it at all. It was kinda like ""oh btw the Mexican-American War happened. anyway let's move on"""
+41532,best instrument to play,"Tone wise, electric guitar beats piano no question. Music wise, the piano is more versatile."
+69241,best major to study in college,I'm in the same boat. I'm doing CS now but it's terribly boring to me. I would probably do engineering.
+51225,best rap album,"It just doesn't wow me as much as his other albums do, it feels like he's being messy to be interesting instead of actually making the music itself interesting. Nothing about it really stands out to me"
+21419,best workout music,"Mega Man soundtracks
 
-Preferably Mega Man 2",best workout music
-7265,"I’ve been rocking my XR for 1 year and 2 weeks. My gf has a 11 and basically we feel like they’re the same phone apart from the wide lens on the 11. Battery life is amazing, everything is amazing. It’s working flawlessly since day 1.",best iPhone
-44098,pc^master^race,best items under $100
-9522,"""shit that goes on your brush""
+Preferably Mega Man 2"
+7265,best iPhone,"I’ve been rocking my XR for 1 year and 2 weeks. My gf has a 11 and basically we feel like they’re the same phone apart from the wide lens on the 11. Battery life is amazing, everything is amazing. It’s working flawlessly since day 1."
+44098,best items under $100,pc^master^race
+9522,best toothpaste,"""shit that goes on your brush""
 
-Note: Do not use literal shit. Use shit-flavor toothpaste instead.",best toothpaste
-50721,"The hook definitely makes the song for me. I could have put Big Boss Rabbit in there too, that's my fav song this year probably",best rap album
-73616,Really? My MBP seems to be drawing around 40w with standard use,best battery bank
-66930,"* 2 world cups
+Note: Do not use literal shit. Use shit-flavor toothpaste instead."
+50721,best rap album,"The hook definitely makes the song for me. I could have put Big Boss Rabbit in there too, that's my fav song this year probably"
+73616,best battery bank,Really? My MBP seems to be drawing around 40w with standard use
+66930,best soccer team in the world,"* 2 world cups
 
 * 2 olympics, both when it was the equivalent of the world cup
 
@@ -50,10 +50,10 @@ Note: Do not use literal shit. Use shit-flavor toothpaste instead.",best toothpa
 
 * got to two other world cup semis
 
-how are they not top 5 at the very least?",best soccer team in the world
-36113,"Yep. That's how its always served to me as well... Except for a dash of Tabasco added in there :/ 
+how are they not top 5 at the very least?"
+36113,best alcoholic drink,"Yep. That's how its always served to me as well... Except for a dash of Tabasco added in there :/ 
 
-This is not a feel good drink...",best alcoholic drink
-28869,"I have low blood pressure, if I go several hours without eating I start to feel faint and my hands tremble. It is not for everyone, you do you, but I can't work on my feet all day when all I have had after sleeping is coffee.",best breakfast foods
-5045,My exact experience,best home improvement store
-17795,"Yah that’s a tough one actually, if I had to pick I’d put her between Kim and Kourtney but that’s just my personal opinion",best Kardashian
+This is not a feel good drink..."
+28869,best breakfast foods,"I have low blood pressure, if I go several hours without eating I start to feel faint and my hands tremble. It is not for everyone, you do you, but I can't work on my feet all day when all I have had after sleeping is coffee."
+5045,best home improvement store,My exact experience
+17795,best Kardashian,"Yah that’s a tough one actually, if I had to pick I’d put her between Kim and Kourtney but that’s just my personal opinion"

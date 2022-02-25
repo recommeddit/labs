@@ -1,16 +1,16 @@
-idx,text,query
-38567,"I like to read the new york times, this local magazine we have called houston press, and from time to time the houston chronicle. There's something about sitting down with a cup of coffee and getting your fingers dirty reading a newspaper that can't be replaced with reading it online.",best newspapers to read
-72584,"If you're new to mechanical keyboards or just want a neutral switch, I'd say MX Browns. They're a middle-ground between the linear ones and the uber-clicky ones.
+idx,query,text
+38567,best newspapers to read,"I like to read the new york times, this local magazine we have called houston press, and from time to time the houston chronicle. There's something about sitting down with a cup of coffee and getting your fingers dirty reading a newspaper that can't be replaced with reading it online."
+72584,best keyboard switches,"If you're new to mechanical keyboards or just want a neutral switch, I'd say MX Browns. They're a middle-ground between the linear ones and the uber-clicky ones.
 
 As for what is the best switch, I'm sure you can dig up some in-depth analysis where people measured the microseconds it takes to activate a switch in rapid succession to determine the ""best"" switch. I think linear ones fit that criteria.
 
 Outside the lab and in the real world, however, the decision between Blue/Brown/Red/Black/Fuschia is going to be 100% personal preference.
 
-I personally like MX Blacks and MX Browns.",best keyboard switches
-51331,Jay Blue silicon,best iphone case
-54672,I've had multiple filters and I've tried multiple O rings/aerators. Still without fail my sink leaks with a filtering unit. I've been told I have to replace the faucet.,best water filter
-42545,Peaky blinders,best detective show
-13769,"If you present this paper to your class, please talk about Rosalind Franklin, the woman who collected all the data for the paper and who did not choose to share it with the two men who won the Nobel Prize for interpreting it. You'll find her name mentioned in the acknowledgements of the paper. 
+I personally like MX Blacks and MX Browns."
+51331,best iphone case,Jay Blue silicon
+54672,best water filter,I've had multiple filters and I've tried multiple O rings/aerators. Still without fail my sink leaks with a filtering unit. I've been told I have to replace the faucet.
+42545,best detective show,Peaky blinders
+13769,best research paper archive,"If you present this paper to your class, please talk about Rosalind Franklin, the woman who collected all the data for the paper and who did not choose to share it with the two men who won the Nobel Prize for interpreting it. You'll find her name mentioned in the acknowledgements of the paper. 
 
 
 ""Would Watson and Crick have been able to formulate their ingenious model without seeing Franklin's then unpublished data? Was Watson and Crick's unauthorized use of their competitor's data within the accepted rules of scientific practice? ""
@@ -19,40 +19,40 @@ I personally like MX Blacks and MX Browns.",best keyboard switches
 Source:
 
 
-http://www.nature.com/embor/journal/v4/n1/full/embor723.html",best research paper archive
-15039,"Robyn Carr - Any Day Now
+http://www.nature.com/embor/journal/v4/n1/full/embor723.html"
+15039,best romantic novel,"Robyn Carr - Any Day Now
 
 Sherryl Woods - A Slice of Heaven
 
-Nora Roberts - The Search",best romantic novel
-38043,I loved basically everything about the movie EXCEPT Black Panther. I felt like he didn’t go through a lot of struggles compared to other superheroes and kinda downplayed him tbh.,best Marvel movie
-30893,Its okay. The areas I am im are much nicer than most cities ive been to in the UK. :),best country to live in
-37516,Camden Park is easily the best park in West Virginia. There's literally no competition.,best amusement park
-67250,"A 404 is explicitly a faulty request.
+Nora Roberts - The Search"
+38043,best Marvel movie,I loved basically everything about the movie EXCEPT Black Panther. I felt like he didn’t go through a lot of struggles compared to other superheroes and kinda downplayed him tbh.
+30893,best country to live in,Its okay. The areas I am im are much nicer than most cities ive been to in the UK. :)
+37516,best amusement park,Camden Park is easily the best park in West Virginia. There's literally no competition.
+67250,axios alternatives reddit,"A 404 is explicitly a faulty request.
 
 Here is a quote from a stack post explaining my position
 
 
 Lets say the request is for /patient/allergies/56, which is a reference to a penicillin allergy. Consider two scenarios (1) There's a mixup in an API change from /patient/allergies/{id} to /patient/allergy/{id} which isn't well communicated, or (2) There's a mixup with a DNS record, and the api request gets routed to a another non-API HTTP server. In both cases conflating application errors (""I don't recognise that id, but I recognised your request"") with lower level protocol errors (""I don't recognise that URL"") into a single response (404) would have a terrible result. – Adrian Baker Aug 9 '17 at 1:05
 
-This is why a 404 is an actual error. The problem is devs have incorrectly used it to just mean “empty response”. It does not mean that.",axios alternatives reddit
-62972,"Awesome, thanks so much and I hope you enjoy it!",Best Data Science textbook
-37346,Oaks Park in Oregon even has pink lemonade drinking fountains.,best amusement park
-44474,"Timer-caps for pill bottles. Basically, the cap is a timer that resets every time you open the bottle. You can get some on Amazon for like $10.
+This is why a 404 is an actual error. The problem is devs have incorrectly used it to just mean “empty response”. It does not mean that."
+62972,Best Data Science textbook,"Awesome, thanks so much and I hope you enjoy it!"
+37346,best amusement park,Oaks Park in Oregon even has pink lemonade drinking fountains.
+44474,best items under $100,"Timer-caps for pill bottles. Basically, the cap is a timer that resets every time you open the bottle. You can get some on Amazon for like $10.
 
 I take my ADHD medicine every morning right when I wake up. Some mornings I'll even take it and go back to sleep for \~30 mins until it kicks in and wakes me up. Some mornings, I'd forget that I took it and went back to sleep, and accidentally take a second when I wake up. 100mg of vyvanse makes for a fucking crackhead fever dream of a day. At that level it actually makes you less productive, so you get nothing done and deal with insane side effects all day. Conversely, some days I'd accidentally go without it because I thought I'd took it already and get nothing done.  The timer cap pill bottle literally totally fixed that problem.
 
-It also made me aware that one of my friends stole my ADHD medication. They still won't fess up to it. I wish they would. It was fucked up but I'd forgive them. We're not very close anymore.",best items under $100
-57298,"I get physically sick if I drink Dasani. Idk what they did to that water, but my body rejects it anytime I drink it.",best water brand
-10173,"I agree completely about General's pencils. Interestingly enough, before the Layout pencil's typography was upgraded, the core was smoother. I deemed it usable, which is not something I can say about the new Layout. This leads me to believe they cut costs over the years and changed the formulas to keep them low. The Cedar Pointe, while not being very smooth, is soft and not too bad to write with, which is why I put it in the honorable mentions.
+It also made me aware that one of my friends stole my ADHD medication. They still won't fess up to it. I wish they would. It was fucked up but I'd forgive them. We're not very close anymore."
+57298,best water brand,"I get physically sick if I drink Dasani. Idk what they did to that water, but my body rejects it anytime I drink it."
+10173,best pencil for drawing,"I agree completely about General's pencils. Interestingly enough, before the Layout pencil's typography was upgraded, the core was smoother. I deemed it usable, which is not something I can say about the new Layout. This leads me to believe they cut costs over the years and changed the formulas to keep them low. The Cedar Pointe, while not being very smooth, is soft and not too bad to write with, which is why I put it in the honorable mentions.
 
-As for the Musgrave news, I am looking into it now, but from what I read (and saw) [here](https://weeklypencil.com/the-weekly-pencil/2019/12/29/new-offerings-from-musgrave), it looks like Musgrave making some fantastic changes! These new pencils look amazing, and I am glad the cores are getting better. Thank you for bringing this up! I own a Harvest No. 1 and it was pretty mediocre. I am glad they have made a better version. To top it all off, $9 is the same price at the Mitsubishi 9852 EW pencils. It's all good news from here.",best pencil for drawing
-63127,Yes it’s fully compatible.,best package manager ios 14 jailbreak reddit
-47750,"Sure it's great, but not allowed in many undergrad math/physics courses. I would stick with the ti-84...",best graphing calculator for vector calculus
-45614,The best fallout is on that there console as well,best gaming system
-56008,Tin tin,best action and adventure movie
-70521,What do you mean you never majored?,best major to study in college
-19534,"Veritasium
+As for the Musgrave news, I am looking into it now, but from what I read (and saw) [here](https://weeklypencil.com/the-weekly-pencil/2019/12/29/new-offerings-from-musgrave), it looks like Musgrave making some fantastic changes! These new pencils look amazing, and I am glad the cores are getting better. Thank you for bringing this up! I own a Harvest No. 1 and it was pretty mediocre. I am glad they have made a better version. To top it all off, $9 is the same price at the Mitsubishi 9852 EW pencils. It's all good news from here."
+63127,best package manager ios 14 jailbreak reddit,Yes it’s fully compatible.
+47750,best graphing calculator for vector calculus,"Sure it's great, but not allowed in many undergrad math/physics courses. I would stick with the ti-84..."
+45614,best gaming system,The best fallout is on that there console as well
+56008,best action and adventure movie,Tin tin
+70521,best major to study in college,What do you mean you never majored?
+19534,best YouTube video,"Veritasium
 
 Mark Rober
 
@@ -60,7 +60,7 @@ Daily stoic
 
 Psych2go
 
-RedFrost Motivation",best YouTube video
-41705,"Doctor Strange maybe, for similar visuals.",movies like Inception
-1550,It's really yummy :),best ice cream flavor
-70766,*Split*. Try relating one of your movies to another seemingly unrelated film you made years and years ago.,best movies with a cool twist
+RedFrost Motivation"
+41705,movies like Inception,"Doctor Strange maybe, for similar visuals."
+1550,best ice cream flavor,It's really yummy :)
+70766,best movies with a cool twist,*Split*. Try relating one of your movies to another seemingly unrelated film you made years and years ago.

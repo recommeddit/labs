@@ -1,21 +1,21 @@
-idx,text,query
-25465,I'm of the opinion that comparing cricketers across eras is stupid.,best cricket teams of all time
-46046,"Really weird, I was thinking it was some tradition I was missing out on lol",best trick or treating candy
-12201,The gift of reddit gold.,best gifts for dad
-1201,"Rocky Road.  Marshmallows, almonds, chocolate ice cream.  So good.",best ice cream flavor
-57861,Caveat emptor.  Aqua di Gio is the unmistakable smell of douche.,best cologne
-54689,"Would you care take a closer look at [alkaline water pitchers](https://diligentchef.com/best-alkaline-water-pitcher/)? These devices produce kangen (alkaline) water which is much more healthier. 
+idx,query,text
+25465,best cricket teams of all time,I'm of the opinion that comparing cricketers across eras is stupid.
+46046,best trick or treating candy,"Really weird, I was thinking it was some tradition I was missing out on lol"
+12201,best gifts for dad,The gift of reddit gold.
+1201,best ice cream flavor,"Rocky Road.  Marshmallows, almonds, chocolate ice cream.  So good."
+57861,best cologne,Caveat emptor.  Aqua di Gio is the unmistakable smell of douche.
+54689,best water filter,"Would you care take a closer look at [alkaline water pitchers](https://diligentchef.com/best-alkaline-water-pitcher/)? These devices produce kangen (alkaline) water which is much more healthier. 
 
-I'm offering you some friendly advice to read this information about benefits of alkaline water: http://www.precisionnutrition.com/alkaline-water-legit-or-hoax",best water filter
-13770,"Thanks for pointing that out. I remember reading about this ""snub"" before.",best research paper archive
-21211,Jimmy eat world - the pain,best workout music
-55381,"Well that's a premise I haven't heard before. 
+I'm offering you some friendly advice to read this information about benefits of alkaline water: http://www.precisionnutrition.com/alkaline-water-legit-or-hoax"
+13770,best research paper archive,"Thanks for pointing that out. I remember reading about this ""snub"" before."
+21211,best workout music,Jimmy eat world - the pain
+55381,best action and adventure novel series,"Well that's a premise I haven't heard before. 
 
-I don't think its what i'm after currently. but I do enjoy seeing these weird-concepts.",best action and adventure novel series
-67882,"I  picked up the e-book of *Synners* as a blind buy a few days ago, because it was only two bucks. Based on the rest of your list, I'll probably enjoy it.",best science fiction novel
-1218,I work at Ben and Jerry's and we have a flavor called chocolate therapy that is unbelievable. When the shop isn't crowded I eat it out of the cases we keep the ice cream in.,best ice cream flavor
-41129,"Piano. However, if you are inclined towards wind instruments (not that it sounds like it from your post), learn the clarinet. In my experience, people who learn that one first have much less trouble learning, say, the saxophone than the other way round.",best instrument to play
-5946,"Great choice! I hope you don't get spoiled, not too many other languages have that combination of readability, efficiency and productivity. It does not get more pleasant than making simplicity as the abstraction. This is coming from a longtime Haskeller.
+I don't think its what i'm after currently. but I do enjoy seeing these weird-concepts."
+67882,best science fiction novel,"I  picked up the e-book of *Synners* as a blind buy a few days ago, because it was only two bucks. Based on the rest of your list, I'll probably enjoy it."
+1218,best ice cream flavor,I work at Ben and Jerry's and we have a flavor called chocolate therapy that is unbelievable. When the shop isn't crowded I eat it out of the cases we keep the ice cream in.
+41129,best instrument to play,"Piano. However, if you are inclined towards wind instruments (not that it sounds like it from your post), learn the clarinet. In my experience, people who learn that one first have much less trouble learning, say, the saxophone than the other way round."
+5946,best programming language for web development,"Great choice! I hope you don't get spoiled, not too many other languages have that combination of readability, efficiency and productivity. It does not get more pleasant than making simplicity as the abstraction. This is coming from a longtime Haskeller.
 
 A Tour of Go: https://tour.golang.org
 
@@ -26,22 +26,22 @@ There's also The Go Programming Language book which is the standard. It's a terr
 For articles and blog posts specifically, this site: 
 https://www.goinggo.net/
 
-I'll update if I can think of more.",best programming language for web development
-45772,My mom took a handful of Halloween candy from her work bowl to bring home to me and she said there were kit kats in the bag especially for me. She grabbed reeses instead on accident. They both have a red-orange wrapper so I understand the mistake but I was so disappointed. You don't just promise someone kit kats and then fall through!!,best trick or treating candy
-41660,"I recently watched Total Recall (I know is old) but it reminded me of Inception, how many turns in the plot etc",movies like Inception
-72237,ok thanks,best adblocker extension
-66038,Thanks! I hope I get in.,best college in california
-20084,You're all dumb cucks,best workout music
-13687,"This would be great to use in our (developing) wiki. If you get us some links and post them in this comment, we can include it. Great post!",best research paper archive
-13275,"My brother died at a young age, 25. While inconclusive we think it was a seizure due to epilepsy, long story but he had it as a child.
+I'll update if I can think of more."
+45772,best trick or treating candy,My mom took a handful of Halloween candy from her work bowl to bring home to me and she said there were kit kats in the bag especially for me. She grabbed reeses instead on accident. They both have a red-orange wrapper so I understand the mistake but I was so disappointed. You don't just promise someone kit kats and then fall through!!
+41660,movies like Inception,"I recently watched Total Recall (I know is old) but it reminded me of Inception, how many turns in the plot etc"
+72237,best adblocker extension,ok thanks
+66038,best college in california,Thanks! I hope I get in.
+20084,best workout music,You're all dumb cucks
+13687,best research paper archive,"This would be great to use in our (developing) wiki. If you get us some links and post them in this comment, we can include it. Great post!"
+13275,best gifts for mom,"My brother died at a young age, 25. While inconclusive we think it was a seizure due to epilepsy, long story but he had it as a child.
 
 My cousin gave my parents a gift one year. A donation to the Epilepsy Foundation in my brothers name. The were very, very touched by the sentiment.
 
-Maybe think something along those lines.",best gifts for mom
-33892,"Omg I love that game! I always play as my 2 favourite a (Riolu and Shinx). But man, trying to get a specific starter sucks. 
+Maybe think something along those lines."
+33892,best Pokemon game,"Omg I love that game! I always play as my 2 favourite a (Riolu and Shinx). But man, trying to get a specific starter sucks. 
 
-I actually brought that game home from my parents over the holidays because I wanted to play it and it's fairly hard to find nowadays.",best Pokemon game
-46788,"> For surgical disinfection, you need to scrub in with a disinfectant soap (preferably with chlorhexidine) for 30-60 seconds.
+I actually brought that game home from my parents over the holidays because I wanted to play it and it's fairly hard to find nowadays."
+46788,best hand santizer brand,"> For surgical disinfection, you need to scrub in with a disinfectant soap (preferably with chlorhexidine) for 30-60 seconds.
 
 That used to be the standard, but alternatives involving alcohol-based sanitizers have become part of commonly recommended practice, and are well-supported by studies.
 
@@ -60,9 +60,9 @@ The above quotes include seven references, given in the PDF.
 
 So, waddaya say now, soap guy? ;D
 
-(P.S. Anyone operating on me should use both, thank you very much!)",best hand santizer brand
-19147,Exactly the sound I would make after my spirit was woken after few thousand years and I found myself in an MRI machine. Eeeeough!,best YouTube video
-47386,"Yeah I’ll give him the home of the Revolution but I’m taking the home of Independence. 
+(P.S. Anyone operating on me should use both, thank you very much!)"
+19147,best YouTube video,Exactly the sound I would make after my spirit was woken after few thousand years and I found myself in an MRI machine. Eeeeough!
+47386,best state to visit in the United States,"Yeah I’ll give him the home of the Revolution but I’m taking the home of Independence. 
 
-Gotta get my flair updated so I can rep haha",best state to visit in the United States
-71288,The Skeleton Key has a great twist and is a great little film. The terrible title puts a lot of people off I think.,best movies with a cool twist
+Gotta get my flair updated so I can rep haha"
+71288,best movies with a cool twist,The Skeleton Key has a great twist and is a great little film. The terrible title puts a lot of people off I think.

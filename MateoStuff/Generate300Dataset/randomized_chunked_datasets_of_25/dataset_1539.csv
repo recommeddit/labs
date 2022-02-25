@@ -1,29 +1,29 @@
-idx,text,query
-18239,"My personal fav
-https://www.youtube.com/watch?v=DV_3qx-oBms",best YouTube video
-38241,"Came here to say that and the BBC.
+idx,query,text
+18239,best YouTube video,"My personal fav
+https://www.youtube.com/watch?v=DV_3qx-oBms"
+38241,best newspapers to read,"Came here to say that and the BBC.
 
 Oh wait...
 
-Ok, how about CSM and the Economist? Also the NYT as long as you realize they only cover what they feel is relevant from a leftist perspective, and their opinion pages are just worthless drivel, about on par with Fox News.",best newspapers to read
-34935,"Lets goooo, two top 10 players",best NFL player
-45705,I love circus peanuts!!!! SO TASTY!,best trick or treating candy
-34994,FOR THE BRAND,best NFL player
-25455,"Sure, except Afridi has a significantly better bowling strike rate compared to
+Ok, how about CSM and the Economist? Also the NYT as long as you realize they only cover what they feel is relevant from a leftist perspective, and their opinion pages are just worthless drivel, about on par with Fox News."
+34935,best NFL player,"Lets goooo, two top 10 players"
+45705,best trick or treating candy,I love circus peanuts!!!! SO TASTY!
+34994,best NFL player,FOR THE BRAND
+25455,best cricket teams of all time,"Sure, except Afridi has a significantly better bowling strike rate compared to
 Qadir. In fact his strike rate is second only to Ajmal amongst major Pakistani spinners. (66 vs. 65). That slight difference is massively offset by a batting average of 36. 
 
 Razzaq on the other hand, you’re probably right about. Underwhelming career with a few great match winning innings. 
 
 As for trusting the top 7, in modern cricket many Test wins have been anchored by the lower order. 
-Pakistan on the verge of a historic test loss to Zimbabwe, and Wasim and Saqlain come together and put on 412 runs. Many other examples like that. Look at the countless examples of England wins due to substantial scores by their 8,9,10 bats. I do think batting should matter in all time teams.",best cricket teams of all time
-15280,But the smell when the fruits rot......sooooo bad!,best tree for the garden
-29691,"I personally think Asura's Wrath deserves a spot. I watched an entire playthrough years ago and I've wanted to play it since. Combat's pretty fun, and its storyline is pretty neat too. Good cinematics, epic boss fights, all around great.",best game console
-64980,"Recently discovered the Banh Mi sandwich from 4 Eggs and Pizza, one of my new favorites.  
+Pakistan on the verge of a historic test loss to Zimbabwe, and Wasim and Saqlain come together and put on 412 runs. Many other examples like that. Look at the countless examples of England wins due to substantial scores by their 8,9,10 bats. I do think batting should matter in all time teams."
+15280,best tree for the garden,But the smell when the fruits rot......sooooo bad!
+29691,best game console,"I personally think Asura's Wrath deserves a spot. I watched an entire playthrough years ago and I've wanted to play it since. Combat's pretty fun, and its storyline is pretty neat too. Good cinematics, epic boss fights, all around great."
+64980,best places to eat in Santa Barbara,"Recently discovered the Banh Mi sandwich from 4 Eggs and Pizza, one of my new favorites.  
 
 I also enjoy the hardshell asada tacos from Monys, brussel sprouts from the Lark, either wings from Sama Sama, and BBQ chicken pizza from Yellow Belly. 
 
-Oh and chicken chipotle club sandwich or Mexican chicken Cesar salad from South Coast Deli",best places to eat in Santa Barbara
-5744,"Sorry this took so long.  This assumes you know how to build a basic website and use javascript.  It helps if you know a bit of some other language.  You will be doing a lot of googling of keywords as you move through this.  Don't be daunted - this wall of text is the sum of 4 years of college and 7 years experience as a developer.  I did not learn all of this at once or even in a year.  Go through it slowly and you will find sections to skip and others that change before you get there.  ""When I was your age"" we didn't have PowerShell or Puppet or Octopus.  We didn't have things like Ruby that forces MVC on us.  We didn't have JSON and we barely had XML.  Shit below may not exist or be relevant when you get to it, so don't worry!
+Oh and chicken chipotle club sandwich or Mexican chicken Cesar salad from South Coast Deli"
+5744,best programming language for web development,"Sorry this took so long.  This assumes you know how to build a basic website and use javascript.  It helps if you know a bit of some other language.  You will be doing a lot of googling of keywords as you move through this.  Don't be daunted - this wall of text is the sum of 4 years of college and 7 years experience as a developer.  I did not learn all of this at once or even in a year.  Go through it slowly and you will find sections to skip and others that change before you get there.  ""When I was your age"" we didn't have PowerShell or Puppet or Octopus.  We didn't have things like Ruby that forces MVC on us.  We didn't have JSON and we barely had XML.  Shit below may not exist or be relevant when you get to it, so don't worry!
 
 Query:  Get data from a non-code source and load it into your code.  This can be a file via a FileStream or a database via a SQL or JSON via <plethora of ways to generate JSON here>.   Traditionally, you must know a bare minimum of SQL, but JSON is growing much more prominent in classical settings.   SQL:  learn the following key words:  select from table view where group by order by insert update delete.  Once you can use a database and get the data you want out, you can move on to... 
 
@@ -39,23 +39,23 @@ UNIT TESTING!!11!:  Unit tests are about writing code to prove your code does st
 
 Proper repository practices:  Now you're awesome at web design and you get hired onto a team.  How do you make code changes without impacting what other people are doing?  Repositories.  GIT/SVN/Mercurial are the popular three.  You need to learn how to commit your code, how version control and merges work, as well as other key words such as branch, tag, trunk, pull, checkout, etc.  You ~MUST~ know this in order to work on a team.
 
-Proper deployment practices:  How do you get your code onto a production (public-facing) server?  How do you ensure the code that is ready gets deployed but the code you are still working on doesn't?  What if there's a bug in production but you can't reproduce it locally?  What if after deployment the site doesn't work?  Deployment practices are about ensuring what you do locally works on production.  In a large firm you are not allowed to change production servers.  Ever.  Someone else does it, and they have no idea what you did.  ""Oh I forgot to set this web server config file so the website works""  Too bad, you're fired.  Every worksite is different, but there are tools that automate deployment you can learn to get a head start.  Heroku uses some by default and my workplace uses Octopus.  There is also Puppet and a few others.  None of them are necessarily better than the others but they all teach you how to get things into a production server without manipulating config files or dlls by hand.",best programming language for web development
-63013,"I’m fairly new to react myself so I can’t comment much on other courses, but I am taking the Udemy course you linked. I find it great, he starts from a clean slate and it’s always easy to follow along but your knowledge increases. Seeing how long the course is it can be daunting but so far it’s well worth it. The course costs nothing more than buying lunch and it offers 35 hours of quality content. I’m only around a third in but I feel so much more confident in my react knowledge compared to when I tried other tutorials/courses",Best online React course
-33680,"Yeah, getting a used one could be a good play - they're supposed to be rated at 500k+ (or was it 750k?) miles, so once the initial depreciation hits it should be a solid value (which it is already).",best electric car
-1624,"Oh wow thank you!  I absolutely love cheese so the gorgonzola is probably going to be my next endeavor.  I really wanted to do a parm one but I couldn't find a good recipe.  
+Proper deployment practices:  How do you get your code onto a production (public-facing) server?  How do you ensure the code that is ready gets deployed but the code you are still working on doesn't?  What if there's a bug in production but you can't reproduce it locally?  What if after deployment the site doesn't work?  Deployment practices are about ensuring what you do locally works on production.  In a large firm you are not allowed to change production servers.  Ever.  Someone else does it, and they have no idea what you did.  ""Oh I forgot to set this web server config file so the website works""  Too bad, you're fired.  Every worksite is different, but there are tools that automate deployment you can learn to get a head start.  Heroku uses some by default and my workplace uses Octopus.  There is also Puppet and a few others.  None of them are necessarily better than the others but they all teach you how to get things into a production server without manipulating config files or dlls by hand."
+63013,Best online React course,"I’m fairly new to react myself so I can’t comment much on other courses, but I am taking the Udemy course you linked. I find it great, he starts from a clean slate and it’s always easy to follow along but your knowledge increases. Seeing how long the course is it can be daunting but so far it’s well worth it. The course costs nothing more than buying lunch and it offers 35 hours of quality content. I’m only around a third in but I feel so much more confident in my react knowledge compared to when I tried other tutorials/courses"
+33680,best electric car,"Yeah, getting a used one could be a good play - they're supposed to be rated at 500k+ (or was it 750k?) miles, so once the initial depreciation hits it should be a solid value (which it is already)."
+1624,best ice cream flavor,"Oh wow thank you!  I absolutely love cheese so the gorgonzola is probably going to be my next endeavor.  I really wanted to do a parm one but I couldn't find a good recipe.  
 
-I am incredibly grateful for these recipes!  Thank you!",best ice cream flavor
-2573,something something monoprice headphones.,best headphones
-54490,"So I also do cs and Val... But I use all these for it. Personally, I like soft just a touch more as xsoft is definitely usable, but for me my arm tends to sink into the pad a bit too much.",best artisan mousepad alternatives
-554,"You can use OneNote for PDFs, the key is keeping the sections short. If it's under 20-30 pages it'll work great. I usually break textbooks or handouts into chunks.",best mac app to annotate pdf with wacom tablet reddit
-37323,"That’s fair, you really gotta like coasters to enjoy SFMM, but it is my favorite park I’ve been to",best amusement park
-30697,If God wanted to give the earth an enema he would stick it in Queensland!,best country to live in
-13737,Yeah.  Entanglement is a funny thing.  I never understood why you can write the wavefunctions in the way that you do if you know what I am talking about.  It just seems like cheating sometimes :),best research paper archive
-3725,I was never able to trust the Guardian's ranking simply because it jumped so much from year to year. I always preferred the Times'.,best college for research
-13594,"We don’t put all the worlds science behind paywalls, people just don’t care about information that doesn’t affirm their priors.",best research paper archive
-18280,"""How dare you *jive ass motherfuckers*""",best YouTube video
-2579,"To some extent you are right, but value also hugely depends on where you live. 
+I am incredibly grateful for these recipes!  Thank you!"
+2573,best headphones,something something monoprice headphones.
+54490,best artisan mousepad alternatives,"So I also do cs and Val... But I use all these for it. Personally, I like soft just a touch more as xsoft is definitely usable, but for me my arm tends to sink into the pad a bit too much."
+554,best mac app to annotate pdf with wacom tablet reddit,"You can use OneNote for PDFs, the key is keeping the sections short. If it's under 20-30 pages it'll work great. I usually break textbooks or handouts into chunks."
+37323,best amusement park,"That’s fair, you really gotta like coasters to enjoy SFMM, but it is my favorite park I’ve been to"
+30697,best country to live in,If God wanted to give the earth an enema he would stick it in Queensland!
+13737,best research paper archive,Yeah.  Entanglement is a funny thing.  I never understood why you can write the wavefunctions in the way that you do if you know what I am talking about.  It just seems like cheating sometimes :)
+3725,best college for research,I was never able to trust the Guardian's ranking simply because it jumped so much from year to year. I always preferred the Times'.
+13594,best research paper archive,"We don’t put all the worlds science behind paywalls, people just don’t care about information that doesn’t affirm their priors."
+18280,best YouTube video,"""How dare you *jive ass motherfuckers*"""
+2579,best headphones,"To some extent you are right, but value also hugely depends on where you live. 
 
-I'll explain what I mean with an example. For example my neighbors in Canada have really crap headphone pricing, and if you look at the same gear, my my ""sweet spot"" here in the US is typically far sweeter than their ""sweet spot"" up in the frozen arctic tundra they call home :-)",best headphones
-42511,"I don't recall if it's still on Netflix or if BBC took it back, but the Sherlock Holmes with Martin Freeman and Bendadit Cucumberpatch was amazing. Short seasons, super long episodes, but could be a good binge for a week/weekend.",best detective show
-10538,"really? how would they know, or do they just wait and see if you have the correct permits/paperwork?  maybe something like a 50bmg bottle opener?",best suitcase lock
+I'll explain what I mean with an example. For example my neighbors in Canada have really crap headphone pricing, and if you look at the same gear, my my ""sweet spot"" here in the US is typically far sweeter than their ""sweet spot"" up in the frozen arctic tundra they call home :-)"
+42511,best detective show,"I don't recall if it's still on Netflix or if BBC took it back, but the Sherlock Holmes with Martin Freeman and Bendadit Cucumberpatch was amazing. Short seasons, super long episodes, but could be a good binge for a week/weekend."
+10538,best suitcase lock,"really? how would they know, or do they just wait and see if you have the correct permits/paperwork?  maybe something like a 50bmg bottle opener?"

@@ -1,7 +1,7 @@
-idx,text,query
-39264,"I second Firefox. It works everywhere, has great add ons and support, and it's not Chromium.",best web browser
-55280,"East tends to be live to work, West tends to be work to live.",best places to hike in the east coast
-33508,"> Competitors are starting to get close to Tesla's real-world ranges
+idx,query,text
+39264,best web browser,"I second Firefox. It works everywhere, has great add ons and support, and it's not Chromium."
+55280,best places to hike in the east coast,"East tends to be live to work, West tends to be work to live."
+33508,best electric car,"> Competitors are starting to get close to Tesla's real-world ranges
 
 Yea, I what it is is that nobody provides all three:
 
@@ -11,21 +11,21 @@ Yea, I what it is is that nobody provides all three:
 
 Mach-e does #1 and #3. Taycan does #2 and #3. Chevy Bolt and Nissan Leaf does #1 and #3 (if you compare to the short range Teslas).  ID.4 does #1.  Hyundai Kona does #1 and #3.
 
-Nobody has yet hit the trifecta.",best electric car
-16077,"Serengeti is owned by Bushnell. Advanced optics (polarization, photochromic lenses) are standard, and they can be found at the same price point as non-polarized Luxottica shades. I've had the same pair of Serengeti Napolis as driving glasses for probably 10 years and 3 cars, and I have no plans to replace them. I left my Wayfarers at a bar in NYC, found a pair of Serengeti Carlo for $45 on EyeDictive to replace them, and now couldn't care less I don't have my Wayfarers. 
+Nobody has yet hit the trifecta."
+16077,best sunglasses for fashion,"Serengeti is owned by Bushnell. Advanced optics (polarization, photochromic lenses) are standard, and they can be found at the same price point as non-polarized Luxottica shades. I've had the same pair of Serengeti Napolis as driving glasses for probably 10 years and 3 cars, and I have no plans to replace them. I left my Wayfarers at a bar in NYC, found a pair of Serengeti Carlo for $45 on EyeDictive to replace them, and now couldn't care less I don't have my Wayfarers. 
 
-I'm with you on the Luxottica front. I have a pair of Wayfarers from the 60s when they were made by Bausch and Lomb, and those things are tanks. The pair I lost weren't even comparable.",best sunglasses for fashion
-69137,"House of the Scorpion, little known novel, covers dystopia. Don’t want to give any spoilers, great little read.
+I'm with you on the Luxottica front. I have a pair of Wayfarers from the 60s when they were made by Bausch and Lomb, and those things are tanks. The pair I lost weren't even comparable."
+69137,best science fiction novel,"House of the Scorpion, little known novel, covers dystopia. Don’t want to give any spoilers, great little read.
 
 Others 1984, Fahrenheit, and brave new world. 
 
-I had a depressing childhood.",best science fiction novel
-66516,Because we didn't qualify for the World Cup,best soccer team in the world
-56551,"Nice, comprehensive guide.",best desktop monitor
-66128,I see it now that it has 22 members.,best college in california
-15418,Do bonsai trees count?,best tree for the garden
-13083,Family portrait with actual working family. It's even better!,best gifts for mom
-69063,"Neuromancer by William Gibson, 
+I had a depressing childhood."
+66516,best soccer team in the world,Because we didn't qualify for the World Cup
+56551,best desktop monitor,"Nice, comprehensive guide."
+66128,best college in california,I see it now that it has 22 members.
+15418,best tree for the garden,Do bonsai trees count?
+13083,best gifts for mom,Family portrait with actual working family. It's even better!
+69063,best science fiction novel,"Neuromancer by William Gibson, 
 Enders Game by 
 &
 I'll get back to you on this one.
@@ -45,22 +45,22 @@ Leviathan...
 By Jack campebell
 
 
-My criterion was making it real so that I could live there. Its about being a soldier and its about being in space. See space. It doesn't work like gravity. It's.. different. And when you take that into account its a whole different kind of mode.",best science fiction novel
-10890,"This is the worst.
-Locking your luggage in a way that makes it ""impossible to open without it visibly showing"" is a sure fire way to get them inspected and basically",best suitcase lock
-32934,"Monster M100 Phantom. It was literally just a liquid creamsicle, you couldn't taste the energy drinkness. It literally devastated me when it disappeared.",best energy drink
-19373,The hippos in reverse had me rolling on the floor.,best YouTube video
-68781,"This list has been around at least a few years, although the url has changed.  It used to be austranet something or other, but that stopped working a while back.  *Ender's Game* is just an extremely popular book for some reason.",best science fiction novel
-58595,"You can check out r/fragsplits and get like 10ml of something high end, if you don't need it to last you like 2 years",best cologne
-3834,"Depends on the institution. Have you taken the SAT or ACT? You may need to take these exams. However, these exams are given all over the country and you can just go to the testing location closest to you. Seriously, you shouldn’t consider a school that has no admissions requirements (and even DeVry requires SAT/ACT scores).",best online college
-66711,Jesus Haaland is worth half of Norway,best soccer team in the world
-36140,AA is for quitters,best alcoholic drink
-32791,"[The Punctuation Guide](http://www.thepunctuationguide.com/index.html) (website)
+My criterion was making it real so that I could live there. Its about being a soldier and its about being in space. See space. It doesn't work like gravity. It's.. different. And when you take that into account its a whole different kind of mode."
+10890,best suitcase lock,"This is the worst.
+Locking your luggage in a way that makes it ""impossible to open without it visibly showing"" is a sure fire way to get them inspected and basically"
+32934,best energy drink,"Monster M100 Phantom. It was literally just a liquid creamsicle, you couldn't taste the energy drinkness. It literally devastated me when it disappeared."
+19373,best YouTube video,The hippos in reverse had me rolling on the floor.
+68781,best science fiction novel,"This list has been around at least a few years, although the url has changed.  It used to be austranet something or other, but that stopped working a while back.  *Ender's Game* is just an extremely popular book for some reason."
+58595,best cologne,"You can check out r/fragsplits and get like 10ml of something high end, if you don't need it to last you like 2 years"
+3834,best online college,"Depends on the institution. Have you taken the SAT or ACT? You may need to take these exams. However, these exams are given all over the country and you can just go to the testing location closest to you. Seriously, you shouldn’t consider a school that has no admissions requirements (and even DeVry requires SAT/ACT scores)."
+66711,best soccer team in the world,Jesus Haaland is worth half of Norway
+36140,best alcoholic drink,AA is for quitters
+32791,best free online grammar checker,"[The Punctuation Guide](http://www.thepunctuationguide.com/index.html) (website)
 
 [The Media Writer's Handbook](https://m.barnesandnoble.com/p/media-writers-handbook-george-arnold/1116824929/2678353258904?st=PLA&sid=BNB_DRS_New+Marketplace+Shopping+Textbooks_00000000&2sid=Google_&sourceId=PLGoP164997&gclid=Cj0KCQjw8YXXBRDXARIsAMzsQuU8qHdabvfq7irDA8xiUm4CjVvDmLSXb5NOD4ADflLdrj__Ge7GpAEaAplyEALw_wcB) (book)
 
-The handbook is great and covers a lot of grammar topics simply and concisely, including hyphens.",best free online grammar checker
-24124,"Cowboy Bebop
+The handbook is great and covers a lot of grammar topics simply and concisely, including hyphens."
+24124,best anime,"Cowboy Bebop
 
 Fate/Zero
 
@@ -70,8 +70,8 @@ Puella Magi Madoka Magica
 
 Akira
 
-Tengen Toppa Gurren Lagann",best anime
-54443,"The zero and probably the otsu v2 are your best bet for good control with the zero being a ""premium"" upgrade to the gsr. I play cs and valorant with all five pads, but zero and hayate otsu v2 have the best control.",best artisan mousepad alternatives
-44333,Try the **Grado SR60** for example.,best items under $100
-35910,Pocket eggs?,best alcoholic drink
-62143,id strongly suggest the Disgaea series if you're into tactical RPGs well over 100+ hours of gameplay and customization there,Best RPG game on PS4
+Tengen Toppa Gurren Lagann"
+54443,best artisan mousepad alternatives,"The zero and probably the otsu v2 are your best bet for good control with the zero being a ""premium"" upgrade to the gsr. I play cs and valorant with all five pads, but zero and hayate otsu v2 have the best control."
+44333,best items under $100,Try the **Grado SR60** for example.
+35910,best alcoholic drink,Pocket eggs?
+62143,Best RPG game on PS4,id strongly suggest the Disgaea series if you're into tactical RPGs well over 100+ hours of gameplay and customization there

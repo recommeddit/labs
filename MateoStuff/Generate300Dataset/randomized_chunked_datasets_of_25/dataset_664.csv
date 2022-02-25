@@ -1,9 +1,9 @@
-idx,text,query
-15305,The Larch. The......... Larch. And now: The..... Larch.,best tree for the garden
-62971,thank you definitely sounds like a good read! I ordered a ebook copy because the book is abit dearer in AU,Best Data Science textbook
-7425,"It's a pretty good choice. Battery life isn't great, but it supports USB-C charging, so you can easily charge it on the go.",best laptop for general use
-7443,"Hi, unfortunately, powerful devices with touchscreens are very rare. I would go for the Acer Swift X on my list. It offers a solid balance between performance and battery life, which is rare for the price point.",best laptop for general use
-40129,"Unlock origin
+idx,query,text
+15305,best tree for the garden,The Larch. The......... Larch. And now: The..... Larch.
+62971,Best Data Science textbook,thank you definitely sounds like a good read! I ordered a ebook copy because the book is abit dearer in AU
+7425,best laptop for general use,"It's a pretty good choice. Battery life isn't great, but it supports USB-C charging, so you can easily charge it on the go."
+7443,best laptop for general use,"Hi, unfortunately, powerful devices with touchscreens are very rare. I would go for the Acer Swift X on my list. It offers a solid balance between performance and battery life, which is rare for the price point."
+40129,best Chrome extensions,"Unlock origin
 Lastpass (or equivalent)
 Mailto setter for Gmail
 I don't care about cookies
@@ -11,33 +11,33 @@ No thanks (paid)
 Reverse image search
 Onenote (I ditched Evernote when they started sucking balls) 
 Google keep
-RES",best Chrome extensions
-62450,"The FF games from PS1-2 (FF7, 8, 9, 10, 12) were all turn-based. 11 and 14 are MMO's. 
+RES"
+62450,Best RPG game on PS4,"The FF games from PS1-2 (FF7, 8, 9, 10, 12) were all turn-based. 11 and 14 are MMO's. 
 
-15 has more of an active, action-rpg style combat, which some old-school FF fans didn't enjoy as much. I thought it was really good though. Take a look at both - you may enjoy the old-school style ones though; PS4 has a bunch of them remastered.",Best RPG game on PS4
-49051,"Yea, I've seen stock coming back slowly. I got mine about 3 weeks ago and the only ones one amazon were $300 more than ordering direct from LG.",best gaming monitor
-43095,"Sharp Objects, Bodyguard, True Detective",best detective show
-5851,"Every programming language has its own advantages, so I think it depends on your goals, but i myself will choose python and JavaScript/typescript",best programming language for web development
-56139,"Anything directed by Guy Ritchie: Lock, Stock, & 2 Smoking Barrels, Snatch, The Gentleman",best action and adventure movie
-28910,"Egg cups. I make a dozen at a time (2 per serving). Mix up 12 eggs and throw in spices (a little seasoning salt, Italian Seasoning, onion powder for me). Spray a muffin tin. Put in spinach or whatever veggies you have on hand. Pour in the egg mixture on top. Sprinkle with cheese (I use feta). Cook @ 350 for 25 minutes. Keep in the fridge and microwave before you hit the road each day. Enjoy!",best breakfast foods
-36900,"1. Six Flags Magic Mountain
+15 has more of an active, action-rpg style combat, which some old-school FF fans didn't enjoy as much. I thought it was really good though. Take a look at both - you may enjoy the old-school style ones though; PS4 has a bunch of them remastered."
+49051,best gaming monitor,"Yea, I've seen stock coming back slowly. I got mine about 3 weeks ago and the only ones one amazon were $300 more than ordering direct from LG."
+43095,best detective show,"Sharp Objects, Bodyguard, True Detective"
+5851,best programming language for web development,"Every programming language has its own advantages, so I think it depends on your goals, but i myself will choose python and JavaScript/typescript"
+56139,best action and adventure movie,"Anything directed by Guy Ritchie: Lock, Stock, & 2 Smoking Barrels, Snatch, The Gentleman"
+28910,best breakfast foods,"Egg cups. I make a dozen at a time (2 per serving). Mix up 12 eggs and throw in spices (a little seasoning salt, Italian Seasoning, onion powder for me). Spray a muffin tin. Put in spinach or whatever veggies you have on hand. Pour in the egg mixture on top. Sprinkle with cheese (I use feta). Cook @ 350 for 25 minutes. Keep in the fridge and microwave before you hit the road each day. Enjoy!"
+36900,best roller coaster at six flags,"1. Six Flags Magic Mountain
 2. Six Flags Over Georgia
 3. Six Flags Great America
-4. Six Flags St. Louis",best roller coaster at six flags
-46689,The only hand sanitizer I ever see at the store is made by a local distillery-- and it's sold in small bottles that are priced like it's French perfume.,best hand santizer brand
-9663,"I respect your opinion, and cannot argue as to the health side of the issue.  However, with that said, please do not take offense if I choose never to eat at your house!",best dorm hall at UCSB
-55257,"I have a moderately challenging suggestion. The Sipsey Wilderness in Bankhead National Forest. Located in northwest Alabama is is a very old growth forest and absolutely beautiful. The Sipsey river runs through the forest and is feed by a variety of large creeks and streams that must sometimes be traversed. There are boulder fields and large cliff faces. The terrain is moderately challenging, although can be very flat near the rivers. The trails will require map skills and the wilderness area will put to the test your basic outdoorsman skills. However, the area is completely secluded and you can completely escape civilization and man. One of my favorite backpacking destinations. I recommend the Thompson trailhead!",best places to hike in the east coast
-47328,Philadelphia is my favorite city in the U.S. after my own of course. I looooooooooooOOOOOOOOOooooooove Philly.,best state to visit in the United States
-15310,"This is my favorite tree.  Loses it's needles like other trees loose leaves, and purple pinecones in the spring.",best tree for the garden
-70307,Ah I’ve accepted my place :) I’m heading to grad school for biophysics. Still super cool stuff I can do with that! Plus I’m not super advanced with math either. I can deal with modest quantum theory stuff but being an actual astrophysicist would probably break my brain,best major to study in college
-43228,You should watch dark on Netflix. If you are interesting in your brain get multiple shocks. Highly recommended,best detective show
-41188,Holy shit this is a dream come true,best instrument to play
-58626,Noir extreme is excellent,best cologne
-65744,"""for some reason""
+4. Six Flags St. Louis"
+46689,best hand santizer brand,The only hand sanitizer I ever see at the store is made by a local distillery-- and it's sold in small bottles that are priced like it's French perfume.
+9663,best dorm hall at UCSB,"I respect your opinion, and cannot argue as to the health side of the issue.  However, with that said, please do not take offense if I choose never to eat at your house!"
+55257,best places to hike in the east coast,"I have a moderately challenging suggestion. The Sipsey Wilderness in Bankhead National Forest. Located in northwest Alabama is is a very old growth forest and absolutely beautiful. The Sipsey river runs through the forest and is feed by a variety of large creeks and streams that must sometimes be traversed. There are boulder fields and large cliff faces. The terrain is moderately challenging, although can be very flat near the rivers. The trails will require map skills and the wilderness area will put to the test your basic outdoorsman skills. However, the area is completely secluded and you can completely escape civilization and man. One of my favorite backpacking destinations. I recommend the Thompson trailhead!"
+47328,best state to visit in the United States,Philadelphia is my favorite city in the U.S. after my own of course. I looooooooooooOOOOOOOOOooooooove Philly.
+15310,best tree for the garden,"This is my favorite tree.  Loses it's needles like other trees loose leaves, and purple pinecones in the spring."
+70307,best major to study in college,Ah I’ve accepted my place :) I’m heading to grad school for biophysics. Still super cool stuff I can do with that! Plus I’m not super advanced with math either. I can deal with modest quantum theory stuff but being an actual astrophysicist would probably break my brain
+43228,best detective show,You should watch dark on Netflix. If you are interesting in your brain get multiple shocks. Highly recommended
+41188,best instrument to play,Holy shit this is a dream come true
+58626,best cologne,Noir extreme is excellent
+65744,best college in california,"""for some reason""
 
-doesn't all of Davis? Santa Cruz certainly does. I mean Davis kids are weird, aren't they?",best college in california
-46020,"When I first tried those sweets, I gushed about them to anyone who would listen, they tick all of my boxes AND have a pretty decent list of ingredients. One of the best candy out there! This guide has no business insulting them! 
+doesn't all of Davis? Santa Cruz certainly does. I mean Davis kids are weird, aren't they?"
+46020,best trick or treating candy,"When I first tried those sweets, I gushed about them to anyone who would listen, they tick all of my boxes AND have a pretty decent list of ingredients. One of the best candy out there! This guide has no business insulting them! 
 
-I am not too worked up about hard candy, I promise.",best trick or treating candy
-25995,Good call not naming which you support. Keeps things on topic.,best politician
-26958,cant wait for Brass to get in stock here lol. Dont wanne buy it online. prefer to support local game shop,best board games
+I am not too worked up about hard candy, I promise."
+25995,best politician,Good call not naming which you support. Keeps things on topic.
+26958,best board games,cant wait for Brass to get in stock here lol. Dont wanne buy it online. prefer to support local game shop

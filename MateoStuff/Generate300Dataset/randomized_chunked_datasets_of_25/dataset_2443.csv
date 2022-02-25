@@ -1,9 +1,9 @@
-idx,text,query
-35169,What is TJ anyway? Toe Jam..Tall Jello..Tennesee Jingle?...,best NFL player
-42752,Line of Duty,best detective show
-18137,"Okay so Kendall went out to dinner with another model friend, and they basically dined and dashed. So the waitress followed them out, asking them to pay and Kendall threw money in her direction (didn't even ask if it was enough and apparently it wasn't) and bounced. She didn't even hand it, she legit threw it in her general direction and the server had to pick up the money off the ground. Apparently, Kendall is famously a really awful tipper",best Kardashian
-57355,"Nestle is bad because of the company. But for real, Dasani water tastes a lot worse than Nestle.",best water brand
-24554,"my favorites are
+idx,query,text
+35169,best NFL player,What is TJ anyway? Toe Jam..Tall Jello..Tennesee Jingle?...
+42752,best detective show,Line of Duty
+18137,best Kardashian,"Okay so Kendall went out to dinner with another model friend, and they basically dined and dashed. So the waitress followed them out, asking them to pay and Kendall threw money in her direction (didn't even ask if it was enough and apparently it wasn't) and bounced. She didn't even hand it, she legit threw it in her general direction and the server had to pick up the money off the ground. Apparently, Kendall is famously a really awful tipper"
+57355,best water brand,"Nestle is bad because of the company. But for real, Dasani water tastes a lot worse than Nestle."
+24554,best anime,"my favorites are
 
 **InuYasha**
 
@@ -23,9 +23,9 @@ idx,text,query
 
 **Full Metal Panic!**
 
-**Code Geass**",best anime
-69024,The Murderbot Diaries are fantastic!,best science fiction novel
-13441,"Not meant to self advertise but i thought i will keep the ball rolling. I created this stock portfolio tracker because i couldn't find a portfolio tracker that tracks stocks by individual transactions.
+**Code Geass**"
+69024,best science fiction novel,The Murderbot Diaries are fantastic!
+13441,best spreadsheet editor,"Not meant to self advertise but i thought i will keep the ball rolling. I created this stock portfolio tracker because i couldn't find a portfolio tracker that tracks stocks by individual transactions.
 
 Whether its buy, sell, dividend, splits and bonus issues this can track.
 
@@ -40,8 +40,8 @@ There are other good plus points as well:
 * If you would like to share the viewing and editing of the portfolio with friends, family and associates you can do that with the sharing feature.
 * If you are a finance blogger you can append these data on your blogs.
 
-[Google Stock Portfolio Tracker](http://www.investmentmoats.com/stock-market-commentary/portfolio-management/introducing-our-free-stock-portfolio-tracker-spreadsheet/)",best spreadsheet editor
-67874,"1. Dune (Series) by Frank Herbert and Others
+[Google Stock Portfolio Tracker](http://www.investmentmoats.com/stock-market-commentary/portfolio-management/introducing-our-free-stock-portfolio-tracker-spreadsheet/)"
+67874,best science fiction novel,"1. Dune (Series) by Frank Herbert and Others
 2. Three Body (Series) by Cixin Liu
 3. Accelerando by Charles Stross
 4. Hyperion (Series) by Dan Simmons
@@ -50,14 +50,14 @@ There are other good plus points as well:
 7. Red Rising (Series) by Pierce Brown
 8. Enders Game (Series) by Orson Scott Card
 9. Marid Audran (Series) by George Alec Effinger
-10. Grimnoir Chronicles (Series) by Larry Correia (so much fun)",best science fiction novel
-45540,"u/deadinside6636
+10. Grimnoir Chronicles (Series) by Larry Correia (so much fun)"
+45540,best gaming system,"u/deadinside6636
 
 
-Ill add some games!",best gaming system
-65938,i'm glad we all know that one horse girl from elementary school,best college in california
-43597,"A hammock.  Bought my Eno a year ago and I have no idea what I did without it, you can literally post up anywhere and everywhere and it will encourage you to go outside a lot more.",best items under $100
-28725,"My favorite breakfast I've come across was the traditional Turkish breakfast:
+Ill add some games!"
+65938,best college in california,i'm glad we all know that one horse girl from elementary school
+43597,best items under $100,"A hammock.  Bought my Eno a year ago and I have no idea what I did without it, you can literally post up anywhere and everywhere and it will encourage you to go outside a lot more."
+28725,best breakfast foods,"My favorite breakfast I've come across was the traditional Turkish breakfast:
 
 Sliced cucumber
 
@@ -69,23 +69,23 @@ Olives
 
 Bread with jam
 
-Coffee",best breakfast foods
-68805,"Fantasy quite often turns into Science Fiction as well, the lines blur a lot. Dragonriders of Pern is a good example of that.",best science fiction novel
-64501,"[This](http://www.denverpost.com/2016/06/05/boris-berian-nike-lawsuit/) article has quite a bit on the story. 
+Coffee"
+68805,best science fiction novel,"Fantasy quite often turns into Science Fiction as well, the lines blur a lot. Dragonriders of Pern is a good example of that."
+64501,Best Nike running shoes,"[This](http://www.denverpost.com/2016/06/05/boris-berian-nike-lawsuit/) article has quite a bit on the story. 
 
-I love Nike shoes but I'm starting to lean towards looking for something else because of this kind of thing.",Best Nike running shoes
-46784,"> pwned.
+I love Nike shoes but I'm starting to lean towards looking for something else because of this kind of thing."
+46784,best hand santizer brand,"> pwned.
 
-Er, *excuse* me.  [Eight sources](http://www.reddit.com/r/science/comments/a0fsy/soap_water_hand_sanitizer_just_a_friendly_reminder/c0fae9v).  Mega-pwned.",best hand santizer brand
-37889,I personally think it’s the best marvel movie EVER!!!!!!!!!!!!,best Marvel movie
-6931,"For me it’s the 11 Pro simply because of the battery. 
+Er, *excuse* me.  [Eight sources](http://www.reddit.com/r/science/comments/a0fsy/soap_water_hand_sanitizer_just_a_friendly_reminder/c0fae9v).  Mega-pwned."
+37889,best Marvel movie,I personally think it’s the best marvel movie EVER!!!!!!!!!!!!
+6931,best iPhone,"For me it’s the 11 Pro simply because of the battery. 
 
 I had the X, and Xs and this phones battery life is almost double. 
 
-It was a game changer for how much I use my phone.",best iPhone
-13491,http://booksc.org/,best research paper archive
-51985,Is there any wobble when you press the corners on the Spigen clear? Particularly the top left corner when face up.,best iphone case
-4602,"Notepadqq and Qownnotes
+It was a game changer for how much I use my phone."
+13491,best research paper archive,http://booksc.org/
+51985,best iphone case,Is there any wobble when you press the corners on the Spigen clear? Particularly the top left corner when face up.
+4602,best text editor,"Notepadqq and Qownnotes
 
 &#x200B;
 
@@ -93,12 +93,12 @@ Notepadqq for anything complicated with markup.
 
 &#x200B;
 
-Qownnotes for general notes that syncs to my nextcloud and to my phone",best text editor
-15843,Oh forgot about that brand too. I've been meaning to get a pair from them too.,best sunglasses for fashion
-58634,But what's wrong with fragrance?,best cologne
-41411,That's up to you,best instrument to play
-7629,And I would prefer good battery life.,best laptop for general use
-16046,"I have 3 pairs:
+Qownnotes for general notes that syncs to my nextcloud and to my phone"
+15843,best sunglasses for fashion,Oh forgot about that brand too. I've been meaning to get a pair from them too.
+58634,best cologne,But what's wrong with fragrance?
+41411,best instrument to play,That's up to you
+7629,best laptop for general use,And I would prefer good battery life.
+16046,best sunglasses for fashion,"I have 3 pairs:
 1) plain black Ray Ban Wayfarers (I wear these the most) 
 2) a pair of blue grey ones from Banana Republic (50% off)
-3) all black Celine's that I need my eye doctor to adjust because they're a tad big on me",best sunglasses for fashion
+3) all black Celine's that I need my eye doctor to adjust because they're a tad big on me"

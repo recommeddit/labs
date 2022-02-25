@@ -1,28 +1,28 @@
-idx,text,query
-18543,take a quick nap and then FIRE ZE MISSLES!!!!,best YouTube video
-62916,"I second the recommendation of ""R for Data Science"". You'll be making beautiful visualizations in no time. It's also great in that it doesn't pretend everything is peaches n' cream when it comes to data. You'll learn how to effectively clean and transform your data for analysis.  Really, really great book.",Best Data Science textbook
-25150,"/r/RaimiMemes shoutout, we forever grieve the cancelation of Spider-Man 4.",best spiderman actor
-52368,"You can't just give more props to a group because they've been around longer. Also, even if you disagree that TPAB and GKMC are top 10 rap albums oat, kendrick will still have a legacy left behind because TPAB and GKMC are two of the most critically acclaimed rap albums of the 2010s",best hiphop album
-42503,"Definitely would have been a different energy but Gandolfini would have made it his own. If you haven't seen it, watch Enough Said with Gandolfini and Julia Louis Dreyfus. It's a romantic dramedy about middle-aged divorcees and shows that Gandolfini is more than Tony Soprano and it's a nice movie.",best detective show
-38503,"I think it's better if everybody switches to e-papers. We save paper/trees, information is a click away, it's easier to read, and we have access to the LATEST updates. As much as I love newspapers(they were a big part of my early years), I must accept that electronic mediums are more feasible. Nothing like reading the news off my PDA on the way to work.",best newspapers to read
-37610,I'm glad you enjoyed the worst Avengers movie bro I'm happy for you😂😂😂,best Marvel movie
-22630,"I knew that Cruise was a good guy when some spectator threw water at him at a red carpet event a few years ago. Cruise turned around and said something along the lines of ""Why did you throw water on me?! What did I do to you?! You're a jerk! Do you get that?! How would you feel if someone just threw water on you?! You, sir, are a jerk!""
+idx,query,text
+18543,best YouTube video,take a quick nap and then FIRE ZE MISSLES!!!!
+62916,Best Data Science textbook,"I second the recommendation of ""R for Data Science"". You'll be making beautiful visualizations in no time. It's also great in that it doesn't pretend everything is peaches n' cream when it comes to data. You'll learn how to effectively clean and transform your data for analysis.  Really, really great book."
+25150,best spiderman actor,"/r/RaimiMemes shoutout, we forever grieve the cancelation of Spider-Man 4."
+52368,best hiphop album,"You can't just give more props to a group because they've been around longer. Also, even if you disagree that TPAB and GKMC are top 10 rap albums oat, kendrick will still have a legacy left behind because TPAB and GKMC are two of the most critically acclaimed rap albums of the 2010s"
+42503,best detective show,"Definitely would have been a different energy but Gandolfini would have made it his own. If you haven't seen it, watch Enough Said with Gandolfini and Julia Louis Dreyfus. It's a romantic dramedy about middle-aged divorcees and shows that Gandolfini is more than Tony Soprano and it's a nice movie."
+38503,best newspapers to read,"I think it's better if everybody switches to e-papers. We save paper/trees, information is a click away, it's easier to read, and we have access to the LATEST updates. As much as I love newspapers(they were a big part of my early years), I must accept that electronic mediums are more feasible. Nothing like reading the news off my PDA on the way to work."
+37610,best Marvel movie,I'm glad you enjoyed the worst Avengers movie bro I'm happy for you😂😂😂
+22630,best celebrity,"I knew that Cruise was a good guy when some spectator threw water at him at a red carpet event a few years ago. Cruise turned around and said something along the lines of ""Why did you throw water on me?! What did I do to you?! You're a jerk! Do you get that?! How would you feel if someone just threw water on you?! You, sir, are a jerk!""
 
-Something about the way he was calling out an actual jerk made me realize that he was not part of that group.",best celebrity
-47949,This is the color my husband and I just painted our living room. It looks awesome. We couldn’t be happier.,best color to paint with
-40551,"If you can find one, vega 56 is your best option",best midrange GPU
-69885,"software dev here. When people say they want to become a game developer, what they really mean is they want to become a hobby game developer - have the means to make your ideas reality without any of the crunch times, deadlines, mountain of bugs, etc... as long as you don't care about making a single cent off your game.",best major to study in college
-67215,"There are a few nice abstractions in a request library (like Axios) that you may not want to maintain yourself. Retries, timeouts, request/response interceptors, simplified API with shortcuts and streamlined error handling, etc.",axios alternatives reddit
-16084,If you are paying 200+ then might as well go for Maui Jims,best sunglasses for fashion
-26131,"This is my choice too which is an odd one considering that most of us can't name anything noteworthy he did and he was really soft-spoken, not a fiery orator. He just radiated a trustworthiness that's rare in politicians. A sort of Pope Francis aura. Of course there was the sympathy over his brother's assassination and he captured the ""hope and change"" sentiment of the times without any of the disappointment that could have followed.",best politician
-17228,I also liked Little Inferno by the same devs.,best iOS game
-52097,The cutout is exactly why I overlooked this case. It's too bad since it is otherwise perfect,best iphone case
-3214,Sony a6xxx series and a elgato cam Link.,best webcamera
-41316,"Clarinet, I love the sound of it.",best instrument to play
-63259,Hahaha 😂,best package manager ios 14 jailbreak reddit
-14805,I’m obsessed with the writing style of Casey McQuiston. Someone said her writing reads like poetry and I couldn’t agree more... Red White and Royal Blue was an absolute masterpiece imo. She’s a fantastic writer,best romantic novel
-72291,It's simply not necessary if you use a good browser.,best adblocker extension
-10189,"A few things I would recommend is a trusty pencil, a pen, and eraser and marker combination.  You obviously don't need all of these things, but it is a good basic set that will allow you a relatively wide range of choices.  
+Something about the way he was calling out an actual jerk made me realize that he was not part of that group."
+47949,best color to paint with,This is the color my husband and I just painted our living room. It looks awesome. We couldn’t be happier.
+40551,best midrange GPU,"If you can find one, vega 56 is your best option"
+69885,best major to study in college,"software dev here. When people say they want to become a game developer, what they really mean is they want to become a hobby game developer - have the means to make your ideas reality without any of the crunch times, deadlines, mountain of bugs, etc... as long as you don't care about making a single cent off your game."
+67215,axios alternatives reddit,"There are a few nice abstractions in a request library (like Axios) that you may not want to maintain yourself. Retries, timeouts, request/response interceptors, simplified API with shortcuts and streamlined error handling, etc."
+16084,best sunglasses for fashion,If you are paying 200+ then might as well go for Maui Jims
+26131,best politician,"This is my choice too which is an odd one considering that most of us can't name anything noteworthy he did and he was really soft-spoken, not a fiery orator. He just radiated a trustworthiness that's rare in politicians. A sort of Pope Francis aura. Of course there was the sympathy over his brother's assassination and he captured the ""hope and change"" sentiment of the times without any of the disappointment that could have followed."
+17228,best iOS game,I also liked Little Inferno by the same devs.
+52097,best iphone case,The cutout is exactly why I overlooked this case. It's too bad since it is otherwise perfect
+3214,best webcamera,Sony a6xxx series and a elgato cam Link.
+41316,best instrument to play,"Clarinet, I love the sound of it."
+63259,best package manager ios 14 jailbreak reddit,Hahaha 😂
+14805,best romantic novel,I’m obsessed with the writing style of Casey McQuiston. Someone said her writing reads like poetry and I couldn’t agree more... Red White and Royal Blue was an absolute masterpiece imo. She’s a fantastic writer
+72291,best adblocker extension,It's simply not necessary if you use a good browser.
+10189,best pencil for drawing,"A few things I would recommend is a trusty pencil, a pen, and eraser and marker combination.  You obviously don't need all of these things, but it is a good basic set that will allow you a relatively wide range of choices.  
 
 If your mechanical pencil works well for you, add that to your bag.  For a good drawing pencil set, I recommend something like a Staedtler pencil set. I personally use this [12 pencil tin](http://www.staedtler.ca/Mars_Lumograph_na.Staedtler#ctl08_Tab-product-tab-2) - but because I favour ink over pencil, I don't use it very often.  However, when I am working specifically with graphite or some project, I will default to that set.  
 
@@ -45,10 +45,10 @@ As for the list you provided, these are the products I would recommend based on 
 
 **Some black (or gray?) pens** Pilot Precise v5/v7 pens - I use the .5 mm pens.  
 
-**Set of maybe 15 grey scale and/or brown markers** Prismacolor makes a few really great sets of [warm, cool and neutral gray, dual-tipped markers](http://www.prismacolor.com/products/art-markers/double-ended) that are really great.  To be honest, I had a kind of low expectation from them, but the markers really are quite good.  I've only used the grey sets and one of the color sets in terms or their markers, though.  I believe there were 12 to a set.  This link will probably give you [a better idea of the format](http://www.dickblick.com/products/prismacolor-premier-double-ended-art-markers/) - Prismacolor's site was messy and not fun to navigate.",best pencil for drawing
-15866,Do you mean the club masters?,best sunglasses for fashion
-43799,You can outsource the punches to me. I'll pay a premium if they're my coworkers.,best items under $100
-7926,"These are  the three that I've narrowed down to;
+**Set of maybe 15 grey scale and/or brown markers** Prismacolor makes a few really great sets of [warm, cool and neutral gray, dual-tipped markers](http://www.prismacolor.com/products/art-markers/double-ended) that are really great.  To be honest, I had a kind of low expectation from them, but the markers really are quite good.  I've only used the grey sets and one of the color sets in terms or their markers, though.  I believe there were 12 to a set.  This link will probably give you [a better idea of the format](http://www.dickblick.com/products/prismacolor-premier-double-ended-art-markers/) - Prismacolor's site was messy and not fun to navigate."
+15866,best sunglasses for fashion,Do you mean the club masters?
+43799,best items under $100,You can outsource the punches to me. I'll pay a premium if they're my coworkers.
+7926,best laptop for general use,"These are  the three that I've narrowed down to;
 
 I like that this one I can configure with larger drive storage. It has the 3060 GPU
 
@@ -62,4 +62,4 @@ And this one has the 2070
 
 * https://www.amazon.com/dp/B085B3GFRL?tag=rappiddeal-20&linkCode=ogi&th=1
 
-I'm not a hardcore gamer, I just want a solid laptop that is better than the 6 year old Lenovo I am using (I often get 15fps with lowest setting playing something as bland as Divinity II), so I assume any one of these computers will suit my need, is there any reason I would choose one over another at this point?",best laptop for general use
+I'm not a hardcore gamer, I just want a solid laptop that is better than the 6 year old Lenovo I am using (I often get 15fps with lowest setting playing something as bland as Divinity II), so I assume any one of these computers will suit my need, is there any reason I would choose one over another at this point?"

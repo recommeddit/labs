@@ -1,6 +1,6 @@
-idx,text,query
-65248,"I think I just stumbled on another one to add to the list: [https://www.speedtalkmobile.com/plans](https://www.speedtalkmobile.com/plans).  I noticed them because of their 3[0day prepaid sim card on Amazon](https://www.amazon.com/Card-Preloaded-Month-Service-Contract/dp/B075THY4JY/ref=pd_cart_sspa_dk_ct_pt_sub_1_4/131-5147139-8462316?_encoding=UTF8&pd_rd_i=B075THY4JY&pd_rd_r=cf4693e5-e415-4610-8abb-7147ad6e4ccd&pd_rd_w=gLcjx&pd_rd_wg=3hcsS&pf_rd_p=e43b9dec-ae9b-46f1-8532-2caf5d19eb49&pf_rd_r=SG421WF0E3DY9QM42FH7&psc=1&refRID=SG421WF0E3DY9QM42FH7&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUk4xU004NkQwTko1JmVuY3J5cHRlZElkPUEwMzM2NzY4MUQzMDBWMFZZM0YwUiZlbmNyeXB0ZWRBZElkPUEwNzAyOTIxMkM5SlMxTzNUVFBRJndpZGdldE5hbWU9c3BfY2FydF9wZXJjb2xhdGUmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl).  I haven't looked through the fine print yet, but if anyone needs a wireless intermediary to move a landline to google voice, this looks like a good candidate.",best phone service company
-58661,"Dior Sauvage Parfum(surprisingly)
+idx,query,text
+65248,best phone service company,"I think I just stumbled on another one to add to the list: [https://www.speedtalkmobile.com/plans](https://www.speedtalkmobile.com/plans).  I noticed them because of their 3[0day prepaid sim card on Amazon](https://www.amazon.com/Card-Preloaded-Month-Service-Contract/dp/B075THY4JY/ref=pd_cart_sspa_dk_ct_pt_sub_1_4/131-5147139-8462316?_encoding=UTF8&pd_rd_i=B075THY4JY&pd_rd_r=cf4693e5-e415-4610-8abb-7147ad6e4ccd&pd_rd_w=gLcjx&pd_rd_wg=3hcsS&pf_rd_p=e43b9dec-ae9b-46f1-8532-2caf5d19eb49&pf_rd_r=SG421WF0E3DY9QM42FH7&psc=1&refRID=SG421WF0E3DY9QM42FH7&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUk4xU004NkQwTko1JmVuY3J5cHRlZElkPUEwMzM2NzY4MUQzMDBWMFZZM0YwUiZlbmNyeXB0ZWRBZElkPUEwNzAyOTIxMkM5SlMxTzNUVFBRJndpZGdldE5hbWU9c3BfY2FydF9wZXJjb2xhdGUmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl).  I haven't looked through the fine print yet, but if anyone needs a wireless intermediary to move a landline to google voice, this looks like a good candidate."
+58661,best cologne,"Dior Sauvage Parfum(surprisingly)
 
 Spicebomb Extreme(absolute winter beast)
 
@@ -8,41 +8,41 @@ Invictus(honestly never get sick of this stuff)
 
 Versace Dylan blue(can never go wrong with this in school)
 
-L'eau d'issey pour homme(a classic)",best cologne
-33759,"I've put on nearly 15k miles since picking mine up in Dec and have only visited fast charging stations a handfull of times. Every morning I'm charged up from my garage.
+L'eau d'issey pour homme(a classic)"
+33759,best electric car,"I've put on nearly 15k miles since picking mine up in Dec and have only visited fast charging stations a handfull of times. Every morning I'm charged up from my garage.
 
 That's the big sleeper of a benefit most people don't really appreciate until they get one. I used to stop 2-3x a week for gas due to my long commute. I don't do that anymore.
 
-Sure, people live in apartments and many others don't yet have the ability to get charging at home but that's already changing. Comparing fast-charging stations to gas stations is only a small sliver of the whole story. If everybody with a garage were already capable of filling up their gas cars at home at about $0.80/gallon then you'd have a lot more similar comparison.",best electric car
-13081,This is a great freakin idea.,best gifts for mom
-53736,"Freedom. 
+Sure, people live in apartments and many others don't yet have the ability to get charging at home but that's already changing. Comparing fast-charging stations to gas stations is only a small sliver of the whole story. If everybody with a garage were already capable of filling up their gas cars at home at about $0.80/gallon then you'd have a lot more similar comparison."
+13081,best gifts for mom,This is a great freakin idea.
+53736,best medicine for a cold,"Freedom. 
 
-If Europe, 16-18.",best medicine for a cold
-66876,"I actually picked France #5.
+If Europe, 16-18."
+66876,best soccer team in the world,"I actually picked France #5.
 
-Zidane meltdown aside, if they win 2006 you're looking at a completely different legacy for the National side. Historically they've done ""more"" than both Spain or the Netherlands (in my opinion).",best soccer team in the world
-13542,"First time I saw it, good to know!",best research paper archive
-67262,"I am yet to encounter a situation where a >400 error and call/network error do not both result in rejecting the promise. So it essentially always boils down to the same thing, throw and handle in catch (show a notification, or whatever). Which is why I make fetch throw on 4xx and 5xx.
+Zidane meltdown aside, if they win 2006 you're looking at a completely different legacy for the National side. Historically they've done ""more"" than both Spain or the Netherlands (in my opinion)."
+13542,best research paper archive,"First time I saw it, good to know!"
+67262,axios alternatives reddit,"I am yet to encounter a situation where a >400 error and call/network error do not both result in rejecting the promise. So it essentially always boils down to the same thing, throw and handle in catch (show a notification, or whatever). Which is why I make fetch throw on 4xx and 5xx.
 
-Edit: maybe I worded it wrong. I meant that no matter the error, you're probably going to want to handle it in the same way, display an error toast or whatever, which means it's reasonable to have fetch throw on >400 as well. You can then put all the error handling code in the catch block and execute the same code no matter if it was an http or networking error.",axios alternatives reddit
-33351,It's still very expensive even when used and the tire size doesn't give me hopes of this car being built to last.,best electric car
-15337,Yep .. Definitely birch,best tree for the garden
-2826,If I don't care about mic quality or audio quality but want a wireless headset with a mic and the longest battery life possible without spending thousands of quid what is the best headset for me? I got a wireless Bluetooth headset from Sony when it was on sale for £35. Battery lasts for 20 hours and it has a built in internal mic which is nice cause you can wear it normally and not look too weird. Are there any headsets with maybe a month battery life or are they quite expensive?,best headphones
-14437,That audiobook was soooo good! Definitely added to the story haha,best romantic novel
-44136,"Hot volumes in *your* area!
+Edit: maybe I worded it wrong. I meant that no matter the error, you're probably going to want to handle it in the same way, display an error toast or whatever, which means it's reasonable to have fetch throw on >400 as well. You can then put all the error handling code in the catch block and execute the same code no matter if it was an http or networking error."
+33351,best electric car,It's still very expensive even when used and the tire size doesn't give me hopes of this car being built to last.
+15337,best tree for the garden,Yep .. Definitely birch
+2826,best headphones,If I don't care about mic quality or audio quality but want a wireless headset with a mic and the longest battery life possible without spending thousands of quid what is the best headset for me? I got a wireless Bluetooth headset from Sony when it was on sale for £35. Battery lasts for 20 hours and it has a built in internal mic which is nice cause you can wear it normally and not look too weird. Are there any headsets with maybe a month battery life or are they quite expensive?
+14437,best romantic novel,That audiobook was soooo good! Definitely added to the story haha
+44136,best items under $100,"Hot volumes in *your* area!
 
-(you must be willing to read trashy novellas at a moment's notice)",best items under $100
-10677,"Wait, couldn't they just rip the film, steal your stuff, then wrap it back up in travel film?",best suitcase lock
-26957,Can't wait for Brass Birmingham to go back on sale,best board games
-52348,"I’ll repeat what you said one more time so he can understand. No it doesn’t, not a classic, didn’t do anything for hip hop, poorly aged lyrics and beats, no classic hits",best hiphop album
-39091,"Yep, the beta build is stable enough for everyday use with some new features. I'd stay away from the Dev and Canary builds though, too unstable for daily use.",best web browser
-57168,Yeah it's basically just normal water there.,best water brand
-18823,Royal con cheese,best YouTube video
-71090,One of my favorite underrated movies.,best movies with a cool twist
-23433,The AI cars are always set to match yours in Underground so you can genuinely play in the starter car and your opponents don't get harder,best car racing video game
-70446,Thanks. I agree. I love education! It’s so fluid and constantly changing! It’s awesome!,best major to study in college
-73110,"i admin cent for a living, and i've used fedora since redhat released it.  frankly i was bored with fedora and just wanted to try an arch based distro.  i've dual booted this machine for years, i WORK in linux and game in windows.  more and more games are working in manjaro.  I'm usually not a fan of rolling distro's but manjaro is pretty careful and timeshift really is a lifesaver.",best Linux distro
-47356,"Savage haha
+(you must be willing to read trashy novellas at a moment's notice)"
+10677,best suitcase lock,"Wait, couldn't they just rip the film, steal your stuff, then wrap it back up in travel film?"
+26957,best board games,Can't wait for Brass Birmingham to go back on sale
+52348,best hiphop album,"I’ll repeat what you said one more time so he can understand. No it doesn’t, not a classic, didn’t do anything for hip hop, poorly aged lyrics and beats, no classic hits"
+39091,best web browser,"Yep, the beta build is stable enough for everyday use with some new features. I'd stay away from the Dev and Canary builds though, too unstable for daily use."
+57168,best water brand,Yeah it's basically just normal water there.
+18823,best YouTube video,Royal con cheese
+71090,best movies with a cool twist,One of my favorite underrated movies.
+23433,best car racing video game,The AI cars are always set to match yours in Underground so you can genuinely play in the starter car and your opponents don't get harder
+70446,best major to study in college,Thanks. I agree. I love education! It’s so fluid and constantly changing! It’s awesome!
+73110,best Linux distro,"i admin cent for a living, and i've used fedora since redhat released it.  frankly i was bored with fedora and just wanted to try an arch based distro.  i've dual booted this machine for years, i WORK in linux and game in windows.  more and more games are working in manjaro.  I'm usually not a fan of rolling distro's but manjaro is pretty careful and timeshift really is a lifesaver."
+47356,best state to visit in the United States,"Savage haha
 
-I’m glad we don’t have relegation. I’d never see my Phillies in the top flight again.",best state to visit in the United States
-35026,"A lot of Pats fans feel the same way from my experience. Jerry Rice has countless records that stand to this day, which he accomplished in an era where they should have been impossible.",best NFL player
+I’m glad we don’t have relegation. I’d never see my Phillies in the top flight again."
+35026,best NFL player,"A lot of Pats fans feel the same way from my experience. Jerry Rice has countless records that stand to this day, which he accomplished in an era where they should have been impossible."

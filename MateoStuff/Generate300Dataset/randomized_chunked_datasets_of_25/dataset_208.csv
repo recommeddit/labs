@@ -1,29 +1,29 @@
-idx,text,query
-7920,It is up there but a lot of people dislike it because of QC issues,best laptop for general use
-27807,Americans called it blood pudding or blood sausage usually.,best breakfast foods
-31415,"It's because life is already miserable in the cold, why make it worse by being miserable to each other?",best country to live in
-17019,"If you like strategy games then definitely, I’d recommend having a large phone or preferably an iPad tho",best iOS game
-43863,"Roku's way nicer in my opinion. Chromecast doesn't work in as high quality for me, and it's deceptively limited as to what I can throw up there.
+idx,query,text
+7920,best laptop for general use,It is up there but a lot of people dislike it because of QC issues
+27807,best breakfast foods,Americans called it blood pudding or blood sausage usually.
+31415,best country to live in,"It's because life is already miserable in the cold, why make it worse by being miserable to each other?"
+17019,best iOS game,"If you like strategy games then definitely, I’d recommend having a large phone or preferably an iPad tho"
+43863,best items under $100,"Roku's way nicer in my opinion. Chromecast doesn't work in as high quality for me, and it's deceptively limited as to what I can throw up there.
 
-+1 for Roku.",best items under $100
-71127,The Invisible Guest 2016,best movies with a cool twist
-1171,I can tell you have places to be!,best ice cream flavor
-54154,"Research has debunked this but I swear everytime I feel the symptoms of a cold, I take a shitload of vitamin C, enough to give me diarrhea and the cold is gone by the next day.",best medicine for a cold
-61744,the way all the game play elements come together is addicting and fantastic and the story and dungeons are amazing,Best RPG game on PS4
-31846,When I stayed at the golden nugget it was definitely fun. Right after festival you can just walk straight down Fremont and party on for a bit longer. I just booked my room at the Downtown Grand. Trying to get the perks of the pool party,best hotel to live in
-45090,"So you're the one who's been putting bread on my trees ey?
++1 for Roku."
+71127,best movies with a cool twist,The Invisible Guest 2016
+1171,best ice cream flavor,I can tell you have places to be!
+54154,best medicine for a cold,"Research has debunked this but I swear everytime I feel the symptoms of a cold, I take a shitload of vitamin C, enough to give me diarrhea and the cold is gone by the next day."
+61744,Best RPG game on PS4,the way all the game play elements come together is addicting and fantastic and the story and dungeons are amazing
+31846,best hotel to live in,When I stayed at the golden nugget it was definitely fun. Right after festival you can just walk straight down Fremont and party on for a bit longer. I just booked my room at the Downtown Grand. Trying to get the perks of the pool party
+45090,best items under $100,"So you're the one who's been putting bread on my trees ey?
 
-*rolls up sleeves*",best items under $100
-3525,😀😀,best college for research
-2479,"Just don't spend more that $200. I wouldn't even spend that much. Your just paying for the name at that point, not a better product.",best headphones
-67333,"And [`TypeScript`](https://github.com/microsoft/TypeScript/issues) has over 3,000 open issues...",axios alternatives reddit
-46811,I put my tongue on gashes,best hand santizer brand
-22957,"""If you want your dog back, give me a 'hell yeah!'""",best celebrity
-68160,>I actually love the movie.  It is NOT the book but I think Paul Verohoven was trying to say different things.  If you watch it thinking he is playing a trick on us all it is amazing....,best science fiction novel
-28138,Café con leche y una entera con mantequilla.,best breakfast foods
-22393,"Holy shit that's literally the best story I've ever heard about any celebrity. Just a moment of real humanity. Always been one of my favorite actors, and it's so nice to hear that I would be proud to call him a friend in real life. You too, of course, my dude! Thanks for sharing.",best celebrity
-63554,There are plenty of repos that have repo nowhere in their URL. Not the best idea,best package manager ios 14 jailbreak reddit
-67763,"I think you haven't used Axios, or you haven't dug deep enough into its documentation:
+*rolls up sleeves*"
+3525,best college for research,😀😀
+2479,best headphones,"Just don't spend more that $200. I wouldn't even spend that much. Your just paying for the name at that point, not a better product."
+67333,axios alternatives reddit,"And [`TypeScript`](https://github.com/microsoft/TypeScript/issues) has over 3,000 open issues..."
+46811,best hand santizer brand,I put my tongue on gashes
+22957,best celebrity,"""If you want your dog back, give me a 'hell yeah!'"""
+68160,best science fiction novel,>I actually love the movie.  It is NOT the book but I think Paul Verohoven was trying to say different things.  If you watch it thinking he is playing a trick on us all it is amazing....
+28138,best breakfast foods,Café con leche y una entera con mantequilla.
+22393,best celebrity,"Holy shit that's literally the best story I've ever heard about any celebrity. Just a moment of real humanity. Always been one of my favorite actors, and it's so nice to hear that I would be proud to call him a friend in real life. You too, of course, my dude! Thanks for sharing."
+63554,best package manager ios 14 jailbreak reddit,There are plenty of repos that have repo nowhere in their URL. Not the best idea
+67763,axios alternatives reddit,"I think you haven't used Axios, or you haven't dug deep enough into its documentation:
 
 >The automatic JSON transformation hides information. What if I want to get the HTTP headers, cookies, redirect information or read the status code? The response object has valuable information. This should be explicit asked for.
 
@@ -39,15 +39,15 @@ You should never, ever use a global variable to send HTTP requests. It's always 
 
 >IE8 support is not that valuable, and in most cases these days the app itself doesn't even support IE8 (or IE9, or IE10) so this support wastes bytes for unused features. If this is really important it should be an optional addon/plugin.
 
-It is not just about IE8, but it is more about a wider range of compatibility. And if you develop an app professionally, you should always consider transpiling your Javascript code so it will improve the performance of your app, protect your source code, reduce the app size, as well as supporting a wider range of browser. And of course, it is better if your HTTP client can also do the same thing.",axios alternatives reddit
-32854,"Reddit. Prepare to be shamed and shunned for your errors, though.",best free online grammar checker
-43660,"LPT:   Carry 2 chargers and scalp one of 'em at the airport if the opportunity arises. You'll save someone money compared to buying one from the airport gift shop, and your profit will buy you an overpriced airport sandwich.",best items under $100
-57778,"I've only heard good things about Creed Aventus, not sure how I could pull it off.
+It is not just about IE8, but it is more about a wider range of compatibility. And if you develop an app professionally, you should always consider transpiling your Javascript code so it will improve the performance of your app, protect your source code, reduce the app size, as well as supporting a wider range of browser. And of course, it is better if your HTTP client can also do the same thing."
+32854,best free online grammar checker,"Reddit. Prepare to be shamed and shunned for your errors, though."
+43660,best items under $100,"LPT:   Carry 2 chargers and scalp one of 'em at the airport if the opportunity arises. You'll save someone money compared to buying one from the airport gift shop, and your profit will buy you an overpriced airport sandwich."
+57778,best cologne,"I've only heard good things about Creed Aventus, not sure how I could pull it off.
 
 My friends and girls seem to agree that La Nuit just suits me. I asked my brothers opinion of Black Orchid when I got home and he said 'oh yeah nice, it would suit you' 
 
-I wear it for myself because I catch a whif every now and then and I remember how good it smells, but knowing the opposite sex likes it helps.",best cologne
-58660,"Bleu de Chanel Parfum 
+I wear it for myself because I catch a whif every now and then and I remember how good it smells, but knowing the opposite sex likes it helps."
+58660,best cologne,"Bleu de Chanel Parfum 
 
 TF Noir Extreme 
 
@@ -57,4 +57,4 @@ Amouage Enclave
 
 S.T Dupont Perfect Tobacco 
 
-Bonus: Versace Eros Flame",best cologne
+Bonus: Versace Eros Flame"

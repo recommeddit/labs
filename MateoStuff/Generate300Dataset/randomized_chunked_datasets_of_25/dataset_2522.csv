@@ -1,36 +1,36 @@
-idx,text,query
-50537,"The Eminem Show, The Chronic, Get Rich or Die Trying ((GET THE THEME,, ANYTHING DRE touches)",best rap album
-43894,[Enjoy my friend.](http://shityoucanafford.com/),best items under $100
-15328,Douglas Fir. They remind me of my hometown.,best tree for the garden
-1828,Ginos!,best pizza place in Santa Barbara
-22341,"Sounds like he’s really nice, but overwhelmed with the accidental stardom. I don’t blame him. I’d be the same way after years of that.",best celebrity
-5101,"Ah yes, one of the other reasons I don’t go to Lowe’s.  Lowe’s craftsman always confuses me. I see red and I’m like “woohoo milwaukee!”  Then I get closer and am disappointed",best home improvement store
-62966,I just picked up The Flaw of Averages by Sam Savage. Its a pretty interesting read from the statistics side.,Best Data Science textbook
-49353,i have 2 of these and they're wonderful.,best gaming monitor
-27018,"I also feel like this curve matches the big boom of new players that happened 5ish years ago.  There are a ton of fantastic pre-2016 games that often don't appear on these lists because so many people are trying to get through the list of games that are still in print and easily findable at the stores.  I mean, who will want to review a classic that's been 10 years out of print that no one can track down without paying a premium?
+idx,query,text
+50537,best rap album,"The Eminem Show, The Chronic, Get Rich or Die Trying ((GET THE THEME,, ANYTHING DRE touches)"
+43894,best items under $100,[Enjoy my friend.](http://shityoucanafford.com/)
+15328,best tree for the garden,Douglas Fir. They remind me of my hometown.
+1828,best pizza place in Santa Barbara,Ginos!
+22341,best celebrity,"Sounds like he’s really nice, but overwhelmed with the accidental stardom. I don’t blame him. I’d be the same way after years of that."
+5101,best home improvement store,"Ah yes, one of the other reasons I don’t go to Lowe’s.  Lowe’s craftsman always confuses me. I see red and I’m like “woohoo milwaukee!”  Then I get closer and am disappointed"
+62966,Best Data Science textbook,I just picked up The Flaw of Averages by Sam Savage. Its a pretty interesting read from the statistics side.
+49353,best gaming monitor,i have 2 of these and they're wonderful.
+27018,best board games,"I also feel like this curve matches the big boom of new players that happened 5ish years ago.  There are a ton of fantastic pre-2016 games that often don't appear on these lists because so many people are trying to get through the list of games that are still in print and easily findable at the stores.  I mean, who will want to review a classic that's been 10 years out of print that no one can track down without paying a premium?
 
-Overall though, this is a solid list that I feel does a better job than BGG at showing quality of a game than popularity of a game.",best board games
-6383,"Adam Curtis' essay-as-documentary **HyperNormalization** is prescient and informative.
+Overall though, this is a solid list that I feel does a better job than BGG at showing quality of a game than popularity of a game."
+6383,best Netflix documentary,"Adam Curtis' essay-as-documentary **HyperNormalization** is prescient and informative.
 
-https://www.imdb.com/title/tt6156350/",best Netflix documentary
-1485,Pieces of roasted almond.,best ice cream flavor
-60412,We loved this show!,Best comedy show on Netflix
-47622,"I'm planning on retiring to the Finger Lakes...But if you only could visit one, I'd tell you visit NYC. But if you visit 2 places, check out the Finger Lakes.",best state to visit in the United States
-24747,"I used to love the show when it was first airing. I was ecstatically waiting for the release of the episodes but when the big reveal happened I kinda felt empty. Don't get me wrong, it's a great show with a unique premise and great animation and music, but the reveal didn't feel as big for me. I still get sad over it.",best anime
-10601,Every time out of Orlando....,best suitcase lock
-44612,a waterfall shower head. Even if your water pressure is on the lower side it works really well and you wont have most of the water dripping down in a big mess while one overzealous stream is stinging you,best items under $100
-22626,He will always be mark corrigan to me,best celebrity
-36483,"Nice. I'm into my third year, myself.",best alcoholic drink
-55778,Up,best action and adventure movie
-34077,That tends to happen when you play 20 years. Look at Favre,best NFL player
-22114,"Taylor Swift - met her after the 1989 show in my city. Super nice and easy to talk to, felt like we were old friends. But what was crazy was she knew the guy standing next to me just from Tumblr (this was back when she used it a lot and he ran a TSwift fan tumblr). She knew his name, knew all these personal details about him and was really excited to meet him! It was very sweet.",best celebrity
-70539,"Graphic design major
+https://www.imdb.com/title/tt6156350/"
+1485,best ice cream flavor,Pieces of roasted almond.
+60412,Best comedy show on Netflix,We loved this show!
+47622,best state to visit in the United States,"I'm planning on retiring to the Finger Lakes...But if you only could visit one, I'd tell you visit NYC. But if you visit 2 places, check out the Finger Lakes."
+24747,best anime,"I used to love the show when it was first airing. I was ecstatically waiting for the release of the episodes but when the big reveal happened I kinda felt empty. Don't get me wrong, it's a great show with a unique premise and great animation and music, but the reveal didn't feel as big for me. I still get sad over it."
+10601,best suitcase lock,Every time out of Orlando....
+44612,best items under $100,a waterfall shower head. Even if your water pressure is on the lower side it works really well and you wont have most of the water dripping down in a big mess while one overzealous stream is stinging you
+22626,best celebrity,He will always be mark corrigan to me
+36483,best alcoholic drink,"Nice. I'm into my third year, myself."
+55778,best action and adventure movie,Up
+34077,best NFL player,That tends to happen when you play 20 years. Look at Favre
+22114,best celebrity,"Taylor Swift - met her after the 1989 show in my city. Super nice and easy to talk to, felt like we were old friends. But what was crazy was she knew the guy standing next to me just from Tumblr (this was back when she used it a lot and he ran a TSwift fan tumblr). She knew his name, knew all these personal details about him and was really excited to meet him! It was very sweet."
+70539,best major to study in college,"Graphic design major
 
 Best: I love developing new ideas and flexing my creativity. Potential career field is looking pretty good. The major allows me to develop my portfolio with guidance from my professors. Rarely take tests or quizzes.
 
-Worst: Professors grading your work can be pretty subjective. ""Oh, so you're an art major."" Also you either pay for Adobe Creative Cloud yourself or you go to the library all the time to get work done.",best major to study in college
-71138,>!YoUR gun Is dIgGiNg INto My hIP!<,best movies with a cool twist
-7421,"This is a Fakespot Reviews Analysis bot. Fakespot detects fake reviews, fake products and unreliable sellers using AI.
+Worst: Professors grading your work can be pretty subjective. ""Oh, so you're an art major."" Also you either pay for Adobe Creative Cloud yourself or you go to the library all the time to get work done."
+71138,best movies with a cool twist,>!YoUR gun Is dIgGiNg INto My hIP!<
+7421,best laptop for general use,"This is a Fakespot Reviews Analysis bot. Fakespot detects fake reviews, fake products and unreliable sellers using AI.
 
 Here is the analysis for the Amazon product reviews:
 
@@ -50,7 +50,7 @@ Here is the analysis for the Amazon product reviews:
 
 *Fakespot analyzes the reviews authenticity and not the product quality using AI. We look for real reviews that mention product issues such as counterfeits, defects, and bad return policies that fake reviews try to hide from consumers.*
 
-*We give an A-F letter for trustworthiness of reviews. A = very trustworthy reviews, F = highly untrustworthy reviews. We also provide seller ratings to warn you if the seller can be trusted or not.*",best laptop for general use
-69033,"Lucifer's Hammer-Larry Nivea
+*We give an A-F letter for trustworthiness of reviews. A = very trustworthy reviews, F = highly untrustworthy reviews. We also provide seller ratings to warn you if the seller can be trusted or not.*"
+69033,best science fiction novel,"Lucifer's Hammer-Larry Nivea
 Faraday's Orphans
-Little Heroes by Norman Spinrad",best science fiction novel
+Little Heroes by Norman Spinrad"

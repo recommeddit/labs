@@ -1,10 +1,10 @@
-idx,text,query
-5246,"LPT: in the url, change reddit.com to ceddit.com and you can usually see deleted comments.",best home improvement store
-7959,"I'm happy to help! True, Alienware devices have a history of poor thermals. I think that the specs are really good, but I'm not sure about its longevity because the device runs very hot. I think that you can get away with the MSI GL65 Leopard since the SUPER version of the RTX 2070 isn't that large of an improvement.",best laptop for general use
-22436,His nutritionist: https://media.giphy.com/media/94EQmVHkveNck/giphy.gif,best celebrity
-63082,"Everyone recommends Stephen and Max, but I think think both are outdated. They mostly rely on class based components, with small hooks sections. The most up to date course I have taken is John Smilga's course, it is pure hooks and also the highest rated React course on Udemy. Has tons of amazing projects.",Best online React course
-21857,This has some serious Meat Canyon vibes,best winnie the pooh comic
-19078,"Some of my favorite channels that I can get lost in for hours, that aren't the ""big"" channels with subscriber counts measured in the millions, but smaller, usually more niche, but still very entertaining channels with smaller subscriber bases.
+idx,query,text
+5246,best home improvement store,"LPT: in the url, change reddit.com to ceddit.com and you can usually see deleted comments."
+7959,best laptop for general use,"I'm happy to help! True, Alienware devices have a history of poor thermals. I think that the specs are really good, but I'm not sure about its longevity because the device runs very hot. I think that you can get away with the MSI GL65 Leopard since the SUPER version of the RTX 2070 isn't that large of an improvement."
+22436,best celebrity,His nutritionist: https://media.giphy.com/media/94EQmVHkveNck/giphy.gif
+63082,Best online React course,"Everyone recommends Stephen and Max, but I think think both are outdated. They mostly rely on class based components, with small hooks sections. The most up to date course I have taken is John Smilga's course, it is pure hooks and also the highest rated React course on Udemy. Has tons of amazing projects."
+21857,best winnie the pooh comic,This has some serious Meat Canyon vibes
+19078,best YouTube video,"Some of my favorite channels that I can get lost in for hours, that aren't the ""big"" channels with subscriber counts measured in the millions, but smaller, usually more niche, but still very entertaining channels with smaller subscriber bases.
 
 [Z Reviews](https://www.youtube.com/channel/UC3XdYJjWliOdKuZMNaTiP8Q) \- Reviews of all sorts of audio gear, speakers, and headphones.  His presentation style and often colorful language make it supremely entertaining.
 
@@ -42,17 +42,17 @@ idx,text,query
 
 &#x200B;
 
-I'm sure there are many more, but these are the ones that stuck out the most to me when I took a pass through my Youtube subscriptions.",best YouTube video
-11579,What does it look like?,best gifts for dad
-28544,"3 fried eggs and coffee made with butter and coconut oil. No carbs, high fat that will keep you satisfied until lunch",best breakfast foods
-73742,All good will let you know when I get it :),best matte screen protector for ipad
-20823,Eurobeat,best workout music
-5402,https://www.rubylane.com/,best home improvement store
-29916,"For sure! I’m only 2 months in but it’s definitely been a complete shift to how I’ve looked at money. 
+I'm sure there are many more, but these are the ones that stuck out the most to me when I took a pass through my Youtube subscriptions."
+11579,best gifts for dad,What does it look like?
+28544,best breakfast foods,"3 fried eggs and coffee made with butter and coconut oil. No carbs, high fat that will keep you satisfied until lunch"
+73742,best matte screen protector for ipad,All good will let you know when I get it :)
+20823,best workout music,Eurobeat
+5402,best home improvement store,https://www.rubylane.com/
+29916,best money managing app,"For sure! I’m only 2 months in but it’s definitely been a complete shift to how I’ve looked at money. 
 
-And I thought that might be the case, since I had heard others who were grandfathered in at a lower cost. Just wanted to give the exact number for clarity.",best money managing app
-32640,"That was why my wife and I went, to stay as far away from Cancun as possible.",best vacation resort
-67486,"Cleaned it up a little for you:   
+And I thought that might be the case, since I had heard others who were grandfathered in at a lower cost. Just wanted to give the exact number for clarity."
+32640,best vacation resort,"That was why my wife and I went, to stay as far away from Cancun as possible."
+67486,axios alternatives reddit,"Cleaned it up a little for you:   
  
     const getAccount = (orgId, acctId) =>
       axios({
@@ -71,14 +71,14 @@ And I thought that might be the case, since I had heard others who were grandfat
           return response.data.RSP.ACCT;
         }
         return 'something else when the data.rsp.acct prop is not there ?'
-      });",axios alternatives reddit
-69803,"Yeah bro, if you’ve got a good finance degree, you should be making twice that by your 30’s at any number of large banks",best major to study in college
-22650,"Are you white?
+      });"
+69803,best major to study in college,"Yeah bro, if you’ve got a good finance degree, you should be making twice that by your 30’s at any number of large banks"
+22650,best celebrity,"Are you white?
 
-Fun fact: My roommates were good friends with Denzel's son. When all the friends came over, Denzel would smile and be extremely cordial to the black friends. He wouldn't even smile or shake hands with the white friends; just stared at them almost like in Training Day.",best celebrity
-60983,for the life of me i cannot get into this show,Best comedy show on Netflix
-64414,use chrome or microsoft edge with uBlock Origin,best place to pirate mac apps reddit
-25726,"I reckon England’s would look something like this
+Fun fact: My roommates were good friends with Denzel's son. When all the friends came over, Denzel would smile and be extremely cordial to the black friends. He wouldn't even smile or shake hands with the white friends; just stared at them almost like in Training Day."
+60983,Best comedy show on Netflix,for the life of me i cannot get into this show
+64414,best place to pirate mac apps reddit,use chrome or microsoft edge with uBlock Origin
+25726,best cricket teams of all time,"I reckon England’s would look something like this
 
 1. Hobbs
 2. Sutcliffe
@@ -114,8 +114,8 @@ Coming in at number 9 I’ve gone for England’s greatest spinner and the man w
 
 At 10 I’ve gone for Frank Tyson. If Trueman was fast then Typhoon Tyson was faster. With a claim to being the fastest bowler the game has ever seen (a claim backed up by Bradman and Benaud), Tyson offers great variety from the other bowlers on display. The ability to intimidate the opposition batsmen through sheer speed and ferocity, and with a vicious bumper always lurking, Tyson would mesh well with the more swing orientated bowlers already in the team. And whilst bowling so fast had a massive impact on his body, it had an even bigger impact on the opposition. Whilst he only took 76 wickets in his career, they came at 18.56 per wicket, this is a low record than anyone who has taken 20 or more wickets has managed since.
 
-The final player in my starting XI is Sydney Barnes. The earliest player on this list, he still holds the record for the most wickets taken in a series with 49. Overall his 189 wickets (again a world record at the time) came at just 16.43 a wicket, the lowest of anyone to have played their entire test career in the 20th century.",best cricket teams of all time
-59623,"Ten current favourites of mine are:
+The final player in my starting XI is Sydney Barnes. The earliest player on this list, he still holds the record for the most wickets taken in a series with 49. Overall his 189 wickets (again a world record at the time) came at just 16.43 a wicket, the lowest of anyone to have played their entire test career in the 20th century."
+59623,best perfume,"Ten current favourites of mine are:
 
 La Manufacture - Cologne Rare
 
@@ -147,11 +147,11 @@ Creed - Royal Mayfair
 Floris - Neroli Voyage
 
 
-Looking forward to see what you're guessing.",best perfume
-59533,Based off the list and the emojis I say you're 18-22. You're outgoing and like to go out and have fun. For occupation I want to say service industry since I feel like you might enjoy interacting with people.,best perfume
-56054,"Off the top of my head, **Raiders of The Lost Ark.**",best action and adventure movie
-16211,Costa del mars off Amazon,best sunglasses for fashion
-46421,Then war it shall be!,best trick or treating candy
-67675,"Exactly...I ran across fetchival, modernized the code & republished as esfetch. Unfortunately I never got around to documenting things, but it's <1k uncompressed. Depending on how frequently requests are used, it could _save_ bytes.
+Looking forward to see what you're guessing."
+59533,best perfume,Based off the list and the emojis I say you're 18-22. You're outgoing and like to go out and have fun. For occupation I want to say service industry since I feel like you might enjoy interacting with people.
+56054,best action and adventure movie,"Off the top of my head, **Raiders of The Lost Ark.**"
+16211,best sunglasses for fashion,Costa del mars off Amazon
+46421,best trick or treating candy,Then war it shall be!
+67675,axios alternatives reddit,"Exactly...I ran across fetchival, modernized the code & republished as esfetch. Unfortunately I never got around to documenting things, but it's <1k uncompressed. Depending on how frequently requests are used, it could _save_ bytes.
 
-Minimal wrappers around modern APIs are the way to go.",axios alternatives reddit
+Minimal wrappers around modern APIs are the way to go."

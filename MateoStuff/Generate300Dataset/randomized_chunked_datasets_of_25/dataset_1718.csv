@@ -1,14 +1,14 @@
-idx,text,query
-48016,"We call it ""Salmon"". Stupid word that we don't pronounce phonetically. Stupid fish can't even figure out how to breed without dying.",best color to paint with
-62876,"Fellow NLP'er here! Some of my favorites so far:
+idx,query,text
+48016,best color to paint with,"We call it ""Salmon"". Stupid word that we don't pronounce phonetically. Stupid fish can't even figure out how to breed without dying."
+62876,Best Data Science textbook,"Fellow NLP'er here! Some of my favorites so far:
 
 - [Neural Network Methods in Natural Language Processing](https://www.amazon.com/Language-Processing-Synthesis-Lectures-Technologies/dp/1627052984) by Yoav Goldberg (2017). Okay for beginners, but even better as a reference work. I make sure to keep it close at hand.
 - [Introduction to Information Retrieval, aka the IR Book](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) by Christopher Manning (2008). 
 - [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) by Francois Chollet. The first I book I recommend to anyone getting started with deep learning. I've read it cover to cover about three times.
-- For programming in Python in general, I also really enjoyed [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) by Luciano Ramalho (2015), which gave me my first glimpse of just how deep the Python rabbit hole goes.",Best Data Science textbook
-51684,"That’s a good protection for your new phone. No new phone for me, but I have been using Apple leather case since my 5S. Currently using 7 Plus and it’s on the Saddle Brown leather case",best iphone case
-35280,Love laphroaig. My friends think it smells like medicine. I wish.,best alcoholic drink
-23227,">	It’s not possible to target based on race among other things. It’s explicitly against the ads targeting policy and if you had ever created a targeted ad you’d know that. Maybe do some research first?
+- For programming in Python in general, I also really enjoyed [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) by Luciano Ramalho (2015), which gave me my first glimpse of just how deep the Python rabbit hole goes."
+51684,best iphone case,"That’s a good protection for your new phone. No new phone for me, but I have been using Apple leather case since my 5S. Currently using 7 Plus and it’s on the Saddle Brown leather case"
+35280,best alcoholic drink,Love laphroaig. My friends think it smells like medicine. I wish.
+23227,best social networking site for CS,">	It’s not possible to target based on race among other things. It’s explicitly against the ads targeting policy and if you had ever created a targeted ad you’d know that. Maybe do some research first?
 
 Maybe you should [STFU](https://www.nytimes.com/2019/03/28/us/politics/facebook-housing-discrimination.html)
 
@@ -29,30 +29,30 @@ No one is entitled to track anyone and use their PII for profit. It’s fucking 
 You know a big reason why people lack empathy in their business ethics? It’s because they break things down into segments of data that require zero human interaction. They create look-a-like audiences from audiences they’ve never spoken to or interacted with. If people had to spend time learning about their customers by doing qualitative research, this world would probably be a much better place because we’d understand nuance. Instead we’re optimizing ourselves into oblivion in the sole pursuit of profit.
 
 
-Btw, next time don’t challenge someone’s understanding unless you’re really sure you know what you’re talking about. I’ve made a pretty good living off the intersection of technology and business. You sound like a smooth brain college kid with dunning kruger after watching some YouTube videos.",best social networking site for CS
-65192,Where you are is going to have a lot to do with it. More rural areas don't get great Sprint/T-Mobile service but cities seem to do well. I will not switch to them just because I live in medium sized town where you have to go through the middle of no where for like 20 mintues to get to any of the close by towns/cities. I don't want to break down and then not have service. So I stick with Verizon. Only complaint is how expensive they are. Never have had any other issues in the 10 years I have been with them.,best phone service company
-7418,"I don't think that would change my recommendation much, since the ASUS ROG Zephyrus G14 is still a bit more.",best laptop for general use
-3260,"I will get down voted for this but you can stream with a inexpensive PC.   Here is a link to a Alpha Gaming Channel video where they were able to stream for less than $150.  
+Btw, next time don’t challenge someone’s understanding unless you’re really sure you know what you’re talking about. I’ve made a pretty good living off the intersection of technology and business. You sound like a smooth brain college kid with dunning kruger after watching some YouTube videos."
+65192,best phone service company,Where you are is going to have a lot to do with it. More rural areas don't get great Sprint/T-Mobile service but cities seem to do well. I will not switch to them just because I live in medium sized town where you have to go through the middle of no where for like 20 mintues to get to any of the close by towns/cities. I don't want to break down and then not have service. So I stick with Verizon. Only complaint is how expensive they are. Never have had any other issues in the 10 years I have been with them.
+7418,best laptop for general use,"I don't think that would change my recommendation much, since the ASUS ROG Zephyrus G14 is still a bit more."
+3260,best webcamera,"I will get down voted for this but you can stream with a inexpensive PC.   Here is a link to a Alpha Gaming Channel video where they were able to stream for less than $150.  
 
-[Alpha Gaming Channel on YouTube](https://www.youtube.com/watch?v=9Gjw5GgjzQs)",best webcamera
-71417,"""I have an apartment downtown that I use for my parents and prostitutes...not at the same time though, that would be weird""",best movies with a cool twist
-13865,"Doll, R. and A.B. Hill. 1950. [Smoking and Carcinoma of the Lung](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2038856/). British Medical Journal 30:739–748. 
+[Alpha Gaming Channel on YouTube](https://www.youtube.com/watch?v=9Gjw5GgjzQs)"
+71417,best movies with a cool twist,"""I have an apartment downtown that I use for my parents and prostitutes...not at the same time though, that would be weird"""
+13865,best research paper archive,"Doll, R. and A.B. Hill. 1950. [Smoking and Carcinoma of the Lung](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2038856/). British Medical Journal 30:739–748. 
 
-This was perhaps the first major use of the case-control method in epidemiology, a methodological approach which allowed the investigation of many long-term public health threats.  It also linked smoking and lung cancer, which saved certainly thousands if not millions of lives.  It is also relatively simple to read.",best research paper archive
-32517,Sure if you don't know the area well and want to use google maps or to look up reviews on restaurants.,best vacation resort
-32942,It's still around. Try home [bargains ](https://www.homebargains.co.uk),best energy drink
-14831,"For me it has to be the Kushiel's Dart series. I think the author Jacqueline Carey is really pushing the boundaries of/merging several genres (high fantasy, romance, adventure). Like I think these books are literally as good as LOTR or The Wheel of Time, but they are so underrated because they cater to the feminine gaze and feature a lot of sex, romance, and very long detailed descriptions of gowns and baths.",best romantic novel
-56085,♪We're off to save the cat!♪,best action and adventure movie
-34901,Would've been in the MVP race down to the very end if his team wasn't so garbage,best NFL player
-1976,Rusty’s,best pizza place in Santa Barbara
-32151,"I've stayed in Pennyhill Park in Surrey, Essex twice and it's the nicest and most luxurious hotel I've experienced. It's more like a spa/country club but it's very traditional British, every room has completely different decor and is named after a type of tree, which I find adorable. The first time I stayed there I was gobsmacked by the size of my room and the four poster bed and the bathroom. The second time I stayed there I was in a completely different room which seemed smaller until I noticed the STAIRCASE up to the second floor of my room hosting just a bath with a built-in television and a round sofa. Bear in mind I was staying in this room alone. 
+This was perhaps the first major use of the case-control method in epidemiology, a methodological approach which allowed the investigation of many long-term public health threats.  It also linked smoking and lung cancer, which saved certainly thousands if not millions of lives.  It is also relatively simple to read."
+32517,best vacation resort,Sure if you don't know the area well and want to use google maps or to look up reviews on restaurants.
+32942,best energy drink,It's still around. Try home [bargains ](https://www.homebargains.co.uk)
+14831,best romantic novel,"For me it has to be the Kushiel's Dart series. I think the author Jacqueline Carey is really pushing the boundaries of/merging several genres (high fantasy, romance, adventure). Like I think these books are literally as good as LOTR or The Wheel of Time, but they are so underrated because they cater to the feminine gaze and feature a lot of sex, romance, and very long detailed descriptions of gowns and baths."
+56085,best action and adventure movie,♪We're off to save the cat!♪
+34901,best NFL player,Would've been in the MVP race down to the very end if his team wasn't so garbage
+1976,best pizza place in Santa Barbara,Rusty’s
+32151,best hotel to live in,"I've stayed in Pennyhill Park in Surrey, Essex twice and it's the nicest and most luxurious hotel I've experienced. It's more like a spa/country club but it's very traditional British, every room has completely different decor and is named after a type of tree, which I find adorable. The first time I stayed there I was gobsmacked by the size of my room and the four poster bed and the bathroom. The second time I stayed there I was in a completely different room which seemed smaller until I noticed the STAIRCASE up to the second floor of my room hosting just a bath with a built-in television and a round sofa. Bear in mind I was staying in this room alone. 
 
-In the morning I looked out of my window and there were deer grazing on the grounds. For someone who is not used to anything like this I was in awe of the whole place.",best hotel to live in
-17917,"My favorite right now is definitely Kylie! She’s mellowed out a lot ever since she had stormi and I think for a little while she went thru that teenager phase where she was rude to her parents and just didn’t seem very interested in doing family things but you also have to understand she was acting in ways normal teens would but she was being filmed and able to be judged, and also her dad transitioned to Caitlyn when she was I think only 17 or 18?  Which probably was a lot for her to deal with and she probably came off very dry and rude when she was just hurting. But anyways when she was a teen she wasn’t one of my favorites but now I really like her because she does a lot of donating and helping people in need behind closed doors and doesn’t brag about it, and she also stays out of the drama and even when everything happened with Jordyn last year she didn’t go off about jordyn on tv like her sisters did which I thought was cool of her! (Sorry this was long lol)",best Kardashian
-69234,"Yep. I'm a chemist (Bachelors) with 8 years of experience. I barely make 62K gross. I probably take home about 33K after being robbed at gunpoint by the government. 
+In the morning I looked out of my window and there were deer grazing on the grounds. For someone who is not used to anything like this I was in awe of the whole place."
+17917,best Kardashian,"My favorite right now is definitely Kylie! She’s mellowed out a lot ever since she had stormi and I think for a little while she went thru that teenager phase where she was rude to her parents and just didn’t seem very interested in doing family things but you also have to understand she was acting in ways normal teens would but she was being filmed and able to be judged, and also her dad transitioned to Caitlyn when she was I think only 17 or 18?  Which probably was a lot for her to deal with and she probably came off very dry and rude when she was just hurting. But anyways when she was a teen she wasn’t one of my favorites but now I really like her because she does a lot of donating and helping people in need behind closed doors and doesn’t brag about it, and she also stays out of the drama and even when everything happened with Jordyn last year she didn’t go off about jordyn on tv like her sisters did which I thought was cool of her! (Sorry this was long lol)"
+69234,best major to study in college,"Yep. I'm a chemist (Bachelors) with 8 years of experience. I barely make 62K gross. I probably take home about 33K after being robbed at gunpoint by the government. 
 
-I wouldn't go that route. Once my spouse is done with his masters, I hope I'll be able to go back to school.",best major to study in college
-67235,"Some of us work on large systems, not just personal projects. These systems must run for years and likely will be maintained by entirely different people than build them.
+I wouldn't go that route. Once my spouse is done with his masters, I hope I'll be able to go back to school."
+67235,axios alternatives reddit,"Some of us work on large systems, not just personal projects. These systems must run for years and likely will be maintained by entirely different people than build them.
 
 It’s not difficult. But a bunch of programmers all going “lul it’s not difficult” and then rolling their own everything becomes difficult to maintain.
 
@@ -60,9 +60,9 @@ Edit: to give you an idea - I have to write documentation to hand off to the cli
 
 If I use axios I can properly wrap it so it can be swapped out later and then simply link to the axios docs. If I write my own I must document it.
 
-This would be fine for just fetch, but if you apply this mentality broadly you end up reinventing the wheel a bunch of times and then having to document it every time.",axios alternatives reddit
-64260,https://liftvault.com,best place to pirate audiobooks reddit
-14116,B-ok.org is legit,best place to get free books
-15923,"I bought ray ban clubmasters on Amazon for $80, for that price I have no complaints. The lenses really are better than a $20 pair. Much beyond that, they are about as worth it as $350 white sneakers, if you can afford it and its exactly what you want then go for it, but otherwise its not going to be anything amazing if you don't think it will be.",best sunglasses for fashion
-55284,None of those are outdoorsy. They're the opposite: hyber-urban,best places to hike in the east coast
-14642,Loved it! I thought it was do fresh and didn't expect to like it as much as I did.,best romantic novel
+This would be fine for just fetch, but if you apply this mentality broadly you end up reinventing the wheel a bunch of times and then having to document it every time."
+64260,best place to pirate audiobooks reddit,https://liftvault.com
+14116,best place to get free books,B-ok.org is legit
+15923,best sunglasses for fashion,"I bought ray ban clubmasters on Amazon for $80, for that price I have no complaints. The lenses really are better than a $20 pair. Much beyond that, they are about as worth it as $350 white sneakers, if you can afford it and its exactly what you want then go for it, but otherwise its not going to be anything amazing if you don't think it will be."
+55284,best places to hike in the east coast,None of those are outdoorsy. They're the opposite: hyber-urban
+14642,best romantic novel,Loved it! I thought it was do fresh and didn't expect to like it as much as I did.

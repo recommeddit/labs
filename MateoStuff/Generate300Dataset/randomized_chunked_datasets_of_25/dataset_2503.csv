@@ -1,26 +1,26 @@
-idx,text,query
-70109,Ok ok we get it Reddit. Either you're a left-brained computery-type or you can work at Starbucks the rest of your life.,best major to study in college
-21527,Just watched [that whole episode](http://www.amazon.com/gp/product/B006IX5AU8) (Amazon Instant Video) thanks to this comment :),best winnie the pooh comic
-61186,Californication. If you're okay with the NSFW tag.,Best comedy show on Netflix
-70616,"That sounds really cool! Congrats, and good luck on your thesis :)",best major to study in college
-6872,"2 of our 5 phones are the 12 Pro Max. I needed one, because I was interested in recording 4k video with Dolby Vision, and the 12 Pro Max has 1x more optical zoom than the standard 11 or 12 (I record soccer games from a distance, so that matters a lot to me). One of my daughters got the other 12 Pro Max, but mainly for one simple reason....it was free! I found a BOGO (buy one get one) that forced her to get a new number through Verizon. She was young enough and didn't care about a new number, so that worked out well!
+idx,query,text
+70109,best major to study in college,Ok ok we get it Reddit. Either you're a left-brained computery-type or you can work at Starbucks the rest of your life.
+21527,best winnie the pooh comic,Just watched [that whole episode](http://www.amazon.com/gp/product/B006IX5AU8) (Amazon Instant Video) thanks to this comment :)
+61186,Best comedy show on Netflix,Californication. If you're okay with the NSFW tag.
+70616,best major to study in college,"That sounds really cool! Congrats, and good luck on your thesis :)"
+6872,best iPhone,"2 of our 5 phones are the 12 Pro Max. I needed one, because I was interested in recording 4k video with Dolby Vision, and the 12 Pro Max has 1x more optical zoom than the standard 11 or 12 (I record soccer games from a distance, so that matters a lot to me). One of my daughters got the other 12 Pro Max, but mainly for one simple reason....it was free! I found a BOGO (buy one get one) that forced her to get a new number through Verizon. She was young enough and didn't care about a new number, so that worked out well!
 
 Of course, the 12 models have better low-light camera performance and a slightly better sensor, but the 11 is still pretty good by today's standards. If you don't really need any of the slight upgrades the 12 brings to the table, you'll be happy settling for the 11, or might want to consider waiting for the 13 (or whatever Apple decides to name it).
 
 This site should help you compare:
 
-[https://www.gsmarena.com/compare.php3?&idPhone1=9848&idPhone2=9847&idPhone3=10237](https://www.gsmarena.com/compare.php3?&idPhone1=9848&idPhone2=9847&idPhone3=10237)",best iPhone
-13466,LibreOffice then,best spreadsheet editor
-72311,Pi-hole runs on standard linux too. I run mine within docker.,best adblocker extension
-71307,"Wow man that's actually genius, but what would be the point of that? :D",best movies with a cool twist
-68831,Time travel dood.,best science fiction novel
-30916,"Australia is a wonderful place with a shitty misogynistic, racist, sexist, ageist, homophobic tool of a prime minister and a serious obesity problem.",best country to live in
-19881,"I’ve liked Flatbush zombies for workout music, some of their songs go pretty hard",best workout music
-14874,"If you want to be super ambitious, you could read all the ones nominated, but I’m not gonna tell you how to live your life. 😆",best romantic novel
-57240,"Volvic.
+[https://www.gsmarena.com/compare.php3?&idPhone1=9848&idPhone2=9847&idPhone3=10237](https://www.gsmarena.com/compare.php3?&idPhone1=9848&idPhone2=9847&idPhone3=10237)"
+13466,best spreadsheet editor,LibreOffice then
+72311,best adblocker extension,Pi-hole runs on standard linux too. I run mine within docker.
+71307,best movies with a cool twist,"Wow man that's actually genius, but what would be the point of that? :D"
+68831,best science fiction novel,Time travel dood.
+30916,best country to live in,"Australia is a wonderful place with a shitty misogynistic, racist, sexist, ageist, homophobic tool of a prime minister and a serious obesity problem."
+19881,best workout music,"I’ve liked Flatbush zombies for workout music, some of their songs go pretty hard"
+14874,best romantic novel,"If you want to be super ambitious, you could read all the ones nominated, but I’m not gonna tell you how to live your life. 😆"
+57240,best water brand,"Volvic.
 
-Fight me.",best water brand
-24231,"Here are the 33 lists that I used.  A few of the lists contain things that aren't anime series, but I removed those.
+Fight me."
+24231,best anime,"Here are the 33 lists that I used.  A few of the lists contain things that aren't anime series, but I removed those.
 
 [http://thecartdriver.com/the-top-30-anime-2/](http://thecartdriver.com/the-top-30-anime-2/)
 
@@ -86,19 +86,19 @@ Fight me.",best water brand
 
 [https://www.youtube.com/watch?v=Ya3guHgPTNg](https://www.youtube.com/watch?v=Ya3guHgPTNg)
 
-A compilation of 136 anime bloggers' favorites (it hasn't been published anywhere)",best anime
-4524,"<sarcasm>Yeah, it's way more important to have a pretty editor than a functional one.</sarcasm>",best text editor
-33641,"Yeah, but all the best series will fully switch over. Most classic racing is more like showlaps than racing anyway.
+A compilation of 136 anime bloggers' favorites (it hasn't been published anywhere)"
+4524,best text editor,"<sarcasm>Yeah, it's way more important to have a pretty editor than a functional one.</sarcasm>"
+33641,best electric car,"Yeah, but all the best series will fully switch over. Most classic racing is more like showlaps than racing anyway.
 
-I get that it's better for everyone that we switch. I just hate it.",best electric car
-53544,Do you take an H2 antagonist as well?,best medicine for a cold
-55387,"I hadn't even realized it was you (that's what I get for not looking at the username)! I'd have recommended slightly different LOL
+I get that it's better for everyone that we switch. I just hate it."
+53544,best medicine for a cold,Do you take an H2 antagonist as well?
+55387,best action and adventure novel series,"I hadn't even realized it was you (that's what I get for not looking at the username)! I'd have recommended slightly different LOL
 
 Nnedi Okorafor and Alan Dean Foster's Kabu Kabu (it's in the short story collection of the same name). It's a novella they cowrote and it's amazing fun. 
 
-Simon R Green's Nightside, then Secret Histories (in that order) - It's definitely not high fiction or anything, but it scratches that urban fantasy/adventure/different itch for me. Loads of adventure, really different characters, etc.",best action and adventure novel series
-48391,Great resource! Thank you for sharing.,best color to paint with
-44458,"I used to camp a lot and had 4 types of lights with me:
+Simon R Green's Nightside, then Secret Histories (in that order) - It's definitely not high fiction or anything, but it scratches that urban fantasy/adventure/different itch for me. Loads of adventure, really different characters, etc."
+48391,best color to paint with,Great resource! Thank you for sharing.
+44458,best items under $100,"I used to camp a lot and had 4 types of lights with me:
 
 1. A lantern like light for the tent. Something that scattered light in the tent for general low light visibility comes in major use when you're just trying to find stuff but don't want to fuck with a flashlight.
 
@@ -106,9 +106,9 @@ Simon R Green's Nightside, then Secret Histories (in that order) - It's definite
 
 3. A small regular flashlight that was much brighter than my headlamp. Useful if I need to illuminate somewhere other than directly in front of my face.
 
-4. Glow sticks. There are so many reasons you could end up needing them that I just never questioned having them. You can and should also try to keep waterproof matches with you for similar reasons, but that's not quite what I'd consider a light source since you can make fires plenty of other ways.",best items under $100
-72080,"It fake! Wait...no, it's real! Wait....it's fake! Oop, no it's real! Or is it...? Nope, definitely fake. Well, I dunno...it could be real. It's totally real. Is it?",best movies with a cool twist
-56261,Yea,best action and adventure movie
-54231,"Sudafed, the real stuff behind the counter. Does a very good job, and doesn't put me in a fog like a lot of the other stuff. I take NyQuil when I've already accepted that for the next 24 hours, I'll be asleep for the next 12 of them, and hazy for the 12 after.",best medicine for a cold
-44341,Wouldn't you think that a guy whose blood tastes like wine got hammered now and then?,best items under $100
-59982,"What else do you like? If we click on the Burberry and Grey Flannel, I wonder if there's others :)",best perfume
+4. Glow sticks. There are so many reasons you could end up needing them that I just never questioned having them. You can and should also try to keep waterproof matches with you for similar reasons, but that's not quite what I'd consider a light source since you can make fires plenty of other ways."
+72080,best movies with a cool twist,"It fake! Wait...no, it's real! Wait....it's fake! Oop, no it's real! Or is it...? Nope, definitely fake. Well, I dunno...it could be real. It's totally real. Is it?"
+56261,best action and adventure movie,Yea
+54231,best medicine for a cold,"Sudafed, the real stuff behind the counter. Does a very good job, and doesn't put me in a fog like a lot of the other stuff. I take NyQuil when I've already accepted that for the next 24 hours, I'll be asleep for the next 12 of them, and hazy for the 12 after."
+44341,best items under $100,Wouldn't you think that a guy whose blood tastes like wine got hammered now and then?
+59982,best perfume,"What else do you like? If we click on the Burberry and Grey Flannel, I wonder if there's others :)"

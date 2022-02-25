@@ -1,16 +1,16 @@
-idx,text,query
-54333,"boil a cup or two of water with fresh grated ginger, some turmeric, and some cinnamon. Once it has a yellow tinge its good to go. Strain it, add some honey or lemon (or both) and drink up",best medicine for a cold
-28462,The preferred breakfast of Gentlesirs everywhere.,best breakfast foods
-24126,"* Neon Genesis Evangelion  
+idx,query,text
+54333,best medicine for a cold,"boil a cup or two of water with fresh grated ginger, some turmeric, and some cinnamon. Once it has a yellow tinge its good to go. Strain it, add some honey or lemon (or both) and drink up"
+28462,best breakfast foods,The preferred breakfast of Gentlesirs everywhere.
+24126,best anime,"* Neon Genesis Evangelion  
 * Puella Magi Madoka Magica
 * Clannad  
 * Code Geass  
 * Fate/Zero  
-* Kill la Kill",best anime
-58053,"Was out with my husband one night and we ran into our lesbian friend.  She greeted us with a hug and I complimented her on her cologne and asked what it was. She said it was Sauvage.  
-Well, I guess I seemed really into it because my husband went out and bought it the next day.",best cologne
-32541,This is very true. Our best experiences have been had in places recommended by friends and co-workers.,best vacation resort
-68594,"Here are some of my favorites in no particular order. I'm also sure I'm missing a few:
+* Kill la Kill"
+58053,best cologne,"Was out with my husband one night and we ran into our lesbian friend.  She greeted us with a hug and I complimented her on her cologne and asked what it was. She said it was Sauvage.  
+Well, I guess I seemed really into it because my husband went out and bought it the next day."
+32541,best vacation resort,This is very true. Our best experiences have been had in places recommended by friends and co-workers.
+68594,best science fiction novel,"Here are some of my favorites in no particular order. I'm also sure I'm missing a few:
 
 Red Rising series by Pierce Brown
 
@@ -52,44 +52,44 @@ Saturn Run by John Sandford Ctein
 
 &#x200B;
 
-&#x200B;",best science fiction novel
-26075,"Nina Turner and Bernie would be on the list for me, but Warren wouldn't be anywhere near it.",best politician
-43179,Twin Peaks - esp S3 of TP & S3 of TD,best detective show
-19834,Paramedic-SOBxRBE,best workout music
-35084,Can't believe this is the first Johnny U mention I've seen,best NFL player
-67542,"The intermediary value is useful though,
+&#x200B;"
+26075,best politician,"Nina Turner and Bernie would be on the list for me, but Warren wouldn't be anywhere near it."
+43179,best detective show,Twin Peaks - esp S3 of TP & S3 of TD
+19834,best workout music,Paramedic-SOBxRBE
+35084,best NFL player,Can't believe this is the first Johnny U mention I've seen
+67542,axios alternatives reddit,"The intermediary value is useful though,
 
     const res = await fetch('...')
     // res.status
     // res.ok
     // res.headers
 
-Often, I'll look at the result of `ok` end either throw or return the result of `res.json()`",axios alternatives reddit
-22865,"Joel McHale. He actually tried to make me laugh (and did and even laughed at my jokes.) He was ""on"" even though I was the only one he was talking to. It was clear he cared that I was a fan and wanted me to continue to like him. 
+Often, I'll look at the result of `ok` end either throw or return the result of `res.json()`"
+22865,best celebrity,"Joel McHale. He actually tried to make me laugh (and did and even laughed at my jokes.) He was ""on"" even though I was the only one he was talking to. It was clear he cared that I was a fan and wanted me to continue to like him. 
 Also, Penn Jillette said I was tall and beautiful. I was standing in a crowd and was head and shoulders above the crowd so he saw me even though I was far off. Actually, Joel McHale said I was the tallest girl in the room. 
-I guess celebs are confident to point that kind of thing out.",best celebrity
-21167,"I like MGK for motivation. It is rap, but tends to be about pushing through personal struggles, rather than balling at the trap (which I also appreciate). When I am sitting in my bed contemplating going into my workout room, I play this: 
+I guess celebs are confident to point that kind of thing out."
+21167,best workout music,"I like MGK for motivation. It is rap, but tends to be about pushing through personal struggles, rather than balling at the trap (which I also appreciate). When I am sitting in my bed contemplating going into my workout room, I play this: 
 http://www.youtube.com/watch?v=O1LKvhsxqxE
-and it never fails me. I go work out.",best workout music
-46651,I live in montana and its not the favorite candy its just the cheap stuff everyone gives out for everything... And i mean everything....,best trick or treating candy
-6939,iPhone 6 series sucked! Has bend gate etc! Anything from the iPhone X up I’d say is a great phone and will last you years! The iPhone XS series is a amazing series just as the 11 the iPhone 11 series will be supported alittle longer than them all and the A13 will last longer!,best iPhone
-72725,"Starlight-12 if you get one, I like the finalmeme shape.",best wireless lightweight mouse
-23642,"Forza Motorsport 7 and Project Cars might be what you’re looking for.  Project Cars 1 and 2 tried to be more proper sims, where I think Project Cars 3 is more of a simcade, and supposedly the best of the series for playing on a controller.
+and it never fails me. I go work out."
+46651,best trick or treating candy,I live in montana and its not the favorite candy its just the cheap stuff everyone gives out for everything... And i mean everything....
+6939,best iPhone,iPhone 6 series sucked! Has bend gate etc! Anything from the iPhone X up I’d say is a great phone and will last you years! The iPhone XS series is a amazing series just as the 11 the iPhone 11 series will be supported alittle longer than them all and the A13 will last longer!
+72725,best wireless lightweight mouse,"Starlight-12 if you get one, I like the finalmeme shape."
+23642,best car racing video game,"Forza Motorsport 7 and Project Cars might be what you’re looking for.  Project Cars 1 and 2 tried to be more proper sims, where I think Project Cars 3 is more of a simcade, and supposedly the best of the series for playing on a controller.
 
-Haven’t played Forza 7, so I’m not sure if it still follows Horizon’s pattern of just throwing tons of money and cars at you from the get go.",best car racing video game
-33278,"That's the commercial stripper...
+Haven’t played Forza 7, so I’m not sure if it still follows Horizon’s pattern of just throwing tons of money and cars at you from the get go."
+33278,best electric car,"That's the commercial stripper...
 
-Many of the features discussed here aren't on the $39k model.",best electric car
-71838,Or he found the book and messed with you about figuring out the ending from just the trailer.,best movies with a cool twist
-28619,"Probably the most popular Philippine breakfast: [TAPSILOG](http://en.wikipedia.org/wiki/File:Tapsilog.jpg)
+Many of the features discussed here aren't on the $39k model."
+71838,best movies with a cool twist,Or he found the book and messed with you about figuring out the ending from just the trailer.
+28619,best breakfast foods,"Probably the most popular Philippine breakfast: [TAPSILOG](http://en.wikipedia.org/wiki/File:Tapsilog.jpg)
 
-**TAP**a (dried or cured beef, mutton or venison) +  **SI**nangag (garlic rice) + it**LOG** (fried egg)",best breakfast foods
-33108,"I do not use them. I get up at 5am and jog for 30 minutes. Take a shower, eat breakfast and go to work. I work at a desk for 9 hours (1 hour lunch break) then go back home. If it's Monday or Wednesday I watch my son for an hour while my wife goes to water aerobics with her sisters. If it is Tuesday or Thursday my wife watches the kid while I go boxing with my friends. Then I make dinner and play with the kid until around 9-10pm depending on when he'll go to sleep. Then we go to bed. At no point in my day do I ever lack for energy.",best energy drink
-12998,"Will do, thanks!",best gifts for mom
-19753,"[Game of Thrones, Tower of Joy fight scene, WITH LIGHTSABERS!](https://youtu.be/4CTJEZXtr94)",best YouTube video
-50556,"Doggystyle - Snoop n Dre 
+**TAP**a (dried or cured beef, mutton or venison) +  **SI**nangag (garlic rice) + it**LOG** (fried egg)"
+33108,best energy drink,"I do not use them. I get up at 5am and jog for 30 minutes. Take a shower, eat breakfast and go to work. I work at a desk for 9 hours (1 hour lunch break) then go back home. If it's Monday or Wednesday I watch my son for an hour while my wife goes to water aerobics with her sisters. If it is Tuesday or Thursday my wife watches the kid while I go boxing with my friends. Then I make dinner and play with the kid until around 9-10pm depending on when he'll go to sleep. Then we go to bed. At no point in my day do I ever lack for energy."
+12998,best gifts for mom,"Will do, thanks!"
+19753,best YouTube video,"[Game of Thrones, Tower of Joy fight scene, WITH LIGHTSABERS!](https://youtu.be/4CTJEZXtr94)"
+50556,best rap album,"Doggystyle - Snoop n Dre 
 
- Edit: personally I think this this production is more creative than the chronics",best rap album
-39730,"Stupid question, but my gmail (not sure if it's a default) won't load images unless you explicitly give permission. 
+ Edit: personally I think this this production is more creative than the chronics"
+39730,best Chrome extensions,"Stupid question, but my gmail (not sure if it's a default) won't load images unless you explicitly give permission. 
 
-Do the trackers not work as long as I don't load the images?",best Chrome extensions
+Do the trackers not work as long as I don't load the images?"

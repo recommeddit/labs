@@ -1,10 +1,10 @@
-idx,text,query
-16485,"My pair is the grey lenses. It only turned out that way because I liked that specific frame colour and grey lenses was what it came with :p I think it's meant for sunnier conditions so it's too dark if I wear them in the evening or when it's rainy. Although I can still wear them when it's overcast but still ""bright""... If you know what I mean...",best sunglasses for fashion
-67919,"I read these but had trouble getting through them.
+idx,query,text
+16485,best sunglasses for fashion,"My pair is the grey lenses. It only turned out that way because I liked that specific frame colour and grey lenses was what it came with :p I think it's meant for sunnier conditions so it's too dark if I wear them in the evening or when it's rainy. Although I can still wear them when it's overcast but still ""bright""... If you know what I mean..."
+67919,best science fiction novel,"I read these but had trouble getting through them.
 
-I would replace that entry with the ""Old Man's War"" series instead.",best science fiction novel
-66176,It's pretty easy to argue against it..Milan 89-94..,best soccer team in the world
-67474,"> I think they should fix it
+I would replace that entry with the ""Old Man's War"" series instead."
+66176,best soccer team in the world,It's pretty easy to argue against it..Milan 89-94..
+67474,axios alternatives reddit,"> I think they should fix it
 
 Native fetch in the browser behaves the same way, it's not something specific to  the `node-fetch` library, so when you say ""it"" you're actually referring to the standard created by the browser vendors (a.k.a. WHATWG).
 
@@ -12,41 +12,41 @@ While it's not ergonomic in this particular case, it's done for a good technical
 
 `fetch` is intentionally barebones - it's first and foremost a replacement for `XMLHttpRequest`. While there's definitely an improvement in ease-of-use compared to XHR, that's not its primary concern - the intention is that wrapper libraries (like Axios) fulfill that role.
 
-Edit: a previous comment I made on the subject: https://www.reddit.com/r/javascript/comments/907gua/http_requests_compared_why_axios_is_better_than/e2pydi9/",axios alternatives reddit
-26512,"A penis. 
+Edit: a previous comment I made on the subject: https://www.reddit.com/r/javascript/comments/907gua/http_requests_compared_why_axios_is_better_than/e2pydi9/"
+26512,best politician,"A penis. 
 
-At least if you want a good position.",best politician
-35036,"Well, if Lemieux didn't have the serious injury problems and the supporting casts Gretzky had in his prime he could have challenged these records. 
+At least if you want a good position."
+35036,best NFL player,"Well, if Lemieux didn't have the serious injury problems and the supporting casts Gretzky had in his prime he could have challenged these records. 
 
 There is also more to the game than sheer offensive production. Howe scored more goals era adjusted and was a significantly more well rounded player. Orr is the only defenseman to ever lead the league in scoring (and he almost certainly would have done it more if not for injury problems). 
 
 I think Gretzky's the greatest. But I at least think you can think otherwise and make a reasonable argument for it. 
 
-Is there really a reasonable argument for any wide receiver being better than Rice?",best NFL player
-42586,"Never heard of gangs of london until now. I’m a big fan of high quality series (the wire, saul, narcos, breaking bad) and usually can’t get through any that are low caliber. Will def try this one out!",best detective show
-53467,"Wow, do you know how many watts the charger is rated for or does it say this no matter what?",best usb c charging cable
-43780,Yea i love my excavator too,best items under $100
-37127,"Exactly that, yeah",best amusement park
-70506,I feel like I just got mansplained,best major to study in college
-8397,I just heard of bioglass. Dentists in US are now recommending it for all children.,best toothpaste
-33699,"There are perfectly good reasons people can have for not liking EVs and several people have made this clear in their comments. If you're down voting them simply for having opinions, you're no better than a rabid fanboi. This is a perfectly good topic of conversation, don't send people to the bottom just because you're in love with daddy elon.
+Is there really a reasonable argument for any wide receiver being better than Rice?"
+42586,best detective show,"Never heard of gangs of london until now. I’m a big fan of high quality series (the wire, saul, narcos, breaking bad) and usually can’t get through any that are low caliber. Will def try this one out!"
+53467,best usb c charging cable,"Wow, do you know how many watts the charger is rated for or does it say this no matter what?"
+43780,best items under $100,Yea i love my excavator too
+37127,best amusement park,"Exactly that, yeah"
+70506,best major to study in college,I feel like I just got mansplained
+8397,best toothpaste,I just heard of bioglass. Dentists in US are now recommending it for all children.
+33699,best electric car,"There are perfectly good reasons people can have for not liking EVs and several people have made this clear in their comments. If you're down voting them simply for having opinions, you're no better than a rabid fanboi. This is a perfectly good topic of conversation, don't send people to the bottom just because you're in love with daddy elon.
 
-Edit: this isn't directed at OP btw",best electric car
-53311,"There should be a usb to usb c in there unless you lost it or you have a model that didn't include it. Sorry, I'd still stick to the brand nektec even if ur looking for usb 2.0 to usbc.",best usb c charging cable
-46191,"I lived in a small out of the way neighborhood at the time so I didn't need that many.
+Edit: this isn't directed at OP btw"
+53311,best usb c charging cable,"There should be a usb to usb c in there unless you lost it or you have a model that didn't include it. Sorry, I'd still stick to the brand nektec even if ur looking for usb 2.0 to usbc."
+46191,best trick or treating candy,"I lived in a small out of the way neighborhood at the time so I didn't need that many.
 
-If you live in a high traffic trick-or-treat area, pop tarts are probably too expensive. But if you live in a neighborhood that only gets a few kids, like me, pop tarts are the way to go.",best trick or treating candy
-57452,I think it's the same source...,best water brand
-14785,"I really enjoy novels written by Devney Perry, Melanie Harlow, Vi Keeland, or RS Grey.  I find them to all be really solid writers and it’s not often that I read one of their novels and get distracted by crappy dialogue, unbelievable plot, errors, etc.  I really can’t pick a particular novel by any of them because I think they’re all great!  They also publish pretty frequently; Perry and Harlow write novels in series mainly.
+If you live in a high traffic trick-or-treat area, pop tarts are probably too expensive. But if you live in a neighborhood that only gets a few kids, like me, pop tarts are the way to go."
+57452,best water brand,I think it's the same source...
+14785,best romantic novel,"I really enjoy novels written by Devney Perry, Melanie Harlow, Vi Keeland, or RS Grey.  I find them to all be really solid writers and it’s not often that I read one of their novels and get distracted by crappy dialogue, unbelievable plot, errors, etc.  I really can’t pick a particular novel by any of them because I think they’re all great!  They also publish pretty frequently; Perry and Harlow write novels in series mainly.
 
-If I had to pick one novel that was really well written it would be Beach Read by Emily Henry.",best romantic novel
-41263,"tenor saxophone, i am sad to admit this for i play the trumpet. Lol",best instrument to play
-12380,">yeah, but they can't legally call them babies, so they are 'tiny childeren' or 'mini humens'.",best gifts for mom
-33205,"Kona, E Niro, Soul, ID4 are some other options. The i3 are a bit old. Here in Europe they practically gift them away at 150€/month leading and 21k Euros for the base price. If costs are the same, definitely go.for the model 3.",best electric car
-41199,Some people want to sound like woodchippers I guess,best instrument to play
-46805,"> Ah, the miracle of statistics!
+If I had to pick one novel that was really well written it would be Beach Read by Emily Henry."
+41263,best instrument to play,"tenor saxophone, i am sad to admit this for i play the trumpet. Lol"
+12380,best gifts for mom,">yeah, but they can't legally call them babies, so they are 'tiny childeren' or 'mini humens'."
+33205,best electric car,"Kona, E Niro, Soul, ID4 are some other options. The i3 are a bit old. Here in Europe they practically gift them away at 150€/month leading and 21k Euros for the base price. If costs are the same, definitely go.for the model 3."
+41199,best instrument to play,Some people want to sound like woodchippers I guess
+46805,best hand santizer brand,"> Ah, the miracle of statistics!
 
-I fixed it for you.",best hand santizer brand
-6619,Nice! Almost went with the mini but I needed a new phone at the time and the pro came out first. They’re awesome.,best iPhone
-12817,"First you're ""my mommy"", then you become ""oh that's just my mom"". Shortly you're ""uhg...mom"",  and at some point, in their teens you become a piece of furniture.  You will become ""hey mom"", then ""mom, what do you think"".  Eventually you will hear your own voice and thoughts coming straight out of their mouths and you're "" this..is my MOM"".",best gifts for mom
-17783,"Even though she’s not my favorite, I think it’s Khloe. She’s experienced an immense amount of pain and bullying throughout her life, and while I don’t think the other Kardashian girls haven’t had difficulties throughout their lives, I think Khloe is the *most* relatable to the average human being. I know that doesn’t automatically make her upstanding and ethical but I think she can empathize more with and might try to understand and treat others with dignity and respect maybe a tad better than the others.",best Kardashian
+I fixed it for you."
+6619,best iPhone,Nice! Almost went with the mini but I needed a new phone at the time and the pro came out first. They’re awesome.
+12817,best gifts for mom,"First you're ""my mommy"", then you become ""oh that's just my mom"". Shortly you're ""uhg...mom"",  and at some point, in their teens you become a piece of furniture.  You will become ""hey mom"", then ""mom, what do you think"".  Eventually you will hear your own voice and thoughts coming straight out of their mouths and you're "" this..is my MOM""."
+17783,best Kardashian,"Even though she’s not my favorite, I think it’s Khloe. She’s experienced an immense amount of pain and bullying throughout her life, and while I don’t think the other Kardashian girls haven’t had difficulties throughout their lives, I think Khloe is the *most* relatable to the average human being. I know that doesn’t automatically make her upstanding and ethical but I think she can empathize more with and might try to understand and treat others with dignity and respect maybe a tad better than the others."

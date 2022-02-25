@@ -1,19 +1,19 @@
-idx,text,query
-69615,"_Just put me down as Undecided, every major's terrible!_",best major to study in college
-66606,"I'd go for Southampton, they seem to be everyone's second favourite team in England. Have a terrific academy and just keep churning out fantastic young talent, Walcott, bale, oxlade-chamberlain, lallana etc. They sold most of their squad last summer, were seen as definite to be relegated, but with a fantastic manager have been toying with the prospect of European football most of this season as opposed to relegation.",best soccer team in the world
-57551,"I want to provide a counter argument to this as about a year ago I bought about 7 perfumes all at once from never having bought my own perfume in my life.
+idx,query,text
+69615,best major to study in college,"_Just put me down as Undecided, every major's terrible!_"
+66606,best soccer team in the world,"I'd go for Southampton, they seem to be everyone's second favourite team in England. Have a terrific academy and just keep churning out fantastic young talent, Walcott, bale, oxlade-chamberlain, lallana etc. They sold most of their squad last summer, were seen as definite to be relegated, but with a fantastic manager have been toying with the prospect of European football most of this season as opposed to relegation."
+57551,best cologne,"I want to provide a counter argument to this as about a year ago I bought about 7 perfumes all at once from never having bought my own perfume in my life.
 
 I got some of the top recommended cheap and expensive perfumes but didn't want to shell out for Aventus and the ridiculous price but saw people recommend the knockoff Armaf version so tried it.
 I'm not exaggerating when I say it's the only perfume that I ever got a compliment and random people asking what the smell was, at a cash register and i was dressed in sweatpants at the time.
 
-It smells like lemon fresh when you put it on and I didn't see the appeal, but when the initial smell goes away and you forget about it, men and women both really like the smell although I have no idea if it smells like Aventus.",best cologne
-65605,"I also upgraded from a 10 to a 12, that probably had a lot to do with it. My house has always been a bit of a dead zone with multiple carriers, dating back to the old Nextel days",best phone service company
-67313,"Regarding that topic, I can’t agree with this  [comment](https://reddit.com/r/reactjs/comments/crm47z/should_i_use_context_api_instead_of_redux/ex6pli6) more.",axios alternatives reddit
-69111,"The Mote in God's Eye (Niven & Pournelle), The First Men in the Moon (HG Wells), Have Space Suit - Will Travel (Heinlein).",best science fiction novel
-6007,"Thanks alot for your feedback! Yes i do use sublime text and GitHub, I will learn some c++ in free time Thanks",best programming language for web development
-11673,"From the other side, I got this paperweight from my son when he was two. He's graduating Saturday. http://i.imgur.com/3H4WGpB.jpg",best gifts for dad
-56192,Hard Boiled.,best action and adventure movie
-59000,"In no particular order!
+It smells like lemon fresh when you put it on and I didn't see the appeal, but when the initial smell goes away and you forget about it, men and women both really like the smell although I have no idea if it smells like Aventus."
+65605,best phone service company,"I also upgraded from a 10 to a 12, that probably had a lot to do with it. My house has always been a bit of a dead zone with multiple carriers, dating back to the old Nextel days"
+67313,axios alternatives reddit,"Regarding that topic, I can’t agree with this  [comment](https://reddit.com/r/reactjs/comments/crm47z/should_i_use_context_api_instead_of_redux/ex6pli6) more."
+69111,best science fiction novel,"The Mote in God's Eye (Niven & Pournelle), The First Men in the Moon (HG Wells), Have Space Suit - Will Travel (Heinlein)."
+6007,best programming language for web development,"Thanks alot for your feedback! Yes i do use sublime text and GitHub, I will learn some c++ in free time Thanks"
+11673,best gifts for dad,"From the other side, I got this paperweight from my son when he was two. He's graduating Saturday. http://i.imgur.com/3H4WGpB.jpg"
+56192,best action and adventure movie,Hard Boiled.
+59000,best perfume,"In no particular order!
 
 Florabotanica by Balenciaga  
 Vie est Belle by Lancôme  
@@ -26,25 +26,25 @@ Beauty by Calvin Klein
 Happy by Clinique  
 Cloud by Ariana Grande
 
-Yes I’m a basic B",best perfume
-54129,"[Lucozade Sport](http://www.energy4sport.com/acatalog/lucozade500ml.jpg)
+Yes I’m a basic B"
+54129,best medicine for a cold,"[Lucozade Sport](http://www.energy4sport.com/acatalog/lucozade500ml.jpg)
 
-(Also my hangover cure)",best medicine for a cold
-35600,"""Fuck you cunt. You can't tell me what I can and can't do""",best alcoholic drink
-13021,Nothing. She doesn't like Christmas (childhood issues) and doesn't want presents. I might make a donation to a charity in her name just to watch her being conflicted.,best gifts for mom
-6744,"6S - it’s still going strong, still getting updates and while I have the 11 pro now (which is amazing!), my grandma has my old 6S that will stay relevant for a while.",best iPhone
-28190,How long does it take to make your b&g?,best breakfast foods
-65113,"Tbh, I’d put T-mobile up there with AT&T. Their coverage is pretty good and in some cases faster than them. Not to mention they have a better price. While, Verizon has the best coverage, I feel that they’re a bit overpriced and slower than AT&T and T-Mobile overall.",best phone service company
-56212,"Hard boiled, die hard, John wick trilogy, matrix trilogy, rambo 1 to 4, all the mission impossible movies, the rock, the killer, black mask, rush hour 1&2, demolition man, desperado, terminator 1&2, mad max road warrior and mad max fury road. Collateral, six underground, speed!",best action and adventure movie
-26501,"I'll tell you one thing you dont need to have!
+(Also my hangover cure)"
+35600,best alcoholic drink,"""Fuck you cunt. You can't tell me what I can and can't do"""
+13021,best gifts for mom,Nothing. She doesn't like Christmas (childhood issues) and doesn't want presents. I might make a donation to a charity in her name just to watch her being conflicted.
+6744,best iPhone,"6S - it’s still going strong, still getting updates and while I have the 11 pro now (which is amazing!), my grandma has my old 6S that will stay relevant for a while."
+28190,best breakfast foods,How long does it take to make your b&g?
+65113,best phone service company,"Tbh, I’d put T-mobile up there with AT&T. Their coverage is pretty good and in some cases faster than them. Not to mention they have a better price. While, Verizon has the best coverage, I feel that they’re a bit overpriced and slower than AT&T and T-Mobile overall."
+56212,best action and adventure movie,"Hard boiled, die hard, John wick trilogy, matrix trilogy, rambo 1 to 4, all the mission impossible movies, the rock, the killer, black mask, rush hour 1&2, demolition man, desperado, terminator 1&2, mad max road warrior and mad max fury road. Collateral, six underground, speed!"
+26501,best politician,"I'll tell you one thing you dont need to have!
 
-Honesty",best politician
-70674,"what do you mean? i'm not sure there's really an argument.
+Honesty"
+70674,best movies with a cool twist,"what do you mean? i'm not sure there's really an argument.
 
-is there?",best movies with a cool twist
-20906,IM OUT OF OPTIONS,best workout music
-66912,"From the 30s through to the mid 50s. They were at their best in the 50s with the ""Golden Team"" that laid the groundwork for Total Football, had a 50 match stretch where they lost just once (in the 1954 World Cup Final), and had a series of famous wins over footballing powerhouses. By far their most famous player of the time was Ferenc Puskas, who is one of the all time legends of the game, but he was surrounded by an incredible core of really talented players. I suggest reading up on it, because the rise and fall of that team is a really fascinating topic.",best soccer team in the world
-70893,"I will just throw in my suggestion of ENEMY. Directed by Denis Villeneuve and starring Jake Gyllenhaal. Slow burner of a film with great cinematography, score and a fantastic mind fuck of a story.",best movies with a cool twist
-18515,We sing and dance to it every new years. Source: Am romanian,best YouTube video
-12851,"""make her breakfast in bed"" just took on a whole new meaning",best gifts for mom
-37142,Magic mountain or cedar point.  Both are phenomenal,best amusement park
+is there?"
+20906,best workout music,IM OUT OF OPTIONS
+66912,best soccer team in the world,"From the 30s through to the mid 50s. They were at their best in the 50s with the ""Golden Team"" that laid the groundwork for Total Football, had a 50 match stretch where they lost just once (in the 1954 World Cup Final), and had a series of famous wins over footballing powerhouses. By far their most famous player of the time was Ferenc Puskas, who is one of the all time legends of the game, but he was surrounded by an incredible core of really talented players. I suggest reading up on it, because the rise and fall of that team is a really fascinating topic."
+70893,best movies with a cool twist,"I will just throw in my suggestion of ENEMY. Directed by Denis Villeneuve and starring Jake Gyllenhaal. Slow burner of a film with great cinematography, score and a fantastic mind fuck of a story."
+18515,best YouTube video,We sing and dance to it every new years. Source: Am romanian
+12851,best gifts for mom,"""make her breakfast in bed"" just took on a whole new meaning"
+37142,best amusement park,Magic mountain or cedar point.  Both are phenomenal

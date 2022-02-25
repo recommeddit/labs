@@ -1,13 +1,13 @@
-idx,text,query
-66530,Brazil being 3rd place absolutely amuses me. It shouldn’t be that high honestly.,best soccer team in the world
-31236,According to the United Nations Human Development Index it's Norway.,best country to live in
-59222,juicy couture!!!,best perfume
-23058,"I met Murr from Impractical Jokers just as they were about to start filming a challenge in Union Square. I just shouted out ""Yo Murr!"" And waved. One of the producers tried to shush me and get me to walk away so I didn't ruin anything but Murr waved me over and let me take a quick picture with him before they started. He was super nice and happy to meet a fan",best celebrity
-64515,Oh this is good news...! Will have to try those then! Hated the 31's and 32's. Hopefully the 33's will be my kind of shoe again.,Best Nike running shoes
-71071,I really wish it had been given as much of a marketing push as Parasite because it really deserved to be recognised as one of the best films of the year,best movies with a cool twist
-45715,boy does the caramel part get all in your teeth though!,best trick or treating candy
-72083,What a twist!,best movies with a cool twist
-62631,"1. Baldur's Gate II
+idx,query,text
+66530,best soccer team in the world,Brazil being 3rd place absolutely amuses me. It shouldn’t be that high honestly.
+31236,best country to live in,According to the United Nations Human Development Index it's Norway.
+59222,best perfume,juicy couture!!!
+23058,best celebrity,"I met Murr from Impractical Jokers just as they were about to start filming a challenge in Union Square. I just shouted out ""Yo Murr!"" And waved. One of the producers tried to shush me and get me to walk away so I didn't ruin anything but Murr waved me over and let me take a quick picture with him before they started. He was super nice and happy to meet a fan"
+64515,Best Nike running shoes,Oh this is good news...! Will have to try those then! Hated the 31's and 32's. Hopefully the 33's will be my kind of shoe again.
+71071,best movies with a cool twist,I really wish it had been given as much of a marketing push as Parasite because it really deserved to be recognised as one of the best films of the year
+45715,best trick or treating candy,boy does the caramel part get all in your teeth though!
+72083,best movies with a cool twist,What a twist!
+62631,Best RPG game on PS4,"1. Baldur's Gate II
 2. Neverwinter Nights: The Aielund Saga
 3. Pathfinder: Kingmaker
 4. Icewind Dale
@@ -15,23 +15,23 @@ idx,text,query
 6. Neverwinter Nights: Hordes of the Underdark
 7. Expeditions: Viking
 
-Don't have more favourites to complete top 10 but a couple of upcoming RPGs look very promosing (e.g. Pathfinder: Wrath of the Righteous)",Best RPG game on PS4
-67355,"You can use `ky` in the server for SSR ([node-fetch](https://www.npmjs.com/package/node-fetch)), it's just that `got` is more full-featured and tailored for Node.",axios alternatives reddit
-41932,Untold history u.s,movies like Inception
-47691,"Rhode Island: Breakers mansion in Newport, the house that inspired The Conjuring in Burriville, Providence Athanaeum which is supposedly haunted by Edgar Allan Poe
+Don't have more favourites to complete top 10 but a couple of upcoming RPGs look very promosing (e.g. Pathfinder: Wrath of the Righteous)"
+67355,axios alternatives reddit,"You can use `ky` in the server for SSR ([node-fetch](https://www.npmjs.com/package/node-fetch)), it's just that `got` is more full-featured and tailored for Node."
+41932,movies like Inception,Untold history u.s
+47691,best state to visit in the United States,"Rhode Island: Breakers mansion in Newport, the house that inspired The Conjuring in Burriville, Providence Athanaeum which is supposedly haunted by Edgar Allan Poe
 
-Edit: Mobile fucked up my spelling",best state to visit in the United States
-8798,What about toothbrush? Is there any better than others? Are the electric ones better?,best toothpaste
-8841,"Whiteness and tooth health are not one and the same, mind.",best toothpaste
-5489,"Where I live, the big box stores have the market for working people cornered, because everywhere else closes no later than 7 on the weekday, and earlier on the weekend. 
+Edit: Mobile fucked up my spelling"
+8798,best toothpaste,What about toothbrush? Is there any better than others? Are the electric ones better?
+8841,best toothpaste,"Whiteness and tooth health are not one and the same, mind."
+5489,best home improvement store,"Where I live, the big box stores have the market for working people cornered, because everywhere else closes no later than 7 on the weekday, and earlier on the weekend. 
 
-It varies from spot to spot. If you have something better in your area, and you are able to make it there without taking a vacation day, by all means buy from them. Home Depot and Lowes are both awful corporations that I wish I were not forced to support.",best home improvement store
-62536,"The Witcher for Western-RPG, Persona 5 for JRPG",Best RPG game on PS4
-19582,"Long before Youtube, back in the days of flash videos - [The Ultimate Showdown of Ultimate Destiny](https://www.youtube.com/watch?v=4WgT9gy4zQA)",best YouTube video
-9056,"I never used to floss.  At age 35 or so my gums started receding and my teeth became incredibly sensitive to anything hot or cold, like tap water or coffee.  It took me a good five years of flossing every day to get my gums back in order.
+It varies from spot to spot. If you have something better in your area, and you are able to make it there without taking a vacation day, by all means buy from them. Home Depot and Lowes are both awful corporations that I wish I were not forced to support."
+62536,Best RPG game on PS4,"The Witcher for Western-RPG, Persona 5 for JRPG"
+19582,best YouTube video,"Long before Youtube, back in the days of flash videos - [The Ultimate Showdown of Ultimate Destiny](https://www.youtube.com/watch?v=4WgT9gy4zQA)"
+9056,best toothpaste,"I never used to floss.  At age 35 or so my gums started receding and my teeth became incredibly sensitive to anything hot or cold, like tap water or coffee.  It took me a good five years of flossing every day to get my gums back in order.
 
-Five years of agony every day because I didn't floss for 20 seconds daily.  Stupid me.",best toothpaste
-25489,"Cronje had an equally formidable team or may be an even better team than Smith with deadly Donald/Pollock combo and a whole bunch of all rounders in young Kallis/Klusener/Boje. They were batting down to 10 (Pat Symcox) during those days.
+Five years of agony every day because I didn't floss for 20 seconds daily.  Stupid me."
+25489,best cricket teams of all time,"Cronje had an equally formidable team or may be an even better team than Smith with deadly Donald/Pollock combo and a whole bunch of all rounders in young Kallis/Klusener/Boje. They were batting down to 10 (Pat Symcox) during those days.
 
 &#x200B;
 
@@ -41,23 +41,23 @@ Also The two dominant teams were Aus and SA with a big gap between rest. pak had
 
 By the time Smith took over India had risen (won 2 tests against Smith's SA in SA - one each in 2 series). India had second best overseas record next to Aus in that decade 2003 - 2011. They were on par with SA with Win/Loss ratio of 1.0
 
-SL became better, Pak lost two W's but were still competitive, England stopped being shit since 2005 Ashes turnaround. So there were more competitive teams and the gap was not that big as in Cronje's era.",best cricket teams of all time
-8900,"Okay, other people have said baking soda is not abrasive at all. Can someone clear this up?",best toothpaste
-41420,"Personally, I've played it for 5 years now. I was self-tought for the first two years before I got into a music school. I've become pretty decent...
+SL became better, Pak lost two W's but were still competitive, England stopped being shit since 2005 Ashes turnaround. So there were more competitive teams and the gap was not that big as in Cronje's era."
+8900,best toothpaste,"Okay, other people have said baking soda is not abrasive at all. Can someone clear this up?"
+41420,best instrument to play,"Personally, I've played it for 5 years now. I was self-tought for the first two years before I got into a music school. I've become pretty decent...
 If you do it because you like it, every minute of practise will have impact. If you don't like it, you'll barely have any progress at all!
 I suggest, start learning the instrument you'd most like to play, and if it isn't piano, you should learn some piano after playing your chosen instrument for a while. I promise, if you know how to play one instrument, it'll be much easier to learn a second one!
 Most music schools I know of will require you to at least have piano lessons, singing lessons and one instrument of your choise, because piano is important for understanding a lot of theory, singing let's you express yourself to other musicians using voice, and a lot of people want to play other instruments as well (like guitar or drums) :)
 
-I'm on my phone rn, so sorry if there's a lot of typos",best instrument to play
-54763,I have a brita pitcher and the resulting water tastes good.,best water filter
-22198,"Kevin Spacey. 
+I'm on my phone rn, so sorry if there's a lot of typos"
+54763,best water filter,I have a brita pitcher and the resulting water tastes good.
+22198,best celebrity,"Kevin Spacey. 
 
 I went to the cast and crew (really just the crew) premiere of the movie Kpax (my father was a rigging grip). Kevin Spacey ran into the crew theater before the red carpet premiere and gave us all an awesome speech about how he wanted to thank the people that ""do the real fucking work"" (his exact words). He was way cool about it all and after his speech he said he was late for the red carpet premiere and pretty much ran out of the theater to make it in time.
 
 My dad was pretty surprised because he had never seen a star actor do something like that for the crew premiere of a film.
 
-Awesome movie, too.",best celebrity
-61631,"* Final Fantasy VII
+Awesome movie, too."
+61631,Best RPG game on PS4,"* Final Fantasy VII
 * Dragonquest 11
-* Final Fantasy IX",Best RPG game on PS4
-7000,"Not really. I've used X for a year, then Xs Max for another, now im using a normal 11, and I have absolutely no problems with the LCD.",best iPhone
+* Final Fantasy IX"
+7000,best iPhone,"Not really. I've used X for a year, then Xs Max for another, now im using a normal 11, and I have absolutely no problems with the LCD."

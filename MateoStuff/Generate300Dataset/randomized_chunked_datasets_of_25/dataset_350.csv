@@ -1,18 +1,18 @@
-idx,text,query
-53083,Man I'm having a hard time keeping up with these new artists. I've been able to do for a long time but I'm losing motivation. I'm 31 btw,best hiphop album
-14997,"I just finished the show, I can't get enough so will be starting the books soon!",best romantic novel
-65593,You get what you pay,best phone service company
-60705,Jim is so great!! HotttttttPOCKets!,Best comedy show on Netflix
-18602,The Tarrare episode. My god.,best YouTube video
-60529,If you liked IT Crowd my suggestion would be Flight Of The Conchords.,Best comedy show on Netflix
-37055,"Well its not a coaster, but currently the worlds tallest and fastest drop ride",best roller coaster at six flags
-21661,"Read them, they are my favourite stories",best winnie the pooh comic
-36176,"The Jack Donaghy?
+idx,query,text
+53083,best hiphop album,Man I'm having a hard time keeping up with these new artists. I've been able to do for a long time but I'm losing motivation. I'm 31 btw
+14997,best romantic novel,"I just finished the show, I can't get enough so will be starting the books soon!"
+65593,best phone service company,You get what you pay
+60705,Best comedy show on Netflix,Jim is so great!! HotttttttPOCKets!
+18602,best YouTube video,The Tarrare episode. My god.
+60529,Best comedy show on Netflix,If you liked IT Crowd my suggestion would be Flight Of The Conchords.
+37055,best roller coaster at six flags,"Well its not a coaster, but currently the worlds tallest and fastest drop ride"
+21661,best winnie the pooh comic,"Read them, they are my favourite stories"
+36176,best alcoholic drink,"The Jack Donaghy?
 
 The Ron Fucking Swanson?
 
-The Ron Burgundy?",best alcoholic drink
-73241,">Futureproof - to have support and updates for at least 4-5 years.
+The Ron Burgundy?"
+73241,best Linux distro,">Futureproof - to have support and updates for at least 4-5 years.
 
 I'll address this one particular issue: Support and updates. Assuming you don't really want to perform the (free) upgrades and want to stick with one version for maximum stability and consistency:
 
@@ -22,21 +22,21 @@ Debian 11 'Bullseye' gets official support until late 2024 but should get commun
 
 However, stable/LTS versions will mostly only get security fixes and you may find you need to upgrade to get up to date versions of applications, though there are ways round this.
 
-I'd just add that Debian is a bit more advanced, for example there are more installer options and less hand-holding; Both Mint and Ubuntu are a bit more friendly for beginners.",best Linux distro
-62197,Adding Witcher to my list and Origins. I appreciate your thoughtful reply!,Best RPG game on PS4
-8064,All I know is I bought a $3000 dell inspiron like 4 years ago and the thing basically shit the bed within like 2 years. And now it limps along and is annoying to deal with.,best laptop for general use
-73230,"I agree 100%, but personally I’ve moved away from Ubuntu and onto Debian because of snap.",best Linux distro
-41198,Viola should be removed from this guide,best instrument to play
-50825,"Great albums here
+I'd just add that Debian is a bit more advanced, for example there are more installer options and less hand-holding; Both Mint and Ubuntu are a bit more friendly for beginners."
+62197,Best RPG game on PS4,Adding Witcher to my list and Origins. I appreciate your thoughtful reply!
+8064,best laptop for general use,All I know is I bought a $3000 dell inspiron like 4 years ago and the thing basically shit the bed within like 2 years. And now it limps along and is annoying to deal with.
+73230,best Linux distro,"I agree 100%, but personally I’ve moved away from Ubuntu and onto Debian because of snap."
+41198,best instrument to play,Viola should be removed from this guide
+50825,best rap album,"Great albums here
 
-Although I have never ever heard of Clipping",best rap album
-19115,I love red letter media. Every now and then I re-benge re:view or best of the worst. A good way to waste away a good 12 to 36 hours,best YouTube video
-13903,Woah that sounds pretty interesting. Can I get the name or something of that?,best research paper archive
-56686,https://www.techradar.com/uk/reviews/aoc-agon-ag352ucg6-black-edition,best desktop monitor
-27660,"Priyanka, Vidya.",best bollywood actor
-43783,One of those little barbeques? They *are* great.,best items under $100
-871,Have you tried Puffs Plus? Kleenex are pretty thin.,best brand of tissues
-8395,Are those the ones with the stuff that’s in sensodyne repair and protect? It has novamin.,best toothpaste
-65125,"While they don’t have native coverage, they do have a lot of roaming coverage.",best phone service company
-61691,Gow is not rpg,Best RPG game on PS4
-40252,Before the word box in serial number will see AF instead of AE. So will be the 1600 Af.,best midrange CPU
+Although I have never ever heard of Clipping"
+19115,best YouTube video,I love red letter media. Every now and then I re-benge re:view or best of the worst. A good way to waste away a good 12 to 36 hours
+13903,best research paper archive,Woah that sounds pretty interesting. Can I get the name or something of that?
+56686,best desktop monitor,https://www.techradar.com/uk/reviews/aoc-agon-ag352ucg6-black-edition
+27660,best bollywood actor,"Priyanka, Vidya."
+43783,best items under $100,One of those little barbeques? They *are* great.
+871,best brand of tissues,Have you tried Puffs Plus? Kleenex are pretty thin.
+8395,best toothpaste,Are those the ones with the stuff that’s in sensodyne repair and protect? It has novamin.
+65125,best phone service company,"While they don’t have native coverage, they do have a lot of roaming coverage."
+61691,Best RPG game on PS4,Gow is not rpg
+40252,best midrange CPU,Before the word box in serial number will see AF instead of AE. So will be the 1600 Af.

@@ -1,13 +1,13 @@
-idx,text,query
-65394,no,best phone service company
-63454,Pretty cool. Nice of you.,best package manager ios 14 jailbreak reddit
-20231,the only list I'll ever remember in my entire life,best workout music
-55945,I feel like now more than ever the world needs a National Treasure 3,best action and adventure movie
-61742,Thinking about getting Persona 5 too. Is it recommendable even for someone who isn't too much into animes and that sort of stuff?,Best RPG game on PS4
-70656,"Did the movie really have a plot twist though? From what I remember, it just went really really off the rails in a huge ""wtf"" way for the entire last act lol",best movies with a cool twist
-35526,"WHAT. Shut your face, really?",best alcoholic drink
-31265,"To have ""fun"" all I need is a PC and internet access",best country to live in
-13351,"I mentioned my big ones: options for default number format handling, and allowing VBA to work with the undo stack. I would also want a much better implementation for event handling in VBA, asynchronous stuff in VBA, multithreaded VBA...Also, for ontime calls not to break if excel is in edit mode or the user opens/closes a file, etc.
+idx,query,text
+65394,best phone service company,no
+63454,best package manager ios 14 jailbreak reddit,Pretty cool. Nice of you.
+20231,best workout music,the only list I'll ever remember in my entire life
+55945,best action and adventure movie,I feel like now more than ever the world needs a National Treasure 3
+61742,Best RPG game on PS4,Thinking about getting Persona 5 too. Is it recommendable even for someone who isn't too much into animes and that sort of stuff?
+70656,best movies with a cool twist,"Did the movie really have a plot twist though? From what I remember, it just went really really off the rails in a huge ""wtf"" way for the entire last act lol"
+35526,best alcoholic drink,"WHAT. Shut your face, really?"
+31265,best country to live in,"To have ""fun"" all I need is a PC and internet access"
+13351,best spreadsheet editor,"I mentioned my big ones: options for default number format handling, and allowing VBA to work with the undo stack. I would also want a much better implementation for event handling in VBA, asynchronous stuff in VBA, multithreaded VBA...Also, for ontime calls not to break if excel is in edit mode or the user opens/closes a file, etc.
 
 Macro source being an object, not a string (application.caller).
 
@@ -27,18 +27,18 @@ Edit: more reliable repaint functions would be good too, for cases where applica
 
 Edit 2: having min and max functions in VBA outside of workbookfunction; they could just be aliases but goddamn that's awkward for a basic programming function.
 
-Edit 3: having the VBE not default to showing a form object if present instead of whatever code module I was actually working in.",best spreadsheet editor
-57447,(Nestle),best water brand
-44735,"A lot of my favorite purchases were already mentioned but I think it's still worth it to drill the point
+Edit 3: having the VBE not default to showing a form object if present instead of whatever code module I was actually working in."
+57447,best water brand,(Nestle)
+44735,best items under $100,"A lot of my favorite purchases were already mentioned but I think it's still worth it to drill the point
 
 * Bidet attachment
 * Electric toothbrush
 * 10 ft USB Type C cable
 * Used headphones on kijiji (got Astro A40 and Audio Technica's)
-* Bought a Blue Yeti and Stand off Kijiji for $100",best items under $100
-33377,Yep! I got $7.5k off with federal incentive + saved $4k in taxes with state incentives.,best electric car
-23713,"Such a good game. Used to love the purple car, think it was called the Razor or something to that effect. Top Gear Rally/Overdrive were great too, although the original SNES one was still the best.",best car racing video game
-17956,"right now 
+* Bought a Blue Yeti and Stand off Kijiji for $100"
+33377,best electric car,Yep! I got $7.5k off with federal incentive + saved $4k in taxes with state incentives.
+23713,best car racing video game,"Such a good game. Used to love the purple car, think it was called the Razor or something to that effect. Top Gear Rally/Overdrive were great too, although the original SNES one was still the best."
+17956,best Kardashian,"right now 
 
 1-kourtney
 
@@ -48,19 +48,19 @@ Edit 3: having the VBE not default to showing a form object if present instead o
 
 4-dream
 
-5-kylie",best Kardashian
-58034,"This one! I've received so many compliments from both girls *and* guys, and quite a few have even asked me what it was so they can get it for themselves or their SO. I've been using Bleu de Chanel EDP recently since I found it lasts longer which is perfect for when working at the office, but I might buy another bottle of L'Homme by YSL EDT for dates and hangouts.",best cologne
-68785,"Partway through player of games right now.  :-)  
+5-kylie"
+58034,best cologne,"This one! I've received so many compliments from both girls *and* guys, and quite a few have even asked me what it was so they can get it for themselves or their SO. I've been using Bleu de Chanel EDP recently since I found it lasts longer which is perfect for when working at the office, but I might buy another bottle of L'Homme by YSL EDT for dates and hangouts."
+68785,best science fiction novel,"Partway through player of games right now.  :-)  
 
-In the spirit of reciprocity, check out Vinge's ""A Fire Upon the Deep"" and Bujold's Vorkosigan novels if you haven't already.",best science fiction novel
-5789,for the love of god not PHP.,best programming language for web development
-30033,Money Lover,best money managing app
-20456,"Depends, most of the time I have a rap playing but if I need to get through a workout or it’s a max effort day Children of Bodom, Megadeth, and Parkway Drive is blasting",best workout music
-6128,I just looked them up and unfortunately none of them are on. Apparently all the Ken Burns documentaries have left Netflix in the US. One user mentioned that The Vietnam is on Amazon Prime but I don’t have Prime so I’m not sure if that’s true.,best Netflix documentary
-25670,"As for fast bowling, surely having Lee in there was exciting as well? In fact, having Lee, Gillespie and McGrath was awesome. Along with Bichel and Kasporwicz backing up here and there. We were very fortunate to have that depth.",best cricket teams of all time
-8661,"Invest in an electric toothbrush—Oral B or Sonicare are the best quality ones and floss (properly) daily.   No rinse, toothpaste or fancy product will do you any good if you aren’t mechanically and thoroughly removing the plaque and bacteria from your teeth regularly.  I have patients who don’t use toothpaste at all who have healthy mouths because they are meticulous brushes and flossers.  
-Think of when your car is really grimy and it rains.  Does your car get clean?  No.  You have to mechanically remove the grime.  Same with your teeth.",best toothpaste
-3610,"Good on you for being open to other majors and realizing that rankings aren't everything :)
+In the spirit of reciprocity, check out Vinge's ""A Fire Upon the Deep"" and Bujold's Vorkosigan novels if you haven't already."
+5789,best programming language for web development,for the love of god not PHP.
+30033,best money managing app,Money Lover
+20456,best workout music,"Depends, most of the time I have a rap playing but if I need to get through a workout or it’s a max effort day Children of Bodom, Megadeth, and Parkway Drive is blasting"
+6128,best Netflix documentary,I just looked them up and unfortunately none of them are on. Apparently all the Ken Burns documentaries have left Netflix in the US. One user mentioned that The Vietnam is on Amazon Prime but I don’t have Prime so I’m not sure if that’s true.
+25670,best cricket teams of all time,"As for fast bowling, surely having Lee in there was exciting as well? In fact, having Lee, Gillespie and McGrath was awesome. Along with Bichel and Kasporwicz backing up here and there. We were very fortunate to have that depth."
+8661,best toothpaste,"Invest in an electric toothbrush—Oral B or Sonicare are the best quality ones and floss (properly) daily.   No rinse, toothpaste or fancy product will do you any good if you aren’t mechanically and thoroughly removing the plaque and bacteria from your teeth regularly.  I have patients who don’t use toothpaste at all who have healthy mouths because they are meticulous brushes and flossers.  
+Think of when your car is really grimy and it rains.  Does your car get clean?  No.  You have to mechanically remove the grime.  Same with your teeth."
+3610,best college for research,"Good on you for being open to other majors and realizing that rankings aren't everything :)
 
 Unigo and Niche have great sections that are ""student reviews"" of the college. I liked reading them to get a sense of what it was like to be on campus. **Definitely** check these out.
 
@@ -72,12 +72,12 @@ College Websites! Bruh, literally just going onto the college website and lookin
 
 USNWR, but SOLELY to help me find colleges to research. I basically just looked up top 100 schools at ____, read through the list, noted down the ones that I was remotely interested in, and then just kept narrowing it down by doing more and more research. I agree with you--these ranking basically mean jack shit for undergrad, especially if you want high teaching quality. But, they're a good place to *Start*, but not beyond that. If you're intersted in multiple majors and have any idea about which other ones you might be interested in, see if there's overlap between these rankings for those majors :P
 
-And finally, weirdly, their meme pages. They give you a very interesting insight into the personality of the students.",best college for research
-71949,"I also loved this movie because of its clean, modern aesthetic contrasted with the Norwegian landscape. Very pleasing to my eyeballs",best movies with a cool twist
-45626,"Good news: you did great.
+And finally, weirdly, their meme pages. They give you a very interesting insight into the personality of the students."
+71949,best movies with a cool twist,"I also loved this movie because of its clean, modern aesthetic contrasted with the Norwegian landscape. Very pleasing to my eyeballs"
+45626,best gaming system,"Good news: you did great.
 
 Bad news is: it doesn't end there. now you have to work to pay for the games, the Xbox live, the extras like a headset/bigger hard drive.
 
 But better for that than for drugs huh?!
 
-How old are you BTW and what you ve been working?",best gaming system
+How old are you BTW and what you ve been working?"

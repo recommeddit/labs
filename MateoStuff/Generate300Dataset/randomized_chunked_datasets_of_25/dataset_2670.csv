@@ -1,10 +1,10 @@
-idx,text,query
-12344,Good work!,best gifts for mom
-65999,"The national universities ranking is the ""main"" ranking that people commonly follow. Both rankings are made-up and kinda useless, but just wanted to put this out there.",best college in california
-56441,"https://www.microcenter.com/product/628068/acer-predator-xb273u-gxbmiipruzx-27-wqhd-270hz-hdmi-dp-usb-c-g-sync-compatible-hdr-ips-led-gaming-monitor
+idx,query,text
+12344,best gifts for mom,Good work!
+65999,best college in california,"The national universities ranking is the ""main"" ranking that people commonly follow. Both rankings are made-up and kinda useless, but just wanted to put this out there."
+56441,best desktop monitor,"https://www.microcenter.com/product/628068/acer-predator-xb273u-gxbmiipruzx-27-wqhd-270hz-hdmi-dp-usb-c-g-sync-compatible-hdr-ips-led-gaming-monitor
 
-Acer really stepped it up with this model. I bought the 27 inch and the 32 inch versions and they don't have any backlight bleed or dead pixels. The QC seems excellent on these",best desktop monitor
-39509,"1. Firefox needs to be configured to be actually private.
+Acer really stepped it up with this model. I bought the 27 inch and the 32 inch versions and they don't have any backlight bleed or dead pixels. The QC seems excellent on these"
+39509,best web browser,"1. Firefox needs to be configured to be actually private.
 2. Brave has been noticed to whitelist Facebook and , I think, other big tech spies. Also, the browser calls back to Brave without your permission, and you can't turn off automatic updates.
 3. Yes, it's good.
 4. Pale moon has bad compatibility with modern security standards. But besides that it's like Firefox. You need to configure it to make it private, otherwise it connects to Google Analytics by default.
@@ -13,33 +13,33 @@ Acer really stepped it up with this model. I bought the 27 inch and the 32 inch 
 7. Don't know.
 8. Vivaldi doesn't show all of its source code.
  
-A really good option is Iridium. It's not regularly updated, but it's safe Chromium based browser that is fully compatible with all the best privacy extensions. Ungoogled Chromium is more outdated, Iridium is basically the same thing, but newer, and it's easy to install. Just don't log in with a Google account, of course.",best web browser
-71245,"Yes, it’s a great movie - fantastic performances",best movies with a cool twist
-51306,I only have experience with the 11 Pro leather case which I heard was much better than the 12 Pro leather case. I'm hoping Apple fixed the issues with the 13 Pro leather case. It feels nice in the hand but I guess only time will tell all.,best iphone case
-13115,I feel like I need to get these for my gmom. Where did you buy them?,best gifts for mom
-2440,"I use these every day during work and I adore them. I started with Audio Technica headphones but my giant melon was too big for them. The Sony pair fits great, sounds awesome. Pretty cheap too! 
+A really good option is Iridium. It's not regularly updated, but it's safe Chromium based browser that is fully compatible with all the best privacy extensions. Ungoogled Chromium is more outdated, Iridium is basically the same thing, but newer, and it's easy to install. Just don't log in with a Google account, of course."
+71245,best movies with a cool twist,"Yes, it’s a great movie - fantastic performances"
+51306,best iphone case,I only have experience with the 11 Pro leather case which I heard was much better than the 12 Pro leather case. I'm hoping Apple fixed the issues with the 13 Pro leather case. It feels nice in the hand but I guess only time will tell all.
+13115,best gifts for mom,I feel like I need to get these for my gmom. Where did you buy them?
+2440,best headphones,"I use these every day during work and I adore them. I started with Audio Technica headphones but my giant melon was too big for them. The Sony pair fits great, sounds awesome. Pretty cheap too! 
 
-I'm not really an audiophile though, just a programmer who loves listening to music while working.",best headphones
-3436,duke above columbia is bold,best college for research
-8610,That's not toothpaste.,best toothpaste
-12830,I think you should get her a toaster.,best gifts for mom
-12204,"whether you gilded or not, you made me laugh. Gold for you",best gifts for dad
-33720,"I'm a huge fan of them - I bought my Model 3 because I test drove one and fell in love. Having lived with it for 7 months now, I don't really see the point of buying a new gas car and dealing with the inconveniences of gas, assuming you have a reasonable commute and a dedicated parking spot at home to charge. If you're generic suburban homeowner, they're perfect right now IMO, which is the boat I fall into.",best electric car
-11583,A goofy ass statue that holds your glasses. You set them on the statues nose and it completes a face.,best gifts for dad
-67465,"Check out fetchival! It's 0.5k minzip, so it's not like it's a huge dependency.",axios alternatives reddit
-32057,"The decadent interior design, the quality of the food... I had a steak and it was cooked to perfection - I still remember it nine years later!",best hotel to live in
-9991,">battery 
+I'm not really an audiophile though, just a programmer who loves listening to music while working."
+3436,best college for research,duke above columbia is bold
+8610,best toothpaste,That's not toothpaste.
+12830,best gifts for mom,I think you should get her a toaster.
+12204,best gifts for dad,"whether you gilded or not, you made me laugh. Gold for you"
+33720,best electric car,"I'm a huge fan of them - I bought my Model 3 because I test drove one and fell in love. Having lived with it for 7 months now, I don't really see the point of buying a new gas car and dealing with the inconveniences of gas, assuming you have a reasonable commute and a dedicated parking spot at home to charge. If you're generic suburban homeowner, they're perfect right now IMO, which is the boat I fall into."
+11583,best gifts for dad,A goofy ass statue that holds your glasses. You set them on the statues nose and it completes a face.
+67465,axios alternatives reddit,"Check out fetchival! It's 0.5k minzip, so it's not like it's a huge dependency."
+32057,best hotel to live in,"The decadent interior design, the quality of the food... I had a steak and it was cooked to perfection - I still remember it nine years later!"
+9991,best portable charger,">battery 
 
 >20 dollars 
 
 >buy it for life 
 
-No, even the best batteries degrade over time if you actually use them",best portable charger
-45321,Also my kid really liked SNES Mini although I bought it for myself,best gaming system
-52295,NWA is pretty much just Ice Cube + Eazy E lets be real,best hiphop album
-47302,Miami sucks,best state to visit in the United States
-27842,I heard that McDonalds doesn't sell biscuits & gravy to people outside of the South. Crazy. I couldn't go on without my biscuits & gravy. Or the South. ;),best breakfast foods
-25734,We have 5 world cups,best cricket teams of all time
-53463,Surface uses USBC now.,best usb c charging cable
-41123,The one you're interested in playing.,best instrument to play
-42816,Brokenwood Mysteries,best detective show
+No, even the best batteries degrade over time if you actually use them"
+45321,best gaming system,Also my kid really liked SNES Mini although I bought it for myself
+52295,best hiphop album,NWA is pretty much just Ice Cube + Eazy E lets be real
+47302,best state to visit in the United States,Miami sucks
+27842,best breakfast foods,I heard that McDonalds doesn't sell biscuits & gravy to people outside of the South. Crazy. I couldn't go on without my biscuits & gravy. Or the South. ;)
+25734,best cricket teams of all time,We have 5 world cups
+53463,best usb c charging cable,Surface uses USBC now.
+41123,best instrument to play,The one you're interested in playing.
+42816,best detective show,Brokenwood Mysteries

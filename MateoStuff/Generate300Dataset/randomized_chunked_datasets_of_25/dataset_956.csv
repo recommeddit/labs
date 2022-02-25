@@ -1,16 +1,16 @@
-idx,text,query
-59444,"Hi,
-I'm interested in Wonderoud, have you tried Wonderwood to compare?",best perfume
-53286,On Amazon there is to exact same powerline III one advertising 60W while 100W for the other one. Is 100W possible for powerline III?,best usb c charging cable
-54214,Most metal answer right here.,best medicine for a cold
-32024,"This is very European. In the south of France they’ve turned a lot of monasteries and former convents into high end hotels. My favorite was one in Lyon because it was the most aesthetically pleasing hotel I’ve ever been in, clean clean clean and so symmetrical, perfection! And the food was amazing.",best hotel to live in
-49034,"I just recently purchased an LG 27GL850-b, and then I purchased a Viewsonic vx2758-2kp-mhd as a secondary monitor.  The Viewsonic was $200 cheaper, and I think I would have been satisfied getting two of them in the first place instead of paying up for the LG.  
+idx,query,text
+59444,best perfume,"Hi,
+I'm interested in Wonderoud, have you tried Wonderwood to compare?"
+53286,best usb c charging cable,On Amazon there is to exact same powerline III one advertising 60W while 100W for the other one. Is 100W possible for powerline III?
+54214,best medicine for a cold,Most metal answer right here.
+32024,best hotel to live in,"This is very European. In the south of France they’ve turned a lot of monasteries and former convents into high end hotels. My favorite was one in Lyon because it was the most aesthetically pleasing hotel I’ve ever been in, clean clean clean and so symmetrical, perfection! And the food was amazing."
+49034,best gaming monitor,"I just recently purchased an LG 27GL850-b, and then I purchased a Viewsonic vx2758-2kp-mhd as a secondary monitor.  The Viewsonic was $200 cheaper, and I think I would have been satisfied getting two of them in the first place instead of paying up for the LG.  
 
-I looked up the differences between these two models when shopping, but I don't remember what they are anymore, because I can't tell any difference with day to day usage.  I'd be fine gaming on either, but I use the more expensive LG  as the main monitor since it's ""supposed"" to be better...",best gaming monitor
-25102,"As someone who grew up on Tobey McGuire Spider, I feel like Tom Holland is the best one. Simply because they took what I like about Tobeys Spidey and what I like about Garfields Spidey and threw it into one character.",best spiderman actor
-51374,so it’s an ego thing for you?,best iphone case
-9441,More excitement than you can handle.,best toothpaste
-560,"> Any tips guys? Maybe a better software than evernote? Or maybe Wacom one is not intended for what i'm using it for?
+I looked up the differences between these two models when shopping, but I don't remember what they are anymore, because I can't tell any difference with day to day usage.  I'd be fine gaming on either, but I use the more expensive LG  as the main monitor since it's ""supposed"" to be better..."
+25102,best spiderman actor,"As someone who grew up on Tobey McGuire Spider, I feel like Tom Holland is the best one. Simply because they took what I like about Tobeys Spidey and what I like about Garfields Spidey and threw it into one character."
+51374,best iphone case,so it’s an ego thing for you?
+9441,best toothpaste,More excitement than you can handle.
+560,best mac app to annotate pdf with wacom tablet reddit,"> Any tips guys? Maybe a better software than evernote? Or maybe Wacom one is not intended for what i'm using it for?
 
 Just to make sure, we're talking about this [Wacom One](https://www.wacom.com/en-de/products/pen-displays/wacom-one) with a screen, right? Even if you had the ""One by Wacom"", the previous device that was only a graphic tablet, you'd be perfectly fine - it would just take a bit longer to get a good handwriting down without a screen.
 
@@ -22,11 +22,11 @@ Regarding your software choice:
 - If you're using Windows 10, you might have [Microsoft OneNote](https://www.onenote.com) already installed. Currently the different versions of OneNote are [kinda messy in terms of feature-parity](https://support.microsoft.com/en-us/office/what-s-the-difference-between-the-onenote-versions-a624e692-b78b-4c09-b07f-46181958118f?ui=en-US&rs=en-US&ad=US), but if you're on Windows, just make sure to download the [OneNote 2016 Desktop Installer](https://www.onenote.com/download). There's also a OneNote app that you can get from the Microsoft store, but that one doesn't have the same back-up features that the ""desktop""-version offers. You can use both in conjunction, but I heavily recommend setting up the ""desktop""-version first, just to make sure that you have local backups of your notes in case the ""sync""-feature shits the bed.
 - There's also a Microsoft ""garage""-project in development that's called [Journal](https://www.microsoft.com/de-de/p/journal-a-microsoft-garage-project/9n318r854rhh?activetab=pivot:overviewtab). It focuses on digital pen input and has some neat additional ""ink-first"" features like pen gestures.
 
-If you need to write on PDFs and make annotations, I've written down [some recommendations in a previous comment here](https://www.reddit.com/r/wacom/comments/fiinft/looking_for_a_pdf_reader_that_allows_you_to_write/fkjaznc/). Don't even try to print PDFs into OneNote and write on top of them. It's a recipe for disaster and messed up notes. If you need to write on PDFs, think about a good folder structure, throw your folder-layout into the cloud and use whatever PDF-editing program suits your needs best.",best mac app to annotate pdf with wacom tablet reddit
-3801,University of Missouri probably should not be on that list anymore. The school has gone to utter shit. It was mostly only a party school anyways besides nursing and journalism and their journalism department is getting shit because all the professors are leaving and going to Missouri state university.,best college for research
-46809,"Your mouth is full of germs and is the germiest part of your body. Make sure to swish with alcohol regularly, especially while on the job.",best hand santizer brand
-58049,"Second Y by Yves Saint Laurent, specifically the eau de parfum. I’ve gotten a lot of compliments from women and men with it. By far my favorite cologne.",best cologne
-54891,"A lot of this is based less on making the water safer than it is on making the water more palatable. 
+If you need to write on PDFs and make annotations, I've written down [some recommendations in a previous comment here](https://www.reddit.com/r/wacom/comments/fiinft/looking_for_a_pdf_reader_that_allows_you_to_write/fkjaznc/). Don't even try to print PDFs into OneNote and write on top of them. It's a recipe for disaster and messed up notes. If you need to write on PDFs, think about a good folder structure, throw your folder-layout into the cloud and use whatever PDF-editing program suits your needs best."
+3801,best college for research,University of Missouri probably should not be on that list anymore. The school has gone to utter shit. It was mostly only a party school anyways besides nursing and journalism and their journalism department is getting shit because all the professors are leaving and going to Missouri state university.
+46809,best hand santizer brand,"Your mouth is full of germs and is the germiest part of your body. Make sure to swish with alcohol regularly, especially while on the job."
+58049,best cologne,"Second Y by Yves Saint Laurent, specifically the eau de parfum. I’ve gotten a lot of compliments from women and men with it. By far my favorite cologne."
+54891,best water filter,"A lot of this is based less on making the water safer than it is on making the water more palatable. 
 
 In the US and most developed countries, tap water should be pretty safe.  These filters help remove some metallic taste.  It is especially good at removing chlorine, which is often people's big taste complaint with tap water. 
 
@@ -35,32 +35,32 @@ I'm guessing if you have old municipal pipes, it is likely you have more dissolv
 
 
 Edit:
-** I don't mean to hijack this comment, but I just want to say that the top comment is not sound science and based on his anecdotal experience.  For example, activated carbon is KNOWN FOR ITS ABILITY TO REMOVE ORGANICS! (which is contrary to what the author has stated, he may have been dealing with alcohols or diols, which aren't easily removed by carbon)**",best water filter
-73558,"Anker power banks sold on Amazon are (sometimes intentionally) confusing. This site explains the differences.  
+** I don't mean to hijack this comment, but I just want to say that the top comment is not sound science and based on his anecdotal experience.  For example, activated carbon is KNOWN FOR ITS ABILITY TO REMOVE ORGANICS! (which is contrary to what the author has stated, he may have been dealing with alcohols or diols, which aren't easily removed by carbon)**"
+73558,best battery bank,"Anker power banks sold on Amazon are (sometimes intentionally) confusing. This site explains the differences.  
  [https://www.powerbankguide.com/anker-power-banks-things-to-know/](https://www.powerbankguide.com/anker-power-banks-things-to-know/) 
 
 After doing my research I decided the RAVPOWER 6700 was the battery for me. You'll notice that this list of the best powerbanks doesn't even include Anker. RAVPOWER 10,000 might be good for you, but you should read through it yourself.   
-[https://www.powerbankguide.com/best-10000-mah-powerbanks/](https://www.powerbankguide.com/best-10000-mah-powerbanks/)",best battery bank
-32890,"Ultra zero white.
+[https://www.powerbankguide.com/best-10000-mah-powerbanks/](https://www.powerbankguide.com/best-10000-mah-powerbanks/)"
+32890,best energy drink,"Ultra zero white.
 
-Rose is worst behind golden pineapple",best energy drink
-2431,"nah, but when I first bought some Grado's I did live with my mom and she thought I was blasting my ears out but open-air headphones are different and unusual",best headphones
-54585,"It's a hard call. I think the otsu v2 is a fantastic middle ground between zero and hien. Hien is great for tracking at the cost of a little control. For me, otsu v2 is that perfect middle ground.
+Rose is worst behind golden pineapple"
+2431,best headphones,"nah, but when I first bought some Grado's I did live with my mom and she thought I was blasting my ears out but open-air headphones are different and unusual"
+54585,best artisan mousepad alternatives,"It's a hard call. I think the otsu v2 is a fantastic middle ground between zero and hien. Hien is great for tracking at the cost of a little control. For me, otsu v2 is that perfect middle ground.
 
 That being said, I can play valorant with my hien pretty well, hell I play valorant with my shidenkai 😉. I think you can get adjusted to anything, just takes some practice.
 
-In terms of ordering, for me I always get it right from their website as you have the most options and I trust it after ordering 8 pads from them. Never tried Amazon, though they're obviously reliable if you can get the pad you want.",best artisan mousepad alternatives
-66958,But r/soccer said this place was overrun with Americans.,best soccer team in the world
-60721,"This - Bert Kreischer: Secret Time, funniest thing I've seen in a long time",Best comedy show on Netflix
-63448,"HideJb Is for jailbreak detection right ? Does it work on 14?
+In terms of ordering, for me I always get it right from their website as you have the most options and I trust it after ordering 8 pads from them. Never tried Amazon, though they're obviously reliable if you can get the pad you want."
+66958,best soccer team in the world,But r/soccer said this place was overrun with Americans.
+60721,Best comedy show on Netflix,"This - Bert Kreischer: Secret Time, funniest thing I've seen in a long time"
+63448,best package manager ios 14 jailbreak reddit,"HideJb Is for jailbreak detection right ? Does it work on 14?
 
-Perfectnetworkspeedinfo doesn’t work on 14",best package manager ios 14 jailbreak reddit
-73246,Thanks for the link and the advice !,best Linux distro
-10223,"> I don't care about the price tbh i just want to be an artist
+Perfectnetworkspeedinfo doesn’t work on 14"
+73246,best Linux distro,Thanks for the link and the advice !
+10223,best pencil for drawing,"> I don't care about the price tbh i just want to be an artist
 
-> Do i look rich to you i cant afford that",best pencil for drawing
-37456,"New fantasyland, Pandora, Galaxys edge, Toy Story Land, Cars Land >> Harry potter Hogsmead/Diagon Alley, Jimmy Fallon, Fast and Furious, King Kong.
+> Do i look rich to you i cant afford that"
+37456,best amusement park,"New fantasyland, Pandora, Galaxys edge, Toy Story Land, Cars Land >> Harry potter Hogsmead/Diagon Alley, Jimmy Fallon, Fast and Furious, King Kong.
 
-I think your underestimating what Disney has done the past decade. Universal had 2 slam dunks with both Harry Potter areas, but the rest of their additions are duds. Disney has had a lot of huge upgrades and additions with none of them are underwhelming, and 2 of them being looked at as possibly the best rides in existence (Flight of Passage and Rise of the Resistance).",best amusement park
-5147,Lowe’s because it’s walking distance around the corner from my house.,best home improvement store
-52313,Great list not sure which I would take out but I think Piñata by Freddie Gibbs needs to be on there,best hiphop album
+I think your underestimating what Disney has done the past decade. Universal had 2 slam dunks with both Harry Potter areas, but the rest of their additions are duds. Disney has had a lot of huge upgrades and additions with none of them are underwhelming, and 2 of them being looked at as possibly the best rides in existence (Flight of Passage and Rise of the Resistance)."
+5147,best home improvement store,Lowe’s because it’s walking distance around the corner from my house.
+52313,best hiphop album,Great list not sure which I would take out but I think Piñata by Freddie Gibbs needs to be on there

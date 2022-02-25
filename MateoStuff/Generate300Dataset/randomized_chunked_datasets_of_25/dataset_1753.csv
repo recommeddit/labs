@@ -1,40 +1,40 @@
-idx,text,query
-50855,1999 is dank,best rap album
-45990,"Pennies, fuck, i used to get pennies, and i hated it... now?  Shit, I'll take  them cents.",best trick or treating candy
-51104,"Their affinity for British rock acts seems not to stem that far past the Gallaghers and Pete Doherty. If you asked me to guess what the NME top ten would look like, it would look not dissimilar to that.
+idx,query,text
+50855,best rap album,1999 is dank
+45990,best trick or treating candy,"Pennies, fuck, i used to get pennies, and i hated it... now?  Shit, I'll take  them cents."
+51104,best rap album,"Their affinity for British rock acts seems not to stem that far past the Gallaghers and Pete Doherty. If you asked me to guess what the NME top ten would look like, it would look not dissimilar to that.
 
-The real strange thing about NME is their seeming wilful blindness of the UK dance scene, which is really what has been the most exciting pop music movement to come from here since the 90s. Music for the Jilted Generation is somewhere in the 100s but Oasis is in the top 10. No Goldie to be seen.",best rap album
-30691,best korea,best country to live in
-1712,"chocolate chip or vanilla, it’s so good",best ice cream flavor
-1611,How much do you put?,best ice cream flavor
-17165,"I keep changing. I had a bunch but none of them lasted this long. Always had a few that I went back to like pokemon go, cod mobile and deadcells. I guess you could those 3 are.",best iOS game
-11884,"Well, that's some pretty expensive beer then!",best gifts for dad
-30733,Lol the title of the post is asking what the best country in the world is.,best country to live in
-24246,"You may have seen this already, since you have The Cart Driver at the top of your sources, but that blog did something similar to your project back in 2013.
+The real strange thing about NME is their seeming wilful blindness of the UK dance scene, which is really what has been the most exciting pop music movement to come from here since the 90s. Music for the Jilted Generation is somewhere in the 100s but Oasis is in the top 10. No Goldie to be seen."
+30691,best country to live in,best korea
+1712,best ice cream flavor,"chocolate chip or vanilla, it’s so good"
+1611,best ice cream flavor,How much do you put?
+17165,best iOS game,"I keep changing. I had a bunch but none of them lasted this long. Always had a few that I went back to like pokemon go, cod mobile and deadcells. I guess you could those 3 are."
+11884,best gifts for dad,"Well, that's some pretty expensive beer then!"
+30733,best country to live in,Lol the title of the post is asking what the best country in the world is.
+24246,best anime,"You may have seen this already, since you have The Cart Driver at the top of your sources, but that blog did something similar to your project back in 2013.
 
-http://thecartdriver.com/animetacritic-v-2-more-reviewers-more-lists/",best anime
-58350,*negates rules 1 and 2.,best cologne
-8862,"huh maybe that's because your toothpaste is prescription. I pulled my tube out and it says
+http://thecartdriver.com/animetacritic-v-2-more-reviewers-more-lists/"
+58350,best cologne,*negates rules 1 and 2.
+8862,best toothpaste,"huh maybe that's because your toothpaste is prescription. I pulled my tube out and it says
 
 **Directions**
 Supervise children as necessary until capable of using without supervision
  Adults and children 6 years of age and older: brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or a physician
 Children under 12 years: instruct in good brushing and rinsing habits (to minimize swallowing)
-Children under 6 years: Do not use unless directed by a dentist or a physician. Antiplaque and antiginigvitis use not proven in children",best toothpaste
-33407,"Between the Amazon deal and don’t they have a tech deal with Ford or GM? 
+Children under 6 years: Do not use unless directed by a dentist or a physician. Antiplaque and antiginigvitis use not proven in children"
+33407,best electric car,"Between the Amazon deal and don’t they have a tech deal with Ford or GM? 
 
 Plus the fact of having the DSM/MMC factory with most of its equipment as a starting point for production. Mitsubishi pretty much just locked the door and left. It only closed in 2015 and Caterpillar has plants in nearby Peoria, so finding experienced workers shouldn’t be hard - especially if it’s a UAW shop.
 
 Tesla had the NUMMI facility but I doubt Toyota and GM left as much in place.
 
-I do think they’ll have distribution problems and they should consider an initial focus on fleet sales. Electric is ideal for last mile puttering around town deliveries. A few contracts with delivery companies could do a lot of good.",best electric car
-55953,Best Marvel movie is The Winter Soldier. Hands down.,best action and adventure movie
-15576,"If climate doesn't matter, maybe [Copaifera langsdorffii](http://en.wikipedia.org/wiki/Copaifera_langsdorffii), aka the diesel tree?",best tree for the garden
-41838,Dark was really excellent. One of my favourite series of last year for sure.,movies like Inception
-14577,"{On The Island by Tracey Garvis Graves} is definitely my go-to for recommendations. I do hesitate sometimes because I’ve seen quite a few posts / comments where people have said they don’t like dual POV books, but I just love that book so much.
+I do think they’ll have distribution problems and they should consider an initial focus on fleet sales. Electric is ideal for last mile puttering around town deliveries. A few contracts with delivery companies could do a lot of good."
+55953,best action and adventure movie,Best Marvel movie is The Winter Soldier. Hands down.
+15576,best tree for the garden,"If climate doesn't matter, maybe [Copaifera langsdorffii](http://en.wikipedia.org/wiki/Copaifera_langsdorffii), aka the diesel tree?"
+41838,movies like Inception,Dark was really excellent. One of my favourite series of last year for sure.
+14577,best romantic novel,"{On The Island by Tracey Garvis Graves} is definitely my go-to for recommendations. I do hesitate sometimes because I’ve seen quite a few posts / comments where people have said they don’t like dual POV books, but I just love that book so much.
 
-Also, I LOVED {One Day In December by Josie Silver} but it’s also dual POV. But I still love it and want to recommend it all the time.",best romantic novel
-58968,"More artisans and small makers in my list than mainstream fragrances, but I hope that's okay, since maybe some could find a new perfumer whose work they enjoy.
+Also, I LOVED {One Day In December by Josie Silver} but it’s also dual POV. But I still love it and want to recommend it all the time."
+58968,best perfume,"More artisans and small makers in my list than mainstream fragrances, but I hope that's okay, since maybe some could find a new perfumer whose work they enjoy.
 
 * **Barrister and Mann Fougère Gothique** A dirty opening, and then the most lovely dark floral/forest/gravesite drydown ever.
 
@@ -56,15 +56,15 @@ Also, I LOVED {One Day In December by Josie Silver} but it’s also dual POV. Bu
 
 * **Barrister and Mann Hallows** Not-sweet-at-all raw cocoa with dank vetiver and oakmoss. Smelling a cocoa bean whilst walking through a swamp.
 
-Edit: I totally forgot **MPeG Santal Noble**, which I really loved, but haven't smelled the reformulation.",best perfume
-69841,"Just a word of warning coming from a recently graduated geologist (graduated 2013), if you have the misfortune of graduating during a market downturn things will be really difficult.  My graduating class has about a 25-30% employment rate in our chosen field.  I was lucky enough to know someone in the industry to get my foot in the door, but if I was you I would be networking as best I could during your university years and leave grad school open as an option just in case!
+Edit: I totally forgot **MPeG Santal Noble**, which I really loved, but haven't smelled the reformulation."
+69841,best major to study in college,"Just a word of warning coming from a recently graduated geologist (graduated 2013), if you have the misfortune of graduating during a market downturn things will be really difficult.  My graduating class has about a 25-30% employment rate in our chosen field.  I was lucky enough to know someone in the industry to get my foot in the door, but if I was you I would be networking as best I could during your university years and leave grad school open as an option just in case!
 
 Otherwise, everything here checks out.  Your classmates will probably be a bunch of loveable wierdos who like to drink too much. Your profs will be awesome and field schools are tough work, but a lot of fun.  
 
-Good luck!",best major to study in college
-49,fzf,best terminal file manager reddit
-30699,It is the asshole of the world after all.,best country to live in
-4353,visual studio 2008,best text editor
-1508,Damn. That sounds really good.,best ice cream flavor
-21899,this makes me genuinely uncomfortable. great work.,best winnie the pooh comic
-10606,Yea not sure why I would really care if a TSA agent wanted to browse through 7 pairs of dirty underwear,best suitcase lock
+Good luck!"
+49,best terminal file manager reddit,fzf
+30699,best country to live in,It is the asshole of the world after all.
+4353,best text editor,visual studio 2008
+1508,best ice cream flavor,Damn. That sounds really good.
+21899,best winnie the pooh comic,this makes me genuinely uncomfortable. great work.
+10606,best suitcase lock,Yea not sure why I would really care if a TSA agent wanted to browse through 7 pairs of dirty underwear

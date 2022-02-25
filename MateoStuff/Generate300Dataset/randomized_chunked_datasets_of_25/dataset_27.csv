@@ -1,31 +1,31 @@
-idx,text,query
-39879,This guy gets it,best Chrome extensions
-9566,Have fun with your canker sores.,best toothpaste
-19861,I think Hannibal for King has his own rap songs. Use those.,best workout music
-45075,"> one of my girlfriends
+idx,query,text
+39879,best Chrome extensions,This guy gets it
+9566,best toothpaste,Have fun with your canker sores.
+19861,best workout music,I think Hannibal for King has his own rap songs. Use those.
+45075,best items under $100,"> one of my girlfriends
 
-Good thing you didn't buy it for all of 'em then.",best items under $100
-31171,"New Zealand, I live here and all of those boxes are ticked",best country to live in
-58721,"I wore it last night  and I got a decent amount of performance with it  (I could still smell it on my skin this am). The projection was moderate tho, which is a travesty because it smells so damn good. I could just keep inhaling it.",best cologne
-45780,They're [Mary Janes](http://goo.gl/Vss2m) wrapped in orange and black wrappers. If you're lucky you might get *one* that's actually chewable.,best trick or treating candy
-67922,"Niven and Pournelle both give Heinlein a lot of credit for how the book turned out. They sent him a draft, and he spent days reading it. He sent them back a 26 page letter of suggestions, most or all of which they adopted. 
+Good thing you didn't buy it for all of 'em then."
+31171,best country to live in,"New Zealand, I live here and all of those boxes are ticked"
+58721,best cologne,"I wore it last night  and I got a decent amount of performance with it  (I could still smell it on my skin this am). The projection was moderate tho, which is a travesty because it smells so damn good. I could just keep inhaling it."
+45780,best trick or treating candy,They're [Mary Janes](http://goo.gl/Vss2m) wrapped in orange and black wrappers. If you're lucky you might get *one* that's actually chewable.
+67922,best science fiction novel,"Niven and Pournelle both give Heinlein a lot of credit for how the book turned out. They sent him a draft, and he spent days reading it. He sent them back a 26 page letter of suggestions, most or all of which they adopted. 
 
-You can read an excerpt of their correspondence [here](https://web.archive.org/web/20130701140830/http://www.virginiaedition.com/ve/TheVirginiaEdition-sample.pdf#page=23) or purchase the whole correspondence from the Heinlein Archive [here](http://www.heinleinarchives.net/upload/index.php?_a=viewProd&productId=376).",best science fiction novel
-22369,"Yeah. I used to work in a movie theater in Santa Monica, Ca and we had celebrities come in on a practically daily basis. The one celeb who stood out for me, in terms of niceness, was Adam Sandler. He was always friendly to the staff when he came in and never failed to give a generous tip to the concession workers.",best celebrity
-69001,"I was just thinking about which Iain M. Banks novel I’d pick.  Surface Detail, Use of Weapons, and Look to Windward are very different from each other in structure, tone, and theme, so it’s difficult to compare them with each other.  With a gun to my head, I’d probably go with Surface Detail too.  I love all of his sci-fi novels.",best science fiction novel
-9455,"Yeah, its more about not wasting the tubes I have lying around as I don't think the difference between the two would be large enough to go out and buy colgate.",best toothpaste
-42055,"[Neon Genesis Evangelion](https://www.imdb.com/title/tt0112159/reference)
+You can read an excerpt of their correspondence [here](https://web.archive.org/web/20130701140830/http://www.virginiaedition.com/ve/TheVirginiaEdition-sample.pdf#page=23) or purchase the whole correspondence from the Heinlein Archive [here](http://www.heinleinarchives.net/upload/index.php?_a=viewProd&productId=376)."
+22369,best celebrity,"Yeah. I used to work in a movie theater in Santa Monica, Ca and we had celebrities come in on a practically daily basis. The one celeb who stood out for me, in terms of niceness, was Adam Sandler. He was always friendly to the staff when he came in and never failed to give a generous tip to the concession workers."
+69001,best science fiction novel,"I was just thinking about which Iain M. Banks novel I’d pick.  Surface Detail, Use of Weapons, and Look to Windward are very different from each other in structure, tone, and theme, so it’s difficult to compare them with each other.  With a gun to my head, I’d probably go with Surface Detail too.  I love all of his sci-fi novels."
+9455,best toothpaste,"Yeah, its more about not wasting the tubes I have lying around as I don't think the difference between the two would be large enough to go out and buy colgate."
+42055,movies like Inception,"[Neon Genesis Evangelion](https://www.imdb.com/title/tt0112159/reference)
 
-(I'd still recommend the [movie remakes](https://www.imdb.com/title/tt0923811/reference) if we were strictly sticking to movies, but the original series is ideal)",movies like Inception
-1542,"Sounds great, actually. My mom has been asking me to make the ""stranger"" flavors, even though they're not really that strange. It's good to know that one worked so well.",best ice cream flavor
-60781,"I love Marc Maron, but I do feel like you've gotta be a middle-aged pissed off pissed on former addict with chips all over your anatomy to resist the magnetic force he exerts to keep people away.b 
+(I'd still recommend the [movie remakes](https://www.imdb.com/title/tt0923811/reference) if we were strictly sticking to movies, but the original series is ideal)"
+1542,best ice cream flavor,"Sounds great, actually. My mom has been asking me to make the ""stranger"" flavors, even though they're not really that strange. It's good to know that one worked so well."
+60781,Best comedy show on Netflix,"I love Marc Maron, but I do feel like you've gotta be a middle-aged pissed off pissed on former addict with chips all over your anatomy to resist the magnetic force he exerts to keep people away.b 
  
-Like I said, I love Marc Maron.",Best comedy show on Netflix
-52628,You're Dead is such a fucking amazing record but I don't think I would classify it as a hip hop record.,best hiphop album
-15128,"I have oleanders surrounding my property. They grow tall and fast if you water them. I think they are on the medium/lower end of the price spectrum.  
+Like I said, I love Marc Maron."
+52628,best hiphop album,You're Dead is such a fucking amazing record but I don't think I would classify it as a hip hop record.
+15128,best tree for the garden,"I have oleanders surrounding my property. They grow tall and fast if you water them. I think they are on the medium/lower end of the price spectrum.  
 
-If you have livestock though, the leaves are poisonous.",best tree for the garden
-23018,"I've encountered a few celebrities from my days working at a popular casino. 
+If you have livestock though, the leaves are poisonous."
+23018,best celebrity,"I've encountered a few celebrities from my days working at a popular casino. 
 
 Gordon Ramsay was very polite and very nice to talk to. I left that interaction thinking, what a cool guy. Quite the gentleman. 
 
@@ -35,14 +35,14 @@ Charles Barkley was very down to earth. No entourage. No security. Just came in 
 
 Brad Garrett from Everybody Loves Raymond... what a miserable guy. Would not acknowledge anybody with eye contact. Specifically asked us not to talk to him. And if you approached him to see if he needed any help you got this death stare like you were the foulest piece of garbage. 
 
-Oh and as a bonus, the first celebrity I ever met was Liza Minnelli when I was a young boy. I remember she had a big furry coat and this little dog. The dog came over to play with me. She then came over and patted my head telling my dad ""You have such a cute little boy"". Very nice lady!",best celebrity
-48254,"I bought a fabric and then I chose a swatch. i put them on my wall somewhere. Slowly i am putting together everything else to match these two things. i MIGHT, at the end, change the paint colour --- but i think you need to choose one to get started.",best color to paint with
-72167,"Not the best by any means, but i think it deserves to be mentioned.
+Oh and as a bonus, the first celebrity I ever met was Liza Minnelli when I was a young boy. I remember she had a big furry coat and this little dog. The dog came over to play with me. She then came over and patted my head telling my dad ""You have such a cute little boy"". Very nice lady!"
+48254,best color to paint with,"I bought a fabric and then I chose a swatch. i put them on my wall somewhere. Slowly i am putting together everything else to match these two things. i MIGHT, at the end, change the paint colour --- but i think you need to choose one to get started."
+72167,best movies with a cool twist,"Not the best by any means, but i think it deserves to be mentioned.
 
-Triangle",best movies with a cool twist
-10397,"I guess different places do things differently. I know that Gatwick seems fairly lax, until you realize just how many cameras there are watching you. You get a full body photo at least twice while moving through security to make sure the person who goes through Security is the same person getting on the plane.",best suitcase lock
-13831,[Nothing in Biology Makes Sense Except in the Light of Evolution](http://en.wikipedia.org/wiki/Nothing_in_Biology_Makes_Sense_Except_in_the_Light_of_Evolution) seems perfect for your class.,best research paper archive
-43260,thank you for the details!,best detective show
-40149,https://chrome.google.com/webstore/detail/open-in-firefox/jmjejjdalfogiopknpabihjhplfkjjjk here,best Chrome extensions
-37783,"Whatever, I'm not gonna die on a hill arguing my opinions on a franchise as largely mediocre as the MCU anyway.",best Marvel movie
-7938,Thanks as always!!,best laptop for general use
+Triangle"
+10397,best suitcase lock,"I guess different places do things differently. I know that Gatwick seems fairly lax, until you realize just how many cameras there are watching you. You get a full body photo at least twice while moving through security to make sure the person who goes through Security is the same person getting on the plane."
+13831,best research paper archive,[Nothing in Biology Makes Sense Except in the Light of Evolution](http://en.wikipedia.org/wiki/Nothing_in_Biology_Makes_Sense_Except_in_the_Light_of_Evolution) seems perfect for your class.
+43260,best detective show,thank you for the details!
+40149,best Chrome extensions,https://chrome.google.com/webstore/detail/open-in-firefox/jmjejjdalfogiopknpabihjhplfkjjjk here
+37783,best Marvel movie,"Whatever, I'm not gonna die on a hill arguing my opinions on a franchise as largely mediocre as the MCU anyway."
+7938,best laptop for general use,Thanks as always!!

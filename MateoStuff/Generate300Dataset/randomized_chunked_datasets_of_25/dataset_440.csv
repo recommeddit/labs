@@ -1,8 +1,8 @@
-idx,text,query
-4532,If you want a good slim editor with good package control try [Sublime Text](http://www.sublimetext.com/). If you want an IDE with really good Java and C++ support try [Eclipse](http://eclipse.org/) out.,best text editor
-2599,"Woah you really like neutral headphones haha that flair, just thought it was interesting",best headphones
-53683,"Not all antihistamines will make you drowsy, though. A couple of note are loratadine and fexofenadine; aka claritin and allegra, respectively.",best medicine for a cold
-17619,"Frotz: An essentially unlimited amount of text based adventuring. It comes with a bunch preinstalled, but you can add thousands more games to it for free from the included Free, no ads, no iAP.
+idx,query,text
+4532,best text editor,If you want a good slim editor with good package control try [Sublime Text](http://www.sublimetext.com/). If you want an IDE with really good Java and C++ support try [Eclipse](http://eclipse.org/) out.
+2599,best headphones,"Woah you really like neutral headphones haha that flair, just thought it was interesting"
+53683,best medicine for a cold,"Not all antihistamines will make you drowsy, though. A couple of note are loratadine and fexofenadine; aka claritin and allegra, respectively."
+17619,best iOS game,"Frotz: An essentially unlimited amount of text based adventuring. It comes with a bunch preinstalled, but you can add thousands more games to it for free from the included Free, no ads, no iAP.
 
 Simon Tatham’s Portable Puzzle Collection: Not the prettiest game out there, but it features a whole bunch of variety, tons of puzzles, and it’s under 4 megabytes. Free, no ads, no iAP.
 
@@ -15,32 +15,32 @@ Free, no ads (afaik), repeat-able iAP (I have no idea how egregious it is)
 
 Armello: I have 110 hours in the PC version, and the mobile port is just as good. It’s a digital board game (with no physical version?), and it’s totally worth trying. Free, no ads, single time and repeat-able iAP (cosmetic and gameplay expanding).
 
-Fowlst: Action game, like a combat-focused Flappy Bird. It’s sequels have ads/iAP, but the original is completely free. Free, no ads, no iAP.",best iOS game
-2149,I grew up on it and would die to have some right now.  I agree it's not the best but it's like if you grew up on domino's - pizza hut just isn't the same.   Also its weird they only exist in Santa Barbara and Bakersfield.,best pizza place in Santa Barbara
-55233,"The Adirondacks in upper NY are my favorite. Lots of water, beautiful summits, and endless trails.",best places to hike in the east coast
-34364,Donald is the king for sure but if a team could have Mahomes or Donald I think most are going to pick mahomes.,best NFL player
-62848,"Currently, logistics. And doing some marketing gig work on the side.",Best Data Science textbook
-15247,Don’t.  The house and yard are too small.  You will eventually block your view or the house could be overwhelmed.,best tree for the garden
-60618,"Interesting. The first time I watched it, it was the original one and I didn't like it. The second time was the re-cut re-released one and I liked it slightly better. Partially because my expectations were lower, but I also think it just flowed a lot better than the original one.",Best comedy show on Netflix
-41673,"Triangle (2009)
+Fowlst: Action game, like a combat-focused Flappy Bird. It’s sequels have ads/iAP, but the original is completely free. Free, no ads, no iAP."
+2149,best pizza place in Santa Barbara,I grew up on it and would die to have some right now.  I agree it's not the best but it's like if you grew up on domino's - pizza hut just isn't the same.   Also its weird they only exist in Santa Barbara and Bakersfield.
+55233,best places to hike in the east coast,"The Adirondacks in upper NY are my favorite. Lots of water, beautiful summits, and endless trails."
+34364,best NFL player,Donald is the king for sure but if a team could have Mahomes or Donald I think most are going to pick mahomes.
+62848,Best Data Science textbook,"Currently, logistics. And doing some marketing gig work on the side."
+15247,best tree for the garden,Don’t.  The house and yard are too small.  You will eventually block your view or the house could be overwhelmed.
+60618,Best comedy show on Netflix,"Interesting. The first time I watched it, it was the original one and I didn't like it. The second time was the re-cut re-released one and I liked it slightly better. Partially because my expectations were lower, but I also think it just flowed a lot better than the original one."
+41673,movies like Inception,"Triangle (2009)
 
-Amazing movie",movies like Inception
-15573,Thanks very much.,best tree for the garden
-61887,Skyrim did not set a new standar . It's not even as good as Morrowind.,Best RPG game on PS4
-69874,"Graphic designer here! I'm four years post design school, and I can say there are a lot of pros and not that many cons.
+Amazing movie"
+15573,best tree for the garden,Thanks very much.
+61887,Best RPG game on PS4,Skyrim did not set a new standar . It's not even as good as Morrowind.
+69874,best major to study in college,"Graphic designer here! I'm four years post design school, and I can say there are a lot of pros and not that many cons.
 
 Pros: Good money, especially if you're in UI. Fun, interesting work that changes all the time (my clients range from the food industry to healthcare, to non profit, and almost every other thing you can think of). Very satisfying work--solving problems is fun!
 
-Cons / Words of wisdom: Make sure you go to a school that focuses on a design CAREER, not one that only encourages you to express yourself artistically though design. I have friends that went to the second kind, and most of them are at shitty in-house jobs because they didn't know how to capitalize on their skills or deal with real clients.",best major to study in college
-8450,Guessing 9/10 pick the same one,best toothpaste
-29096,"Etar:
+Cons / Words of wisdom: Make sure you go to a school that focuses on a design CAREER, not one that only encourages you to express yourself artistically though design. I have friends that went to the second kind, and most of them are at shitty in-house jobs because they didn't know how to capitalize on their skills or deal with real clients."
+8450,best toothpaste,Guessing 9/10 pick the same one
+29096,best calendar tool,"Etar:
 
 https://f-droid.org/en/packages/ws.xsoh.etar/
 
-pretty much just like the LineageOS calendar but has black theme",best calendar tool
-59110,"Dior Hypnotic Poison has been my go-to for 15 years, it has always attracted positive attention. It has such an exotic, warm scent. Very sexy.",best perfume
-23186,"if you're not averaging triple digit likes at IG don't even fucking bother, we actually value soft skills.",best social networking site for CS
-58622,"In no particular order, but by purpose:  
+pretty much just like the LineageOS calendar but has black theme"
+59110,best perfume,"Dior Hypnotic Poison has been my go-to for 15 years, it has always attracted positive attention. It has such an exotic, warm scent. Very sexy."
+23186,best social networking site for CS,"if you're not averaging triple digit likes at IG don't even fucking bother, we actually value soft skills."
+58622,best cologne,"In no particular order, but by purpose:  
 
 
 * For everyday (warm): John Varvatos EDT
@@ -51,14 +51,14 @@ pretty much just like the LineageOS calendar but has black theme",best calendar 
 * For intimate times w/SO: Issey Miyake L'Eau de Issey Pour Homme EDT (I've literally been wearing it since I met her, and it's my signature scent for her)
 * For intimate time by myself/emotional self-care: Givenchy Xeryus EDT (vintage)
 
-I have plenty of other things (either full bottles or samples) that I wear on the regular, but I picked the first five based on availability/ease of replacement. The Issey will probably always be there for personal reasons. The last entry could be any number of things that make me happy and smile, but most of them tend to be '90's oriental/spicy scents.",best cologne
-22499,"Davy Boy Smith - wrestler back in the day - I was at a wave pool in Edmonton. I was around 12 years old, deep end of the pool for the waves. He stole my tube I was floating on and when I grabbed onto it so I didn’t just about drown, he told me to fuck off and shoved me off it.",best celebrity
-15739,Ray Ban hands down!,best sunglasses for fashion
-27010,"ok you just gave me the idea that I can play cosmic encounters on TTS. I love the game but since it requires at least 3 players and possibly more I only play it rarely.
+I have plenty of other things (either full bottles or samples) that I wear on the regular, but I picked the first five based on availability/ease of replacement. The Issey will probably always be there for personal reasons. The last entry could be any number of things that make me happy and smile, but most of them tend to be '90's oriental/spicy scents."
+22499,best celebrity,"Davy Boy Smith - wrestler back in the day - I was at a wave pool in Edmonton. I was around 12 years old, deep end of the pool for the waves. He stole my tube I was floating on and when I grabbed onto it so I didn’t just about drown, he told me to fuck off and shoved me off it."
+15739,best sunglasses for fashion,Ray Ban hands down!
+27010,best board games,"ok you just gave me the idea that I can play cosmic encounters on TTS. I love the game but since it requires at least 3 players and possibly more I only play it rarely.
 
 now that I think about this... Dune!
 
-is there some way on TTS/Reddit to find a group interested in playing a given game?",best board games
-11746,Eating cast iron skillet reheated pizza right now,best gifts for dad
-66649,That was my pacman vs black guy fight.,best soccer team in the world
-65608,"For coverage/speed/cost, Verizon prepaid. There are currently Verizon prepaid dealers on eBay offering the exclusive $60 ($55 with autopay) prepaid unlimited plan like this one: https://www.ebay.com/itm/Verizon-Wireless-Unlimited-Sim-Card-4G-LTE-with-First-Month-60-plan-for-Free/123455906958?epid=530089359&hash=item1cbe8ba48e plus they give you a free sim and the first month is discounted even further. And for further savings, if you buy eBay refill cards it will be roughly $40/mo out of pocket.",best phone service company
+is there some way on TTS/Reddit to find a group interested in playing a given game?"
+11746,best gifts for dad,Eating cast iron skillet reheated pizza right now
+66649,best soccer team in the world,That was my pacman vs black guy fight.
+65608,best phone service company,"For coverage/speed/cost, Verizon prepaid. There are currently Verizon prepaid dealers on eBay offering the exclusive $60 ($55 with autopay) prepaid unlimited plan like this one: https://www.ebay.com/itm/Verizon-Wireless-Unlimited-Sim-Card-4G-LTE-with-First-Month-60-plan-for-Free/123455906958?epid=530089359&hash=item1cbe8ba48e plus they give you a free sim and the first month is discounted even further. And for further savings, if you buy eBay refill cards it will be roughly $40/mo out of pocket."

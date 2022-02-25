@@ -1,22 +1,22 @@
-idx,text,query
-53628,My mother told me DM stands for Doctor Mom. What a fucking liar.,best medicine for a cold
-33825,Are there many differences between the omega version and the old one?,best Pokemon game
-56988,More than half of the people who live in Fiji do not have access to safe drinking water,best water brand
-36785,Gin and tonic with a shot of peach schnapps.,best alcoholic drink
-47642,"Branson is the most Dolly Parton-tourist trap in the world... but Silver Dollar City, though.",best state to visit in the United States
-8651,Is there poop on that toothbrush?,best toothpaste
-16721,"I think rats are the right answer, too. Our kids have expressed interest in having their own personal pets when they get older and rats seem the best. Sociable, friendly, trainable, and easier to care for than things like rabbits and fish while also being more cuddly.",best pet for toddlers
-62831,"1) **Machine Learning: a Concise Introduction**  by Steven W. Knox. 
+idx,query,text
+53628,best medicine for a cold,My mother told me DM stands for Doctor Mom. What a fucking liar.
+33825,best Pokemon game,Are there many differences between the omega version and the old one?
+56988,best water brand,More than half of the people who live in Fiji do not have access to safe drinking water
+36785,best alcoholic drink,Gin and tonic with a shot of peach schnapps.
+47642,best state to visit in the United States,"Branson is the most Dolly Parton-tourist trap in the world... but Silver Dollar City, though."
+8651,best toothpaste,Is there poop on that toothbrush?
+16721,best pet for toddlers,"I think rats are the right answer, too. Our kids have expressed interest in having their own personal pets when they get older and rats seem the best. Sociable, friendly, trainable, and easier to care for than things like rabbits and fish while also being more cuddly."
+62831,Best Data Science textbook,"1) **Machine Learning: a Concise Introduction**  by Steven W. Knox. 
 
 The book is mathematically rigorous (something between ""Introduction to Statistical Learning"" and ""Elements of Statistical Learning""). 
 
 2)  **Statistical Learning from a Regression Perspective**  by Richard A. Berk
 
-This one requires relatively good mathematical background.",Best Data Science textbook
-6773,5S was my first. It was also the only phone I’ve ever owned that didn’t have any noticeable issues during the 3 years I had it.,best iPhone
-35561,The cucumber gimlet is fantastic. It's my favorite too!,best alcoholic drink
-69184,Yeah it's a pretty shitty circlejerk. I'm honestly not entirely sure whether they're serious or not.,best major to study in college
-24560,"1- Steins; gate its just the best anime 
+This one requires relatively good mathematical background."
+6773,best iPhone,5S was my first. It was also the only phone I’ve ever owned that didn’t have any noticeable issues during the 3 years I had it.
+35561,best alcoholic drink,The cucumber gimlet is fantastic. It's my favorite too!
+69184,best major to study in college,Yeah it's a pretty shitty circlejerk. I'm honestly not entirely sure whether they're serious or not.
+24560,best anime,"1- Steins; gate its just the best anime 
 2-Clannad after story so sad and feeling empty inside
 3-violet Evergarden still waiting for how it ends but currently in my top tier
 4-Gurren Lagann so epic and those feels
@@ -25,19 +25,19 @@ This one requires relatively good mathematical background.",Best Data Science te
 7- Kimi no Na wa best movie
 8- Re zero like steins gate blend with an isekai
 9-Noragami i enjoed watching yato yukine and Hiyori:3
-10- FMAB a classic but still good asf",best anime
-17080,"FTL on iPad is probably my all-time favorite iOS game. Honorable mention for Flick Kick Football, Tiny Wings, Plague Inc.",best iOS game
-37525,Carowinds is in both NC and SC. Also for OH you can make an argument for KI as well.,best amusement park
-37204,Probably because the GP doesn't associate BGT with Blackfish.,best amusement park
-16176,Try to get cheap Serengetis. I got a sweet pair on amazon For 60 bucks. Tortoise shell Acetate frame. Photochromic glass lens. Imho best glasses on the market. Sometimes costco carries them but usually ugly styles,best sunglasses for fashion
-39757,"There used to be an extension called Lazarus that people were using to recover work when they accidentally closed a page or Chrome crashed. Fortunately, Google removed it from the store because it was just capturing everything you typed while you were online.",best Chrome extensions
-57842,twilight woods for men.,best cologne
-5911,Wow. This is the first time i've seen someone politely accept a counter argument online. Tip of the hat to you good sir.,best programming language for web development
-30695,"This is also my answer!  
+10- FMAB a classic but still good asf"
+17080,best iOS game,"FTL on iPad is probably my all-time favorite iOS game. Honorable mention for Flick Kick Football, Tiny Wings, Plague Inc."
+37525,best amusement park,Carowinds is in both NC and SC. Also for OH you can make an argument for KI as well.
+37204,best amusement park,Probably because the GP doesn't associate BGT with Blackfish.
+16176,best sunglasses for fashion,Try to get cheap Serengetis. I got a sweet pair on amazon For 60 bucks. Tortoise shell Acetate frame. Photochromic glass lens. Imho best glasses on the market. Sometimes costco carries them but usually ugly styles
+39757,best Chrome extensions,"There used to be an extension called Lazarus that people were using to recover work when they accidentally closed a page or Chrome crashed. Fortunately, Google removed it from the store because it was just capturing everything you typed while you were online."
+57842,best cologne,twilight woods for men.
+5911,best programming language for web development,Wow. This is the first time i've seen someone politely accept a counter argument online. Tip of the hat to you good sir.
+30695,best country to live in,"This is also my answer!  
 
-I'm dutch, and for the most part living here is great, but it's just too cold. I wish I could just move all of the Netherlands to somewhere around Spain or Italy.",best country to live in
-23177,Twitter can be surprisingly useful for getting job leads if you have a decent following of engineers. But I never include my twitter handle on my resume when applying for jobs and I don't think it'd be an issue to not have one.,best social networking site for CS
-6466,Parking Lot Movie.  GREAT flick.,best Netflix documentary
-21281,This is the one true answer. Literally did a full 5K listening to just the Maynard version on repeat.,best workout music
-9296,"I saw it on Amazon, is it Colgate gel cam?",best toothpaste
-54317,Or take the Pokemon approach. I caught a ton of colds over a winter DJing in a ski-town. Since then I get hardly any colds.,best medicine for a cold
+I'm dutch, and for the most part living here is great, but it's just too cold. I wish I could just move all of the Netherlands to somewhere around Spain or Italy."
+23177,best social networking site for CS,Twitter can be surprisingly useful for getting job leads if you have a decent following of engineers. But I never include my twitter handle on my resume when applying for jobs and I don't think it'd be an issue to not have one.
+6466,best Netflix documentary,Parking Lot Movie.  GREAT flick.
+21281,best workout music,This is the one true answer. Literally did a full 5K listening to just the Maynard version on repeat.
+9296,best toothpaste,"I saw it on Amazon, is it Colgate gel cam?"
+54317,best medicine for a cold,Or take the Pokemon approach. I caught a ton of colds over a winter DJing in a ski-town. Since then I get hardly any colds.

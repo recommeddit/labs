@@ -1,15 +1,15 @@
-idx,text,query
-6233,"That season is all I’ve seen, but wow. Fabulous show. The winner is one of the most amazing real human beings I’ve ever seen televised.",best Netflix documentary
-43240,"Try Innocent (Masum), a Turkish show on Netflix.",best detective show
-33106,Those flavours are like drinking freezies :),best energy drink
-39398,"All the big companies like Google ""spying"". And they don't even try to hide it! If you read the ""Terms and Conditions"" you will see by yourself. And its not ""spying"", its more like ""collect data to improve the Chrome and show better adds. Just don't care that much about what anyone can say about Google, Microsoft etc.",best web browser
-57030,"That's all I can see when I read that label -.-""",best water brand
-68311,"TIL there's a list of redditors' 200-most-recommended-books. I should explore more worthwhile threads as this one. Thank you, kind stranger.",best science fiction novel
-8904,"Right, but the question in this context is whether it is an abrasive that is hard enough to damage enamel, which others have said it is not... It is 2.4 mohs, while enamel is 5 mohs - so (as far as I understand) it won't harm your enamel if your aren't pressure blasting your teeth.",best toothpaste
-72933,"Or people complaining ""I run Kali and nothing works, I think I have been hacked"" in the KDE bugtracker",best Linux distro
-42668,The killing,best detective show
-38433,"I read/skim the NYT every weekday. It's provided free here on campus. Plus I try to finish the crossword every day, but it usually ends up kicking my ass from Wednesday on :(",best newspapers to read
-18334,"[Powerthirst](https://www.youtube.com/watch?v=qRuNxHqwazs)
+idx,query,text
+6233,best Netflix documentary,"That season is all I’ve seen, but wow. Fabulous show. The winner is one of the most amazing real human beings I’ve ever seen televised."
+43240,best detective show,"Try Innocent (Masum), a Turkish show on Netflix."
+33106,best energy drink,Those flavours are like drinking freezies :)
+39398,best web browser,"All the big companies like Google ""spying"". And they don't even try to hide it! If you read the ""Terms and Conditions"" you will see by yourself. And its not ""spying"", its more like ""collect data to improve the Chrome and show better adds. Just don't care that much about what anyone can say about Google, Microsoft etc."
+57030,best water brand,"That's all I can see when I read that label -.-"""
+68311,best science fiction novel,"TIL there's a list of redditors' 200-most-recommended-books. I should explore more worthwhile threads as this one. Thank you, kind stranger."
+8904,best toothpaste,"Right, but the question in this context is whether it is an abrasive that is hard enough to damage enamel, which others have said it is not... It is 2.4 mohs, while enamel is 5 mohs - so (as far as I understand) it won't harm your enamel if your aren't pressure blasting your teeth."
+72933,best Linux distro,"Or people complaining ""I run Kali and nothing works, I think I have been hacked"" in the KDE bugtracker"
+42668,best detective show,The killing
+38433,best newspapers to read,"I read/skim the NYT every weekday. It's provided free here on campus. Plus I try to finish the crossword every day, but it usually ends up kicking my ass from Wednesday on :("
+18334,best YouTube video,"[Powerthirst](https://www.youtube.com/watch?v=qRuNxHqwazs)
 
 [Charlie the unicorn](https://www.youtube.com/watch?v=CsGYh8AacgY)
 
@@ -85,9 +85,9 @@ idx,text,query
 
 [I'M AT SOUP](https://www.youtube.com/watch?v=FAUnDDTz30k)
 
-[Gandalf Sax song](https://www.youtube.com/watch?v=evef8FCK6wk)",best YouTube video
-61012,I would have to say Frasier. But I am old.,Best comedy show on Netflix
-21417,"Lamb of God. 
+[Gandalf Sax song](https://www.youtube.com/watch?v=evef8FCK6wk)"
+61012,Best comedy show on Netflix,I would have to say Frasier. But I am old.
+21417,best workout music,"Lamb of God. 
 
 >The passing/in your words
 
@@ -99,25 +99,25 @@ idx,text,query
 
 >Laid to rest
 
-Yeah. That's the stuff",best workout music
-3685,"And that Paris dot is lots of smaller institutions \(ESPCI, ENS, Polytechnique...\) stacked on top of each other. If they were combined, they'd get a huge single blob, more like MIT or Imperial college",best college for research
-69285,"I transferred out of the Wharton school at UPenn to major in history and work in a profession that is much more satisfying than the business world.  I'm sure I could have been making a lot more money had I stayed at Penn but I have zero regrets for doing it.  No,  I would not change my major.",best major to study in college
-64716,"man, I wish I saw this when I was first getting into Nike shoes.. I like their stuff but the product line is so huge and confusing!",Best Nike running shoes
-50889,"My Favourite (not in order)
+Yeah. That's the stuff"
+3685,best college for research,"And that Paris dot is lots of smaller institutions \(ESPCI, ENS, Polytechnique...\) stacked on top of each other. If they were combined, they'd get a huge single blob, more like MIT or Imperial college"
+69285,best major to study in college,"I transferred out of the Wharton school at UPenn to major in history and work in a profession that is much more satisfying than the business world.  I'm sure I could have been making a lot more money had I stayed at Penn but I have zero regrets for doing it.  No,  I would not change my major."
+64716,Best Nike running shoes,"man, I wish I saw this when I was first getting into Nike shoes.. I like their stuff but the product line is so huge and confusing!"
+50889,best rap album,"My Favourite (not in order)
 
 Illmatic - Nas
 The Documentary - The Game
 The Chronic - Dr. Dre
 The Infamous - Mobb Deep
 It Was Written - Nas
-Doggystyle - Snoop Dogg",best rap album
-71916,Surprised I had to go this far down. First time I saw that my mind was blown.,best movies with a cool twist
-1259,Popsicle.,best ice cream flavor
-55112,It's always nice to see my home region getting some love. It's awesome seeing pictures of this alongside...well...everything in this subreddit.,best places to hike in the east coast
-46647,Lol I don't know who reaches for the milk duds before the reese's cups.,best trick or treating candy
-55429,"Lost world types? Try the classic ""King Solomon's Mines."" A group of adventurers use an ancient map to find a long lost kingdom in Africa.",best action and adventure novel series
-44597,I now have $1200 of purchases I need to make immediately,best items under $100
-27823,I've heard eggs are available outside UK too.,best breakfast foods
-39302,"I would like to use Firefox, but for whatever reason it is incredibly laggy on my 4k display. I tried so many methods, still cannot fix it. Ended up back in Chrome.
+Doggystyle - Snoop Dogg"
+71916,best movies with a cool twist,Surprised I had to go this far down. First time I saw that my mind was blown.
+1259,best ice cream flavor,Popsicle.
+55112,best places to hike in the east coast,It's always nice to see my home region getting some love. It's awesome seeing pictures of this alongside...well...everything in this subreddit.
+46647,best trick or treating candy,Lol I don't know who reaches for the milk duds before the reese's cups.
+55429,best action and adventure novel series,"Lost world types? Try the classic ""King Solomon's Mines."" A group of adventurers use an ancient map to find a long lost kingdom in Africa."
+44597,best items under $100,I now have $1200 of purchases I need to make immediately
+27823,best breakfast foods,I've heard eggs are available outside UK too.
+39302,best web browser,"I would like to use Firefox, but for whatever reason it is incredibly laggy on my 4k display. I tried so many methods, still cannot fix it. Ended up back in Chrome.
 
-Right now I'm using Edge Chromium, it is pretty good actually:)",best web browser
+Right now I'm using Edge Chromium, it is pretty good actually:)"

@@ -1,8 +1,8 @@
-idx,text,query
-47487,"Canadian here. Spent 3 weeks in Kihei, Maui one winter. Drove the Hana highway, went whale watching and attended a luau in Lahaina. 13/10. Would do again in a heart beat.",best state to visit in the United States
-69131,"1.) Strugatsky Bros - Roadside Picnic, 2.) Ted Chiang - Stories of you life and others, 3.) Frank Herbert - Dune",best science fiction novel
-28976,As someone who also lives in San Diego I would love a heads up when you find it.,best breakfast foods
-40948,"This depends on what your after to be honest.. 
+idx,query,text
+47487,best state to visit in the United States,"Canadian here. Spent 3 weeks in Kihei, Maui one winter. Drove the Hana highway, went whale watching and attended a luau in Lahaina. 13/10. Would do again in a heart beat."
+69131,best science fiction novel,"1.) Strugatsky Bros - Roadside Picnic, 2.) Ted Chiang - Stories of you life and others, 3.) Frank Herbert - Dune"
+28976,best breakfast foods,As someone who also lives in San Diego I would love a heads up when you find it.
+40948,best instrument to play,"This depends on what your after to be honest.. 
 
 If your taking notes outta the equation then percussion is straight forward and just requires some rhythm training (which is pretty instinctual anyway and with experience on other instruments you would have developed some good internal rhythms). 
 
@@ -27,11 +27,11 @@ I wouldn't go for what's easiest, I would be looking for which one you are happy
 
 If your at the point where you know the note positions on a cello board, you have come a pretty substantial way and can improve on this much more rapidly now. But if the interest in this instrument is passing, then you can always get a few extra and diversify 
 
-:)",best instrument to play
-796,Hell yeah it is.,best baskin robbins flavor reddit
-3813,haha it's ok!!,best college for research
-26104,"While Lincoln was an amazing president, he really did a bad job of running the war. He took way too long to replace McClellan and kept putting mediocre or bad generals in charge of the Eastern front. Also, he would have been a terrible president in the Reconstruction since his plan was incredibly conservative and would have continued the oppression of black people in the South.",best politician
-37165,"Disney: go here if you love Disney or have kids. If you aren’t a Disney freak (or Star Wars fan?) I’d probably avoid it tbh. 
+:)"
+796,best baskin robbins flavor reddit,Hell yeah it is.
+3813,best college for research,haha it's ok!!
+26104,best politician,"While Lincoln was an amazing president, he really did a bad job of running the war. He took way too long to replace McClellan and kept putting mediocre or bad generals in charge of the Eastern front. Also, he would have been a terrible president in the Reconstruction since his plan was incredibly conservative and would have continued the oppression of black people in the South."
+37165,best amusement park,"Disney: go here if you love Disney or have kids. If you aren’t a Disney freak (or Star Wars fan?) I’d probably avoid it tbh. 
 
 Universal: compared to other Universal parks in the world, this one is incredibly small and only has one coaster (Mummy).  
 
@@ -41,30 +41,30 @@ Knotts Berry Farm: go here if you enjoy amusement parks overall. The coasters ar
 
 Sea World: they are focusing more on coasters ever since Blackfish, but I wouldn’t go here unless you are going to stay in San Diego for a few days... there’s better stuff to do in SD than SW imo. 
 
-Other tips: get the flash pass/skip the line/whatever they call it in that particular park. Also arrive 30-60 minutes before the gates open.",best amusement park
-10265,"I use to work for an airline and if you are concerned about luggage theft i strongly suggest you watch [this] (https://m.youtube.com/watch?v=G5mvvZl6pLI).
+Other tips: get the flash pass/skip the line/whatever they call it in that particular park. Also arrive 30-60 minutes before the gates open."
+10265,best suitcase lock,"I use to work for an airline and if you are concerned about luggage theft i strongly suggest you watch [this] (https://m.youtube.com/watch?v=G5mvvZl6pLI).
 
 I was introduce to this technique by a baggage handler and it made me realized how futile locks are...
 
 If you want to protect your stuff theft while travelling you should consider a [pelican case] (http://www.pelican-case.com/pelican-cases-for-travel.html). They are bulky but it s the only way to be sure.
 
-Personally i just keep my valuables with me in my carry on.",best suitcase lock
-40256,"Gotta quibble a bit on the low end workstation recommendation. 3900X is pretty good in my workstation load (Developer), and for the difference in price the 3950X wasn't really worth it for me. Now, I don't use it for video rendering, so I can't really speak to that use-case, but I'm typically running 2-3 VMs, an IDE or two, some supporting tooling, some diagramming software... Handles that just fine and has plenty of cores. 3950X has 4 more cores for 2x what I paid (700 vs 350, plus an additional 20$ savings when I purchase a qualifying MOBO).",best midrange CPU
-21580,I read that as *he jerks a lot*,best winnie the pooh comic
-63895,Explain how to join.,best place to pirate audiobooks reddit
-51744,Yeah all that and the one expensive case I was wondering about was the Saddleback Leather one haha.,best iphone case
-21230,RUDOLPH THE RED NOSE REINDEER HAD A VERY SHINY NOSE. WHAT!,best workout music
-36454,What's the difference between ginger ale and ginger beer?  Are they made differently?  I don't think I can taste a difference.,best alcoholic drink
-47666,4 score drive between 7 and 8 years boulevard,best state to visit in the United States
-55961,And that aspect of the movie is fucking glorious.,best action and adventure movie
-16233,"I get Serengeti off eBay or Amazon. Retail on them is ridiculous but they are 50-150 at those places depending on the frames. I super love them and have my 3rd pair over 10 years. One i dropped and broke, one is my backup, and one i wear daily",best sunglasses for fashion
-68479,">dune is #1
+Personally i just keep my valuables with me in my carry on."
+40256,best midrange CPU,"Gotta quibble a bit on the low end workstation recommendation. 3900X is pretty good in my workstation load (Developer), and for the difference in price the 3950X wasn't really worth it for me. Now, I don't use it for video rendering, so I can't really speak to that use-case, but I'm typically running 2-3 VMs, an IDE or two, some supporting tooling, some diagramming software... Handles that just fine and has plenty of cores. 3950X has 4 more cores for 2x what I paid (700 vs 350, plus an additional 20$ savings when I purchase a qualifying MOBO)."
+21580,best winnie the pooh comic,I read that as *he jerks a lot*
+63895,best place to pirate audiobooks reddit,Explain how to join.
+51744,best iphone case,Yeah all that and the one expensive case I was wondering about was the Saddleback Leather one haha.
+21230,best workout music,RUDOLPH THE RED NOSE REINDEER HAD A VERY SHINY NOSE. WHAT!
+36454,best alcoholic drink,What's the difference between ginger ale and ginger beer?  Are they made differently?  I don't think I can taste a difference.
+47666,best state to visit in the United States,4 score drive between 7 and 8 years boulevard
+55961,best action and adventure movie,And that aspect of the movie is fucking glorious.
+16233,best sunglasses for fashion,"I get Serengeti off eBay or Amazon. Retail on them is ridiculous but they are 50-150 at those places depending on the frames. I super love them and have my 3rd pair over 10 years. One i dropped and broke, one is my backup, and one i wear daily"
+68479,best science fiction novel,">dune is #1
 
-Excellent. No need to bring out my pitchfork",best science fiction novel
-36302,"Can't say your opinion is wrong but you gotta try some more bourbons friend. That being said, eagle rare is good shit",best alcoholic drink
-34882,"Do they really?  I've always heard the AP one is the only ""official"" one when it comes to a player's accolades.",best NFL player
-47432,I'm gonna say California. There's just so much to do and so many cities to visit in Cali. Plus there is never a rainy day (damn drought...).,best state to visit in the United States
-24810,"My taste is a bit weird, but here we go
+Excellent. No need to bring out my pitchfork"
+36302,best alcoholic drink,"Can't say your opinion is wrong but you gotta try some more bourbons friend. That being said, eagle rare is good shit"
+34882,best NFL player,"Do they really?  I've always heard the AP one is the only ""official"" one when it comes to a player's accolades."
+47432,best state to visit in the United States,I'm gonna say California. There's just so much to do and so many cities to visit in Cali. Plus there is never a rainy day (damn drought...).
+24810,best anime,"My taste is a bit weird, but here we go
 
 10: Rent a girlfriend
 
@@ -86,6 +86,6 @@ Excellent. No need to bring out my pitchfork",best science fiction novel
 
 1: Kyoukai no Kanata 
 
-I would add explanations as to why I've picked these anime specifically, but I'm not bothered",best anime
-28076,I prefer steak and eggs,best breakfast foods
-41467,"Piano, I choose you!",best instrument to play
+I would add explanations as to why I've picked these anime specifically, but I'm not bothered"
+28076,best breakfast foods,I prefer steak and eggs
+41467,best instrument to play,"Piano, I choose you!"

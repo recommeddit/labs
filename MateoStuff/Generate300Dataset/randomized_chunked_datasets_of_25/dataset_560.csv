@@ -1,18 +1,18 @@
-idx,text,query
-7436,"Hi, it is very hard to predicate what the market is going to look like in a few months, so it is hard to give a good suggestion right now. I would wait and see what deals are available later. The Legion 5 Pro is definitely a good choice if you can find it in stock. The battery life isn't great, but the build quality is reasonable for the price point in my opinion.",best laptop for general use
-3087,"This is what I'm thinking. The video on Zoom, Teams, Webex, etc gets so compressed, it doesn't matter what you start with. I have a Logitech Brio that can do 4K video and I look like everyone else on the call.",best webcamera
-19953,"And woulda gone with the title track offa Vengeance. We're purists, you and I.",best workout music
-19735,[shoes](https://youtu.be/wCF3ywukQYA),best YouTube video
-10616,"*Ah yes, my bag of palladium bullion*",best suitcase lock
-44981,You can marry the love of your life for $100 in the state of Texas. I don’t know how it helps but it’s great to have someone.,best items under $100
-40771,Bass Guitar! It's like guitar but smoother and sexier,best instrument to play
-53830,"My Dad's got a great miracle brew for colds. Boil chicken stock, water, lots of garlic, and more chili than you really can handle.   Pour it down quickly when it's cooled down a bit. I usually drink 2-4 mugs a day, then sleep for 12 hours. The chili helps opening up your throat and nose, as well as forcing your body to sweat out the toxins during the night.  I always wake up well rested and in good health the next day.",best medicine for a cold
-32622,"Mexico is a train wreck!  How about going to Maui?  Warm breezes, beautiful beaches, palm trees and no third world drug cartel massive poverty crap like you have in cabo.  We went to Cabo on our honeymoon and the next year went to Maui for a do over",best vacation resort
-54288,"I eat a lot of raw habanero peppers, they're loaded with vitamin c and I've read that capsaicin has a lot of health benefits. Also i load up on vitamin d3.  I've heard oregano oil is supposed to act as an antiviral and my friend swears by it but i have never tried it.  
+idx,query,text
+7436,best laptop for general use,"Hi, it is very hard to predicate what the market is going to look like in a few months, so it is hard to give a good suggestion right now. I would wait and see what deals are available later. The Legion 5 Pro is definitely a good choice if you can find it in stock. The battery life isn't great, but the build quality is reasonable for the price point in my opinion."
+3087,best webcamera,"This is what I'm thinking. The video on Zoom, Teams, Webex, etc gets so compressed, it doesn't matter what you start with. I have a Logitech Brio that can do 4K video and I look like everyone else on the call."
+19953,best workout music,"And woulda gone with the title track offa Vengeance. We're purists, you and I."
+19735,best YouTube video,[shoes](https://youtu.be/wCF3ywukQYA)
+10616,best suitcase lock,"*Ah yes, my bag of palladium bullion*"
+44981,best items under $100,You can marry the love of your life for $100 in the state of Texas. I don’t know how it helps but it’s great to have someone.
+40771,best instrument to play,Bass Guitar! It's like guitar but smoother and sexier
+53830,best medicine for a cold,"My Dad's got a great miracle brew for colds. Boil chicken stock, water, lots of garlic, and more chili than you really can handle.   Pour it down quickly when it's cooled down a bit. I usually drink 2-4 mugs a day, then sleep for 12 hours. The chili helps opening up your throat and nose, as well as forcing your body to sweat out the toxins during the night.  I always wake up well rested and in good health the next day."
+32622,best vacation resort,"Mexico is a train wreck!  How about going to Maui?  Warm breezes, beautiful beaches, palm trees and no third world drug cartel massive poverty crap like you have in cabo.  We went to Cabo on our honeymoon and the next year went to Maui for a do over"
+54288,best medicine for a cold,"I eat a lot of raw habanero peppers, they're loaded with vitamin c and I've read that capsaicin has a lot of health benefits. Also i load up on vitamin d3.  I've heard oregano oil is supposed to act as an antiviral and my friend swears by it but i have never tried it.  
 
-Warning: habaneros are not recommended for weak people",best medicine for a cold
-7901,"Lenovo Legion 5 will be out in March and ""starts at $769"". No idea what the specs will be at that price though. Demand for it will surely be high and availability low.",best laptop for general use
-67245,"No they are not errors in the request. The server is giving a valid response. I as a dev determine if that is an error.
+Warning: habaneros are not recommended for weak people"
+7901,best laptop for general use,"Lenovo Legion 5 will be out in March and ""starts at $769"". No idea what the specs will be at that price though. Demand for it will surely be high and availability low."
+67245,axios alternatives reddit,"No they are not errors in the request. The server is giving a valid response. I as a dev determine if that is an error.
 
 I’ll explain the 404 example a bit better. You could design your REST api in a way that it returns a 404 if a resource is not found. This should not be handled by throwing an error in your app. The dev should write the logic to deal with this.
 
@@ -20,21 +20,21 @@ So every response the server gives is a valid response. Depending on the respons
 
 An actual error with the request, coming from the network or fetch itself, that should throw an error by default. Not valid responses.
 
-If you want all non-200 responses to automatically throw an error you can make a simple wrapper yourself for that behaviour. It should however not be default in my opinion, and that is why I prefer fetch.",axios alternatives reddit
-12249,Klikel Ingrid 8-piece Whiskey Set,best gifts for dad
-53076,"Fuck it, this place sucks off death grips and that shit sounds like amplified static and random noises thrown together.",best hiphop album
-31986,"Best Westerns have different categories (Plus, Premier, etc.) Amenities and service levels vary a lot depending on the type of property.",best hotel to live in
-35027,"Brady has the rings, but the stats are equal with the best of his own generation. Rice is beating guys 30 years later and he was in a much run heavier league. Insane.",best NFL player
-46799,"This is amusing to me.  After the swine flu 'outbreak' last spring, my university ordered and delivered Purell hand sanitizer stations to the entrances of each building on campus.
+If you want all non-200 responses to automatically throw an error you can make a simple wrapper yourself for that behaviour. It should however not be default in my opinion, and that is why I prefer fetch."
+12249,best gifts for dad,Klikel Ingrid 8-piece Whiskey Set
+53076,best hiphop album,"Fuck it, this place sucks off death grips and that shit sounds like amplified static and random noises thrown together."
+31986,best hotel to live in,"Best Westerns have different categories (Plus, Premier, etc.) Amenities and service levels vary a lot depending on the type of property."
+35027,best NFL player,"Brady has the rings, but the stats are equal with the best of his own generation. Rice is beating guys 30 years later and he was in a much run heavier league. Insane."
+46799,best hand santizer brand,"This is amusing to me.  After the swine flu 'outbreak' last spring, my university ordered and delivered Purell hand sanitizer stations to the entrances of each building on campus.
 
-In Microbiology this semester, we tested various antiseptics and disinfectants to test their antimicrobial ability.  In addition to these, we tested an 'unknown', which we later found to be the Purell hand sanitizer.  In short, Scope is the best antiseptic, 409 and anything containing 'alkyl dimethyl benzyl ammonium chloride' as an active ingredient are the best disinfectants.  Also worth noting, the Purell was the worst antimicrobial agent tested.",best hand santizer brand
-5318,"[woodworker express](http://woodworkerexpress.com/) is great for cabinet parts, inserts, pulls, hinges etc at the best prices I've seen. Blum complex mechanisms all over the place. The very cheapest place I've found for rev a shelf components. 
+In Microbiology this semester, we tested various antiseptics and disinfectants to test their antimicrobial ability.  In addition to these, we tested an 'unknown', which we later found to be the Purell hand sanitizer.  In short, Scope is the best antiseptic, 409 and anything containing 'alkyl dimethyl benzyl ammonium chloride' as an active ingredient are the best disinfectants.  Also worth noting, the Purell was the worst antimicrobial agent tested."
+5318,best home improvement store,"[woodworker express](http://woodworkerexpress.com/) is great for cabinet parts, inserts, pulls, hinges etc at the best prices I've seen. Blum complex mechanisms all over the place. The very cheapest place I've found for rev a shelf components. 
 
-If you find better prices elsewhere please advise.",best home improvement store
-39493,Not found.,best web browser
-22750,and very intelligent too.,best celebrity
-43874,I'm literally using a chromecast to type this out.  You can view anything on  the chrome browser onto your tv.  When you set it up it'll tell you to download the extension (which appears next to your url bar) and you click that and Bam! whatever you have on chrome goes to your tv and is pretty instant.  IDK what everyone else is talking about,best items under $100
-35781,"Except for like, the bad decisions.",best alcoholic drink
-59702,how does it smells like ?,best perfume
-68672,i love the RS setting and the societies that emerge from it. i just think that the books concentrate too much on the minutiae of things and cover the bigger plot points almost as afterthoughts. Absolution Gap is a good example of that.,best science fiction novel
-52118,[Corners 4.](http://www.corners4.com),best iphone case
+If you find better prices elsewhere please advise."
+39493,best web browser,Not found.
+22750,best celebrity,and very intelligent too.
+43874,best items under $100,I'm literally using a chromecast to type this out.  You can view anything on  the chrome browser onto your tv.  When you set it up it'll tell you to download the extension (which appears next to your url bar) and you click that and Bam! whatever you have on chrome goes to your tv and is pretty instant.  IDK what everyone else is talking about
+35781,best alcoholic drink,"Except for like, the bad decisions."
+59702,best perfume,how does it smells like ?
+68672,best science fiction novel,i love the RS setting and the societies that emerge from it. i just think that the books concentrate too much on the minutiae of things and cover the bigger plot points almost as afterthoughts. Absolution Gap is a good example of that.
+52118,best iphone case,[Corners 4.](http://www.corners4.com)

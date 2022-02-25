@@ -1,7 +1,7 @@
-idx,text,query
-16820,Try a plush toy dog.,best pet for toddlers
-48162,That must be exhausting.,best color to paint with
-23043,"I met Harrison Ford at Disneyland when I was 6 years old. I have only vague memories of that day, but according to my parents, he was standing behind us in line with his wife waiting to buy popcorn.
+idx,query,text
+16820,best pet for toddlers,Try a plush toy dog.
+48162,best color to paint with,That must be exhausting.
+23043,best celebrity,"I met Harrison Ford at Disneyland when I was 6 years old. I have only vague memories of that day, but according to my parents, he was standing behind us in line with his wife waiting to buy popcorn.
   
 My dad hadn't notice him and was faced away with me resting on his shoulder. I guess we made eye contact and I reached out with my bag of M&Ms to offer him some.
   
@@ -9,21 +9,21 @@ According to my parents he said, ""thanks, kid. I'm good,"" at which point my mo
   
 Later that year, we went to see Indiana Jones and the Last Crusade, and I spent the entire movie freaking out at the fact that I had met Indiana Jones. And once in a while, I'll be watching Star Wars or Temple of Doom, and he'll call someone ""kid,"" and I'll get a big smile on my face.
   
-TL;DR: When I was a little kid, I offered Harrison Ford some M&M's and he spoke some words at me.",best celebrity
-64144,https://flibusta.site for my Russian-speaking comrades.,best place to pirate audiobooks reddit
-67840,"You are nearly there, although there are hints you missed, it is a big damn book.",best science fiction novel
-44346,Or just get a microfiber duvet for you existing comforter.,best items under $100
-33168,Why would you need an energy drink at an amusement park? Wouldn't the rollercoasters provide energy naturally for you?,best energy drink
-26311,Ron Paul,best politician
-19731,David blain Street Magic (the spoof),best YouTube video
-64394,Chrome and VLC can be found by going to Google and searching for their websites.,best place to pirate mac apps reddit
-70568,"Depends on where you live a bit, but internet related technologies. So information technology, computer science, networking, etc. A CS grad w a couple decent internships under their belt typically lands a healthy salary in any tech friendly city. Bay area most likely 100k on day 1.",best major to study in college
-64217,Thanks bruv,best place to pirate audiobooks reddit
-7645,"I mean that the people selling it on Amazon for $700+ currently are third parties. When Amazon themselves are selling it (aka, not third parties, directly from Amazon), they will sell it for $600. It is only on Amazon.",best laptop for general use
-30794,"Worst thing about Iceland is definitely the weather. It's easy to say ""no big deal"" but when you are confronted with rain and extreme wind day after day after day it gets tired real quickly. I see people complain about weather in UK, that is nothing, that is fucking paradise compared to Iceland.",best country to live in
-59059,Love this one,best perfume
-13492,"Also, apart from all the advice given here, if you know the area and the author(s) of the paper, you can look at their websites (University or research organization websites) and they usually have their papers available for download.",best research paper archive
-23224,"I haven't seen it yet, but I see a lot of fear mongering about social media which I feel is unjustified. Social media like other forms of media before it, like print, radio, TV, etc. is a platform to share information. Before social media became mainstream, you could still share information on the internet through other forums (I used to hang out on IRC). People can still distribute misinformation by making their own website and others can find it through search engines. Just as with social media, there is tons of misinformation and manipulation on other platforms and types of media. You'll get it with whenever people are involved. Yet there aren't any calls to clean up misinformation on the radio, there aren't calls to ban TV networks for spreading lies. They aren't talking about banning websites with fake news from DNS or hold their hosting providers responsible for it. So why is social media being held to a higher standard?
+TL;DR: When I was a little kid, I offered Harrison Ford some M&M's and he spoke some words at me."
+64144,best place to pirate audiobooks reddit,https://flibusta.site for my Russian-speaking comrades.
+67840,best science fiction novel,"You are nearly there, although there are hints you missed, it is a big damn book."
+44346,best items under $100,Or just get a microfiber duvet for you existing comforter.
+33168,best energy drink,Why would you need an energy drink at an amusement park? Wouldn't the rollercoasters provide energy naturally for you?
+26311,best politician,Ron Paul
+19731,best YouTube video,David blain Street Magic (the spoof)
+64394,best place to pirate mac apps reddit,Chrome and VLC can be found by going to Google and searching for their websites.
+70568,best major to study in college,"Depends on where you live a bit, but internet related technologies. So information technology, computer science, networking, etc. A CS grad w a couple decent internships under their belt typically lands a healthy salary in any tech friendly city. Bay area most likely 100k on day 1."
+64217,best place to pirate audiobooks reddit,Thanks bruv
+7645,best laptop for general use,"I mean that the people selling it on Amazon for $700+ currently are third parties. When Amazon themselves are selling it (aka, not third parties, directly from Amazon), they will sell it for $600. It is only on Amazon."
+30794,best country to live in,"Worst thing about Iceland is definitely the weather. It's easy to say ""no big deal"" but when you are confronted with rain and extreme wind day after day after day it gets tired real quickly. I see people complain about weather in UK, that is nothing, that is fucking paradise compared to Iceland."
+59059,best perfume,Love this one
+13492,best research paper archive,"Also, apart from all the advice given here, if you know the area and the author(s) of the paper, you can look at their websites (University or research organization websites) and they usually have their papers available for download."
+23224,best social networking site for CS,"I haven't seen it yet, but I see a lot of fear mongering about social media which I feel is unjustified. Social media like other forms of media before it, like print, radio, TV, etc. is a platform to share information. Before social media became mainstream, you could still share information on the internet through other forums (I used to hang out on IRC). People can still distribute misinformation by making their own website and others can find it through search engines. Just as with social media, there is tons of misinformation and manipulation on other platforms and types of media. You'll get it with whenever people are involved. Yet there aren't any calls to clean up misinformation on the radio, there aren't calls to ban TV networks for spreading lies. They aren't talking about banning websites with fake news from DNS or hold their hosting providers responsible for it. So why is social media being held to a higher standard?
 
 What social media has achieved is to lower the barrier to entry, so instead of a few big moneyed interests anyone can have their voice heard. Instead of having to spend a ton of money on a TV ad, anyone can create a simple ad on these platforms and reach customers. Instead of having to hire someone to create a website for you use social media to advocate for your cause.
 
@@ -31,18 +31,18 @@ News websites feeds on bad news. They focus on the negative aspects of pretty mu
 
 Could social media platforms do more to police themselves? Sure but think about the volume of data going through those platforms. Even if those systems catches 99.9% of bad actors, there will be still millions of pieces of bad information. Think about how you can respect people's privacy while ensuring their security. It's actually a conflicting requirement. 
 
-So personally, I don't feel bad about my work. I also get to see much more positive feedback (through you know -all- the feedback instead of just the cherry-picked stuff the news shows you). It's not like the people here aren't aware of the problems, they are just very hard to solve and mistakes will be made. As with most programming jobs you'll find that people fuck shit up all the time and you can either go complain about it or work on fixing it.",best social networking site for CS
-19173,"In a similar vein, woman falls asleep during concert. https://youtu.be/WnMv6-XTROY",best YouTube video
-233,"I'm using ranger, because image previews worked out of the box. I mean, I have skills to make it work in others, but I was just oo lazy.",best terminal file manager reddit
-23731,"Nascar 2003
+So personally, I don't feel bad about my work. I also get to see much more positive feedback (through you know -all- the feedback instead of just the cherry-picked stuff the news shows you). It's not like the people here aren't aware of the problems, they are just very hard to solve and mistakes will be made. As with most programming jobs you'll find that people fuck shit up all the time and you can either go complain about it or work on fixing it."
+19173,best YouTube video,"In a similar vein, woman falls asleep during concert. https://youtu.be/WnMv6-XTROY"
+233,best terminal file manager reddit,"I'm using ranger, because image previews worked out of the box. I mean, I have skills to make it work in others, but I was just oo lazy."
+23731,best car racing video game,"Nascar 2003
 
 Richard Burn Rally
 
 Race  07
 
-not true to form racing but loads of fun Burnout 3",best car racing video game
-4284,Emacs is perfectly happy on Windows.,best text editor
-45889,Avoid anything fun sized. ESPECIALLY avoid those fruit flavored tootsie rolls. If you buy those you might as well be handing out cough drops.,best trick or treating candy
-8770,"Not a dental professional, but after browsing the dentistry subreddit, I came across some discussions on abrasive toothpastes and the like, and you should take a look at [This Chart](https://preview.redd.it/5t02mtxz4r161.jpg?width=2317&format=pjpg&auto=webp&s=5f6906fe985cbb23c34f3d27e781fe565cda7fb0). Pretty much every dentist in the forum said to avoid anything that's more abrasive than midway through the green section. You'll also note that pastes in the red section are actually considered to be actively harmful to the teeth. Close Up with Baking Soda is halfway through the yellow section -- It's just far too abrasive.",best toothpaste
-48405,"I think the floor would look better with a paint color that has cooler undertones. It seems like it's clashing with the current warm color. We wanted white for our main living space that wasn't too cold or off-colored and we LOVE the shade we chose--Benjamin Moore simply white. It has slightly green and brown undertones that you can't really see just looking at it, but it looks amazing with wood and plants.",best color to paint with
-20094,Head bent over,best workout music
+not true to form racing but loads of fun Burnout 3"
+4284,best text editor,Emacs is perfectly happy on Windows.
+45889,best trick or treating candy,Avoid anything fun sized. ESPECIALLY avoid those fruit flavored tootsie rolls. If you buy those you might as well be handing out cough drops.
+8770,best toothpaste,"Not a dental professional, but after browsing the dentistry subreddit, I came across some discussions on abrasive toothpastes and the like, and you should take a look at [This Chart](https://preview.redd.it/5t02mtxz4r161.jpg?width=2317&format=pjpg&auto=webp&s=5f6906fe985cbb23c34f3d27e781fe565cda7fb0). Pretty much every dentist in the forum said to avoid anything that's more abrasive than midway through the green section. You'll also note that pastes in the red section are actually considered to be actively harmful to the teeth. Close Up with Baking Soda is halfway through the yellow section -- It's just far too abrasive."
+48405,best color to paint with,"I think the floor would look better with a paint color that has cooler undertones. It seems like it's clashing with the current warm color. We wanted white for our main living space that wasn't too cold or off-colored and we LOVE the shade we chose--Benjamin Moore simply white. It has slightly green and brown undertones that you can't really see just looking at it, but it looks amazing with wood and plants."
+20094,best workout music,Head bent over

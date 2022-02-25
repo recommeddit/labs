@@ -1,30 +1,30 @@
-idx,text,query
-55839,The Fifth Element.,best action and adventure movie
-22266,"The Birdman looks like he'd be a [huge douche](http://splog.nationallampoon.com/files/2009/05/chris-andersen.jpg) but from everything I've heard about him he's one of the nicest, most respectful players in the NBA.  They did some NBA Insider thing on him once and I was blown away.  I've been a big fan of him ever since, even though I hate the Nuggets.",best celebrity
-69614,"""I'm going to be the first person to get a PhD in Undeclared"" - xkcd",best major to study in college
-38243,Excellent read.  Good find.,best newspapers to read
-33201,"Sure! Yes, the main thing is that you have ample access to an outlet or charging station. 
+idx,query,text
+55839,best action and adventure movie,The Fifth Element.
+22266,best celebrity,"The Birdman looks like he'd be a [huge douche](http://splog.nationallampoon.com/files/2009/05/chris-andersen.jpg) but from everything I've heard about him he's one of the nicest, most respectful players in the NBA.  They did some NBA Insider thing on him once and I was blown away.  I've been a big fan of him ever since, even though I hate the Nuggets."
+69614,best major to study in college,"""I'm going to be the first person to get a PhD in Undeclared"" - xkcd"
+38243,best newspapers to read,Excellent read.  Good find.
+33201,best electric car,"Sure! Yes, the main thing is that you have ample access to an outlet or charging station. 
 
 https://www.geotab.com/blog/ev-battery-health/
 
 With a modern liquid-cooled battery (like in the cars you’re looking at), I wouldn’t worry too much about DCFC or the impact of weather. Anecdotally, I have nearly 100 sessions with virtually no degradation. 
 
-The main point is convenience. Having your own outlet removes a major annoyance of car ownership.",best electric car
-20569,Ska is pretty great! Like Reel Big Fish and the Mighty Mighty Bossatones!,best workout music
-31538,Breakfast buffet,best hotel to live in
-72109,"[Spoiler](/s ""Rosebud was his mother."")",best movies with a cool twist
-8428,"I'm very curious -- are there clear results? What provoked you to say it's ""unbelievable?""",best toothpaste
-17411,Gems of war - BTD6,best iOS game
-10466,How do guys that go on hunting trips to SA or Africa get their guns to come with them? Ship it via FedEx? Or do you just rent one from the group you are traveling with?,best suitcase lock
-28131,"Low carbs, high fat. Eggs & bacon with a glass of milk.",best breakfast foods
-20367,"Excision's yearly mixes are the shit bro. Also any mix from the never say die label. Mixes are just the way to go in the gym for me, the constant drops keep the intensity up like a normal song can't.",best workout music
-52638,Pauls Botique,best hiphop album
-37612,"Age of Ultron is poo poo
+The main point is convenience. Having your own outlet removes a major annoyance of car ownership."
+20569,best workout music,Ska is pretty great! Like Reel Big Fish and the Mighty Mighty Bossatones!
+31538,best hotel to live in,Breakfast buffet
+72109,best movies with a cool twist,"[Spoiler](/s ""Rosebud was his mother."")"
+8428,best toothpaste,"I'm very curious -- are there clear results? What provoked you to say it's ""unbelievable?"""
+17411,best iOS game,Gems of war - BTD6
+10466,best suitcase lock,How do guys that go on hunting trips to SA or Africa get their guns to come with them? Ship it via FedEx? Or do you just rent one from the group you are traveling with?
+28131,best breakfast foods,"Low carbs, high fat. Eggs & bacon with a glass of milk."
+20367,best workout music,"Excision's yearly mixes are the shit bro. Also any mix from the never say die label. Mixes are just the way to go in the gym for me, the constant drops keep the intensity up like a normal song can't."
+52638,best hiphop album,Pauls Botique
+37612,best Marvel movie,"Age of Ultron is poo poo
 
-But yeah, I don’t like Age of Ultron either, but I like it better than The Avengers, Captain Marvel, and a lot of the Phase One films at least.",best Marvel movie
-247,[https://github.com/isene/RTFM](https://github.com/isene/RTFM),best terminal file manager reddit
-73114,AUR and up to date native packages...,best Linux distro
-39177,"Safety:
+But yeah, I don’t like Age of Ultron either, but I like it better than The Avengers, Captain Marvel, and a lot of the Phase One films at least."
+247,best terminal file manager reddit,[https://github.com/isene/RTFM](https://github.com/isene/RTFM)
+73114,best Linux distro,AUR and up to date native packages...
+39177,best web browser,"Safety:
 
 On phones: Duck Duck Go (legit browser)
 
@@ -34,15 +34,15 @@ Speed:
 
 On Phones: UC Browser (personaly my favourite because of its features)
 
-On PC: Chrome (fast but really not the safest...)",best web browser
-57093,My city's water is so soft that they had to put in extra minerals to make it harder,best water brand
-10222,Do i look rich to you i cant afford that,best pencil for drawing
-46575,"I dunno about how accurate this guide is.
+On PC: Chrome (fast but really not the safest...)"
+57093,best water brand,My city's water is so soft that they had to put in extra minerals to make it harder
+10222,best pencil for drawing,Do i look rich to you i cant afford that
+46575,best trick or treating candy,"I dunno about how accurate this guide is.
 
-But I tried PB M&Ms a few weeks ago and can confirm it's the best gosh darn candy in the land.",best trick or treating candy
-34615,"The most important person is the head coach. If we're detracting from Rice for having Hall of Fame QBs for most his career, then you should detract from Brady for having Hall of Fame coaching most of his career
+But I tried PB M&Ms a few weeks ago and can confirm it's the best gosh darn candy in the land."
+34615,best NFL player,"The most important person is the head coach. If we're detracting from Rice for having Hall of Fame QBs for most his career, then you should detract from Brady for having Hall of Fame coaching most of his career
 
-If you're looking at this without a positional bias for QBs, Jerry Rice is the obvious #1 player in NFL history.",best NFL player
-49567,Had a 144hz since 2018 and would never go to anything lower again. Only bad thing now is If my framerate drops below like 80 it feels really choppy to me lol.,best gaming monitor
-24358,"TTGL used to be #1 on MAL, back in 2007-2008.",best anime
-39234,I'd say firefox but just yesterday I installed brave in both my laptop and mobile and feeling good about it.. Haven't tried the bookmarks sync and etc... But it gives me bat tokens for watching ads. Give it a try.,best web browser
+If you're looking at this without a positional bias for QBs, Jerry Rice is the obvious #1 player in NFL history."
+49567,best gaming monitor,Had a 144hz since 2018 and would never go to anything lower again. Only bad thing now is If my framerate drops below like 80 it feels really choppy to me lol.
+24358,best anime,"TTGL used to be #1 on MAL, back in 2007-2008."
+39234,best web browser,I'd say firefox but just yesterday I installed brave in both my laptop and mobile and feeling good about it.. Haven't tried the bookmarks sync and etc... But it gives me bat tokens for watching ads. Give it a try.

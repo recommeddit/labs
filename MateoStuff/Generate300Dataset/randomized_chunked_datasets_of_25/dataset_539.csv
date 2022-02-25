@@ -1,16 +1,16 @@
-idx,text,query
-53631,"This is probably gonna get buried, but you should add a liver warning on acetaminophen. It is **incredibly** toxic if you can't properly metabolize it, and should **never** be taken within 24hrs of alcohol or if you have impaired liver function.
+idx,query,text
+53631,best medicine for a cold,"This is probably gonna get buried, but you should add a liver warning on acetaminophen. It is **incredibly** toxic if you can't properly metabolize it, and should **never** be taken within 24hrs of alcohol or if you have impaired liver function.
 
-It is a seriously dangerous chemical that people treat like candy.",best medicine for a cold
-6119,This is 1 of 12. I’m confused. Does it look similar to his doc?,best Netflix documentary
-45619,He lives in the United Arab Emirates where wages can be much lower than minimum wage in the US,best gaming system
-509,"OK. Some software has a presentation mode (Powerpoint, Acrobat), that only shows the slides. I don't know if those modes ever work for asynchronous video production.",best mac app to annotate pdf with wacom tablet reddit
-5971,"If you like Python, stay on it. Otherwise Go might be the best choice for web backends and standalone software.",best programming language for web development
-16806,Thank you very much for such an insightful reply. I made her read this comment and many others... I think I am in the clear now.. Don't think she is as adamant about a dog. Thanks again!,best pet for toddlers
-52966,that freddie gibbs album any good? never heard his stuff,best hiphop album
-35742,You sound like my kind of drinking buddy.,best alcoholic drink
-65109,"Also there is this boba place in iv, cant remmebr the name, but it was really nice. A popular place to go is also the iv deli to get buffalo chicken fries, its ok in my opinion, but not my fav",best places to eat in Santa Barbara
-70416,"I work at a medium size marketing company (150 employees), only about ten people here have a degree in marketing.  Most of them are MBAs or English majors.
+It is a seriously dangerous chemical that people treat like candy."
+6119,best Netflix documentary,This is 1 of 12. I’m confused. Does it look similar to his doc?
+45619,best gaming system,He lives in the United Arab Emirates where wages can be much lower than minimum wage in the US
+509,best mac app to annotate pdf with wacom tablet reddit,"OK. Some software has a presentation mode (Powerpoint, Acrobat), that only shows the slides. I don't know if those modes ever work for asynchronous video production."
+5971,best programming language for web development,"If you like Python, stay on it. Otherwise Go might be the best choice for web backends and standalone software."
+16806,best pet for toddlers,Thank you very much for such an insightful reply. I made her read this comment and many others... I think I am in the clear now.. Don't think she is as adamant about a dog. Thanks again!
+52966,best hiphop album,that freddie gibbs album any good? never heard his stuff
+35742,best alcoholic drink,You sound like my kind of drinking buddy.
+65109,best places to eat in Santa Barbara,"Also there is this boba place in iv, cant remmebr the name, but it was really nice. A popular place to go is also the iv deli to get buffalo chicken fries, its ok in my opinion, but not my fav"
+70416,best major to study in college,"I work at a medium size marketing company (150 employees), only about ten people here have a degree in marketing.  Most of them are MBAs or English majors.
 
 The best way to make your degree pay off is to not have to pay for it.  Any degree you pay for completely with scholarship money is going to be worth it.
 
@@ -24,19 +24,19 @@ A bachelor's degree in engineering, accounting, finance, nursing (again), statis
 
 A master's degree in pharmacy, physician's assistant, MBA, or any of the master's version of any of the bachelor's degrees.
 
-PhD's aren't worth it if you are just doing it for the money.",best major to study in college
-15143,"Bamboo. Bamboo Garden out of Portland, Oregon area is a great resource and vendor. Free shipping too",best tree for the garden
-56891,Spokane tap water,best water brand
-72004,"Yeah, that twist just came out of fucking nowhere.",best movies with a cool twist
-47226,"if you're on the east coast stop by north carolina and visit charlotte... lots to do here.. including the us national white water center which is a fun place.. they have like zip lines and high ropes courses and stuff.. its freaking awesome! north carolina also has some freaking awesome bbq!! 
-http://usnwc.org/",best state to visit in the United States
-31529,Fiji Sofitel is nice too,best hotel to live in
-57633,"You have to go try them on yourself, and maybe get a friend to come with you. Different scents work for different people.
+PhD's aren't worth it if you are just doing it for the money."
+15143,best tree for the garden,"Bamboo. Bamboo Garden out of Portland, Oregon area is a great resource and vendor. Free shipping too"
+56891,best water brand,Spokane tap water
+72004,best movies with a cool twist,"Yeah, that twist just came out of fucking nowhere."
+47226,best state to visit in the United States,"if you're on the east coast stop by north carolina and visit charlotte... lots to do here.. including the us national white water center which is a fun place.. they have like zip lines and high ropes courses and stuff.. its freaking awesome! north carolina also has some freaking awesome bbq!! 
+http://usnwc.org/"
+31529,best hotel to live in,Fiji Sofitel is nice too
+57633,best cologne,"You have to go try them on yourself, and maybe get a friend to come with you. Different scents work for different people.
 
-People have said they like floral & fresh on me. I've tried the oriental fragrances and they smell like aged piss on me. I use Giorgio Armani ""Acqua di Gio"" simply because I can buy it at Macy's for like 50% off with coupons. Call me basic, it's ok. I like it and it's not offensive to people.",best cologne
-68798,"There is no perfect list unless we each compile our own.     
-The best thing about this PrintSF list is that it's *our* list. Sure the most popular books are all there, Dune, Ender and whatnot, we are only human!",best science fiction novel
-55,"Hah, as much as [I like `ed`](https://twitter.com/ed1conf), I tend to use `sed` for this:
+People have said they like floral & fresh on me. I've tried the oriental fragrances and they smell like aged piss on me. I use Giorgio Armani ""Acqua di Gio"" simply because I can buy it at Macy's for like 50% off with coupons. Call me basic, it's ok. I like it and it's not offensive to people."
+68798,best science fiction novel,"There is no perfect list unless we each compile our own.     
+The best thing about this PrintSF list is that it's *our* list. Sure the most popular books are all there, Dune, Ender and whatnot, we are only human!"
+55,best terminal file manager reddit,"Hah, as much as [I like `ed`](https://twitter.com/ed1conf), I tend to use `sed` for this:
 
     $ ls | sed '…'
 
@@ -45,11 +45,11 @@ if the output commands look right, then pipe them to `sh`:
     $ ls | sed '…' | sh
 
 
-*edit: markdown*",best terminal file manager reddit
-63663,*Getting Things Done* by David Allen,best books for time management reddit
-5721,"To start with: basic HTML, CSS and JS.  
-For the back end: [It depends](https://github.com/kamranahmedse/developer-roadmap)",best programming language for web development
-57222,"Quality is a tricky word. Do you mean purity or something like chemical tuning? The clearest vs the best tasting? Harder or softer? Acidity? Is it quality alone or also price to volume?
+*edit: markdown*"
+63663,best books for time management reddit,*Getting Things Done* by David Allen
+5721,best programming language for web development,"To start with: basic HTML, CSS and JS.  
+For the back end: [It depends](https://github.com/kamranahmedse/developer-roadmap)"
+57222,best water brand,"Quality is a tricky word. Do you mean purity or something like chemical tuning? The clearest vs the best tasting? Harder or softer? Acidity? Is it quality alone or also price to volume?
 
 They do have different “flavors”, the taste of the special blend of minerals added. Some folks prefer the taste of some over others.
 
@@ -65,8 +65,8 @@ My go to was this $2 1.5l high pH with a dark blue and green label, can’t reme
 
 Was it overpriced? Yes. At something like 4.50 per gallon, it was expensive. Was it something I enjoyed? Yes, I prefer my water that way. Did I do it all the time? Hell no, I might get it once a week, when I needed a small pick-me-up at work.
 
-At that point, the water becomes like any other drink: enjoyment or entertainment. It’s no longer just about guzzling sustenance.",best water brand
-19947,"For now, though, Spotify seems like mush less of a hassle than constantly having to shift through stations and skipping. I think I've gone over six months on my Spotify account... No signs of timing just yet. Guess we'll just have to wait and see.",best workout music
-21435,Cheers dude.,best workout music
-5892,Is Node still the hot backend language that is going to eat the competition?,best programming language for web development
-30483,[Second Sino-Japanese War](http://en.wikipedia.org/wiki/Second_Sino-Japanese_War),best Mexican war to study
+At that point, the water becomes like any other drink: enjoyment or entertainment. It’s no longer just about guzzling sustenance."
+19947,best workout music,"For now, though, Spotify seems like mush less of a hassle than constantly having to shift through stations and skipping. I think I've gone over six months on my Spotify account... No signs of timing just yet. Guess we'll just have to wait and see."
+21435,best workout music,Cheers dude.
+5892,best programming language for web development,Is Node still the hot backend language that is going to eat the competition?
+30483,best Mexican war to study,[Second Sino-Japanese War](http://en.wikipedia.org/wiki/Second_Sino-Japanese_War)

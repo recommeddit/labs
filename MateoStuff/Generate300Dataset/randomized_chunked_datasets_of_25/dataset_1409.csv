@@ -1,11 +1,11 @@
-idx,text,query
-13365,Hows the video buffering? Does it lag when you drag the scroll bar or go to another time? PotPlayer is instant and seamless buffering,best spreadsheet editor
-37594,"They're about equal for me, DS is good, but a little flawed with its story and pacing.",best Marvel movie
-41315,"I came here to say piano and acoustic guitar. When I read the comments, I was nodding along. Everyone's opinions here would make for a lovely, interesting, unique symphony.
+idx,query,text
+13365,best spreadsheet editor,Hows the video buffering? Does it lag when you drag the scroll bar or go to another time? PotPlayer is instant and seamless buffering
+37594,best Marvel movie,"They're about equal for me, DS is good, but a little flawed with its story and pacing."
+41315,best instrument to play,"I came here to say piano and acoustic guitar. When I read the comments, I was nodding along. Everyone's opinions here would make for a lovely, interesting, unique symphony.
 
-Someone write the score?",best instrument to play
-21958,he was phenomenal in House MD. love that guy,best celebrity
-62842,"People who I speak to barely know what a confidence interval is and even people who study stats get it wrong because it’s so unintuitive. Seriously, if you say ""its not that credible intervals are easier to understand"" then even you don’t understand the difference. [One is objectively more intuitive](https://youtu.be/KhAUfqhLakw?t=1250) and people always mix up one for the other. Guess which one that is?
+Someone write the score?"
+21958,best celebrity,he was phenomenal in House MD. love that guy
+62842,Best Data Science textbook,"People who I speak to barely know what a confidence interval is and even people who study stats get it wrong because it’s so unintuitive. Seriously, if you say ""its not that credible intervals are easier to understand"" then even you don’t understand the difference. [One is objectively more intuitive](https://youtu.be/KhAUfqhLakw?t=1250) and people always mix up one for the other. Guess which one that is?
 
 The only difficulty is that bayesian stats requires a lot more background and time to understand and learn completely. The calculations are also a little more involved. (This is only true if you are using MCMC, also, while deep learning is king nobody can complain about high computational requirements being an issue.) But once you do all of that then you're left with something that's easier to communicate to everyone.
 
@@ -13,8 +13,8 @@ And yes, I need to explain stuff to people with no/limited stats knowledge.
 
 You use bayesian in the case where you can’t run large experiments and you don’t have a lot of data and there’s a lot of uncertainty. Using a bayesian analysis you can quantify all of that uncertainty and still make informed decisions under such conditions.
 
-You're thinking about this wrong if you think this is Bayesian vs XGBoost, because you would use these tools under different circumstances!",Best Data Science textbook
-6745,"iPhone 4. Gorgeously engineered, retina display was incredible, HD video and 5mp photos were incredible.
+You're thinking about this wrong if you think this is Bayesian vs XGBoost, because you would use these tools under different circumstances!"
+6745,best iPhone,"iPhone 4. Gorgeously engineered, retina display was incredible, HD video and 5mp photos were incredible.
 
 ... no, iPhone 5. LTE was incredible, tall screen was dope.
 
@@ -26,31 +26,31 @@ You're thinking about this wrong if you think this is Bayesian vs XGBoost, becau
 
 
 
-... no, iPhone 4. I've not loved any phone as much as I loved that phone.",best iPhone
-20810,Knife in the Safe Room by Darkest Hour is great too. Balls to the wall metal.,best workout music
-1382,"Ben and Jerry's used to make a flavor called Holy Cannoli, and it was fantastic. I haven't seen it in a long time, though, so it might be retired.",best ice cream flavor
-42720,"Nice! I was sad when I was done w/the series because it was so good! I really liked Goliath, the Fall was pretty good, the Night Of, Sinner season 1.",best detective show
-33091,upvoted for kombucha awareness.,best energy drink
-58083,"I can see the ad now...
+... no, iPhone 4. I've not loved any phone as much as I loved that phone."
+20810,best workout music,Knife in the Safe Room by Darkest Hour is great too. Balls to the wall metal.
+1382,best ice cream flavor,"Ben and Jerry's used to make a flavor called Holy Cannoli, and it was fantastic. I haven't seen it in a long time, though, so it might be retired."
+42720,best detective show,"Nice! I was sad when I was done w/the series because it was so good! I really liked Goliath, the Fall was pretty good, the Night Of, Sinner season 1."
+33091,best energy drink,upvoted for kombucha awareness.
+58083,best cologne,"I can see the ad now...
 
-Dior Sausage - Let her know what's on the menu.",best cologne
-41601,Definitely Vanilla Sky. I've seen both and I gotta say that Penelope Cruz is much more likeable as a ballet dancer than as a mime.,movies like Inception
-11180,I love my Jansport! i have had it since my freshman year of high school and i am not in my senior year of college. It has been through a lot but it still pretty much looks like new! They are a great brand!,best backpack for college
-60588,Norsemen is hilarious,Best comedy show on Netflix
-50884,"Lil Yachty - Lil Boat
+Dior Sausage - Let her know what's on the menu."
+41601,movies like Inception,Definitely Vanilla Sky. I've seen both and I gotta say that Penelope Cruz is much more likeable as a ballet dancer than as a mime.
+11180,best backpack for college,I love my Jansport! i have had it since my freshman year of high school and i am not in my senior year of college. It has been through a lot but it still pretty much looks like new! They are a great brand!
+60588,Best comedy show on Netflix,Norsemen is hilarious
+50884,best rap album,"Lil Yachty - Lil Boat
 
 
-[it's the best](http://media4.s-nbcnews.com/j/msnbc/components/video/201609/a_ov_pepe_160928.nbcnews-ux-1080-600.jpg)",best rap album
-47494,I enjoyed the bum poop surprise on the sidewalks,best state to visit in the United States
-44896,"Whenever this question comes up on reddit i am reminded that electric kettles (jugs) are not part of the basic ""moving into your own place"" checklist for americans.
+[it's the best](http://media4.s-nbcnews.com/j/msnbc/components/video/201609/a_ov_pepe_160928.nbcnews-ux-1080-600.jpg)"
+47494,best state to visit in the United States,I enjoyed the bum poop surprise on the sidewalks
+44896,best items under $100,"Whenever this question comes up on reddit i am reminded that electric kettles (jugs) are not part of the basic ""moving into your own place"" checklist for americans.
 
-I dont think i know any australians who don't have at the very least a $10 jug from kmart.",best items under $100
-64624,"I had to exchange them within the 1 month window. Got a pair of Asics Nimbus 22 instead. They are a bit boring and heavy, but comfort is fine.",Best Nike running shoes
-29941,"I like Daily Budget. I have an Excel sheet for my full finances and have figured out my allowance for discretionary spending there. I put that in Daily Budget and it divides that monthly amount into an accruing daily allowance. I have to add purchases manually but I've gotten into the habit so it's not that annoying anymore. If I make a big purchase and my balance goes negative, the next time I want to buy something I see that value and do a double-check if I really, really need to make the purchase now or if it can wait. It's worked really well for me.",best money managing app
-37545,Hershey reeeeally needed floater air. Like Comet was it in terms of floater before CM.,best amusement park
-52743,Life after death,best hiphop album
-34015,Black 2/White 2. There’s so much content and detail put into them. I recommend playing Black/White first if you want to understand the story better and get some extra content in B2/W2 for completing it.,best Pokemon game
-26287,"Thanks,
+I dont think i know any australians who don't have at the very least a $10 jug from kmart."
+64624,Best Nike running shoes,"I had to exchange them within the 1 month window. Got a pair of Asics Nimbus 22 instead. They are a bit boring and heavy, but comfort is fine."
+29941,best money managing app,"I like Daily Budget. I have an Excel sheet for my full finances and have figured out my allowance for discretionary spending there. I put that in Daily Budget and it divides that monthly amount into an accruing daily allowance. I have to add purchases manually but I've gotten into the habit so it's not that annoying anymore. If I make a big purchase and my balance goes negative, the next time I want to buy something I see that value and do a double-check if I really, really need to make the purchase now or if it can wait. It's worked really well for me."
+37545,best amusement park,Hershey reeeeally needed floater air. Like Comet was it in terms of floater before CM.
+52743,best hiphop album,Life after death
+34015,best Pokemon game,Black 2/White 2. There’s so much content and detail put into them. I recommend playing Black/White first if you want to understand the story better and get some extra content in B2/W2 for completing it.
+26287,best politician,"Thanks,
 
 I didn't include /r/RPA at first because I excluded subreddits that haven't been active in the last month, but I guess this is going to be a list that needs some flexibility, so I added it. I already had /r/USpolitics, but missed /r/politics_new, thanks for that.
 
@@ -58,10 +58,10 @@ I also added the candidates subreddits, thanks for the suggestion, even though t
 
 Any help would be appreciated.
 
-I should also add for others reading this, that I used [RedditList](http://redditlist.com/dir/1898/Politics), as well as the other lists (and some legwork) and most of the categories are sorted by number of subscribers, but there are bound to be mistakes, so if anyone notices any just give me a heads up.",best politician
-46783,"I was gonna come say this, but not only did you say it first, you also cited a source.
+I should also add for others reading this, that I used [RedditList](http://redditlist.com/dir/1898/Politics), as well as the other lists (and some legwork) and most of the categories are sorted by number of subscribers, but there are bound to be mistakes, so if anyone notices any just give me a heads up."
+46783,best hand santizer brand,"I was gonna come say this, but not only did you say it first, you also cited a source.
 
-pwned.",best hand santizer brand
-53379,">https://www.newnex.com/usb-type-c-products.php
+pwned."
+53379,best usb c charging cable,">https://www.newnex.com/usb-type-c-products.php
 
-I too would be curious to voltage drop for longer cables",best usb c charging cable
+I too would be curious to voltage drop for longer cables"

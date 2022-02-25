@@ -1,7 +1,7 @@
-idx,text,query
-38462,I subscribe to the Wed and Sun Oklahoman. You do find interesting local articles (from things to do to offbeat news) that I don't think I'd find otherwise.,best newspapers to read
-22195,I'm sure anyone who drinks as much as he does gets called a dick from time to time but he went out of his way to be nice to us.,best celebrity
-37917,"I like your list, it's quite different to mine, but is very unique. Mine currently goes something like:
+idx,query,text
+38462,best newspapers to read,I subscribe to the Wed and Sun Oklahoman. You do find interesting local articles (from things to do to offbeat news) that I don't think I'd find otherwise.
+22195,best celebrity,I'm sure anyone who drinks as much as he does gets called a dick from time to time but he went out of his way to be nice to us.
+37917,best Marvel movie,"I like your list, it's quite different to mine, but is very unique. Mine currently goes something like:
 
 Captain America: The Winter Soldier
 
@@ -41,21 +41,21 @@ Iron Man 2
 
 Ant-man and the Wasp
 
-Thor: The Dark World",best Marvel movie
-15026,"For historical romance, I keep on rereading “Devil in Winter” by Lisa Kleypas and “The Duchess Deal: Girl Meets Duke” by Tessa Dare.",best romantic novel
-24074,"Imma try out Tasogare Otome x Amnesia from your MAL, I hope your tastes are good",best anime
-39352,Actually no. Not American. Used to think it was stars and stripes forever as a kid ... but not these days,best web browser
-57837,Ermenegildo Zegna,best cologne
-56366,"&#x200B;
+Thor: The Dark World"
+15026,best romantic novel,"For historical romance, I keep on rereading “Devil in Winter” by Lisa Kleypas and “The Duchess Deal: Girl Meets Duke” by Tessa Dare."
+24074,best anime,"Imma try out Tasogare Otome x Amnesia from your MAL, I hope your tastes are good"
+39352,best web browser,Actually no. Not American. Used to think it was stars and stripes forever as a kid ... but not these days
+57837,best cologne,Ermenegildo Zegna
+56366,best desktop monitor,"&#x200B;
 
-agree completely",best desktop monitor
-9390,"As someone who goes to the dentist, they've never told me to floss. I barely every floss. Maybe once each few months, to catch a particularly stubborn piece, but apparently, my teeth are just fine. Not saying flossing is not important, but maybe I'm a _really_ good brusher?",best toothpaste
-10678,"Sure, throw a few meters more of completely unnecessary plastic out into the world that you are ""using"" for a couple hours.",best suitcase lock
-69071,"I was looking down this comments for help with my top 3, and I think this is exactly my list haha.",best science fiction novel
-62851,Ah I see. Makes sense.,Best Data Science textbook
-66939,Yes and France won two. I'll admit that they aren't far apart in their performances but for me France has just been slightly better in football history.,best soccer team in the world
-22361,He was in my town in NY shooting something for Netflix a few years ago. When he was done for the day he went down to the local park and started playing pickup games of basketball with people.,best celebrity
-36848,"1. X2 @ SFMM
+agree completely"
+9390,best toothpaste,"As someone who goes to the dentist, they've never told me to floss. I barely every floss. Maybe once each few months, to catch a particularly stubborn piece, but apparently, my teeth are just fine. Not saying flossing is not important, but maybe I'm a _really_ good brusher?"
+10678,best suitcase lock,"Sure, throw a few meters more of completely unnecessary plastic out into the world that you are ""using"" for a couple hours."
+69071,best science fiction novel,"I was looking down this comments for help with my top 3, and I think this is exactly my list haha."
+62851,Best Data Science textbook,Ah I see. Makes sense.
+66939,best soccer team in the world,Yes and France won two. I'll admit that they aren't far apart in their performances but for me France has just been slightly better in football history.
+22361,best celebrity,He was in my town in NY shooting something for Netflix a few years ago. When he was done for the day he went down to the local park and started playing pickup games of basketball with people.
+36848,best roller coaster at six flags,"1. X2 @ SFMM
 2. Tatsu @ SFMM
 3. Twisted Colossus @ SFMM
 4. Iron Rattler @ SFFT
@@ -66,14 +66,14 @@ agree completely",best desktop monitor
 9. Apocalypse @ SFMM
 10. New Texas Giant @ SFOT
 
-I’ve only been to the CA and TX Six Flags Parks though.",best roller coaster at six flags
-35430,Ooh I’m intrigued haha wouldn’t have thought of that combo,best alcoholic drink
-68848,Don’t forget Hyperion!,best science fiction novel
-62789,"Stanford has a NLP class with Deep Learning on youtube - [CS 224D](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6). Also if you're looking for non deep learning approaches to text mining, I really enjoyed [Tidy Text Mining with R](https://www.tidytextmining.com/) which is free online. Its a quick read, took me about a week from start to finish and I was able to use their code examples to implement my own analysis.",Best Data Science textbook
-69765,**N A W L I D G E**,best major to study in college
-26523,Mmm...forbidden dessert.,best board games
-47748,It’s definitely difficult to get used to because everything you do on it is done differently than on most other calculators. Generally though I feel like the way things are done on the N-spire are better.,best graphing calculator for vector calculus
-40461,What's your price point.,best midrange GPU
-66573,"Well, Turkish Superlig, maybe.",best soccer team in the world
-51338,"As much as I like the idea of a clear case to show off the phone, I never stick with it due to scratches and blemishes.",best iphone case
-7567,Touchscreen is preferable!,best laptop for general use
+I’ve only been to the CA and TX Six Flags Parks though."
+35430,best alcoholic drink,Ooh I’m intrigued haha wouldn’t have thought of that combo
+68848,best science fiction novel,Don’t forget Hyperion!
+62789,Best Data Science textbook,"Stanford has a NLP class with Deep Learning on youtube - [CS 224D](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6). Also if you're looking for non deep learning approaches to text mining, I really enjoyed [Tidy Text Mining with R](https://www.tidytextmining.com/) which is free online. Its a quick read, took me about a week from start to finish and I was able to use their code examples to implement my own analysis."
+69765,best major to study in college,**N A W L I D G E**
+26523,best board games,Mmm...forbidden dessert.
+47748,best graphing calculator for vector calculus,It’s definitely difficult to get used to because everything you do on it is done differently than on most other calculators. Generally though I feel like the way things are done on the N-spire are better.
+40461,best midrange GPU,What's your price point.
+66573,best soccer team in the world,"Well, Turkish Superlig, maybe."
+51338,best iphone case,"As much as I like the idea of a clear case to show off the phone, I never stick with it due to scratches and blemishes."
+7567,best laptop for general use,Touchscreen is preferable!

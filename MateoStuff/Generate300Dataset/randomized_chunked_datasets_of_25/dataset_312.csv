@@ -1,34 +1,34 @@
-idx,text,query
-66730,How does it look now? Any better than a year ago?,best soccer team in the world
-1146,"*throws arms in the air*
+idx,query,text
+66730,best soccer team in the world,How does it look now? Any better than a year ago?
+1146,best ice cream flavor,"*throws arms in the air*
 
-You're crazy",best ice cream flavor
-27862,"A wonderful dish, but people get pissy when you run the blender in the morning.",best breakfast foods
-22471,"Nice - Vince Vaughn on a plane, he was super nice. Also very doting you his wife and kids. Super tall.
+You're crazy"
+27862,best breakfast foods,"A wonderful dish, but people get pissy when you run the blender in the morning."
+22471,best celebrity,"Nice - Vince Vaughn on a plane, he was super nice. Also very doting you his wife and kids. Super tall.
 
-Rude - Kevin James, he was so condescending and rude to his assistant. Didn’t even acknowledge the fans that wanted to meet him.",best celebrity
-69117,"1. Odyssey One, Evan Currie
+Rude - Kevin James, he was so condescending and rude to his assistant. Didn’t even acknowledge the fans that wanted to meet him."
+69117,best science fiction novel,"1. Odyssey One, Evan Currie
 2. Star Force, B.V. Larsson
-3. The Expanse, James S. A. Corey",best science fiction novel
-20423,"About to PR, first time pulling 5 plates. You're hella psyched up. Tighten your core. Start pulling
+3. The Expanse, James S. A. Corey"
+20423,best workout music,"About to PR, first time pulling 5 plates. You're hella psyched up. Tighten your core. Start pulling
 
-""Do you want more out of your insurance? Call today and visit us online at.....""",best workout music
-5979,"> He was trying to teach us machine learning from day 1 for some reason i dont know.
+""Do you want more out of your insurance? Call today and visit us online at....."""
+5979,best programming language for web development,"> He was trying to teach us machine learning from day 1 for some reason i dont know.
 
-Possibly a resume padder wanting to be able to say ""YEAH I TOTALLY TEACH MACHINE LEARNING TO LIKE 100 STUDENTS""",best programming language for web development
-16898,Oh my fucking god. Your a legend bro. Thank you.,best iOS game
-28701,[south Indian](http://www.papadz.com/images/papadz/dosa.jpg)[Brekkie](http://rpmedia.ask.com/ts?u=/wikipedia/commons/thumb/1/11/Idli_Sambar.JPG/250px-Idli_Sambar.JPG) Rice crepes and rice buns with delish lentil soup and chutneys!,best breakfast foods
-29566,">You also can't play the original on the 360 because the 40 button, 3 stick, 3 pedal controller is required to play, but is not recognized by the 360 as a control device.
+Possibly a resume padder wanting to be able to say ""YEAH I TOTALLY TEACH MACHINE LEARNING TO LIKE 100 STUDENTS"""
+16898,best iOS game,Oh my fucking god. Your a legend bro. Thank you.
+28701,best breakfast foods,[south Indian](http://www.papadz.com/images/papadz/dosa.jpg)[Brekkie](http://rpmedia.ask.com/ts?u=/wikipedia/commons/thumb/1/11/Idli_Sambar.JPG/250px-Idli_Sambar.JPG) Rice crepes and rice buns with delish lentil soup and chutneys!
+29566,best game console,">You also can't play the original on the 360 because the 40 button, 3 stick, 3 pedal controller is required to play, but is not recognized by the 360 as a control device.
 
 Point made. This will be the one game that gets its own category.
 
-Also, screw the ""sequel""",best game console
-64916,Tyger Tyger on Yanonali 💖🐯💖,best places to eat in Santa Barbara
-33231,seriously! Me too. Would love to see a small pickup as an EV.,best electric car
-3309,I started with the Microsoft whatever 3000 and with good light it was acceptable.  One of the most important thing with a webcam is lighting.  You can make cheaper look better with good lighting,best webcamera
-20772,"Bite It, You Scum - GG Allin",best workout music
-41598,No that’s Shrek,movies like Inception
-51125,"Apparently there were no worthwhile recordings prior to about 1950 either.  
+Also, screw the ""sequel"""
+64916,best places to eat in Santa Barbara,Tyger Tyger on Yanonali 💖🐯💖
+33231,best electric car,seriously! Me too. Would love to see a small pickup as an EV.
+3309,best webcamera,I started with the Microsoft whatever 3000 and with good light it was acceptable.  One of the most important thing with a webcam is lighting.  You can make cheaper look better with good lighting
+20772,best workout music,"Bite It, You Scum - GG Allin"
+41598,movies like Inception,No that’s Shrek
+51125,best rap album,"Apparently there were no worthwhile recordings prior to about 1950 either.  
 
 I kinda think it would be more credible if they just stuck to rock.  They don't know shit about jazz.   Look at their 4 token instrumental jazz albums:
 
@@ -39,8 +39,8 @@ I kinda think it would be more credible if they just stuck to rock.  They don't 
 
 Such brave choices.  They include these 4, but no other instrumental jazz out of the other 496 albums.... yikes.
 
-NME should stick to what they know and stop posing.",best rap album
-24154,"Evangelion
+NME should stick to what they know and stop posing."
+24154,best anime,"Evangelion
 
 Kill la kill
 
@@ -50,16 +50,16 @@ Cowboy Bebop
 
 Flcl
 
-Samurai Champloo",best anime
-8484,"""Recommended by 100% of Dentist!""",best toothpaste
-59368,Karma by Lush! Such a great scent!,best perfume
-16742,"If they’re seven, I honestly wouldn’t get them anything unless you plan on picking up their inevitable slack and help take care of it.",best pet for toddlers
-70177,True. Computer Science isn't only programming.,best major to study in college
-71681,This is the thinky answer.,best movies with a cool twist
-59356,"Si by Giorgio Armani 
+Samurai Champloo"
+8484,best toothpaste,"""Recommended by 100% of Dentist!"""
+59368,best perfume,Karma by Lush! Such a great scent!
+16742,best pet for toddlers,"If they’re seven, I honestly wouldn’t get them anything unless you plan on picking up their inevitable slack and help take care of it."
+70177,best major to study in college,True. Computer Science isn't only programming.
+71681,best movies with a cool twist,This is the thinky answer.
+59356,best perfume,"Si by Giorgio Armani 
 
-I was told by my mom that i should have a signature scent and after using this one, I never looked back. My roommates and friends all steal a spritz every so often and my boyfriend absolutely loves the smell",best perfume
-38086,"I never liked RT's rating system (seriously, Black Panther is #1 and Infinity War isn't even in the top 10...)
+I was told by my mom that i should have a signature scent and after using this one, I never looked back. My roommates and friends all steal a spritz every so often and my boyfriend absolutely loves the smell"
+38086,best Marvel movie,"I never liked RT's rating system (seriously, Black Panther is #1 and Infinity War isn't even in the top 10...)
 
 I find IMDb's ratings much more accurate:
 
@@ -81,5 +81,5 @@ Captain America: The Winter Soldier - 7.8
 
 Guardians of the Galaxy Vol. 2 - 7.7
 
-Spider-Man: Homecoming - 7.5",best Marvel movie
-16580,"That's a tough one, because honestly I think cats and dogs are the best pets for youngish kids who want a pet you can ""pet"". When you say you don't have the space for a dog, can you clarify what you mean? I ask because many breeds of lower-energy dogs-- which is what matters, not the dog's size-- do fine in small spaces including apartments.",best pet for toddlers
+Spider-Man: Homecoming - 7.5"
+16580,best pet for toddlers,"That's a tough one, because honestly I think cats and dogs are the best pets for youngish kids who want a pet you can ""pet"". When you say you don't have the space for a dog, can you clarify what you mean? I ask because many breeds of lower-energy dogs-- which is what matters, not the dog's size-- do fine in small spaces including apartments."

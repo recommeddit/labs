@@ -1,22 +1,22 @@
-idx,text,query
-24635,Our list is similar if I did my top 20 berserk would definitely be in it btw good list.,best anime
-905,"i have the i-Tower, which is a 2-part version of the Z-Bar (which has 3 parts + base), also built by Koncept. It's great, the base is solid and heavy, which i love. 6 LED lights, mine is in daylight but perhaps i will switch to a warm light version. it's plenty bright, which helps because i spend a lot of time reading at work.",best desk lamp
-31039,Singapore should fit your bill.,best country to live in
-50680,"Love the Lloyd album, didn’t include it because it doesn’t have much mainstream appeal",best rap album
-4553,"I personally use vs code with vs-vim (I think it's called). It's surprisingly good!
+idx,query,text
+24635,best anime,Our list is similar if I did my top 20 berserk would definitely be in it btw good list.
+905,best desk lamp,"i have the i-Tower, which is a 2-part version of the Z-Bar (which has 3 parts + base), also built by Koncept. It's great, the base is solid and heavy, which i love. 6 LED lights, mine is in daylight but perhaps i will switch to a warm light version. it's plenty bright, which helps because i spend a lot of time reading at work."
+31039,best country to live in,Singapore should fit your bill.
+50680,best rap album,"Love the Lloyd album, didn’t include it because it doesn’t have much mainstream appeal"
+4553,best text editor,"I personally use vs code with vs-vim (I think it's called). It's surprisingly good!
 
-However I recall the available vim packages for sublime were mediocre or way too much of a hassle to install",best text editor
-46056,"My dude, YES! I would fight my brother in armed combat for that shit if I could've!",best trick or treating candy
-30132,"That's correct, https://historyengine.richmond.edu/episodes/view/5495#:~:text=On%20January%2012%2C%201848%20Abraham,the%20%E2%80%9CSpot%20Resolutions%E2%80%9D%20that%20asked",best Mexican war to study
-58857,"I'm a swarthy dude and I love me some Champaca. Saw some reviews that complained about it not being what champaca smells like, but I've never smelled it and I try to not care what the marketing tries to make me think anyway. All I know is it's a lovely white floral that's just slightly different from the others and there's a creaminess in the base that gives it some extra depth and breadth. Lasts a long time too.",best perfume
-68644,man i know several people who gave up. I tried to tell them about the second half of the book and no one believes me!,best science fiction novel
-51685,I got the clear Apple case for my iPhone 11!,best iphone case
-54270,You'd have to gargle 2 dickloads,best medicine for a cold
-67775,I use node-fetch because it's almost identical to browser fetch.,axios alternatives reddit
-11805,Even better. My kids are still little though and they make them at school.,best gifts for dad
-36647,"Those in moderation, the caffeine speeds up your heart rate big time.",best alcoholic drink
-51963,Urban Armor Gear Civilian case allows it to sit completely flat. Got mine today. 13 Pro Max.,best iphone case
-37651,"I ran some numbers to check for biases and to compare aggregate rankings. The list holds up overall except in the top 4.
+However I recall the available vim packages for sublime were mediocre or way too much of a hassle to install"
+46056,best trick or treating candy,"My dude, YES! I would fight my brother in armed combat for that shit if I could've!"
+30132,best Mexican war to study,"That's correct, https://historyengine.richmond.edu/episodes/view/5495#:~:text=On%20January%2012%2C%201848%20Abraham,the%20%E2%80%9CSpot%20Resolutions%E2%80%9D%20that%20asked"
+58857,best perfume,"I'm a swarthy dude and I love me some Champaca. Saw some reviews that complained about it not being what champaca smells like, but I've never smelled it and I try to not care what the marketing tries to make me think anyway. All I know is it's a lovely white floral that's just slightly different from the others and there's a creaminess in the base that gives it some extra depth and breadth. Lasts a long time too."
+68644,best science fiction novel,man i know several people who gave up. I tried to tell them about the second half of the book and no one believes me!
+51685,best iphone case,I got the clear Apple case for my iPhone 11!
+54270,best medicine for a cold,You'd have to gargle 2 dickloads
+67775,axios alternatives reddit,I use node-fetch because it's almost identical to browser fetch.
+11805,best gifts for dad,Even better. My kids are still little though and they make them at school.
+36647,best alcoholic drink,"Those in moderation, the caffeine speeds up your heart rate big time."
+51963,best iphone case,Urban Armor Gear Civilian case allows it to sit completely flat. Got mine today. 13 Pro Max.
+37651,best Marvel movie,"I ran some numbers to check for biases and to compare aggregate rankings. The list holds up overall except in the top 4.
 
 If you do a straight average it changes to:
 
@@ -56,23 +56,23 @@ regardless these are my top 4 in the MCU too (maybe not this order ;) Oh well ju
 
 &#x200B;
 
-\*\*Actually slant's list is pretty FUBAR so perhaps we just run it without them...hmm.....",best Marvel movie
-4120,"Thanks. Does taking at least 6 credit-hours of classes there defer student loans like at a ""normal"" online college?",best online college
-55824,The Transporter. Mission Impossible. All the James Bond movies.,best action and adventure movie
-10209,"I checked at Big W, and you should be able to get set up for even less, pencils are about $1, visual diaries are less there too :0)",best pencil for drawing
-56284,"It's not the best, but National Treasure is just so damn watchable.",best action and adventure movie
-72822,"No kidding. I don't know of a single person that has learned their Linux skills from VM use.
+\*\*Actually slant's list is pretty FUBAR so perhaps we just run it without them...hmm....."
+4120,best online college,"Thanks. Does taking at least 6 credit-hours of classes there defer student loans like at a ""normal"" online college?"
+55824,best action and adventure movie,The Transporter. Mission Impossible. All the James Bond movies.
+10209,best pencil for drawing,"I checked at Big W, and you should be able to get set up for even less, pencils are about $1, visual diaries are less there too :0)"
+56284,best action and adventure movie,"It's not the best, but National Treasure is just so damn watchable."
+72822,best Linux distro,"No kidding. I don't know of a single person that has learned their Linux skills from VM use.
 
-It needs some investment. Dual-booting is okay, but using only Linux and trying to get everything done on Linux is how people learn. An VM? No way.",best Linux distro
-65954,At least there's a new ranking our UCs can top because they're about to get crushed on admission stats now that they're eliminating SAT/ACT requirements.,best college in california
-54258,"The fuck's wrong with you? The most common virus that causes symptoms of a cold is known as rhinovirus. Secondly, if a cold is caused by your immune system removing toxins, then why does a cold spread through a community like one would expect an infectious disease to?
+It needs some investment. Dual-booting is okay, but using only Linux and trying to get everything done on Linux is how people learn. An VM? No way."
+65954,best college in california,At least there's a new ranking our UCs can top because they're about to get crushed on admission stats now that they're eliminating SAT/ACT requirements.
+54258,best medicine for a cold,"The fuck's wrong with you? The most common virus that causes symptoms of a cold is known as rhinovirus. Secondly, if a cold is caused by your immune system removing toxins, then why does a cold spread through a community like one would expect an infectious disease to?
 
-Fucking moron.",best medicine for a cold
-11009,Do you mind telling me which style you own? I've been searching around for nice-looking backpacks as well.,best backpack for college
-30625,">The British absolutely were seizing american property and preventing trade.
+Fucking moron."
+11009,best backpack for college,Do you mind telling me which style you own? I've been searching around for nice-looking backpacks as well.
+30625,best Mexican war to study,">The British absolutely were seizing american property and preventing trade.
 
 Which is considerably less heinous than torpedoing American ships without warning and drowning their crews like Germany was.
 
 >no. They were making plans assuming that the anglophile Woodrow Wilson would eventually find a way into the war on his own, which he did.
 
-'Making plans' because they knew that there was a good chance the US would enter the war after they resumed killing Americans at sea. Wilson would probably have been impeached if he hadn't asked for a declaration of war--which passed in congress with overwhelming majorities.",best Mexican war to study
+'Making plans' because they knew that there was a good chance the US would enter the war after they resumed killing Americans at sea. Wilson would probably have been impeached if he hadn't asked for a declaration of war--which passed in congress with overwhelming majorities."

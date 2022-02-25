@@ -1,19 +1,19 @@
-idx,text,query
-8599,I have a conspiracy theorist friend who won't consume anything that has fluoride in it.,best toothpaste
-48745,"I mean a room with not enough lighting  
-Edit: my room is not as bright",best gaming monitor
-8666,Going to the dentist,best toothpaste
-30285,"We don’t cover it to a huge degree, just the basics most of the time",best Mexican war to study
-13532,"Scientists tend to get a lot of e-mails from cranks (though how bad it is depends on the field - you really have to feel for climate scientists), so you have to watch that you don't say anything that might set off their ""crank"" instinct. Use an institutional e-mail account if you have one, don't start the e-mail by describing your new theory, keep the message short and simple.
+idx,query,text
+8599,best toothpaste,I have a conspiracy theorist friend who won't consume anything that has fluoride in it.
+48745,best gaming monitor,"I mean a room with not enough lighting  
+Edit: my room is not as bright"
+8666,best toothpaste,Going to the dentist
+30285,best Mexican war to study,"We don’t cover it to a huge degree, just the basics most of the time"
+13532,best research paper archive,"Scientists tend to get a lot of e-mails from cranks (though how bad it is depends on the field - you really have to feel for climate scientists), so you have to watch that you don't say anything that might set off their ""crank"" instinct. Use an institutional e-mail account if you have one, don't start the e-mail by describing your new theory, keep the message short and simple.
 
-Even then, some people are just busy, don't use e-mail well, have strict filters, or don't know they're allowed to share pre-prints.",best research paper archive
-64690,The 3.0 looks like its the closest you can get to the vibram feel (with Nike's) I've heard the new model is pretty darn light.,Best Nike running shoes
-45406,"The one which offers highest graphics and frame rate first, that's my gaming desktop.
+Even then, some people are just busy, don't use e-mail well, have strict filters, or don't know they're allowed to share pre-prints."
+64690,Best Nike running shoes,The 3.0 looks like its the closest you can get to the vibram feel (with Nike's) I've heard the new model is pretty darn light.
+45406,best gaming system,"The one which offers highest graphics and frame rate first, that's my gaming desktop.
 
 However some games are forever exclusives, so PS4 and Switch for those.
 
-I'll usually wait a few years before playing an exclusive game on the chance that it gets ported. Plus by then a lot of patches and quality of life improvements should have happened.",best gaming system
-36141,"The after eight
+I'll usually wait a few years before playing an exclusive game on the chance that it gets ported. Plus by then a lot of patches and quality of life improvements should have happened."
+36141,best alcoholic drink,"The after eight
 
 Half shot of creme de menthe 
 Shot of tia maria
@@ -21,8 +21,8 @@ Shot of amaretto
 Topped with coke.
 
 
-Tastes like mint chocolate",best alcoholic drink
-67237,"Yep. I'd rather not have a dozen lines of base code just to do a request, and I'd rather not maintain my own package. So that's why I like Axios!
+Tastes like mint chocolate"
+67237,axios alternatives reddit,"Yep. I'd rather not have a dozen lines of base code just to do a request, and I'd rather not maintain my own package. So that's why I like Axios!
 
 But I see what you're saying about a wrapper providing the benefit of being able to swap it out with anything. I've done something like that in an app I'm working on:
 
@@ -54,26 +54,26 @@ Usage:
     catch (error) {
       // Handle the error.
       // ...
-    }",axios alternatives reddit
-56959,Fiji is reaaly good but its also really expensive,best water brand
-25968,"Yikes, that is a tasty XI. Yep, better than the XI I put forth.",best cricket teams of all time
-49088,I recommend my moniter 1440p 240hz the tn panel is daman near ips low input Lag[moniter](https://www.amazon.com/Omen-HP-27-Inch-Gaming-Monitor/dp/B07SCX1JG2/ref=mp_s_a_1_3?dchild=1&keywords=hp+omen+x+240hz&qid=1594340530&sprefix=hp+omen+x+2&sr=8-3) and response time,best gaming monitor
-54188,Time,best medicine for a cold
-47651,"Yeah, a Jersey beach town is definitely the highlight of the state. My vote is for Cape May. A lot of people forget about it so it's a lot less crowded and it's adorably quaint, with historic houses built around the end of the 19th century into the early 20th century.",best state to visit in the United States
-27377,"I have some people I speak with from Korea and they say there is A LOT of competition for e-commerce in the space of Korea, like, 10+ they can use.
+    }"
+56959,best water brand,Fiji is reaaly good but its also really expensive
+25968,best cricket teams of all time,"Yikes, that is a tasty XI. Yep, better than the XI I put forth."
+49088,best gaming monitor,I recommend my moniter 1440p 240hz the tn panel is daman near ips low input Lag[moniter](https://www.amazon.com/Omen-HP-27-Inch-Gaming-Monitor/dp/B07SCX1JG2/ref=mp_s_a_1_3?dchild=1&keywords=hp+omen+x+240hz&qid=1594340530&sprefix=hp+omen+x+2&sr=8-3) and response time
+54188,best medicine for a cold,Time
+47651,best state to visit in the United States,"Yeah, a Jersey beach town is definitely the highlight of the state. My vote is for Cape May. A lot of people forget about it so it's a lot less crowded and it's adorably quaint, with historic houses built around the end of the 19th century into the early 20th century."
+27377,best stocks to buy,"I have some people I speak with from Korea and they say there is A LOT of competition for e-commerce in the space of Korea, like, 10+ they can use.
 
-Also, the warehouse had a huge fire that was costly",best stocks to buy
-10852,http://i.imgur.com/lBYwEDm.gif,best suitcase lock
-6349,Restrepo,best Netflix documentary
-62248,To get good gear make sure level scaling is equal to yours or even higher and don't bother too much by the standard enemies. Go after bounty hunters or named enemies for the better stuff. Side missions usually get you good stuff.,Best RPG game on PS4
-8200,"The meat fairy sneaks into your room at night and shoves BBQ pork ribs down your gullet while you sleep.  Everyone knows that.  Fun fact:The meat fairy looks an awful lot like my uncle, its uncanny.",best toothpaste
-36769,Amaretto sour is my default for bars without a mix drink menu. Otherwise I'm a Moscato wine and mead girl,best alcoholic drink
-43060,"The Killing is really good for this, season 1-2 especially",best detective show
-15894,"theres no jump from raybans to oliver peoples lmao, theyre both just luxicotta with different labels slapped on top. same with persol, oakley, and most of the other brands mentioned in this thread.
+Also, the warehouse had a huge fire that was costly"
+10852,best suitcase lock,http://i.imgur.com/lBYwEDm.gif
+6349,best Netflix documentary,Restrepo
+62248,Best RPG game on PS4,To get good gear make sure level scaling is equal to yours or even higher and don't bother too much by the standard enemies. Go after bounty hunters or named enemies for the better stuff. Side missions usually get you good stuff.
+8200,best toothpaste,"The meat fairy sneaks into your room at night and shoves BBQ pork ribs down your gullet while you sleep.  Everyone knows that.  Fun fact:The meat fairy looks an awful lot like my uncle, its uncanny."
+36769,best alcoholic drink,Amaretto sour is my default for bars without a mix drink menu. Otherwise I'm a Moscato wine and mead girl
+43060,best detective show,"The Killing is really good for this, season 1-2 especially"
+15894,best sunglasses for fashion,"theres no jump from raybans to oliver peoples lmao, theyre both just luxicotta with different labels slapped on top. same with persol, oakley, and most of the other brands mentioned in this thread.
 
 http://www.luxottica.com/en/eyewear-brands
 
-unless youre buying from specialty brands like linda farrow, mykita, kuboraum, and a couple others, its just the same shit with a different label, the only difference is how much the name on the sides markup is worth.",best sunglasses for fashion
-33192,5 locations in the city isnt too bad. I have 9 in the whole country (Austria),best electric car
-65930,...And then UCLA takes a bunch of AP classes online and steals Berkeley's valedictorian position.,best college in california
-6281,"I don’t know if this counts as a documentary, but the show Formula 1: Drive to Survive was a great show. Highly recommend",best Netflix documentary
+unless youre buying from specialty brands like linda farrow, mykita, kuboraum, and a couple others, its just the same shit with a different label, the only difference is how much the name on the sides markup is worth."
+33192,best electric car,5 locations in the city isnt too bad. I have 9 in the whole country (Austria)
+65930,best college in california,...And then UCLA takes a bunch of AP classes online and steals Berkeley's valedictorian position.
+6281,best Netflix documentary,"I don’t know if this counts as a documentary, but the show Formula 1: Drive to Survive was a great show. Highly recommend"

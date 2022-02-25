@@ -1,7 +1,7 @@
-idx,text,query
-66218,Too many mad people. Most are indifferent about AC Milan.,best soccer team in the world
-70491,Another con is the sheer amount of finance grads there are.,best major to study in college
-65250,"Heyo mashed potato! A couple of things I notice missing:
+idx,query,text
+66218,best soccer team in the world,Too many mad people. Most are indifferent about AC Milan.
+70491,best major to study in college,Another con is the sheer amount of finance grads there are.
+65250,best phone service company,"Heyo mashed potato! A couple of things I notice missing:
 
 1) The Red Pocket $30/year plan for Sprint-network devices available through eBay only. 
 
@@ -9,35 +9,35 @@ idx,text,query
 
 I was going to write a Reddit post blog-style about both, but maybe I’ll leave that to you for your site 😃
 
-I have been testing different older Sprint devices (Galaxy Nexus, Galaxy SIII, HTC ONE M8, etc) with stock ROMs vs custom ROMs using RedPocket as the carrier.",best phone service company
-38101,"awww, go get some tissue.",best Marvel movie
-28409,I imagined this perfectly,best breakfast foods
-56389,"OLED is superior in many ways to FALD (including mini-LED as far as I have seen) but it is susceptible to burn in. Aside from that, I agree the CX is a very good product and the price is fair compared to what mini-LED is commanding. Even with a high number of zones, FALD has noticeable blooming in some situations. It's a kludge compared to OLED. Hopefully there will be computer-oriented desktop OLED panels soon, 48"" is still pretty huge.",best desktop monitor
-1315,I need to now,best ice cream flavor
-54108,Spicy foods.,best medicine for a cold
-38262,"The comment I was responding to stated:
+I have been testing different older Sprint devices (Galaxy Nexus, Galaxy SIII, HTC ONE M8, etc) with stock ROMs vs custom ROMs using RedPocket as the carrier."
+38101,best Marvel movie,"awww, go get some tissue."
+28409,best breakfast foods,I imagined this perfectly
+56389,best desktop monitor,"OLED is superior in many ways to FALD (including mini-LED as far as I have seen) but it is susceptible to burn in. Aside from that, I agree the CX is a very good product and the price is fair compared to what mini-LED is commanding. Even with a high number of zones, FALD has noticeable blooming in some situations. It's a kludge compared to OLED. Hopefully there will be computer-oriented desktop OLED panels soon, 48"" is still pretty huge."
+1315,best ice cream flavor,I need to now
+54108,best medicine for a cold,Spicy foods.
+38262,best newspapers to read,"The comment I was responding to stated:
 
 > Just because The Economist is willing to occasionally lampoon ""the jackass or the elephant"" does not mean they do not have a bias. They do a really great job of pretending their economic assumptions and precepts are not also political.
 
 
 The evidence I presented was that consensus in economics is based on evidence, not politics. 
 
-Do you take issue with using evidence?",best newspapers to read
-53801,Be very careful with Zinc. There are loads of side effects that only some people experience.,best medicine for a cold
-53300,"Thanks, but that's not USB 3-USB 3.0",best usb c charging cable
-34872,we get it you begged to be a part of the team.,best NFL player
-46649,"I'm surprised by the gummy worms. I didnt think they came in ""fun size""",best trick or treating candy
-42111,Couldn't have said it better myself.,movies like Inception
-7075,I’m with you. Upgraded from the 8+ to an 11 Pro Max and don’t really notice any benefit from the OLED screen.,best iPhone
-49581,Used market is your friend.,best gaming monitor
-47939,"You can also check out kuler.adobe.com  for triads,  monos and complimentary.",best color to paint with
-70043,"You can always save, save, save and then have enough to live out the next 20 years of your life as a park ranger, depending on how you spend your money and what amenities you choose to live with/without.",best major to study in college
-3336,I got a webcam for 50 cents at a church’s fair and sure its grainy at times but that’s it. It’s great,best webcamera
-41639,"Ooh, great suggestion! Definitely second this one!",movies like Inception
-5084,"Worse help and better selection, count me in.",best home improvement store
-49134,"I got a 27GL83A-B, which is nearly identical to the 27GL850 and I absolutely love it. My only regret is not getting two of them to replace my second monitor.",best gaming monitor
-38516,"I get the NY Times everyday, thanks to my neighbor being a delivery guy (there are always a few left over that otherwise just get junked). I rarely read the thing, tho. I get most of my news online. They just pile up until I have a moment to pull out the special sections (Tuesday Science rocks!) and I read through them in the bathroom. 
+Do you take issue with using evidence?"
+53801,best medicine for a cold,Be very careful with Zinc. There are loads of side effects that only some people experience.
+53300,best usb c charging cable,"Thanks, but that's not USB 3-USB 3.0"
+34872,best NFL player,we get it you begged to be a part of the team.
+46649,best trick or treating candy,"I'm surprised by the gummy worms. I didnt think they came in ""fun size"""
+42111,movies like Inception,Couldn't have said it better myself.
+7075,best iPhone,I’m with you. Upgraded from the 8+ to an 11 Pro Max and don’t really notice any benefit from the OLED screen.
+49581,best gaming monitor,Used market is your friend.
+47939,best color to paint with,"You can also check out kuler.adobe.com  for triads,  monos and complimentary."
+70043,best major to study in college,"You can always save, save, save and then have enough to live out the next 20 years of your life as a park ranger, depending on how you spend your money and what amenities you choose to live with/without."
+3336,best webcamera,I got a webcam for 50 cents at a church’s fair and sure its grainy at times but that’s it. It’s great
+41639,movies like Inception,"Ooh, great suggestion! Definitely second this one!"
+5084,best home improvement store,"Worse help and better selection, count me in."
+49134,best gaming monitor,"I got a 27GL83A-B, which is nearly identical to the 27GL850 and I absolutely love it. My only regret is not getting two of them to replace my second monitor."
+38516,best newspapers to read,"I get the NY Times everyday, thanks to my neighbor being a delivery guy (there are always a few left over that otherwise just get junked). I rarely read the thing, tho. I get most of my news online. They just pile up until I have a moment to pull out the special sections (Tuesday Science rocks!) and I read through them in the bathroom. 
 
-The only paper I actually read through is our local freebie, the Mountain Xpress. It covers local politics, culture, happenings, opinions and other local interest stuff. The writing's good and it's all stuff that's actually relevant to me on a day-to-day basis. It gets read cover to cover. Other than that, not so much.",best newspapers to read
-35461,Amaretto and Sprite tastes like cream soda. Amaretto is usually like 28% but if you’re throwing them back like regular sodas it’ll get you there pretty quickly.,best alcoholic drink
-5647,Javascriptures know them live by them,best programming language for web development
+The only paper I actually read through is our local freebie, the Mountain Xpress. It covers local politics, culture, happenings, opinions and other local interest stuff. The writing's good and it's all stuff that's actually relevant to me on a day-to-day basis. It gets read cover to cover. Other than that, not so much."
+35461,best alcoholic drink,Amaretto and Sprite tastes like cream soda. Amaretto is usually like 28% but if you’re throwing them back like regular sodas it’ll get you there pretty quickly.
+5647,best programming language for web development,Javascriptures know them live by them

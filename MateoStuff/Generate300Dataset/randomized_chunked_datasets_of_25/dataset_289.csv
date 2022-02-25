@@ -1,39 +1,39 @@
-idx,text,query
-52311,Ready to die - biggie smalls,best hiphop album
-31274,"I've visited a couple countries, but honestly I'd still rather live in the US. The reason being that if I want to approximate the stuff I like about other countries, I can in the US. Mostly small stuff like food. But I can't transpose the things I like about the US to other countries. Like guns, classic cars, wide open spaces, relatively freer society and that other stereotypically American bullshit that I actually really like.",best country to live in
-69132,"On basilisk station, live free or die, Enders game",best science fiction novel
-36179,"Next time you do it, try ""fat-washing"" the whiskey.  It'll impart the bacon flavor but remove the unappealing greasiness of the residual fat.
+idx,query,text
+52311,best hiphop album,Ready to die - biggie smalls
+31274,best country to live in,"I've visited a couple countries, but honestly I'd still rather live in the US. The reason being that if I want to approximate the stuff I like about other countries, I can in the US. Mostly small stuff like food. But I can't transpose the things I like about the US to other countries. Like guns, classic cars, wide open spaces, relatively freer society and that other stereotypically American bullshit that I actually really like."
+69132,best science fiction novel,"On basilisk station, live free or die, Enders game"
+36179,best alcoholic drink,"Next time you do it, try ""fat-washing"" the whiskey.  It'll impart the bacon flavor but remove the unappealing greasiness of the residual fat.
 
 In a mixing bowl or large jar, mix a cup of liquid bacon fat in a liter of whiskey.  Stir, cover, and let it sit at room temperature for at least 6 hours, but not more than 3 days; try making a couple batches to see how strong you like the flavor.  Put the covered vessel in the freezer.  The fat will solidify and you'll be able skim it.  Finally, strain it through a washed paper coffee filter.  ""Washed"" means rinse the paper with clean boiling water to avoid the paper flavor.
 
-It's not a spur-of-the-moment thing, but you can make as much of it as you want, and it'll keep practically forever, so make a big batch and enjoy at your leisure.",best alcoholic drink
-28702,"Switzerland: Müesli is very popular.
+It's not a spur-of-the-moment thing, but you can make as much of it as you want, and it'll keep practically forever, so make a big batch and enjoy at your leisure."
+28702,best breakfast foods,"Switzerland: Müesli is very popular.
 
-It was invented here, after all.",best breakfast foods
-1760,Bubblegum,best ice cream flavor
-58998,It's one of my treasures.,best perfume
-58022,"Yeah, dude. She was into you.   Probably wanted you to smell like someone else she had great memories of and wanted to make some with you.",best cologne
-1862,Go to Rusty's or the two on the Mesa (I forget their names),best pizza place in Santa Barbara
-48076,"Color perception as in ""this looks reddish"" not ""this makes me more creative!""",best color to paint with
-66596,"Santos is way too low, how are them behind Celtic and Benfica lol",best soccer team in the world
-72870,"There is no such thing as ""the best distro"". There may be good or bad choices for a certain use case but since use cases and personal preferences can vary widely, the ideal distro is different depending on the person and what they want to do.
+It was invented here, after all."
+1760,best ice cream flavor,Bubblegum
+58998,best perfume,It's one of my treasures.
+58022,best cologne,"Yeah, dude. She was into you.   Probably wanted you to smell like someone else she had great memories of and wanted to make some with you."
+1862,best pizza place in Santa Barbara,Go to Rusty's or the two on the Mesa (I forget their names)
+48076,best color to paint with,"Color perception as in ""this looks reddish"" not ""this makes me more creative!"""
+66596,best soccer team in the world,"Santos is way too low, how are them behind Celtic and Benfica lol"
+72870,best Linux distro,"There is no such thing as ""the best distro"". There may be good or bad choices for a certain use case but since use cases and personal preferences can vary widely, the ideal distro is different depending on the person and what they want to do.
 
 Example: I use Void, Linux Mint, Debian and Ubuntu Server. None of them are better than the other ones imo (okay, Ubuntu is worse but I have no favorite among the others).
 - Void on my laptops because they have limited resources.
 - Mint on my main PC and most other devices I happen to use because it has a nice user experience ootb so I don’t have to spend time on setting up everything.
-- Debian and Ubuntu Server on my servers (switching away from Ubuntu soon).",best Linux distro
-66048,"The horrible people that attend lowly state schools don’t obtain the resources or connections to spread their awful and self-interested ideas. Besides, schools like Harvard overwhelmingly cater to the richest and most powerful of our country, it’s not like it’s a representative sample of our population. And it’s no surprise when children of multi-millionaires make careers out of keeping and expanding their wealth at the expense of so many others.",best college in california
-51533,"Caudabe Sheath.  Slimmest case that actually offers 6.6' drop protection.  Very slim and very grippy, without sticking in your pocket like silicone.  I tried a bunch of cases, and this and the Slik Kung-fu Grip are the only two I kept.  I use the Slik at my dirty shop because it's even grippier and has a bit more protection.",best iphone case
-58611,"Yeah, that tends to be a common them among heavy and complex composition. I personally love it as well, but the olfactory fatigue is real with these.",best cologne
-47392,"Chicago, man. Great walking city. Great food - real deep dish, Italian beefs, pierogis, pork chop sandwiches, Chicago dogs...   And I'm not a sports guy, but you have da Bears! And the Blackhawks, even.",best state to visit in the United States
-73219,"Better than suggesting Arch, btw.",best Linux distro
-25120,"I used to love the hell out of the Tobey spiderman movies when i was younger. But i gotta admit, they were some trash in reality but did open me up to Spiderman. This new one is the most accurate ver of Spiderman ever",best spiderman actor
-5331,Rememberthefilter.com for any non standard sized furnace filters at reasonable prices.,best home improvement store
-2434,Oh? That surprises me. What do you find comfortable instead? Asking purely for me cause maybe I'm uncomfortable and I don't know it.,best headphones
-48097,Agreed. See comment elsewhere in thread where I revise my opinion based on data.,best color to paint with
-61558,BB and DS are all technically RPGs,Best RPG game on PS4
-44317,"I've seen curtains with magnets embbeded at the bottom, so if your bath is magnetic, it'll actually do the same thing.",best items under $100
-24533,"> it felt like a prologue to the actual story
+- Debian and Ubuntu Server on my servers (switching away from Ubuntu soon)."
+66048,best college in california,"The horrible people that attend lowly state schools don’t obtain the resources or connections to spread their awful and self-interested ideas. Besides, schools like Harvard overwhelmingly cater to the richest and most powerful of our country, it’s not like it’s a representative sample of our population. And it’s no surprise when children of multi-millionaires make careers out of keeping and expanding their wealth at the expense of so many others."
+51533,best iphone case,"Caudabe Sheath.  Slimmest case that actually offers 6.6' drop protection.  Very slim and very grippy, without sticking in your pocket like silicone.  I tried a bunch of cases, and this and the Slik Kung-fu Grip are the only two I kept.  I use the Slik at my dirty shop because it's even grippier and has a bit more protection."
+58611,best cologne,"Yeah, that tends to be a common them among heavy and complex composition. I personally love it as well, but the olfactory fatigue is real with these."
+47392,best state to visit in the United States,"Chicago, man. Great walking city. Great food - real deep dish, Italian beefs, pierogis, pork chop sandwiches, Chicago dogs...   And I'm not a sports guy, but you have da Bears! And the Blackhawks, even."
+73219,best Linux distro,"Better than suggesting Arch, btw."
+25120,best spiderman actor,"I used to love the hell out of the Tobey spiderman movies when i was younger. But i gotta admit, they were some trash in reality but did open me up to Spiderman. This new one is the most accurate ver of Spiderman ever"
+5331,best home improvement store,Rememberthefilter.com for any non standard sized furnace filters at reasonable prices.
+2434,best headphones,Oh? That surprises me. What do you find comfortable instead? Asking purely for me cause maybe I'm uncomfortable and I don't know it.
+48097,best color to paint with,Agreed. See comment elsewhere in thread where I revise my opinion based on data.
+61558,Best RPG game on PS4,BB and DS are all technically RPGs
+44317,best items under $100,"I've seen curtains with magnets embbeded at the bottom, so if your bath is magnetic, it'll actually do the same thing."
+24533,best anime,"> it felt like a prologue to the actual story
 
-That's basically what it is. The manga really, *really* opens up, and the story hits its stride not a couple chapters after where the anime leaves off.",best anime
-73009,tried them all but I'll always stick with MX,best Linux distro
+That's basically what it is. The manga really, *really* opens up, and the story hits its stride not a couple chapters after where the anime leaves off."
+73009,best Linux distro,tried them all but I'll always stick with MX

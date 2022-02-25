@@ -1,50 +1,50 @@
-idx,text,query
-70115,math major here. i regret.,best major to study in college
-32437,Yep. Happy to help. Hope you have a great birthday trip!,best vacation resort
-43526,Fuck me im reading this hunched over with my phone plugged in to an impossibly short charging cable.,best items under $100
-26319,"[The Senate's list of great senators is a good starting place if you're looking for non-presidents that still had a big impact on history.](http://www.electoral-vote.com/evp2016/Info/greatest-senators.html) If you want to understand the South then you've got to know Huey Long (who you mentioned) and George Wallace. Chicago's got a long history of colorful politicians, too, like Richard Daley.",best politician
-12848,Nice. It's thoughtful and a gift that keeps giving.,best gifts for mom
-5879,"Alright, awesome. I'm assuming you'd go about this using SQL instead of simply writing the info to a file locally?",best programming language for web development
-22716,"Jerry Seinfeld: I played basketball in college and on road games our team actually was in the same hotel as him a few times. First time we were all sitting in the lobby waiting for the SID to finish checking us in and he came walking through. Being college kids were surprised and all just kind of staring, he looked right at us and I kid you not said ""Unbelievable, I'm in a hotel with a bunch of f*cking dumbass jocks"" then just kept walking shaking his head. Ok, well maybe we thought he was just trying some insult humor on us. Then 3 weeks later we were in the lobby of a hotel (same hotel chain different state) waiting for our bus to arrive to take us to shoot around that morning. He comes walking off the elevator with a plate in his hand. He marches straight to the front desk slams the plate down and begins to give the poor lady the riot act about how his eggs are not ""over easy"" and he rants on and on for at least 2-3 minutes. He looks over at us and not sure if he remembered us or not but when looked at us he stopped and goes ""you gotta be f*cking kidding me"". We all just lost it while he walked off and immediately got on his phone and started yelling at someone to stop booking him at the ""F*cking Hyatt"" but he is definitely an asshole in my book. *Sorry for any grammar or format issues, typing on my phone.*",best celebrity
-40172,"If you overclock yourself: Ryzen 5 2600
+idx,query,text
+70115,best major to study in college,math major here. i regret.
+32437,best vacation resort,Yep. Happy to help. Hope you have a great birthday trip!
+43526,best items under $100,Fuck me im reading this hunched over with my phone plugged in to an impossibly short charging cable.
+26319,best politician,"[The Senate's list of great senators is a good starting place if you're looking for non-presidents that still had a big impact on history.](http://www.electoral-vote.com/evp2016/Info/greatest-senators.html) If you want to understand the South then you've got to know Huey Long (who you mentioned) and George Wallace. Chicago's got a long history of colorful politicians, too, like Richard Daley."
+12848,best gifts for mom,Nice. It's thoughtful and a gift that keeps giving.
+5879,best programming language for web development,"Alright, awesome. I'm assuming you'd go about this using SQL instead of simply writing the info to a file locally?"
+22716,best celebrity,"Jerry Seinfeld: I played basketball in college and on road games our team actually was in the same hotel as him a few times. First time we were all sitting in the lobby waiting for the SID to finish checking us in and he came walking through. Being college kids were surprised and all just kind of staring, he looked right at us and I kid you not said ""Unbelievable, I'm in a hotel with a bunch of f*cking dumbass jocks"" then just kept walking shaking his head. Ok, well maybe we thought he was just trying some insult humor on us. Then 3 weeks later we were in the lobby of a hotel (same hotel chain different state) waiting for our bus to arrive to take us to shoot around that morning. He comes walking off the elevator with a plate in his hand. He marches straight to the front desk slams the plate down and begins to give the poor lady the riot act about how his eggs are not ""over easy"" and he rants on and on for at least 2-3 minutes. He looks over at us and not sure if he remembered us or not but when looked at us he stopped and goes ""you gotta be f*cking kidding me"". We all just lost it while he walked off and immediately got on his phone and started yelling at someone to stop booking him at the ""F*cking Hyatt"" but he is definitely an asshole in my book. *Sorry for any grammar or format issues, typing on my phone.*"
+40172,best midrange CPU,"If you overclock yourself: Ryzen 5 2600
 
 If you would rather have the system deal with it: Ryzen 5 2600x
 
 
 > The 2600x also looks like a good deal but would it play many games with a 1070ti?
 
-yes.",best midrange CPU
-58750,"Well, I personally think there's never a right way to wear cologne. As long as you don't offend anyone, don't overspray, fit in the situation, and like the cologne yourself, then you're good",best cologne
-24304,"Looks like a pretty accurate list, mostly corresponds with my experience as well. Thanks for making this!",best anime
-45766,I won't shut my mouth but you can have all my Necco wafers if you give me all your Reese's.,best trick or treating candy
-58682,"For me right now it’s got to be
+yes."
+58750,best cologne,"Well, I personally think there's never a right way to wear cologne. As long as you don't offend anyone, don't overspray, fit in the situation, and like the cologne yourself, then you're good"
+24304,best anime,"Looks like a pretty accurate list, mostly corresponds with my experience as well. Thanks for making this!"
+45766,best trick or treating candy,I won't shut my mouth but you can have all my Necco wafers if you give me all your Reese's.
+58682,best cologne,"For me right now it’s got to be
 - Parle Moi Milky Musk—a deliciously subtle, creamy, sandalwood heavy musk
 - Moschino Toy Boy—a dark peppery rose 
 - TF Plum Japonais—my special occasion winter scent, florals and spiced plum
 - Creed VIW—my staple clean scent, coconut and sugary rum on the drydown
-- Armani Eau Du Nuit—been wearing this a little less lately but still my best winter staple, Iris powdery peppered Tonka",best cologne
-67941,">Kevin J Anderson
+- Armani Eau Du Nuit—been wearing this a little less lately but still my best winter staple, Iris powdery peppered Tonka"
+67941,best science fiction novel,">Kevin J Anderson
 
-Stopped reading here",best science fiction novel
-28653,French lovers more like.,best breakfast foods
-38069,hurt your feelings to see that huh.,best Marvel movie
-67248,"I understand that and we’re really just pedantically arguing about what constitutes an error.
+Stopped reading here"
+28653,best breakfast foods,French lovers more like.
+38069,best Marvel movie,hurt your feelings to see that huh.
+67248,axios alternatives reddit,"I understand that and we’re really just pedantically arguing about what constitutes an error.
 
 I would argue that making a call that results in a 404 is an error. You should never make that call, so when it comes back 404 you know that something in your application sent a faulty request. Maybe your state is jacked and your passing bad ids. Maybe you’ve accidentally got a config string wrong. Regardless the error is on your end.
 
 You are arguing that because fetch did not produce a breaking JavaScript error, it shouldn’t throw.
 
-They’re just different philosophies for what “error” means. I am treating 404 as unexpected and thus I want an error. You are treating it as expected and thus want to handle it in normal flow.",axios alternatives reddit
-73335,"I know you said ""do not suggest me another distro please"" but definitely do check out Pop\_OS!. It's like Ubuntu but like 2x better. It's pretty clean and supports a lot of apps.",best Linux distro
-3810,"fixed, tysm!",best college for research
-17232,Did they ever release more levels?,best iOS game
-26156,"The more I study UK politics, the more I'm beginning to realize that your last statement is true. Thatcher, Blair, Brown, Cameron, etc. Does any PM leave in a good position?",best politician
-63998,"Guessing Safety Rules, To prevent it from getting wiped again for sharing piracy stuff",best place to pirate audiobooks reddit
-70865,"Upstream color
+They’re just different philosophies for what “error” means. I am treating 404 as unexpected and thus I want an error. You are treating it as expected and thus want to handle it in normal flow."
+73335,best Linux distro,"I know you said ""do not suggest me another distro please"" but definitely do check out Pop\_OS!. It's like Ubuntu but like 2x better. It's pretty clean and supports a lot of apps."
+3810,best college for research,"fixed, tysm!"
+17232,best iOS game,Did they ever release more levels?
+26156,best politician,"The more I study UK politics, the more I'm beginning to realize that your last statement is true. Thatcher, Blair, Brown, Cameron, etc. Does any PM leave in a good position?"
+63998,best place to pirate audiobooks reddit,"Guessing Safety Rules, To prevent it from getting wiped again for sharing piracy stuff"
+70865,best movies with a cool twist,"Upstream color
 Triangle
-Compliance",best movies with a cool twist
-62973,"I like the Think Stats book by Allen Downey. It discusses basic statistics useful for Data Science. It uses Python.
+Compliance"
+62973,Best Data Science textbook,"I like the Think Stats book by Allen Downey. It discusses basic statistics useful for Data Science. It uses Python.
 
-http://greenteapress.com/wp/think-stats-2e/",Best Data Science textbook
-21113,Doesn't working out high make you more prone to injury?,best workout music
-62898,"I have a list [here](http://digital-thinking.de/recommended-resources/), but it's more engineering focused. I would recommend factfulness, even if it's just a data driven world view, not related to data science.",Best Data Science textbook
+http://greenteapress.com/wp/think-stats-2e/"
+21113,best workout music,Doesn't working out high make you more prone to injury?
+62898,Best Data Science textbook,"I have a list [here](http://digital-thinking.de/recommended-resources/), but it's more engineering focused. I would recommend factfulness, even if it's just a data driven world view, not related to data science."

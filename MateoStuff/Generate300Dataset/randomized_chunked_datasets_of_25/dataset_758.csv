@@ -1,36 +1,36 @@
-idx,text,query
-65163,"I had Sprint for years (pre-merger) and never had an issue, liked the service and the plan. 3 months under T-mobile and I noped right outta there.",best phone service company
-52478,I like 3rd eye more but they’re both dope albums. 3rd eye just hits me right. Will always be my fav.,best hiphop album
-21073,"Awesome thank you. I've tried Manegarm, but maybe need to give them another try.
+idx,query,text
+65163,best phone service company,"I had Sprint for years (pre-merger) and never had an issue, liked the service and the plan. 3 months under T-mobile and I noped right outta there."
+52478,best hiphop album,I like 3rd eye more but they’re both dope albums. 3rd eye just hits me right. Will always be my fav.
+21073,best workout music,"Awesome thank you. I've tried Manegarm, but maybe need to give them another try.
 
-I really want to like Alestorm but imo their singer is awful :(",best workout music
-4822,"Depends on what I'm buying. My Lowe's usually has better dimensional lumber like 2x4s... I don't have to search to find one. And I like kobalt over husky. But I like Ridgid power tools and that's a home Depot thing. My home Depot also has better stocked and organized electrical and plumbing departments. Home Depot has a hobby lumber department with oak boards and such, but my Lowe's doesn't. The paint is comparable at both. So it's a toss up and depends on what I'm buying. 
+I really want to like Alestorm but imo their singer is awful :("
+4822,best home improvement store,"Depends on what I'm buying. My Lowe's usually has better dimensional lumber like 2x4s... I don't have to search to find one. And I like kobalt over husky. But I like Ridgid power tools and that's a home Depot thing. My home Depot also has better stocked and organized electrical and plumbing departments. Home Depot has a hobby lumber department with oak boards and such, but my Lowe's doesn't. The paint is comparable at both. So it's a toss up and depends on what I'm buying. 
 
-But I use true value for nuts and bolts... So much better than either",best home improvement store
-9520,"Wait, why paste? I don't pay attention and bought gel the last two times.",best toothpaste
-4473,"Sublime Text 3, but for bigger projects VS Code.",best text editor
-63456,worked great for me. i credit it with saving my jailbreak. make sure you get the latest beta from this repo https://samgisaninja.github.io/test,best package manager ios 14 jailbreak reddit
-56019,"Spielberg has made a lot of forgettable crap. I think people forget this sometimes. He can do really good movies sometimes (Jaws, Amistad, etc), but he can also fall on his face (AI, War of the World, etc).",best action and adventure movie
-53814,"If I feel it coming, I will spend about a couple of hours in the sauna. Done properly of course, (hydration and breaks). Since doing this, I have dodged every cold and even the flue. Could be luck, but I'm putting my money on the sauna. Healthy eating too...",best medicine for a cold
-24600,Great list. Would highly recommend all these series!!!,best anime
-11958,"I am not a father (yet), but I definatly confirm the double-double w/ onions and animal fries and a chocolate milkshake at In-N-Out part is definatly true for me.",best gifts for dad
-44173,Thundercock,best items under $100
-27595,Agreed. Akshay’s stardom is overhyped as hell.,best bollywood actor
-57486,^,best water brand
-73091,"Completely agree! I'm net to Linux, but I was making attempts several times already. Have been spending some time with Ubuntu (since it's always advertised as the best place to start), Fedora and a few days ago decided to give Manjaro a try and I was very pleasantly surprised how easy everything was, TLP and powertop included, switching flatpak and snap on is extremely easy and even stuff like manjaro vaapi package available as one installation, including multiple drivers you need, make it so easy to use it. Manjaro's UX for me is way ahead Ubuntu's and after couple of days of testing I set up monthly contribution on their website. Love it!",best Linux distro
-72232,"I would recommend — AdGuard. Along with ads, if you take the time to configure its filters, it can block trackers, cookies, cookie pop ups and so much more. 
+But I use true value for nuts and bolts... So much better than either"
+9520,best toothpaste,"Wait, why paste? I don't pay attention and bought gel the last two times."
+4473,best text editor,"Sublime Text 3, but for bigger projects VS Code."
+63456,best package manager ios 14 jailbreak reddit,worked great for me. i credit it with saving my jailbreak. make sure you get the latest beta from this repo https://samgisaninja.github.io/test
+56019,best action and adventure movie,"Spielberg has made a lot of forgettable crap. I think people forget this sometimes. He can do really good movies sometimes (Jaws, Amistad, etc), but he can also fall on his face (AI, War of the World, etc)."
+53814,best medicine for a cold,"If I feel it coming, I will spend about a couple of hours in the sauna. Done properly of course, (hydration and breaks). Since doing this, I have dodged every cold and even the flue. Could be luck, but I'm putting my money on the sauna. Healthy eating too..."
+24600,best anime,Great list. Would highly recommend all these series!!!
+11958,best gifts for dad,"I am not a father (yet), but I definatly confirm the double-double w/ onions and animal fries and a chocolate milkshake at In-N-Out part is definatly true for me."
+44173,best items under $100,Thundercock
+27595,best bollywood actor,Agreed. Akshay’s stardom is overhyped as hell.
+57486,best water brand,^
+73091,best Linux distro,"Completely agree! I'm net to Linux, but I was making attempts several times already. Have been spending some time with Ubuntu (since it's always advertised as the best place to start), Fedora and a few days ago decided to give Manjaro a try and I was very pleasantly surprised how easy everything was, TLP and powertop included, switching flatpak and snap on is extremely easy and even stuff like manjaro vaapi package available as one installation, including multiple drivers you need, make it so easy to use it. Manjaro's UX for me is way ahead Ubuntu's and after couple of days of testing I set up monthly contribution on their website. Love it!"
+72232,best adblocker extension,"I would recommend — AdGuard. Along with ads, if you take the time to configure its filters, it can block trackers, cookies, cookie pop ups and so much more. 
 
 I use it on android and windows. Works like a charm. 
 
-Disclaimer, it is not open source. But in my research I found it to be very privacy friendly.",best adblocker extension
-7224,"iPhone X. Still is the £1000 phone it was in 2017, but a lot cheaper now",best iPhone
-42378,"I now have you tagged in RES as 'This is SonicBoom16, don't believe his lies'.",movies like Inception
-68782,You can't beat [PrintSF's Top 100](http://bookstui.blogspot.com/2013/06/printsfs-top-100-sf-novels-survey-date.html)! :),best science fiction novel
-8231,"Where are you finding it? I bought 4 tubes of the Burt's Bees with NovaMin and burned through all of them, and then found out that everything with NovaMin has been discontinued because GSK would rather make more money by selling it as prescription only. 
+Disclaimer, it is not open source. But in my research I found it to be very privacy friendly."
+7224,best iPhone,"iPhone X. Still is the £1000 phone it was in 2017, but a lot cheaper now"
+42378,movies like Inception,"I now have you tagged in RES as 'This is SonicBoom16, don't believe his lies'."
+68782,best science fiction novel,You can't beat [PrintSF's Top 100](http://bookstui.blogspot.com/2013/06/printsfs-top-100-sf-novels-survey-date.html)! :)
+8231,best toothpaste,"Where are you finding it? I bought 4 tubes of the Burt's Bees with NovaMin and burned through all of them, and then found out that everything with NovaMin has been discontinued because GSK would rather make more money by selling it as prescription only. 
 
-I'm not a dentist, but I did a fair amount of research and it seems that NovaMin does indeed rebuilt enamel, and fairly well. Fluoride doesn't actually rebuild enamel at all, it simply hardens the enamel that's left to protect against erosion.",best toothpaste
-8853,Glad my memory didn't fail me!,best toothpaste
-36591,And an orange peel,best alcoholic drink
-13629,"This is very true.  Things like ResearchGate are out there to help facilitate this, but their website kinda sucks in my opinion",best research paper archive
-57007,You want a boppin' in the gabba?,best water brand
-18912,That was oddly relaxing.,best YouTube video
+I'm not a dentist, but I did a fair amount of research and it seems that NovaMin does indeed rebuilt enamel, and fairly well. Fluoride doesn't actually rebuild enamel at all, it simply hardens the enamel that's left to protect against erosion."
+8853,best toothpaste,Glad my memory didn't fail me!
+36591,best alcoholic drink,And an orange peel
+13629,best research paper archive,"This is very true.  Things like ResearchGate are out there to help facilitate this, but their website kinda sucks in my opinion"
+57007,best water brand,You want a boppin' in the gabba?
+18912,best YouTube video,That was oddly relaxing.

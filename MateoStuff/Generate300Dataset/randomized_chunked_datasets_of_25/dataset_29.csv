@@ -1,54 +1,54 @@
-idx,text,query
-73601,"Oh damn, you're right. On further reading it is indeed 100W input. That's naughty of them. I've just reported the product to Amazon to hopefully get that changed. That's crazy misleading!",best battery bank
-39732,"Yeah, gmail caches the images and delivers them to you, so the spammer doesn’t get a notification that you opened the mail.",best Chrome extensions
-62915,"'R for data science' by Hadley and Garrett (available online also: http://r4ds.had.co.nz/) is a decent practical introduction with examples and questions to test yourself with. It is a good read as an introduction, it will provide you with enough skills to jump into more specific follow up texts. 
+idx,query,text
+73601,best battery bank,"Oh damn, you're right. On further reading it is indeed 100W input. That's naughty of them. I've just reported the product to Amazon to hopefully get that changed. That's crazy misleading!"
+39732,best Chrome extensions,"Yeah, gmail caches the images and delivers them to you, so the spammer doesn’t get a notification that you opened the mail."
+62915,Best Data Science textbook,"'R for data science' by Hadley and Garrett (available online also: http://r4ds.had.co.nz/) is a decent practical introduction with examples and questions to test yourself with. It is a good read as an introduction, it will provide you with enough skills to jump into more specific follow up texts. 
 
 'Data Science for Business' is a good introduction to understand what machine learning algorithms are doing, which is good for understanding. However, the book does not approach this from a programming point of view, but a conceptual point of view, so you cannot implement it directly in your language of choice.
 
 I have not personally read it but 'Data science from scratch' is meant to be a good introduction that goes through some 'data science theory' and Python code. It would be helpful, though not totally necessary to know a bit of python beforehand.
 
-Someone previously commented to mention 'Elements of statistical learning' which I have seen recommended by people in the industry but with the warning it can be heavy going. 'An Introduction to Statistical Learning: with Applications in R' is meant to be an easier introduction, but I have not gone through it myself - it's next on my list.",Best Data Science textbook
-29172,"Nice work. Let me tell you all about my own experience. I went with SiteGround after carrying out a lot of research. The StartUp plan was really appealing to me, and wouldn’t cost me much at all for 3 months worth. Small investment, and what’s 3 months? So I went for it. I also used Divi and Elementor and I bought a theme. It’s been good so far, but I get what others mean when they say there is no perfect host. I say this because, whilst I used SiteGround (and enjoyed it), I’ve also used BlueHost in the past who are a little more hit and miss. Not awful, not great - just somewhere in the middle and probably ideal for noobs. 
+Someone previously commented to mention 'Elements of statistical learning' which I have seen recommended by people in the industry but with the warning it can be heavy going. 'An Introduction to Statistical Learning: with Applications in R' is meant to be an easier introduction, but I have not gone through it myself - it's next on my list."
+29172,best web hosting service,"Nice work. Let me tell you all about my own experience. I went with SiteGround after carrying out a lot of research. The StartUp plan was really appealing to me, and wouldn’t cost me much at all for 3 months worth. Small investment, and what’s 3 months? So I went for it. I also used Divi and Elementor and I bought a theme. It’s been good so far, but I get what others mean when they say there is no perfect host. I say this because, whilst I used SiteGround (and enjoyed it), I’ve also used BlueHost in the past who are a little more hit and miss. Not awful, not great - just somewhere in the middle and probably ideal for noobs. 
 
 Like with SiteGround, I signed up to BlueHost for 3 months of WordPress Pro Build. It wasn’t too pricey and I could then go onto buy either another 3 months worth, or even 6 or 12 months. Their support was good and their team was always available. The onboarding process was a bit of a pain because I literally got stuck on the ‘Installing WP’ bit for about 20 minutes and had to refresh - and got stuck again. Interface was good, nice and intuitive, and although the WP dashboard was fairly confusing at first, I soon got the hang of things. That said, does anyone else constantly get the error “no input file specified”? It was a bit of a pain! 
 
 Anyway, that error meant I had to switch to the classic editor. It didn’t work out lol so I restored the backup and then had to contact support. They fired the SSL and domain for me and I was back to normal. All in all, BlueHost was okay but - again - my experience taught me that no WP hosting is perfect. 
 
-I’ve also used GoDaddy in the past. The website builder was okay, uptime was okay and overall it was a decent experience. However, what really ruined it was that eventually my yearly plan ran out - and my website was seemingly lost forever!! Naturally, I was in a panic and looking for answers when the supervisor told me that - hurrah! - they can actually restore it. Hallelujah! However, they also told me that it would cost me money to restore it, which really frustrated me. And it was that which led me to SiteGround.",best web hosting service
-62844,Absolutely. And it really nails home the message that model =/= reality.,Best Data Science textbook
-64038,nope. pw protection right away,best place to pirate audiobooks reddit
-69069,"1) Hyperion
+I’ve also used GoDaddy in the past. The website builder was okay, uptime was okay and overall it was a decent experience. However, what really ruined it was that eventually my yearly plan ran out - and my website was seemingly lost forever!! Naturally, I was in a panic and looking for answers when the supervisor told me that - hurrah! - they can actually restore it. Hallelujah! However, they also told me that it would cost me money to restore it, which really frustrated me. And it was that which led me to SiteGround."
+62844,Best Data Science textbook,Absolutely. And it really nails home the message that model =/= reality.
+64038,best place to pirate audiobooks reddit,nope. pw protection right away
+69069,best science fiction novel,"1) Hyperion
 2) Neuromancer
-3) The Gods Themselves",best science fiction novel
-36014,"yeah. not sure why would you want to ""neutralize the bourbon taste/feel""",best alcoholic drink
-8487,"> they wouldn't recommend not using it.
+3) The Gods Themselves"
+36014,best alcoholic drink,"yeah. not sure why would you want to ""neutralize the bourbon taste/feel"""
+8487,best toothpaste,"> they wouldn't recommend not using it.
 
-Surely that can be construed as meaning 1 in 5 dentists would recommend *not* using it, in that it's so shitty it's harmful.",best toothpaste
-56125,"Journey 2: The Mysterious Island is one of my favorites, you could check it out.",best action and adventure movie
-65719,"I can assure you Davis is not average in anything. UCB, UCLA, UCSD, UCD, and UCB are all top 10 public schools in the united states. An average program to consider would be Pepperdine, and even they are above the national average.",best college in california
-36518,Caesar or dark n' stormy.,best alcoholic drink
-44890,Bamboo is used to make the cloth itself. Incredibly soft. Get some bamboo socks. Now those are fricken life changing.,best items under $100
-12486,"Books. My mom is super easy, I'm lucky.",best gifts for mom
-31612,"For my favorite yet that I’ve been to my vote would go to Mövenpick Resort Kuredhivaru Maldives.
+Surely that can be construed as meaning 1 in 5 dentists would recommend *not* using it, in that it's so shitty it's harmful."
+56125,best action and adventure movie,"Journey 2: The Mysterious Island is one of my favorites, you could check it out."
+65719,best college in california,"I can assure you Davis is not average in anything. UCB, UCLA, UCSD, UCD, and UCB are all top 10 public schools in the united states. An average program to consider would be Pepperdine, and even they are above the national average."
+36518,best alcoholic drink,Caesar or dark n' stormy.
+44890,best items under $100,Bamboo is used to make the cloth itself. Incredibly soft. Get some bamboo socks. Now those are fricken life changing.
+12486,best gifts for mom,"Books. My mom is super easy, I'm lucky."
+31612,best hotel to live in,"For my favorite yet that I’ve been to my vote would go to Mövenpick Resort Kuredhivaru Maldives.
 
-For Asia (I haven’t been to many cities yet) I would vote for Anvaya Bali hotel. I’ve been to different places in Bali and this one ranks as my favorite.",best hotel to live in
-4014,"I'm a HR Manager now, but when I was an assistant, I can tell you that when reviewing resumes and we saw ""Education: University of Phoenix"", it went straight into the trash/shred box. Now that I'm a manager I have more say so. If you just have a degree from UofP, I'm probably not bringing you in, but if you also have a steady work history along with it, I'll consider bringing you in.",best online college
-61119,Thank you! I had no idea.. on my way...,Best comedy show on Netflix
-55663,"Just finished this series and have to agree. Best I have read in a few years, look forward to more from him.",best action and adventure novel series
-10299,"1. Always keep your baggage claim ticket. If the airline loses your bag, they have to pay if you have your ticket. Not having your ticket absolves them of paying.
+For Asia (I haven’t been to many cities yet) I would vote for Anvaya Bali hotel. I’ve been to different places in Bali and this one ranks as my favorite."
+4014,best online college,"I'm a HR Manager now, but when I was an assistant, I can tell you that when reviewing resumes and we saw ""Education: University of Phoenix"", it went straight into the trash/shred box. Now that I'm a manager I have more say so. If you just have a degree from UofP, I'm probably not bringing you in, but if you also have a steady work history along with it, I'll consider bringing you in."
+61119,Best comedy show on Netflix,Thank you! I had no idea.. on my way...
+55663,best action and adventure novel series,"Just finished this series and have to agree. Best I have read in a few years, look forward to more from him."
+10299,best suitcase lock,"1. Always keep your baggage claim ticket. If the airline loses your bag, they have to pay if you have your ticket. Not having your ticket absolves them of paying.
 
 2. Read the terms. They will not pay for lost electronics, cameras, computers, etc. You have to carry that shit on.
 
-source: I got $2000.00 from Delta for a couple of suits, two pair of shoes, etc. The $2000.00 was better than the clothes, except that I landed in new york city in jeans and sneakers and had a business dinner that night.",best suitcase lock
-28327,http://media1.giphy.com/media/bEiCHwn15ICEE/giphy.gif,best breakfast foods
-37313,"I guess I'd say it was a surprise to me because I didn't realize it was quite so popular up there, but it makes sense because both Valleyfair and Silverwood are in relative park deserts.",best amusement park
-20587,"Born of Osiris - Follow the signs, 
+source: I got $2000.00 from Delta for a couple of suits, two pair of shoes, etc. The $2000.00 was better than the clothes, except that I landed in new york city in jeans and sneakers and had a business dinner that night."
+28327,best breakfast foods,http://media1.giphy.com/media/bEiCHwn15ICEE/giphy.gif
+37313,best amusement park,"I guess I'd say it was a surprise to me because I didn't realize it was quite so popular up there, but it makes sense because both Valleyfair and Silverwood are in relative park deserts."
+20587,best workout music,"Born of Osiris - Follow the signs, 
 
 Gojira - Love, 
 
 Kanye West - Power, 
 
-Run the Jewels - Run the Jewels",best workout music
-16089,Pretty sure Luxottica does Police and Oakley too,best sunglasses for fashion
-56549,AFAIK the 73 has a different stand. Never really looked into it.,best desktop monitor
-62028,Kingdom Come deliverance is a good one i just got it a month ago.  Very enjoyable game,Best RPG game on PS4
+Run the Jewels - Run the Jewels"
+16089,best sunglasses for fashion,Pretty sure Luxottica does Police and Oakley too
+56549,best desktop monitor,AFAIK the 73 has a different stand. Never really looked into it.
+62028,Best RPG game on PS4,Kingdom Come deliverance is a good one i just got it a month ago.  Very enjoyable game
