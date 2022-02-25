@@ -1,0 +1,125 @@
+A Wednesday was superb
+"Oh don't worry I understand, it just seemed that you thought of a pet as more of just a play thing for your daughter but good to hear that's not the case. 
+
+I really can't think of any pet that would be appropriate for a child that young that is also cuddly. Maybe you should just look into ways to prevent your cat getting out. Is she microchipped?"
+"Not if you market yourself correctly. History and other liberal arts degrees can be very versatile if you can apply the skills developed through the degree tract. History majors have to take broad concepts and make sense of them through writing. Or take very specific concepts and make sense of them. Extremely useful in a number of worlds, including but not limited to business and politics. 
+
+
+The thing is though, it *does* require taking extra steps. My school has 3/4+1 options with the history degree and the MBA program. An MBA with a history degree is more interesting to employers than an MBA with a generic business admin undergrad degree. 
+
+
+Want to work in politics? History is extremely useful here, as it applies well to the concept part that I mentioned before. 
+
+
+Doors to employment in public affairs, communications, HR, law and writing jobs all exist with a history degree. 
+
+
+Of course you can go into academia if you want to, but history majors actually outperform business admin majors in the business world *once hired*, and there are plenty of routes that are open by applying learned and developed skills. 
+
+Outside of academia no one will care about the impact of Hoover's agricultural experience on his decisions while in the Oval Office, but employers will like that you have demonstrated the ability to take in  complex information, and make sense of it in a comprehensible way."
+"Ace. They are 5 minutes fromMy house vs 15 for the big box stores.  Plus there's always someone to ask and the store is small, I don't spend a long time wandering. Selection isn't as great as the big box but I'll support them to keep em open and close by"
+"Twenty five years ago when I was in fifth grade I got my dad a Sandra Boynton coffee mug at my school book fair. It has a polar bear wearing glasses on it and says ""DAD: One very cool guy.""  Corny, but cute. He used it every weekend from then on for his Sunday coffee.  
+
+Dad passed away 15 years ago last month, but the mug is still around and my mom still uses it now when she's missing him. 
+
+Best $5 I ever spent."
+All the books are so so good and the characters are super likable as well.
+New Zealand 😋
+Belgium
+"Thanks!! I don't think I've ever had a good beer, I have yet to try..."
+"I mean, Star Wars is trending down, and Marvel is about to hit their peak. Why not give it a shot?"
+"I'm so glad someone else feels the same way, my dads company always has their Xmas party there. It was the first place my parents took me out to after I came back from the hospital as a kid Haha. Safe to say I grew up going there, still love it!"
+Game over
+Ginkgo trees. I love the leaf shapes and how the ground turns yellow when the leaves fall. I recently took this picture on campus :) http://imgur.com/C9vGrxs
+I made my cabinets slate grey with silver knobs & poplar wood countertops! Poplar has great neutral grey tones in it + it's totally cheap & quick to build countertops with.
+Technically both as of now.
+Hey op check out sega GT online. Was on og xbox if i recall. Progression was very similar to gt4. A little arcadie though.
+"So sad to see that Khloé used to be so many peoples fav but now she’s so disliked... she was the only one who i felt that had a personality, i just can’t help but feel bad for her"
+I got ta haAave it!
+"They don’t have anywhere near Inception’s budget, but there are a few smaller movies that have similarly trippy concepts, if that’s what you’re looking for:
+
+- Primer is about two guys that inadvertently discover time-travel while doing experiments in their garage. It’s been a long time since I’ve seen it, but I remember being really intrigued (and a little confused) by it.
+
+https://m.imdb.com/title/tt0390384/?ref_=fn_al_tt_0
+
+- Coherence is about traversing multiple dimensions, I think? I’ve only seen parts of it, but I liked what I saw and everyone seems to love it. I see it recommended a lot.
+
+https://m.imdb.com/title/tt2866360/?ref_=nv_sr_srsg_0
+
+- LFO is about a lonely audio engineer that accidentally creates a frequency that can hypnotize people. (Subtitles)
+
+https://m.imdb.com/title/tt2660332/?ref_=nv_sr_srsg_1
+
+- The Endless is about a cult and time loops. Ngl I actually wasn’t super into this one, but it got a lot of good reviews so I guess I’m in the minority with that opinion.
+
+https://m.imdb.com/title/tt3986820/?ref_=nv_sr_srsg_0
+
+That’s all I’ve got off the top of my head but I’ll post more if I think of any."
+"I love that the lowest median salary on the ten worst list is 37,000. I know many of us (including myself) are college educated Americans with expectations that are too high, but seriously that is fucking awesome."
+Definitely Somalia.
+"Totally not a corporate shill. 
+
+If this helps prove it, I'll give my only major Marriott complaint. I eventually accumulated over a million Marriott points. Used them to pay for my wife and I and another couple to get 2 rooms at a Costa Rican Marriot resort, and get $1000 in ""Marriot Cash"". Our other friends paid for a 3 day eco-lodge and the airfare and we considered the cost about equal. American Airlines was terrible and almost ruined our trip (unrelated, I just fucking hate AA). The eco-lodge was *amazing* perhaps the best 3 days I've had in my life. The Marriott Resort was crappy. There wasn't anything particularly wrong with it, but I flew 2000 miles to hang out with douchey Americans in a walled off beach resort. Totally soured me for aspiring to get massive future Marriott points. I stopped major business travel soon after, so it was something of a moot point.
+
+To this day I still probably have 100K points, which is great, any time I'm on a road trip near a Marriott I can stay free, which is great. But the higher Tier Marriott resorts just aren't worth it IMO, you'd be better off paying cash for a non-branded place to stay.
+
+TL;DR All Marriott's are good enough. Mid-tier Marriots are awesome, but high tier Marriott's just aren't worth the money/points."
+"Isn't one thing that Axios brings/brought to the table that `fetch` does not is that it throws an error with 4XX and 5XX error codes, while `fetch` does not?
+
+```
+fetch(url)
+  .then(response => {
+    if (response.status >= 200 && response.status < 300) {
+      return response.json();
+    }
+
+    if (response.status === 401) {
+      // Handle specific error codes.
+      // ...
+    }
+
+    // Explicitly throw an error.
+    throw new Error(`Some error message`);
+  })
+  .then(data => {
+    // Work with JSON data.
+    // ...
+  })
+  .catch(error => {
+    // Handle errors
+    // ...
+  });
+```
+
+Whereas with Axios you just do this:
+
+```
+axios(url)
+  .then(response => {
+    // Handle 2XX responses.
+    // ...
+  })
+  .catch(error => {
+    // Handle 4XX and 5XX responses.
+    // ...
+  });
+```
+
+Axios also parses JSON for you rather than you having to call `response.json()`. Overall, using `fetch` results in a lot more code.
+
+Axios is quite nice. It's a shame if it's true that it's dying.
+
+I've been in backend world for the past few months, so apologies if something above is incorrect."
+"I use Cerave and The Ordinary as well!!
+
+- La Roche Posay Face Sunscreen in the morning
+- Then at night, clean with Cerave Hydrating Cleanser
+- Swap between The Ordinary Lactic Acid/The Ordinary Hyaluronic Acid/The Ordinary Squalene Oil using each once a week
+- Finish with Cerave PM Moisturizer"
+"Massively exterminate them by cleaning the entire room.
+
+Hotels have a protocol for dealing with a bedbug infestation because it can destroy the hotel/corp reputation and even bankrupt the company. Bad news travels fast. So if it gets out it's incredibly bad for years. 
+
+So they go scorched Earth on the room. Steam cleaning, massive chemical cleaning, bagging everything up etc. Cleaning companies come in etc. 
+
+They take it as serious as anything else bad that can happen. It's a terrible issue PR-wise."
