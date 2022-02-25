@@ -1,0 +1,88 @@
+idx,text,query
+73282,"Oh, sorry about that, I read ""minimalist"", and my brain just went to ""lightweight"". You should be able to run whatever DE you want with your hardware.
+
+Updating from one version to another is super simple with these distros--I would say it's more akin to a Windows cumulative security patch than going from one version of Windows to another.
+
+I'm changing my answer to Mint--the Cinnamon DE is clean and pretty. As others have said, Mint is based on Ubuntu is based on Debian, so they'll all be pretty similar.",best Linux distro
+57786,"Bond No 9 is one of my favorite houses. I feel that most of their fragrances are quite unique and last forever. I love West Side, New Harlem, I ♥️ New York for All, and Montauk.",best cologne
+17106,Genshin Impact and Dead Cells,best iOS game
+60698,I was surprised I enjoyed it.,Best comedy show on Netflix
+71538,"True, but neither Lily or Lupin were his explicit inferiors; Kreacher was totally at Sirius' whim and he doesn't treat him well. I do know what you mean though, I do believe that it's more about Kreacher idolising Sirius' parents that makes Sirius treat him like shit- it's still crappy behaviour on Sirius' part though.",best movies with a cool twist
+41689,[Predestination - 2014](https://www.imdb.com/title/tt2397535/?ref_=vp_back),movies like Inception
+45344,PS4 because there are so many exclusives that I want to try,best gaming system
+22434,"tbf, tom cruises nutritionist must hate tom when he goes for a midnight snack and calls him",best celebrity
+53485,"This is what I do, I go to Google, type in blah blah blah then after the blah blah blah I add "" Reddit"". That's how I found my really long usbC cable, I like it alot, it quick charges and it's lasted me like a year and a half. It's the cable matters USB C to usb C, it's cheap too.",best usb c charging cable
+36214,Honey Whiskey on the rocks. The manliest girly drink.,best alcoholic drink
+41774,Time Crimes is also an awesome time travel movie!,movies like Inception
+14421,"1.  Simply Love by Mary Balogh, because I love those two damaged beautiful people, and they turned a trope I hate into something lovely
+2.  The Winter Sea by Susanna Kearsley, for a story that consumed me and a surprise ending that made me laugh with happiness
+3.  Any Old Diamonds by KJ Charles, for an engaging, amusing heist and spectacular characters
+4.  Romancing the Duke by Tessa Dare, for a great beauty and the beast story that celebrates the community of fiction-readers
+5.  The Spires series by Alexis Hall - do I really have to pick one?  Argh.  Such gorgeous, imperfect characters that grow and change and inspire introspection.",best romantic novel
+5902,Javascript.,best programming language for web development
+41047,"This isn't the only factor, but I think a major part of it is the gap between first picking up the instrument and being able to play something identifiable as music. The shorter the gap, the more likely you are to stick with the instrument long enough to become proficient.",best instrument to play
+42742,"Top of the Lake is excellent. But I think it's on Hulu right now, not Netflix.  (Only the first Top of the Lake, not the sequel series).",best detective show
+57052,"This is correct. I used to design and build Pepsi plants, and the water treatment used is without a doubt the most extensive in the world. That said, it is as close to distilled water as you can get, and extremely tasteless. ""Contaminants"" are what make water (and vodka) taste better. 
+
+BTW, I only drink tap water.",best water brand
+60906,Season 1 and 2 are some of the best... If anything it lulls in season 6-8.,Best comedy show on Netflix
+37924,"I'm four movies in so far, and the only thing I didn't like was Hulk. I've very much enjoyed the others.",best Marvel movie
+292,"Of course! [Official instructions are here](https://github.com/skywind3000/z.lua/wiki/FAQ#how-to-integrate-zlua-to-ranger-), but I'll type them out a bit more detailed anyways.
+After installing z.lua itself using the instructions on the Github page, you want to copy the file named ""ranger_zlua.py"" into ~/.config/ranger/plugins. Make sure to make the file executable if it isn't already. You can do that either manually or by running with this command:
+
+    wget https://github.com/skywind3000/z.lua/raw/master/ranger_zlua.pyi && chmod +x ~/.config/ranger/plugins/ranger_zlua.py 
+
+
+Then add this environment variabe to either your shell's rc file or to your environment file (Which is at /etc/environment):
+
+    export RANGER_ZLUA=""/path/to/z.lua""
+
+If you don't know where z.lua is installed, you can simply run this command to find out it's directory:
+
+     whereis z.lua
+
+For me (and probably you as well) it should be like this:
+
+     RANGER_ZLUA=/usr/share/z.lua/z.lua
+
+Then you want to add the keybindings to Ranger. Open up the config with your text editor:
+
+    $EDITOR ~/.config/ranger/rc.conf 
+
+I've added multiple variations to the end of this file, although I mainly use the basic cj binding. Customize the bindings and z.lua options to your liking. My bindings are:
+
+    # z.lua (Autojump-like)
+    map cj console z%space 
+    # z.lua - interactive resultselect with fzf
+    map cf console z%space-I%space
+    # z.lua - cd to parent dir starting from foo # z -b foo
+    map Cj console z%space-b%space
+    # z.lua - cd to child dir of PWD # z -c foo
+    map cJ console z%space-c%space
+
+That should do it. 
+
+Unrelated bonus plugin: I also really like this [mounting menu/script](https://github.com/SL-RU/ranger_udisk_menu) for when I plug in a USB stick. It doesn't seem to be very well known, but it should be as I find it to be very handy. To install, follow th instructions on the GB page. You can add a binding like I did like this:
+
+    # Udisk Mount Menu
+    map mm mount",best terminal file manager reddit
+18318,"God all of his videos were so funny. I loved his Elliot Goes To School series
+
+RIP you magnificent bastard",best YouTube video
+65348,"Well 5G needing a LTE piggyback has nothing to do with DSS. DSS is where 4G and 5G share the same spectrum. What are you using to see what band you are using? Also what devices are you using. As I told you n5 is the 5G band of LTE band 5. And I doubt you have a 5G phone that doesn't have n5 but has other sub 6 GHz bands
+
+LTE band 2= n2 for 5G
+
+LTE band 5= n5 for 5G
+
+LTE band 4= n66 for 5G
+
+LTE band 66= n66 for 5G
+
+n13 doesn't exist yet but will in about 18 months",best phone service company
+58294,"""A scent should be discovered, not announced.""",best cologne
+24222,"A lot of people are asking about Clannad.  Many of the bloggers had a single entry for ""Clannad"" to represent the entire franchise.  To avoid redundancy, I counted it as a vote for season 1.
+
+I just edited the list, and now ""Clannad franchise"" counts as a vote for After Story, and I added a note.  Hopefully it's less confusing now.",best anime
+30214,Not when I was a kid.,best Mexican war to study
+14604,Rebekah Weatherspoon keeps popping up everywhere for me. I need to finally read one of her- which one did you like best?,best romantic novel

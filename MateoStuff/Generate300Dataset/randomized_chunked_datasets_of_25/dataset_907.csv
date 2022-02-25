@@ -1,0 +1,98 @@
+idx,text,query
+20332,My daughter is learning to play the bass guitar and I suggested she listen to a few of their songs to get a different perspective on what can be done with a bass than the one she was getting listening to more modern groups. She's now a massive fan.,best workout music
+50650,Also Haram is amazing,best rap album
+67702,"Just noticed this post because it's the top-voted post of the last 30 days.
+
+Coincidentally, I just today posted in /r/javascript about an AJAX library I've been writing, here:
+https://www.reddit.com/r/javascript/comments/cqa5xm/ive_been_writing_an_immutablestyle_ajax_library/
+
+The reason I started working on that library is that I've been a [contributor](https://github.com/axios/axios/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Acodeclown) to axios and experienced the current unstable state first-hand.
+
+I think there are a few concrete problems with axios:
+
+- lack of active PR reviewers and mergers, as discussed
+- testing setup which is fragile (I've fixed [one issue](https://github.com/axios/axios/pull/1475)), as also discussed
+- design decision of configuring everything via a huge nested object => causes reference and thus security hazards (should be [fixed](https://github.com/axios/axios/pull/1395) now) and is not easy to memorize
+- design decision, to continue on above bulletpoint, it used to be a feature that you could set global defaults and affect everything, causing [security hazards](https://github.com/axios/axios/issues/385)
+- design decision of fitting node and browser support into the same library => causes overly complex testing setup, and also as a principle I would not recommend using the same library in both environments in order to prevent accidental leakage of secrets to the client
+
+So yeah, that's why I wrote [yea](https://github.com/codeclown/yea) which could be an interesting alternative for axios and fetch etc. I've explained [here](https://github.com/codeclown/yea/blob/master/COMPARISON.md) my motivation about why not just use fetch.",axios alternatives reddit
+33012,"I mean there are some ‘healthier’ energy drinks, but most of them probably don’t have the caffeine/energy boost you are looking for. Zevia Energy uses a 0 calorie natural sweetener called Stevia instead of artificial stuff like sucralose, but it only has 120mg / can. There’s also a decently popular brand called Celsius that is generally considered healthier (200mg / can). There’s also some really really low caffeine drinks that are generally healthy like Bai (55mg / can).",best energy drink
+8726,Of course you should,best toothpaste
+48464,"I like it a lot, like a warm plaster color! Thank you.",best color to paint with
+46517,Man I read this way too fast,best trick or treating candy
+13041,"Been there, done that. She has zillions of photos of her offspring! When she wants something, she just buys it for herself and doesn't say anything.",best gifts for mom
+23453,"Have you heard about [Night-Runners?](https://www.youtube.com/watch?v=eA0utA4kKow) Super excited for the demo to be coming out in May.  
+
+
+While not exactly a U2 spiritual successor, it may be what you are looking for.",best car racing video game
+29221,"I want to use wordpress.org to be able to use themes/plugins. Don't think I can do that on wordpress.com without buying business package. 
+
+Any personal recommendations out of the sidebar ones?",best web hosting service
+53978,I prefer mine with lemon and a goodly shot of bourbon. Works like witchcraft.,best medicine for a cold
+8642,"I assume because ""dent"" means teeth, like in dental or dentures.  It's just a suffix that lets you know where the product goes I guess.",best toothpaste
+56647,"PSA: the monitor mentioned above, the Dell 2716dg is currently on sale at Best Buy (online and in store) for $380. Amazing price, GSync, 1440p, 144hz, etc. Just picked one up yesterday, love it!",best desktop monitor
+30345,"Scipio was awesome, but i think Hannibal would have won at Zama if the Numidian's hadn't switched sides.",best Mexican war to study
+72799,":(
+
+&#x200B;
+
+I was afraid this would be the case. Was hoping there was maybe some boutique brand that made something",best wireless lightweight mouse
+9558,One of the Best investments I’ve ever made. I’m curious about the post above saying manual. I’ve read both are fine but that they tend to find people who use electric toothbrushes tend to brush longer since they’re timed,best toothpaste
+13098,Nothing. She passed away a few years ago :(,best gifts for mom
+37905,"To avoid spoilers, I will reply with a link to a comment that explains my feelings so that people can choose to read it or not: https://www.reddit.com/r/Endgame/comments/bgpk9y/so_disappointed_about_endgame/elzeh0k/?context=3",best Marvel movie
+27759,Thank you both,best breakfast foods
+64521,Does nike really make no zero drop shoes?,Best Nike running shoes
+58418,"I smell like the body wash that I used after I get out of the shower, though",best cologne
+28452,Fucking jokingly!,best breakfast foods
+57160,"Also because if you drink RO or DI water there's such little other stuff in it that when it goes into your body your cells will equilibrate with it and ions will move out of your cells into the water. So it can be unhealthy for you.
+
+Edit: this is probably an old wives tale I'd heard.",best water brand
+34789,"Man, what a great time to be a Texans fan.",best NFL player
+37581,"Here’s my list:
+
+1. The Avengers - 8.5/10
+
+2. Avengers: Endgame
+
+3. Captain America: The Winter Soldier
+
+4. Captain America: Civil War
+
+5. Thor: Ragnarok - 8/10
+
+6. Guardians of the Galaxy
+
+7. Avengers: Infinity War
+
+8. Spider-Man: Far From Home
+
+9. Spider-Man: Homecoming
+
+10. Iron Man - 7.5/10
+
+11. Guardians of the Galaxy Vol. 2
+
+12. Black Panther
+
+13. Thor - 7/10
+
+14. Captain America: The First Avenger
+
+15. Iron Man 3
+
+16. Captain Marvel
+
+17. Ant-Man and the Wasp
+
+18. Ant-Man
+
+19. Doctor Strange
+
+20. Thor: The Dark World 
+
+21. Avengers: Age of Ultron
+
+22. The Incredible Hulk - 6.5/10
+
+23. Iron Man 2",best Marvel movie

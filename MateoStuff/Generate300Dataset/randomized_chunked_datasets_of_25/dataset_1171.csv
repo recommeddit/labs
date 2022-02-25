@@ -1,0 +1,74 @@
+idx,text,query
+27343,MSFT and VTI is literally all you need to buy every month doing DCA for insane long term profit,best stocks to buy
+44616,for some reason i read that as pet wallet,best items under $100
+73623,"Many shipping companies will refuse to ship lithium batteries and explicitly lump power banks in as batteries. Other devices are okay. 
+
+USPS does not explicitly ban power banks, but it's possible that it will be found at customs.",best battery bank
+10924,Can't really go wrong with Jansport. I've had mines since freshmen year of high school and it's still very sturdy.,best backpack for college
+27328,ASTS,best stocks to buy
+51238,Trash list if I ever saw one...,best rap album
+45418,"I only use PS5 for exclusives, else I play on my Series X. So the answer for me is Series X, much prefer the Microsoft ecosystem and the features they have. Oh, and Game Pass Ultimate (also includes EA games). Also, with Game Pass, I get a minimum 10% discount on other games I purchase - so there's that too, I mean why pay more on the PS5 when I get it cheaper on Xbox?
+
+For PC, I use that to play strategy games like Age of Empires, Command & Conquer series, etc.",best gaming system
+44999,The diva cup. Absolutely life changing for anyone with a period! I am not kidding.,best items under $100
+34838,Sounds like tempting fate with Brady breaking their hearts from an entirely difference conference.,best NFL player
+48505,"I have horrible visualization skills! But I manage to pick good wall colors somehow (or so I've been told). Here's what I do.
+
+First, what kind of 'feel' do I want the room to have? What colors do I associate with that feel?
+
+What kind of room is it? Are there any colors I associate with that kind of room? Are those associations positive or negative?
+
+Does the room feel 'cool' or 'warm'? Pick a color accordingly.
+
+I like yellow for kitchens, b/c it makes them feel sunny, and I like a sunny kitchen. I avoid blue fr bedrooms because I hate blue bedrooms. Love blue, but for some reason it depresses me if I sleep in a blue room. I prefer green for bedrooms - gives me a more peaceful feel.
+
+Another trick is also to pick a wallpaper border (if that works for your house/room, and then pick a paint that goes with the border. You can literally point to a spot on the border and say 'I want the paint that color' and they will do that. It's what I/my mom did when my bedroom needed repainting, and we couldn't agree on a color (she wanted pink...for her 15yr-old girl, who hated being girly).",best color to paint with
+51905,Is the bottom of the clear case a little loose for you too? Mine is a bit wobbly and it’s kinda annoying. Thinking of returning it.,best iphone case
+7900,I doubt we will be seeing anything like that for now,best laptop for general use
+8612,You sound pretty grumpy.,best toothpaste
+67759,"> If I want to log a user out anytime I get a 401 response from the server I don’t want to add that logic to every API request’s promise chain.
+
+    const logoutIf401 = (response) => {
+      if (response.status === 401) {
+        logout();
+        throw new Error();
+      }
+      return response;
+    };
+
+    fetch('whatever')
+      .then(logoutIf401);
+
+
+    // Or:
+
+    const myCustomFetch = (...args) => fetch(...args).then(logoutIf401);
+
+    myCustomFetch('whatever');",axios alternatives reddit
+10834,Takes about 5 minutes. Not really that extreme if you are traveling with anything valuable.,best suitcase lock
+69286,"Did you transfer out of Wharton or out of Penn? If you left Penn, where did you go?",best major to study in college
+32740,"> but that doesn't mean it's a more ""real"" experience than visiting Disneyland.
+
+Actually yes. Yes, it does.
+
+I've been to Disneyland four times and had a blast 3 of the 4 times - but it's quite literally the fakest place on Earth. It's the antithesis of real.
+
+You can take issue with me providing zero useful information on OP's thread, that's fair enough, but going to a giant fuck-all corporate shit show resort isn't a real travel experience. It may be fun. It may be relaxing. But it's something else.",best vacation resort
+46243,"I'd give a couple pieces per trick or treater. As the night wears on and it's not too busy, I'll give out more, just to get rid of it.",best trick or treating candy
+7639,"The ASUS Zenbook 13 is actually available for $998.81 sold by Amazon, but doesn't ship until Feb. 4. Sadly, I don't think that there is any option that is as good for the price that ships faster. 
+
+Although it is a lot less premium of a device, the Gateway 14.1"" for $449 would be an excellent bang for buck. The only downside is that Gateway is virtually unknown these days... you could consider holding onto it for a short time and selling it if you really want to get a more premium laptop like the ASUS Zenbook 13 when it is in stock.",best laptop for general use
+57123,"Fiji! They don't have that ""minerals added for taste"" bullshit. I don't want my water to taste like minerals, damn it!",best water brand
+49619,"I'm still waiting for a 32"" 1440p 144Hz FLATSCREEN IPS monitor that have a stand that takes minimum space (instead of something like the ROG tripod stand) and with G-Sync support
+
+..I wonder if it will ever become a thing",best gaming monitor
+9452,One of the richest people I know wears cheap sunglasses with tape around the bridge.,best toothpaste
+37121,"Quality vs. Quantity
+
+Mystic Timbers, Voyage, Ghostrider, El Toro, Lightning Rod, Outlaw Run, Boulder Dash (on a good day), Python in Bamboo Forest, Fireball, Wodan, and Raving Flyer 2 are all in my top 25. Furthermore, I'd put Colossos, Phoenix, Gold Striker, Prowler,  Boardwalk Bullet, Thunderhead, Rampage, Balder, Raven, and American Thunder somewhere within my top 75. I haven't been on them but I'm guessing T-Express, Wildfire, Wood Coaster (Knight), El Toro (Germany), and several of the Chinese woodies there too.
+
+Now of course, that means my top 75-ish is still only filled with 30% wooden coasters, but I still find it surprising that rides like Wodan, Mystic, and Ghostrider are ranked as low as they are and that continues down the list. I guess I just happen to prefer a solid wooden coaster over most people who participated in the poll.
+
+Then again people put Kumba at 90 so the poll is complete nonsense anyway. ;)",best amusement park
+9588,I used your Colgate toothpaste.... And it made me feel... Like a piece of shit!,best toothpaste
+64042,Did you ever find a good audiobook hub?,best place to pirate audiobooks reddit

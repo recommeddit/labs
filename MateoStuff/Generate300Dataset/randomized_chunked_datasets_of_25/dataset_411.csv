@@ -1,0 +1,79 @@
+idx,text,query
+26905,"A person who owns Settlers will play it a dozen times or more.  A person who owns the top 10 games here might only play each once, if they even open the plastic wrap.
+
+It's like the difference between the box office and the Oscars - chances are most people would prefer the box office hit even if it's ""less good"" by Academy standards.",best board games
+23,"I source run the following bash script that I have alias ""cdd"" for:
+
+
+\#!/bin/bash
+
+eval cd ""\\""""$(ls 2>/dev/null -p ""$@"" | grep / | cut -f1 -d'/' | rofi -i -dmenu -p cdd)""\\""""
+
+
+
+recursive version:
+
+\#!/bin/bash
+
+eval cd ""\\""""$(find -not -path '\*/\\.\*' -type d \\( ! -iname "".\*"" \\)| sed 's/\^..//' | rofi -i -dmenu -p cddr)""\\""""
+
+
+recursive version with hidden files:
+
+\#!/bin/bash
+
+eval cd ""\\""""$(find -type d ""$@"" | sed 's/\^..//' | rofi -i -dmenu -p cddra)""\\""""",best terminal file manager reddit
+45127,i got my cat for free :),best items under $100
+51143,"I agree that lists like this can seem tedious at times, but from personal experience, ""professional music journalism"" has given me the chance to listen to many, many artists that I may not have been exposed to otherwise. Many of my favorite artists, albums, and songs are ones I had first learned about by reading music lists and reading essays on music by professional music reviewers. Additionally, there are many ""cult classic"" albums that may have been forgotten if not for their standing in the critical world, albums like Television's ""Marquee Moon"" or Captain Beefheart's ""Trout Mask Replica"", to name a few.",best rap album
+5937,"It doesn't matter.
+
+A good programmer is a good programmer no matter what language they use. You will never be able to tell the difference between a programmer who learned first with python and one who learned first with javascript.
+
+The differences between modern programming languages are incredibly minimal.",best programming language for web development
+69832,"You will forever have to hear some iteration of ""geology rocks"" and other geology puns by people not in geology.
+
+But seriously, it's an incredibly fun major with lots of field trips and camping. Also a lot of hard work with chemistry/physics/math, but still fun. Job prospects are pretty decent, too.",best major to study in college
+41911,"Not that mind melting but from a weird perspective: the book Thief
+
+(You'll understand what I mean if you watch it/read it)",movies like Inception
+34462,Massholes,best NFL player
+56143,"i'm going to go a different route - 
+
+Gravity
+
+
+see it in 3D if you can.  it's an experience.   it's the only ""3d""ing i do with my TV, but it's worth it.  others are a gimmick,  Gravity in 3D is like a ride.",best action and adventure movie
+53285,"Do you even need a cable for data transfers? The 65W charger will only deliver 60W with the Powerline III, you'll need a 100W cable to utilise the full power, which is bigger. I use the Nano II 65W with the Powerline III, because my laptop can work with everything from 45W upwards and I prefer the slimmer cable.",best usb c charging cable
+28656,"Black pudding is amazing, I had it in a wild leaf salad with pigeon with a hot pepper sauce in a tradition British pub once and it's probably the best dish I've ever eaten.",best breakfast foods
+15165,"I concur. I've been complaining about the crabapple in our yard for the last couple of years. Beautiful flowers in the spring give way to a summer of dropped brown leaves, a fall of dropped overripe fruits, and a winter of dropped brown leaves AND rotten fruits. It doesn't help that whoever planted it put it next to my patio. I've been suffering it to exist because the bees love the flowers in spring and birds love it as both perch and forage year-round, but I can't deal with the insane amount of mess it produces in my yard/on my patio. It's like...some trees are 4 seasons of beauty, crabapples are 4 season of maintenance and mess.",best tree for the garden
+9629,The only kids I met at UCSB my freshman year lived at FT or would go hang out at FT with us every night because the on campus dorms were lame. You should reconsider,best dorm hall at UCSB
+10490,"Nobody is going to open a backpack on the strip, they will just grab it and run. Keep your backpack on you and you'll be fine. Set it down, and no lock will protect it.",best suitcase lock
+32456,The public beach because they even let you in without paying.,best vacation resort
+69523,"Russian Linguistics.
+
+EDIT: Relative username is relative.",best major to study in college
+6533,If you liked *Wild Wild Country* then you absolutely need to watch Documentary Now's parody version with Owen Wilson called  *Batshit Valley*.,best Netflix documentary
+35139,"Homer take. 
+
+* Kelce has been the #1 TE in stats for a while now, and has been Mahomes security blanket for the last 3 years. 
+* Adams was literally the best WR in 2020.
+*  Henry has been the engine on which the Titans offense runs
+* Hopkins made Kyler look much better
+
+Russ is great, but he wasn't elite down the stretch, and certainly not top 10 material",best NFL player
+54545,Gotcha! ill give that a try thank you :),best artisan mousepad alternatives
+16371,BluBlockers!,best sunglasses for fashion
+31381,arguable,best country to live in
+60671,"[The Office](https://www.contenthunt.io/title/70136120) 
+
+[Always Sunny](https://www.contenthunt.io/title/70136141) 
+
+[Parks and Rec](https://www.contenthunt.io/title/70143842) 
+
+
+Check out this list of Sitcoms on Netflix for more suggestions
+
+[https://www.contenthunt.io/search?genreid=3903](https://www.contenthunt.io/search?genreid=3903)",Best comedy show on Netflix
+5074,"Yes. All the Home Depot’s here about a year ago changed it to no dogs allowed. Besides service, obviously. Lowe’s you can still bring them.",best home improvement store
+58567,"My mother works at a retail store and they give away ""testers."" So, I have tons and tons of cologne.",best cologne
+3326,I used the webcam on my laptop for a long time.,best webcamera

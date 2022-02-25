@@ -1,0 +1,106 @@
+idx,text,query
+70193,"Recruiters? I'm a recent GD grad, who exactly is knocking on your door?",best major to study in college
+55580,"The Darkness That Comes Before was extremely dark, if I recall correctly. I remember it being an amazing series though.",best action and adventure novel series
+61651,"Persona 5
+
+Legend of Heroes: Trails of Cold Steel (series)
+
+Kingdom Hearts (series)
+
+I'd probably slot FFXIV somewhere in there as well but that is an MMORPG and while you can mostly play solo there are some forced group elements (also has a subscription)",Best RPG game on PS4
+10747,One of my favorite Reddit pastimes is checking useless LPTs for the real LPT.,best suitcase lock
+53880,"Haha. This totally reminded me of that South Park:
+
+http://www.southparkstudios.com/clips/154087",best medicine for a cold
+58282,"I use Old Spice Denali deodorant, along with Target-brand body wash (I think it's like generic Old Spice Sport?) and Head & Shoulders Clinical Strength (sexy, I know).  I'm told pretty often that I smell really good.  I'm usually described as smelling like cleanliness, fresh laundry, and Old spice.  
+
+Works for me.",best cologne
+54126,"Listerine.  When you feel a cold a coming, nothing works better.",best medicine for a cold
+26136,"He wrote I think two books, though the latter was most likely heavily ghostwritten but has a lot about what he'd like in terms of policy. I'm a huge rfk fan, wish there were more resources on him.",best politician
+48185,"Having never painted anything with a roller, I would guess you dip the roller into the paint at the bottom, then roll it up the grid to take it out, to get off enough paint so it doesn't drip everywhere.",best color to paint with
+23974,"1. Hunter x Hunter (2011), by a fair margin
+
+2. Re:Zero, I have read ahead and it probably biased my opinions a bit.
+
+3. Violet Evergarden
+
+4. Steins;Gate
+
+5. Magi
+
+6. Fullmetal Alchemist Brotherhood
+
+7. Konosuba
+
+8. Code Geass
+
+9. Death Note
+
+10. Psycho Pass
+
+The top 7 I have rewatched/watched within the past year, while with the bottom 4 it's been a while so I'm not 100% certain on 8-10, but the top 7 are pretty much set in stone compared to what I've watched.",best anime
+67200,Axios.,axios alternatives reddit
+54658,"[Edit Feb 2019]
+
+Apparently people keep finding this post while searching for info on Berkey filters.  So, here's some useful links I found while finishing my research.
+
+Here's The Wirecutter's article on the Berkey:  https://thewirecutter.com/reviews/big-berkey-water-filter-system/
+
+Basically:  If it's not NSF certified, you can't trust it.  ""NSF compliant but not certified"" means ""noncompliant.""  The more ridiculous your claims are about contaminants and longevity, the more expensive it is to do NSF testing.  Therefore, Berkey didn't want to pay the money to back up their claims, so they paid a smaller lab to do cheaper tests that you can't trust.
+
+I ultimately bought the Brita Longlast, which is cheaper and more convenient.  I learned about it through this Wirecutter article:  https://thewirecutter.com/reviews/best-water-filter-pitcher/
+
+None of Berkey's competition in the gravity filter space is NSF certified (I think), so I wouldn't waste your time, money, and counter space on any of them.
+
+~ ~ ~ ~ ~
+
+[Original Post Follows]
+
+I'm in the middle of doing research about gravity-fed countertop water filters -- stuff like Berkey's units.  I haven't actually bought one myself; I'm still in the research phase.  Sadly nobody on Reddit seems to be talking about these things outside of doomsday prep subreddits.
+
+Here's Berkey's website (though you probably would end up buying on amazon):  https://www.berkeyfilters.com/
+
+The other main competitor I'm looking at is AquaCera:  http://www.aquacera.com/gravity-systems.html
+
+I'm presently interested in AquaCera's CeraMetix filter elements.  You should replace the filters in units like these once a year because of the potential for bacteria growth (even though they claim to filter bacteria...), so the question is more than just ""What's the price per gallon of a filter element?"" because you're going to replace them yearly.  IIRC the CeraMetix elements are $40 each, and you're going to want two of them each year, probably, which is $80 yearly for filters total.  Berkey's replacement filters are $150 for two, which is too much.  Also, the CeraMetix filters are supposed to filter out fluoride and stuff too without add-ons, so that's an advantage over the Berkey filters.  (Fluoride might be a neurotoxin even at the diluted levels found in fluoridated water, but I haven't done enough research to say with certainty if that's true or not, and is likely outside the scope of this subreddit.)
+
+I currently own a Brita filter, and it doesn't help the water very much at all.  I have not been impressed with it.
+
+While the ZeroWater filter system is in the same ballpark as Berkey and AquaCera in terms of how well they filter the water, their filters last a fraction as long.  Their filters are $15 and filter 40 gallons max.  If you assume a two-person household drinks two gallons of water per person per day, that's ~1,500 gallons a year, and about $560 a year for filters, but only if you replace them every 40 gallons according to the manufacturer.
+
+None of the filter elements are BIFL, obviously.",best water filter
+14032,"The app called Overdrive connects to my library and I can borrow ebooks to kindle and audiobooks to the app for free, just like a library.",best place to get free books
+69936,Engineering. Absolutely no idea which type though,best major to study in college
+33308,There's no emergency disconnect for the high voltage battery?  On my C-Max you flip down the passenger side rear seat and yank the orange things.  Of course on a C-Max you also have to remove a good chunk of the forced air cooling system in order to replace the 12v less acid battery.  It's like 2 hours of labor.,best electric car
+67257,"Error handling shouldn't be ""expected"". If you are expecting an error from a request, then you have an issue with your system (or of course could be unfortunately dependent on a faulty system).  
+
+
+One of the reasons this comes up is because programmers use 404 incorrectly a whole lot to mean ""empty state"" instead of it's actually meaning. For example if I request /users/4/allergies and user 4 has zero allergies, I should get back \[\], and not a 404, because an empty response IS the valid resource that is there. However, many developers have returned a 404 in cases like this.  
+
+
+The issue is that this pollutes the meaning of 404 and makes it hard to understand. Is this just a resource with an empty response? Or did I actually call a non-existent resource?  
+
+
+a 404 should always be the latter, which should always be an error. It should not be expected, and thus should throw, and not be handled inside your normal flow control.",axios alternatives reddit
+467,That's a bit of a downer because I'm so used to ctrl-F/ctrl-B for forwards and backwards in vi.,best terminal file manager reddit
+58160,"Oh there's numerous.
+
+* ZARA Vibrant Leather Eau De Parfum (pro tip, smells extremely similar to Creed Aventus, but is literally 1/10th the cost).
+* Chanel Allure Homme Sport (why there's no parfum version of this I'll never know, this stuff doesn't last more than 2 hours tops)
+* Yves Saint Laurent, L'Homme
+* Dior Sauvage
+* Montblanc Explorer (personal fave)
+* Yves Saint Laurent, La Nuit De L'Homme
+
+It's worth shelling out for one or two a few times a year, but get the parfum versions if you can.  More intense and last longer.",best cologne
+1370,"That Cake Batter at Cold Stone deeeewd. Or Ben and Jerry’s Half Baked. 
+
+Either of those^",best ice cream flavor
+73413,30k mAh = 30 Ah,best battery bank
+52660,The Miseducation of Lauryn Hill,best hiphop album
+39774,"If you have uBlock Origin, you can just install Fanboy's Cookiemonster List and that should take care of the cookie popups.",best Chrome extensions
+21137,"Wait, are people legitimately listening to this while working out? Funny either way.",best workout music
+52192,To pimp a butterfly,best hiphop album
+35506,"THIS! Classic highball! I can drink them to no end, even at a 50/50 ratio!
+
+And it HAS to be Vernors - FUCK Seagrams!",best alcoholic drink

@@ -1,0 +1,80 @@
+idx,text,query
+39350,I'd rather Facebook et al have my data than the Chinese.,best web browser
+62101,"Pillars of Eternity 1 and 2, Divinity: Original Sin 1 and 2, Wasteland 2 and 3, Valkyria Chronicles Remastered and 4, Path of Exile — those are some of my favorite RPGs and I haven’t seen anyone else mention them yet",Best RPG game on PS4
+44267,Agreed.  Never worry about matching them again!,best items under $100
+35702,And cheers to all the Sloots,best alcoholic drink
+24866,"I agree 100%
+
+They did some great casting!
+
+Tobey actually transformed the role tho.  TH only had to mimic Tobey.
+
+Just a thought.",best spiderman actor
+13945,semantic scholar,best research paper archive
+72704,"MM731 (as my flair states), Gamebitions Orbit, Razer Orochi V2, Origin One X, and a few others (these are off the top of my head). I made an upcoming mice thread on this sub that has some more.",best wireless lightweight mouse
+34592,"> Conversely, someone has to catch those passes
+
+Which is exactly what makes the QB position more important. Brady’s thrown to over 100 players in his career, and has succeeded all the time.",best NFL player
+59786,"I see what you mean, but the menthol bengay I've smelled doesn't unfortunately quite match it in intensity.",best perfume
+37513,"Silver Dollar City is the clear choice. Even though I am a big fan of SFStL, and Worlds of Fun.",best amusement park
+56032,"I just watched Stargate (1994) again, does that count?",best action and adventure movie
+9679,ft/san cat,best dorm hall at UCSB
+27692,Hes not the best but I dont really mind him at least.,best bollywood actor
+67754,"I agree that the article is more subjective than it should be. For those who would want more details :
+
+> What if I want to get the HTTP headers, cookies, redirect information or read the status code? The response object has valuable information. This should be explicit asked for.
+
+Actually the response object has all you need, for example response.headers, response.request... only response.data is automatically transformed if your responseType is set to json, which is the default. So simply changing the responseType should be enough to get the raw response.
+
+> What is the [XSRF protection](https://en.wikipedia.org/wiki/Cross-site_request_forgery)? How does it work ""being better""? Doesn't this need support on the server side?
+
+Some frameworks ask for token to authenticate specific requests, and you can set Axios to store this in a cookie which will be automatically sent as a HTTP header (both cookie name and header name are configurable). This is actually pretty sweet since once configured on both sides, you really forget about it.
+
+> The implicited automatic error handling isn't usefull perse. With REST non-200-ok status codes might mean something for your app. This should also be asked for explicitly.
+
+There's an option to change that quite easily, that should have been mentioned in the article :
+
+    validateStatus: function (status) {
+        return status >= 200 && status < 300; // default
+      },
+
+> Globally defined interceptors are bad. Globals are bad. Just chain a transform function into your promise chain or create a wrapper function.
+
+You can define interceptors per instance, I'm not a fan of the global axios instance and prefer to create one for each component I have via axios.create. Interceptors are super nice because they can live really before your response handling code : I was able to change my whole app from JSON to msgpack for the sake of it by just changing the Accept/Content-Type header and POST data and decoding the response in an interceptor (all in transformRequest, server-side serialization depends on Accept header). This is done in my constructor function returning each instances, so all my custom in-components code was untouched and didn't need any changes !",axios alternatives reddit
+56005,A farty adventure!,best action and adventure movie
+66910,You might have read it but you didn't remember because Ferenc doesn't mean anything to you. Now that I have told you I'm pretty sure you will notice it many times,best soccer team in the world
+3504,"Well it's sort of like saying ""people think that Lehigh is better than UChicago"" or ""people think that George Washington is better than Yale"" or ""people think that Villanova is better than Cornell"". You're gonna get pushback because it's an inaccurate statement based on most metrics people are looking at. It is just not an opinion held by the vast, vast majority of people.",best college for research
+6285,If you have hbo I highly recommend the jinx.,best Netflix documentary
+23924,"Not necessarily in that order:
+
+- Monogatari
+
+- Toradora
+
+- Ookami To Koushinryou
+
+- Clannad Afterstory
+
+- Oregairu
+
+- Kaguya-sama Wa Kokurasetai
+
+- Violet Evergarden
+
+- Kaze No Tani No Nausicaä
+
+- Mimi Wo Sumaseba
+
+- Koe No Katachi",best anime
+27178,This is a great list.  Gonna have to head over to Amazon once the social distancing stops.,best board games
+32322,"I didn’t work at a 5-star hotel, but it was a mid-range hotel that catered mostly to businesspeople.
+
+I worked weekend overnights, and we had a porn shoot happen one weekend. Told them to shut the curtains and everything was fine. The girls came out and ordered a bunch of food and paid from stacks of dollar bills.",best hotel to live in
+49548,"I've settled for VA. Got 2 laptops with IPS and when put next to my VA monitor at 100% brightness, the blacks on IPS at minimum brightness are still noticeably brighter. I play a lot of games that involves day night cycles, and washed out dark colours can be impossible to correct causing issues seeing objects at night.
+
+VA does ghost, but at 60hz it's not noticeable unless you drag black frames on white background. In games I don't notice it. Can't say anything about 144hz though.
+
+I also have a smaller TN 144hz monitor, that one is worst to be fair. Viewing angles and darks suck badly.",best gaming monitor
+16177,Vintage Serengetis are some of the best sunglasses out there. They'll cost a lot more than $60 though.,best sunglasses for fashion
+4122,I hope to find their phone # and ask. Thanks.,best online college
+20790,Face the pain-Stemm,best workout music

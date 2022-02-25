@@ -1,0 +1,37 @@
+idx,text,query
+46487,"PA resident here. I've given candy to hundreds of kids and never seen a single Mars bar in a single plastic pumpkin out here.   
+Maybe Western PA is throwing off our average or something...",best trick or treating candy
+59690,"Love the sample of L’eau d’hiver I got around 2010, especially the honey base. I regret not buying it back then. Do you have the old version or the reformulated version?",best perfume
+14799,I just finished Seize the Fire this morning. Loved it. Have you read other books of hers?,best romantic novel
+72307,"> uBlock Origin seems to be still a browser plugin, so the ads enter your network at least once
+
+They don't. You can actually observe this in [the console tab](https://i.imgur.com/TsCUSOt.png) and [the network tab](https://i.imgur.com/u04I4IG.png) in your browser. The request is outright blocked and prevented from even happening.
+
+[The browser doesn't even gets to make a DNS lookup at all](https://i.imgur.com/xGGigsz.png), otherwise there would be a `p.imgur.com` in the cache now. It's actually important for it to be this way, otherwise I could still communicate somewhat with an ad-server by making requests to dynamically generated DNS names that are essentially the base64 data of what I want to send to the ad-server. While this communication method is largely unidirectional, it would still allow for limited tracking of the user.",best adblocker extension
+10536,Yes. You’re screwed if you land in New Jersey. It is known that they will wait to arrest you when you claim your bag.,best suitcase lock
+27921,"Grits, scrambled eggs, sausage(or bacon) and a biscuit with some jelly/jam.  
+
+And yes, I am from the south, haha.",best breakfast foods
+70897,"Read my post again, it's non-linear. ;)",best movies with a cool twist
+4962,I think a lot of it—at least the customer service aspect—depends on your local store.,best home improvement store
+38318,"It’s usually best to find outlets from the country you’re looking at. For India I generally read the Hindu, for UK Financial Times and the Independent are my go tos. Some countries don’t have great options though, so for China for example any mainland paper is gonna be state propaganda.",best newspapers to read
+27232,"BYD flies under the radar, but its a Berkshire holding.",best stocks to buy
+20565,Mine sounds super lame compared to everyone else's but I've always listened to Come On Eileen by Dexter's Midnight Runners. It's better than Man in the Mirror which is what the gym is always playing.,best workout music
+33735,The 8 year warranty is nice when you buy it new. But cars usually last longer then 8 years. The future health of the battery will be a major factor for the second hand market.,best electric car
+32029,"I was going to say the Four Seasons in Budapest. The building itself is a work of art, and I'm a big fan of art nouveau in general but the building was on a whole level of it's own in terms of artistry and quality.
+The rooms were spacious and had ~12' ceilings (I'm not great at estimating height but they seemed higher than what most people call ""high ceilings""). Each room had it's own doorbell which was novel.
+ And the rooms looked over the Danube onto the other side of the city with the castle and historical district. My aunt's room had a balcony with the view and my room had a wide stone ""windowsill"" with windows that opened like French doors so I could sit on the windowsill while admiring the view.",best hotel to live in
+39092,Thanks for replying! Do you know of anyway which I can have different accounts on both stable and beta?,best web browser
+43313,"I'd look for sponsors and cut the middle man ad network or create a ""Advertise with us"" section that redirects to your website for marketers. Make sure you implement your own analytical tracking if you go with that route.",best ad service for mobile applications
+58396,I agree. If a guy overdoes the spritzing it is definitely overkill on the nose.,best cologne
+54166,"My local pharmacy keeps all of the cough syrup and mucinex behind the counter now because kids were getting high off of it or something. Even Delsym, which doesn't have alcohol in it and is meant for children. 
+
+It pisses me off - now, I have to make sure I get there when the pharmacy is open just to get my allergy meds.",best medicine for a cold
+56025,"I could tell Spielberg directed this, there were lots of great adventure vibes in it. I really dug it.",best action and adventure movie
+40442,1660 super is great,best midrange GPU
+184,"On a similar line, here's a mod of [noice](https://github.com/jarun/noice) file manager that integrates well with the desktop.",best terminal file manager reddit
+31981,I think you are thinking about Club Carlson. Ritz only does a percentage annual points bonus,best hotel to live in
+11713,"Well, there was that casket....",best gifts for dad
+36620,White Russian,best alcoholic drink
+32197,Hotel Des Indes The Hague! A-maz-ing!,best hotel to live in
+73153,What's a good reason to use Arch?,best Linux distro

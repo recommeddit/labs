@@ -1,0 +1,52 @@
+idx,text,query
+2512,Grado SR-60 is just barely over your budget and are fantastic.,best headphones
+35771,"1 and a half ounces of Captain Morgan spiced rum  
+3 quarter ounce of blue curaco   
+3 ounces sour mix  
+1 teaspoon of fresh lime* juice  
+A splash of grenadine.  
+  
+This makes for an excellent drink, and I as a mako shark can only recommend it.",best alcoholic drink
+10908,You’re really starting to sell me on Fjallraven...,best backpack for college
+64259,"Is there anywhere that has workout programmes, specifically ones that are spreadsheet based? It's always quite difficult to find those ones like Mike Israetels Male Physique template routines",best place to pirate audiobooks reddit
+61773,"I see them both as an RPG, but I would say Bloodborne is more of an RPG imo. Mainly because of the different builds you can do in the game depending on what stats you level up.",Best RPG game on PS4
+27782,"Hi, try out some Indian healthy breakfast recipes like Poha, Idlis, Oats Chilla, methi parathas, aloo parathas. To get recipes, visit Thekitchenstories.com",best breakfast foods
+64714,Spot on post! I get a lot of questions over these shoes and now I have a good source to point people to.,Best Nike running shoes
+63484,"Yup! Using the latest version but still not working. Tried everything I could. I’ve unc0ver jailbreak, no incompatible tweaks and tried re-jailbreaking many times with reboots but still not blocking the charging. The diagnostic tool reports the charging block but in reality that’s not happening. I also disabled Apple health charging mechanism suggested by the tweak. I’m out of ideas 😂",best package manager ios 14 jailbreak reddit
+65314,Google Fi should be on the list! Consider switching to another view to see more plans.,best phone service company
+34043,"There's also the Virtual Console option, you could try Yellow or Crystal. Only if you're feeling retro. 
+
+X/Y are a good jumping on point into modern pokeman games for the classic formula.
+
+Ultra S/M are more unique with their formula, not classic pokemon.",best Pokemon game
+66323,bayern shouldn't be in front of milan.,best soccer team in the world
+67476,"It's specced, you can try it in your browser console if you want.
+
+Edit: 
+
+https://developer.mozilla.org/en-US/docs/Web/API/Response/clone
+
+> In fact, the main reason `clone()` exists is to allow multiple uses of `Body` objects (when they are one-use only.)
+
+This is just a property of streams, which is what HTTP responses are, and therefore what the `fetch` spec uses. In general, once data has been consumed from a stream, it can't be consumed again from that same stream (i.e. streams are ""single-consumer""). If you want to read a given stream multiple times it needs to be split ([""teed""](https://developer.mozilla.org/en-US/docs/Web/API/ReadableStream/tee)) first, which I assume is what `.clone()` does under the hood.
+
+The issue with `response.json()` is that it reads the stream (consumes it) then tries to parse it as JSON, in a single expression. If the parsing part fails, then there's no way to retrieve the data that has already been read.",axios alternatives reddit
+51254,"silicone peels off easily on the corners I wouldn't recommend silicone at all, or the transparent cases (these turn yellow over time). Get a solid plastic one that's not transparent imo.",best iphone case
+45471,If need be I have a UK drive for the 360 as well as a japanese. Just a swap will do.,best gaming system
+71274,Prestige,best movies with a cool twist
+59607,Mid to late 20s F. You make a flawless brownie and your eyebrows are on point.,best perfume
+31600,Overall the food in HK is cheap as fuck considering the pedigree. We had 5 meals at 3 star restaurants and a few at two.,best hotel to live in
+28819,"Muffin pans make for smaller, individual servings.",best breakfast foods
+37480,I live minutes away from Kings Island and go often but cedar point is the best in not just Ohio but the country,best amusement park
+11417,"Over a year ago, I started dating a fantastic woman, who has a fantastic daughter that I care about more than I ever thought I could care about somebody else's kid. She announced to her mother about a month ago that she wants to get me a father's day present. I don't care what it is, it will be amazing regardless.",best gifts for dad
+66207,"Because he thinks we are discussing the best teams in European compeitions... It is very clear that is the angle he is discussing. He's not saying you shouldn't care about domestic trophies. He's saying here is a ranking of teams performances *in Europe* based solely on their European/International trophy haul.
+
+You are reading something into this that he is not saying.",best soccer team in the world
+54113,"I always sweat them out. Hot soup, hot chocolate, hot everything. Then I climb into bed w/ a comforter and a couple thin fleece blankets. (Those fuckers get hot fast!) I rarely get sick but when I do it only lasts three days tops.",best medicine for a cold
+12013,"Also, as new parents with a five week old, what the heck can I do for him. 
+
+I know bj, cook for him, etc. But, I kinda already do stuff like that for him a lot.",best gifts for dad
+13219,"Practicality is so underrated! I got my husband an electric drill and a compost tumbler for his birthday this year and my father-in-law acted like I was some kind of asshole. He said ""so it would be ok for you to get an iron for your birthday?"" I kindly reminded him that 2 years prior his son had bought me not one, but TWO toilets for my birthday (complete with installation) at my request.
+
+Different strokes for different folks, I guess :-)",best gifts for mom
+11898,Mother's day was last month.,best gifts for dad
