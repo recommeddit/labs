@@ -1,0 +1,539 @@
+idx,text
+53383,">It's just that the unknown wire gauge also suggested the weight difference.
+
+It's also very easy to cheat. I've seen ""high quality cables"" that feel really thick, only to find upon cutting into it that it's the thinnest of wire, with lots of padding."
+53384,"Yes, I think in general we should be pushing for more technical content from articles that talk about usb-c. I don't want to hear anymore garbage about how usb-c is this sort of magic cable. I want to hear about how well implemented the device or cable is, measurements of the device/cable, maybe even what materials it's composed of."
+53385,"Fun fact: I have one of these in my lab:
+
+[https://www.totalphase.com/products/advanced-cable-tester-v2/](https://www.totalphase.com/products/advanced-cable-tester-v2/)
+
+Among the many things it does, it tests the DC Resistance of various wires and pins. It will effectively measure voltage drop at maximum rated current (3A or 5A). It will actually even do a per-pin measurement of all of the Vbus pins and all of the Gnd pins individually to suss out bad contact resistance at the connector too.
+
+For a 5A cable, the Vbus path must not have more than 100 mΩ of impedance. The Gnd path must not have more than 50 mΩ."
+53386,"That's a real nice piece of equipment.
+
+In my opinion, all these cable reviews are missing very important characteristics, which you could get with a cable tester like in your lab.
+
+It's like if you are on the market for a car. Plenty of articles that will describe the possible colors, the seats of the car, etc. Which is nice, but describing a car ought to include whether it's reliable, what maintenance costs are, the hard stuff."
+53387,"This list has some great cables. I haven't bought any yet. But they have great reviews and different cables for different reasons. 
+
+For instance it lists the best 60W, best 100W, best 10Gbps, best 20Gbps, best USB-A to C.. 
+
+It has the cable lengths, specs, pros and cons.
+
+https://thewirecutter.com/reviews/best-usb-c-cables/"
+53388,"I like the Anker and Amazon Basic branded cables. They are usually about half the prices of Apple’s, MFi certified, and both customer services are responsive if there is an issue. 
+
+Yes they aren’t $2, but I don’t have to worry about my house burning down."
+53389,"Love Anker. They also have lifetime warranty, just received my replacement last week."
+53390,"only on some products! the powerline ii is one of the few that have the lifetime warranty, the majority of the other usb cables anker sells only have an 18 month warranty."
+53391,"The Type-C port on my 20,000 PD Anker power bank stopped working. They won't do warranty service on it, which makes sense as its a bit past the warranty period, but they won't do a paid repair either. The device isn't two years old yet. I really wish I could get it repaired, even out of pocket.
+
+I had a 20,100 power bank of theirs that was Type-C without PD. I had to get that one replaced over they Type-C port too. I used to like Anker a lot, but their Type-C ports seem like a weak point. I'm giving RavPower a try now instead of Anker."
+53392,"My brother's RavPower has a similar issue, Type-C port has conked out. He's looking into a new power back and he's ironically looking into Anker. His is 1.5 years old."
+53393,"Anker and Aukey my favorites brands, I had chargers and cables from both brands and the build quality is really good."
+53394,Same. My kids are brutally tough on cables and the lifetime warranty is so easy for replacements.
+53395,"Just so this isn’t an ad for Anker, UGREEN also sells the same quality cables"
+53396,I've seen UGREEN deals a lot but their Fakespot ratings are terrible for all their chargers and cables. I'd rather be safe with Anker/Aukey/Ravpower. I have to admit that I use to think these brands weren't reliable a few years ago so maybe UGREEN will make it to my 'acceptable' list in a few years.
+53397,"from personal experience UGREEN has been alright for me. i've purchased a short usb c cable for powerbank charging for my phone and a simple DAC to deal with Xbox audio output, and both devices have worked fine for me (above average build quality as well which is nice for the price)!"
+53398,"I was using a UGREEN USB c cable with my Traktor DJ controller; on the old model it was fine. Switching to the new Mark 3 model suddenly had the controller producing absolutely horrific sound. 
+
+I thought the unit was defective, turns out the cable wasn’t up to snuff. I’ll never use ugreen again."
+53399,">	their Fakespot ratings are terrible
+
+
+I used to be really worried about this, but not anymore. 
+
+I figured out that actually, a lot of companies need to use fake reviews to prevent their products from getting buried. 
+
+This is pretty much how it goes: many companies sell a product. Some of them get fake reviews. Other get fake reviews. The trustworthy ones fall behind, even though theirs are better quality. In order to stay relevant, they also need to purchase fake reviews, or basically all people stop buying their products. 
+
+I would strongly recommend using Fakespot, but using it to see what the final score is like. Just because a product has fake reviews does *not* mean that it is a bad product. In other words, try to filter out the fake reviews and ignore them.
+
+As far as Ugreen goes, from my research into them they seem to be more reliable than most other “no name, no brand” companies, although probably not as good as Anker and the like.
+
+Edit: unless you mean that their reviews after using Fakespot are terrible, in that case yeah it’s probably good to avoid them. But don’t discredit a product just because it has fake reviews."
+53400,As long as you purchase from the Ugreen store on Aliexpress its hard to go wrong. Almost every cable in my house is a Ugreen one. Amazing quality at a very affordable price. MFi certified too.
+53401,Not sure why you are getting down voted. I’ve had the same experience. Cables very good quality. Quite thick compared to a lot of the cheapo ones.
+53402,"Yeah I am not sure? Sorry my opinion differs from everyone else’s? For what it’s worth Anker has a dedicated AliExpress store so I don’t understand what the deal is? Glad to hear you’ve had a positive experience too, honestly my go to for every cable. Been super happy with them so far, super sturdy MFi cables too."
+53404,I haven’t had the best experience with their batteries
+53406,Fair enough. This was around 2014/15 so I’m sure their quality could’ve changed for the better recently.
+53408,"You can check it 
+https://mfi.apple.com/MFiWeb/getAPS"
+53409,"Apple sells Anker products on their store, so that’s always been good enough for me!"
+53410,"I actually never noticed! Damn that's a goal.  
+
+
+I always went to Anker products because I felt they were very high quality. Seeing them on the Apple Store solidifies my perception."
+53412,"I’ve had great luck with their braided nylon ones. I have one at home, one at the office, and one in my jeep that gets beat up pretty bad. It’s been slammed in the glove box and the car door too many times to count."
+53413,"Anker has done right by me. Plus, if you really need them, Wal Mart usually has them for about $12 a pop for a 6 foot cable."
+53414,Yup. I wanted a long (10’) lightning cable  to fit my work setup and don’t regret getting the cable from Anker. It was a fair price for a surprisingly heavy duty cable that’s worked great.
+53415,"I typically but them from Apple, since you know that there absolutely won't be any problems with them"
+53416,"Yup, only two alternatives I’ll trust on its face. Some others are fine, but I know I don’t need to to any research on those."
+53417,"You have to do a little bit with Anker because they sell a ton of cables. They have like five different USB-A to Lightning braided cables alone between their normal line up, the Powerline II, and now Powerline III and both of the Powerline versions have two revisions. For what, I don't know.
+
+In terms of quality though, yea. I picked up one of the braided cables for my car since it sits in the sun fairly frequently and the insulation on Apple cables kept peeling and cracking. So far, so good."
+53418,That’s why you have insurance.
+53419,"Amazon Basic is trash that doesn’t last past half a year or something. Anker on the other hand is magic, I have a Powerline II+ lightning cable that’s 2 years old and is still trucking along without any sign of wear."
+53420,"Anker, Belkin, Native Union, Mophie or Apple to be on the safe side."
+53421,Cable matters also makes great cables!
+53422,"I've also got a few chargers and cables made by BlitzWolf that have never been a problem in the 3-4 years I've had them, besides one cable that doesn't work 100%, but that's due to how it was treated by others in the house. Pulling and stretching any cable so it's at a 90 degree angle coming out of the connector is always going to shorten its life."
+53423,"Correction, they don't use higher voltage, a cable is just a cable. They have crap controller chips and thin wires leading to what happened to you. The device that's connected to it chooses how much power is drawn. When the cable can't handle how much power is being drawn because the wires are too thin, the wires heat up and start melting things. For example: 2 amps through an Apple charging cable is fine, 2 amps through headphone sized wire would burn it to a crisp."
+53424,"USB-C absolutely does use higher voltage than USB-A. USB-C charges at voltages of 5V, 9V, 15V, and 20V, whereas USB-A was (with very few special exceptions) 5V only."
+53425,Yes but the fact is a cable isn’t going to suddenly make your Apple Pencil take 20v. It’ll use the max it can
+53426,"It's a little more complex than that. USB-C is also 5V in all cases, unless the USB connector is in Power Delivery mode. USB-PD is a different standard from USB, it just uses the connector. Power Delivery isn't possible over the USB-A port because it needs a couple of extra communication pins."
+53427,"Thanks for the clarification - I wasn't sure about this point. I have follow up questions:
+
+1. What makes a fast charge cable fast charge? 
+2. Whats the difference between the older USB A and the new USB C PD cables?
+2. AFAIK the problem wouldn't happen with old USB A type cable connected to some non fast charging, is that correct?"
+53428,"1. Better wire thickness to handle the higher amperage of fast charge.
+2. The chip that controls it inside the cable and the device on one end, and the power adapter on the other end.
+3. If it was just plugged into a 1 Amp charger (like for Apple watch or similar) it likely would not have fried. But the phone called for fast charge because it talked to the power adapter with quick charge 3.0 and the cable said ""sure dude, whatever you say"" and boom. Thin wires not capable of the job"
+53429,"Cool, thanks for the clarification. So there is indeed more risk of buying cheap USB C PD cables the the regular old USB A because of the amount of power they can ""request"" from the host."
+53430,Correct. Devices pull what ever maximum they can from the power adapter.
+53431,"They are incorrect, you were correct that USB-C operates at higher voltages (5V, 9V, 15V, or 20V) than USB-A (generally 5V only)."
+53432,"That's not USB-C, that's USB-PD. USB over USB-C is still only 5V, unless a Power Delivery connection is negotiated."
+53433,"I really appreciate stories like this, as the issues with cheap USB-C cables and wall-warts should be the prime example as to why Apple not providing cables/wallwarts is a bad idea. The most common response to people making the point that ""if apple doesn't include the charger people will by cheapo ones"" is just ""lol no they won't. who'd buy a cheap charger for their 1000 dollar device""
+
+Stories like this prove that, not only would people cheap out, smart people will cheap out, even the ones whom should really know better. People like saving money, even if they already spent a grand on something as it is."
+53434,"Don’t buy shitty USB C hubs off Amazon too! 90% of them are wholesale crap which breaks easily and overheats. Stick with Anker, Belkin, Satechi"
+53435,"Just out of curiosity, a MacBook and Apple Pencil are by no means cheap. So if you’d already spent a fair bit of money on the devices, why cheap out for the accessories?"
+53436,"Anker, Aukey"
+53438,"That was some unbranded crap for 2$. I have a very good experience with Ugreen so far, I ordered 3 usb c to lightning cables from them today, hopefully they will not burn down my house"
+53439,Every time you buy something cheap ask yourself what it really costs.
+53440,"I don’t know why people would risk damaging their several hundred if not thousands of dollars of equipment to save $15 on certified cables from known and reputable vendors. $2 seems shady af, not to mention it came from aliexpress. Yeah, you had it coming OP."
+53441,"Christ. You're rocking 1 of the most expensive devices in its class and you decided to scrounge on cables ... ??? 😕😕😕
+
+> Don't mess with cheap
+
+Don't mess with cheap *anything*. Anything you buy should either be certified or compliant with some industry standard or from a reputable brand. And should come from a reputable retailer. Doing otherwise isn't worth the headache."
+53442,"A reminder: risking your $1000+ device by betting on the integrity of a $2 cable of questionable origin and certification, is how you brick your $1000+ device. 
+
+Don’t fuck around with questionable active cables. Best case scenario you brick your device. Worst case scenario, you burn your house down.
+
+Ask yourself if an extra $17 (to get a reputable MFi certified cable) is worth preventing one of those two outcomes."
+53443,"This i wouldn’t use a 2$ accessory for my 400$ iPhone.
+
+Well before buying i already accounted the price of branded accessories to not cheap out on them."
+53444,"In all fairness, there are good affordable brands like Ugreen on AliExpress and similar platforms. But yes, do get a better cable when dealing with higher wattage appliances like macbook"
+53445,"The key word is 'cheap'. You can buy inexpensive cables from reputable companies. 
+
+Buying $2 Aliexpress cables is just asking for problems."
+53446,Oh wow! Happened to me too just a few weeks back. Only noticed it because of the weird burnt smell it produced.
+53447,"I have used the magnetic USB c/micro USB charging cables for years. The ones that plug into the bottom of the phone and connect magnetically like the old magsafe charger on Macs.
+
+
+I'd generally agree with this statement, though. The wall chargers are horrific, so I can imagine the cables are also bad."
+53448,You can buy ZMI (Xiaomi) USB-C cables off Amazon for less than 10 bucks for a pair.  There’s literally no reason to be buying unknown stuff.
+53449,even cheap Cables can be good if they are purchased from reputated manufacturers like Belkin
+53450,"That's interesting I didn't know Macs could detect if too much power was being delivered through the USB ports, do most Macs or laptops/desktops in general have this?"
+53451,"Overcurrent protection, Macs yes. not sure about most other but many have it."
+53452,Yes indeed. I've seen it on both macOS and Windows.
+53453,"It's interesting that people discussing USB PD, when in original post it's lightning cable which doesn't support power delivery. It's means that cable was complete trash and there is nothing to do with a price. I bet there's no chip inside."
+53454,I have been using AliExpress cables for years. No problem there. But then again I don't use Apple. AliExpress cables are cheaper and work better than the crap I have to buy for 15€ a piece at our local store. The local ones either don't work or loose contact if you hold it a certain way. Escpecially their Type C cables.
+53455,The lightning may be your issue there. Don't buy Apple stuff from China.
+53456,This is one reason why iPhones will continue to stick with Lightning cables.
+53457,"For USB-C cables, only go for those that have USB-IF seal of compliance."
+53458,"If you can find one with the Benson Leung seal of approval, it's practically guaranteed safe."
+53459,Oh yes!
+53460,r/rossmanngroup/ would love this
+53461,Just make sure it’s MFI.
+53462,"USB-C isn't ""Made for iPhone"", it's ""made for standards compliant"". A correctly made USB-PD cable and charger will work fine with an iPhone, an Android, a MacBook, or pretty much anything but a Surface or an HP Spectre."
+53463,Surface uses USBC now.
+53464,"Yeah, new ones (unlike Spectres) don't demand a genuine USB-C charger."
+53465,"Curious, is the spectre making a demand for “genuine” or for adequate wattage? My 65W Dell complains when I use my 60W Apple charger but it works. 
+
+I’ve not dealt with the Spectre first hand, though."
+53466,"It specifically says that the attached charger is not a genuine HP charger, and refuses to charge."
+53467,"Wow, do you know how many watts the charger is rated for or does it say this no matter what?"
+53468,No matter what.
+53469,"Silly question but its the only thing left; is the USBC charger Capable of 19v? Probably, because otherwise the Spectre would likely just ignore it entirely. 
+
+...but that means HP is stupid. Crazy talk. I mean this is the company that locked BIOS upgrades for servers behind a subscription paywall... not sure where all this sarcasm is coming from it does not read. 
+
+You have my sympathies."
+53470,I'll never buy a laptop lmao pc the best
+53471,"Anker. Top notch product quality. They make a 3m cable I believe. I have like 8 of their cables around the house.
+
+I don't recommend aukey however, the first c to c cable I bought from them was not usb c compliant."
+53472,The one that comes with the pixelbook laptop is pretty long - I havent actually checked if it fast charges a pixel phone though but.. I assume so?
+53473,"The anker cable should be fine. Or Google's cable. The have a 2m cable. 
+
+
+https://store.google.com/product/usb_type_c_usb_type_c 
+
+
+
+You can also check out Benson Leung's Amazon review profile. He tests and reviews USB-c cables. 
+
+https://www.amazon.com/gp/profile/amzn1.account.AFLICGQRF6BRJGH2RRD4VGMB47ZA/ref=cm_cr_srp_mb_gw_top?ie=UTF8"
+53474,"Make sure you're using it with a USB-PD charger, like the one supplied with the Pixel 2/3. A random charger that supports Qualcomm's  Quick Charge might charge your friends Samsung S9 fast, but not charge your Pixel 2 at anything other than slow."
+53475,Great advice! This is really important
+53476,"I used these with my 2 XL and still do with my 3 XL
+
+ https://www.amazon.com/dp/B078GJSL8X/"
+53479,OP wants a long cable. The one you linked is only 3 feet. You can't get anything longer than 3 feet with a cable that supports 3.1.
+53480,I got a 10ft OtterBox. I use it for my MacBook as well as my Pixel.
+53481,"I bought this one after my cat chewed the one it came with, been working fine    
+https://www.amazon.com/gp/product/B01GGKZ0V6"
+53482,AmazonBasics cables are suppose to be good
+53483,"C'mon, guy. You didn't even try searching."
+53484,"Yes I did. 
+But looking in Amazon is confusing and I'm not sure which one is the right one.
+That's why I decided to ask the Reddit community"
+53485,"This is what I do, I go to Google, type in blah blah blah then after the blah blah blah I add "" Reddit"". That's how I found my really long usbC cable, I like it alot, it quick charges and it's lasted me like a year and a half. It's the cable matters USB C to usb C, it's cheap too."
+53486,/r/xdacirclejerk
+53487,Water - Lots of water. Also a product with Pseudoephedrine as an ingredient.
+53488,I use the Dayquil/Nyquil pack. And if you can handle the flavor Theraflu is pretty good.
+53489,"Yeah, I like Theraflu a lot. I've got the generic brand, but I'm always looking for quicker results. :)"
+53490,"Saline nasal mist, lots of tea and soup. Cause those drugs cover up the problem and you end up feeling worse when the effects wear off."
+53491,Maximum strength Sudafed is the only thing that works for me.
+53492,"Jagermeister. If you can't breath though, I would suggest boiling a bot of water, dropping some eucalyptus oil in it, and just hold your head above the steam. You'll have magically clear sinuses so fast."
+53493,"neti pot to help flush away sinus pressure.  Use it a few time a day to speed healing.
+
+Get some organic chicken legs (or conventional, just pushing my organic agenda).  Saute some celery, carrots, and onions. Put the chicken leg in.  Put some water in.  Boil it.  Maybe put some noodles in it.  There is stuff in chicken skin that actively fights colds.  
+
+[Here](http://archives.cnn.com/2000/HEALTH/diet.fitness/10/17/chicken.soup.reut/) is a shitty link.
+
+Rest, cruise reddit and drink juice.  No gin."
+53494,"So, make chicken soup? I actually did that the other day. I made more than I usually do and it's a good thing. Boyfriend got sick, too! I had some for breakfast. :)"
+53495,Hot whiskey before bed.  Horseradish or wasabi for the sinuses.  lemon honey tea throughout the day.  I try to stay away from nyquil but I'm not above the occasional syrup-induced coma if I'm really under the weather.
+53496,"Honestly, weed. It boosts your white blood cell count, which while I'm no expert in the medical field, I do believe is beneficial to combating illness. Beyond that, it's pretty effective at masking just about any symptom - no more nauseousness, headaches, cramps, etc."
+53497,"No.
+
+Weed will keep you sick, honestly.  I'm the last person to bash marijuana, but I'm talking from experience here.
+
+
+Vick's Vapor Rub and some DayQuil/Nyquil will help.  Also, tea, soup, and powerade."
+53498,"I'm not a smoker, actually. Been there, done that. Not my thing, but thanks for the suggestion!"
+53499,That's cool - it's definitely not for everyone.
+53500,Now do one for people who think they  need antibiotics for the flu/cold.
+53501,"Ha, and that's exactly why you can't just get abx over the counter.  
+
+There are way too many doctors who just prescribe them anyway to placate their patients instead of actually explaining to them why it's not indicated. (Then again, there are way too many patients who refuse to listen...)"
+53502,"As someone who is allergic to ALL antibiotics (seriously, I have a reaction to ALL of them), getting ill can sometimes be really serious for me, and it forces my family doctor to be really clever sometimes. The amount of times an unfamiliar nurse or pharm tech has been confused that I’m not just taking an antibiotic for something is astounding, and it honestly makes me wonder at our dependency as a society on antibiotics."
+53503,Are you sure you’re not actually a bacterium?
+53504,"Yeah idk if I trust this guy, he seems like a bacterium"
+53505,We need further testing!
+53506,Not even bacteria react to all of them... Hes like a superbacteria
+53507,"Oh man. I once took amoxicillin and got so violently ill like I never had before--not even with norovirus-- and I called my doctor and was like ""should I like.. stop taking this"" and they were like ""yes!!! Do not take any more of that!"" 
+It was *crazy*"
+53508,"My husband gets violently ill from amoxicillin and sulfa drugs. Like exorcist style vomiting within 15 minutes of taking it. I'm so fed up with doctors thinking this isnt real and giving him these drugs. He was discharged from the ER once after giving him a drug with amoxicillin in it and I had a fit. The stupid asshole told me ""he hasnt thrown up yet, plus no ones allergic to amoxicillin like that"" - guess who got violently ill in the parking lot!! 
+
+I'm not glad it happens to you, but I'm sort of glad to see someone else has this reaction because my husband was starting to think he's crazy."
+53509,"I didn't know I was allergic to sulfa drugs until I started swelling, hives, and itching in places I didn't know I had...so I called my practitioner and they were like you need to come here for a shot - NOW.  Caught it in time but bet your buns I mention it first thing!  Glad I'm not allergic to other meds."
+53510,That happens to me with basically any pain medication. Not great for someone who is accident prone
+53511,"I get monster migraines from morphine then throw up. The last time I was in the ER for something bad enough to require that level of pain meds I was begging for NO morphine and the poor nurse scoffed ""lemme guess only dilautid or fentanyl works?"" I'm like jesus fuck no lady! Maybe let's try IV tylenol or something? I dunno but morphine makes me sick and I dont like being high. I dont think they hear that a lot in the ER."
+53512,"Your hospital must be full of either egotistical jerks or ""C's get degrees."" Either situation can be quite distressing."
+53513,"Unfortunately my husband has a pretty bad autoimmune disorder so we see doctors and spend more time in hospitals than most people so its probably a law of averages thing that eventually we get stuck with the one that won't listen or thinks because they've never heard of it, it must not be real. I did file a complaint and send pictures of the vomit all over my car. If its listed as an allergy in the chart why would they decide to ignore that because they dont think it's real? Arrogance or stupidity is all I can think of."
+53514,"Because vomiting isn't an allergy. There is a difference between medication side effects and allergic reactions, and while it may not seem like one to patients, it's a big difference to providers.
+
+Either way it sucks for the patient, I understand that. But you have no idea how many people say they can't take x because it upsets their stomach.... Lots of medications cause upset stomachs, that's expected. Facial swelling and airway compromise is not, THATS an allergy."
+53515,"I do understand that but it's such an odd level of vomit. Not like ""ew imma be sick"" and then you puke and feel better... no you can set your watch. 15 minutes after taking the pill he violently scream-vomits every two minutes bent in half turning bright red and sweating profusely until I get him to the ER where they pump him full of benadryl and zofran. Its freaking bizarre. After the first couple of heaves he's not even puking anymore hes just violently heaving. It was listed as a reaction until the third time when a physician changed it to allergy in the chart. Each time the reaction/allergy/demon posession gets worse. 
+
+I know the standard for an allergy is systemic immune reactions, and I also know allergic reactions can get worse over time with increased exposure. In his case each time hes exposed to amoxicillin his gastric system reacts immediately and worse. That he isnt getting hives or difficultly breathing or swelling might be luck and exposing him a few more times may cause it but that would just be stupid. That's why its listed as an allergy in his chart.
+
+Trust me if he just got an upset tummy or the shits he could deal with that. That's not what he gets."
+53516,"I also have an autoimmune disorder and my endocrinologist who deals with it knows vommitting is particularly bad for me, so she listed codiene as an allergy for me even though its a side effect because the vommitting if severe enough as a type 1 diabetic could cause hospitalization, coma etc. If it turns too dka . just an idea ."
+53517,"I just gotta say, I dont know you so take this with a grain of salt.... but statistically you are probably not allergic to any antibiotics. More than 90% of people who think they have an allergy to antibiotics are actually reporting a symptom of what they are being treated for. (Saying that azithromycin makes you cough, when its the pneumonia that actually made you cough)
+
+Then, of the remaining people who do have a
+Drug reaction.... it almost never is an allergy.  Its usually a side effect, which is very different than an allergy. (Taking aspirin causes heartburn)
+
+You should go see an allergist, because if you ever get truly sick and end up hospitalized, if you tell someone you are allergic to every antibiotic, you’ll wind up dying of something very treatable. Get allergy testing done officially."
+53518,"Penicillin and the ones closest to it cause me to have anaphylaxis, which we learned when they gave it to me as an newborn and I stopped breathing. During my toddler years, they tried a few more on me and I kept getting hives or rashes and sometimes had difficulty breathing. When I was young, they did an allergy test with my blood and determined that I was allergic to all the ones they tested for, in varying degrees. There are some I can take for a little while, but I can’t finish a full course. All this information came second hand from my mother, as I was too young to hear it from the doctor. 
+
+I should probably go and get another blood test done to see if that’s still an accurate assessment, but my family doctor, who worked very closely with the pediatrician responsible for these tests, still has only very reluctantly prescribed one type, and has insisted that I take two Benadryl with each dose, and I’m inclined to follow her lead as far as what I shouldn’t have."
+53519,"I'm also skeptical since there are TONS of different antibiotics which all have different molecular structures and mechanisms of action. Would be extremely unusual to be allergic to all (or even most) of them, but at the end of the day trust your doctor because they know what's up. 
+
+As I understand it penicillin and penicillin-derivative allergies are super common so I'd believe you're allergic to that class."
+53520,"How about someone putting antibiotic in their eyes to pre treat for lasik and having a reaction? Are super swollen and runny eyes just a reaction? 
+
+Some people are actually allergic. Officially allergy testing is probably a good idea though."
+53521,My fiancée is just about the same as you. There’s only one antibiotic she isn’t allergic to. It’s rough.
+53522,"Please don’t be so quick to blame ‘lazy doctors.’ My co-worker had a medical board complaint filed against her because she didn’t give a child with sniffles for 2 days a script for amoxicillin. Antibiotic overuse and  resistance is driven in large part by patients. Sure the prescriber should be firm, but I’ve had shorter visits for mild heart failure and pneumonia than for explaining to a patient why they didn't need levaquin “which always works for them” for their nasal congestion they developed as they were driving by the clinic. I’ve luckily been mostly successful in explaining why antibiotics aren’t necessary but public education needs to carry some of the load."
+53523,"Thank you for being one of the good doctors, then. I try to be a good antibiotic steward as well, but I’m not going to discount the stories of people (in this very thread) who feel they’ve been given antibiotics willy-nilly. It requires effort on both sides, I’m not necessarily saying someone’s a “lazy doctor” just because they don’t have time to get into the microbiology of bacteria vs. viruses with patients what with their 20-30 pts/day forced on them by administration. But that’s a whole separate problem altogether."
+53524,Agreed. It’s a tough but necessary chore. Any particular strategies or conversations you use to dissuade unnecessary prescribing?
+53525,"I’m actually not going to be doing much more primary care, I’m in my internal medicine prelim year before going into radiology. So I’m probably not the best person to ask about talking to patients, haha..."
+53526,"See that's why I don't get the point of making the Rx anyway when docs are more than happy to Rx them when they know they won't do anything at all. I've literally had a doc say ""it's viral so antibiotics won't help but I'll write you a Rx anyway in case it does help any."" Like wtf? And I hadn't been asking for them or anything; in fact, after the doc said that I said not to bother if it's not actually helpful, as I didn't want the extra expense and pills for no good reason. They shrugged and gave me the Rx ""in case you change your mind."" Ffffff thanks???"
+53527,">	See that's why I don't get the point of making the Rx anyway when docs are more than happy to Rx them when they know they won't do anything at all.
+
+Because those post-visit patient surveys affect our reimbursement. You get a single 0 star survey and your medicaid reimbursement may fall by 5% *for all of your patients*. The system is set up to punish doctors who make the tough choices and tell the hard truths. Medicaid rewards doctors who make their patients happy, *even if that kills them*.
+
+Doctors try to do the right thing, but with “Medicare for all” coming down the pike we just can’t afford to fight every battle."
+53528,"It's probably a learned behavior on the Dr's part. After having so many patients who nag at him over getting the Rx, he's stopped trying to talk patients out of it and defaults to letting the patient decide for themself. 
+
+Or it could be a prescription kickback.  They prescribe a medication so many times to get an incentive from the pharmaceutical company."
+53529,I'd love to know where all the drs are that just perscribe stuff to placate their patients. Every Dr I've ever had treats me like a drug addict any time I ask for anything. I asked my last Dr for a B12 shot and she looked and me and said yeah I'm not doing that go take the otc pills.
+53530,"To be fair to your doctor, B12 shots are expensive, no more effective than pills, and you have to go back to get it done every week to properly replete you. And unless you have a certain kind of anemia, it’s not going to help much anyway."
+53531,"Fair enough, that was just the last time I remeber this situation happening to me. But if my Dr had said that to me I'd be more understanding as to why she didn't wanna give it to me."
+53532,"My mother in law was prescribed antibiotics (don’t know if it was her or the doc who kept pushing them) for YEARS, every summer for a constant bout of “strep throat”.  Then, she got very very sick, lost hundreds of lbs and we almost lost her.  A trip to an unfamiliar place and doctor told her that the antibiotics had effectively killed her immune system...oh and also she’s got celiac sprue...which is now 1000 times worse when she first got it *10 fucking years ago* because some asshole thought she was getting strep throat all the time, every year and just was like “huh, that amoxicillin didn’t work how about this vancomycin? Keflex? Chephalosporin? Azithromycin? Goddamn it, this woman is just FULL of what absolutely must be an AMAZING amount of staphylococcus!!”
+
+Now she has to get hemoglobin transfusions and they make her able to fight off some sickness but then her autoimmune disorder kicks in and she has incredible joint pain. But she can eat. If she’s running low on hemoglobin she can’t eat but she’s not in as much pain.
+
+Antibiotics are something everyone should know a little about beyond “it kills bacteria.” Unless they want to end up like my mother in law."
+53533,"As someone who regularly gets chest infections toward the end of a cold, I think it’s worthwhile pointing out that antibiotics can eventually be needed. They won’t help bronchitis, but if after a couple of weeks you have a deep chesty cough with green mucous and/or blood, it’s worth getting your dr to check for pneumonia, which is bacterial, and can put people in hospital. Not disagreeing, but I wound up very ill one winter because I didn’t ask my dr!"
+53534,">antibiotics can eventually be needed. They won’t help bronchitis
+
+Not totally true. Some bronchitis is bacterial and antibiotics can help. I have to take them yearly for bronchitis reoccurences"
+53535,Do one for people who think they need antibiotics and then stop taking them after 3 days because they “feel better”
+53536,r/coolguides would love this if it was formatted
+53537,That sub is so helpful. How come I never saw it? Thanks
+53538,You weren’t looking hard enough
+53539,Not all of those antihistamines will make you drowsy
+53540,"Bingo. Loratadine (Claritin, Alavert) and cetirizine (Zyrtec) are newer (2nd generation) antihistamines and are considered non-drowsy. Fexofenadine (Allegra) is a 3rd generation antihistamine. If you take any antihistamines, make sure you hydrate adequately."
+53541,"As always, your mileage may vary. I've been taking desloratadine for a few years, without any drowsiness, but I could hardly function the few times I had to take cetirizine."
+53542,When I start to feel the start of an angioedema episode I'm supposed to take 2 Zyrtec. A bit later and I'm fighting the urge to just fall asleep. Taking them while at work is torture.
+53543,"Ooh thanks for the heads up, I have chronic hives and since spring my sinuses swell overnight (causing post nasal drip). I've been taking an awful lot of antihistamines lately and recently my skin, hair and eyes are so dry and tight, i wonder if not drinking enough water is the reason."
+53544,Do you take an H2 antagonist as well?
+53545,Zyrtec can definitely make you drowsy. I know from experience.
+53546,"So this is accurate. Cetirizine (Zyrtec), although a 2nd generation H1 antagonist, can cause a little bit of sedation. Loratadine (Claritin) and fexofenadine (Allegra), the other two most commonly used 2nd generation antihistamines, should not. People should know that antihistamines that cause sedation also help dry up secretions caused by allergies (i.e., lacrimation and rhinorrhea). Cetirizine is a wonderful compromise. It should cause much less sedation than first generation antihistamines (e.g., Benadryl), but still provide some help with secretions, which other second generation antihistamines will not. Hence, many doctors and pharmacists recommend it. If you don’t experience secretions as part of your allergies, go ahead and choose a different second generation antihistamine and be free from sedation. Disclaimer, we all respond differently to medications. If cetirizine knocks you out, that is unfortunate and not typical. As an aside, secondary to the small errors in this well intentioned post, I’d recommend always asking your local pharmacist questions. Cheers!"
+53547,"I'm one of the odd birds for whom Zyrtec is basically general anesthesia, lol. I made the mistake of taking one before hosting a party and ended up sleeping through the entire thing. For some reason I can tolerate Benadryl with only mild sedation, but Zyrtec is a no-go if I'd like to remain upright"
+53548,And don't take Allegra with fruit juice!
+53550,"Citrus tends to mess with a lot of meds, rendering them ineffective. Drugs.com is a great resource for finding out which meds, foods, and supplements shouldn’t be mixed"
+53551,"Fruit juice in particular renders Allegra all but inert if it's ingested within 30 minutes of it. Not 100% sure why, but the warning is on the box!"
+53552,Or magnesium!
+53553,"I think there's a tolerance factor here at hand. I take Zyrtec and I'm dead to the world for 16 hours after administration. I usually take Xyzall (Levocetirizine) which is the 3rd gen cousin of Zyrtec, and I can survive. 
+
+Problem is, Levocetirizine is less effective in relieving my allergies... Sigh..."
+53554,Cetirizine is a weird one because it still has drowsiness as a side effect many experience it. The rest are fine. Just follow the recommended dose if it's your first time taking them (one tab a day) otherwise you'll get a lil bout of gastritis (basically some stomach pain and diarrhea)
+53555,"Yep, was scrolling to see if anyone pointed that out. I have to take antihistamines every morning (yay for allergies and mysterious autoimmune nonsense), usually Claritin or Zyrtec, and they don't make me drowsy at all. Something like Benadryl will definitely make most people pretty sleepy, but that's not a feature of all antihistamines."
+53556,Benadryl: because you can't sneeze if you're in a coma!
+53557,Prescription hydroxyzine: same
+53558,"I agree, i have hay fever and i've tried many antihistamines, Letizen makes me very sleepy, and Claritine doesn't at all."
+53559,"Ooh, ooh, now do homeopathy. For people who need to hydrate."
+53560,That's a big part of what makes reading the labels so important! These drugs make it *very* cagey that they don't contain any FDA-approved active ingredients. I've always thought it's kind of messed up they're even allowed to be sold at drug stores next to the real stuff.
+53561,Agree. Like. Subscribe.
+53562,"Alexa, tell me when that person talks."
+53563,"In my experience, honey and lemon in tea. Dash of cinnamon for luck."
+53564,"That's naturopathy. Homeopathy actually measures it's ""effectiveness"" by how *diluted* it is. Like, 30x dilute is somehow *better* than 10x. You have less of the thing but it somehow works better? Homeopathy is bunk, but naturopathy works. Licorice root tea feels better on a sore throat than any cough drop I've ever had, lidocaine ones included."
+53565,Well! Today I learned!
+53566,Critical care prehospital: we generally will hydrate the shit out of you. Hypovolemia is a big time killer in my world.
+53567,"Phenylepherine has never helped me once. 
+
+
+As far as OTC I always use DXM hbr (as only active ingredient) and DPH as needed if DXM makes me itchy or the sinuses are irritated
+
+
+What works for me more surprisingly is a subperceptual to threshold dose of psilocybin mushrooms"
+53568,"It doesn't help anybody. It's, literally, a placebo."
+53569,"However, it is useful in a crash cart as a vasoconstrictor/vasopressor."
+53570,"Taken orally, it is literally a placebo. Don’t waste your money."
+53571,"It's shit (not just my opinion, but the opinion of 4 different pharmacists I asked). Get pseudoephedrine instead. That shit works."
+53572,You can get rebound stuffiness though if you use it too long though.  I became dependent on it.
+53573,"In studies, phenylepherine is less effective than a placebo. No idea why it is allowed to be sold and marketed as a decongestant."
+53574,"It originally wasn't even sold because pseudoephrine worked so well, but after it became a behind-the-counter med, pharmaceutical companies complained to the FDA that they didn't have any OTC medications to sell as decongestants so the FDA let them do it. 
+
+So yeah, money."
+53575,"Also remember to stay hydrated when taking most meds. Very much so with those who help loosen that phlegm. Like the one who advertises with the little green mucus man lol. Mainlynstay hydrated not with sodas, or sports drink. Try water, hot tea, lemon water. Oh and honey is great  for relieving a sore throat. Only if you are over age of 1. No babies. Cough drops tend to help but you take or suck on too many you may get diarrhea. And try a steamer to add comfort for stuffiness."
+53576,"As a primary care doctor I just wanted to say great job OP. I don't know if you're a doctor or pharmacist or what, but this list and the advice in general is great. 
+
+As to when you should stop self-treating and see a doctor make sure it's not a bacterial illness needing antibiotics, I think the following symptoms would be reasonable thresholds to seek treatment for cold-like symptoms: fever (measured with a thermometer), shortness of breath or cough for more than 4 weeks. Even with these symptoms viral illness is still the most likely cause, but the possibility of bacterial infection is high enough to warrant a checkup. Of course if you're older than 65 or medically complex get review earlier as bacterial infections are more common in this case. 
+
+As a side note, if you do see a doctor but worry about antibiotic overprescribing, it can help a lot to mention to your doctor that you'd prefer to avoid antibiotics if possible. Many doctors feel that patients will be upset if they don't get antibiotics, so telling them upfront will take this pressure off and allow them to make a rational decision as to whether you need them or not."
+53577,My mother was a “oh take a zpack” for everything: we live 10 minutes from the Mexican border so growing up we had them stocked in our freaking pantry . Pretty sure I’m screwed if I ever get a bad bacterial infection. She still gets annoyed when my husband won’t prescribe her anything when she’s sick.
+53578,">As a side note, if you do see a doctor but worry about antibiotic overprescribing, it can help a lot to mention to your doctor that you'd prefer to avoid antibiotics if possible. Many doctors feel that patients will be upset if they don't get antibiotics, so telling them upfront will take this pressure off and allow them to make a rational decision as to whether you need them or not.
+
+This - I always mention to my doctor and my kids pediatrician that if not necessary, I would prefer to avoid antibiotics.  My dad is one of those people who doesn't feel like the doctor took care of him if he doesn't get a script, and I have tried and tried to explain that many illnesses are viral -  but honestly, the resistance issues scare me."
+53579,"Not sure why I was downvoted. I vaccinate my kids and when they need an antibiotic, they get it and we give them the full course.  Having seen the rise in antibiotic resistance, I would rather not take antibiotics unless needed in hopes they will do the job when we really need them to."
+53580,"My pediatrician always seemed to like the fact that I was against antibiotics unless we were sure it was necessary! My son is almost 5 and has never had one and I’m so happy about that:)
+
+Unfortunately my daughter started getting them from the get-go, multiple rounds while I was in labor (group b strep) then after cleft repair surgery, another for chest infection, and another for ear infection. She’s 3 and overall healthy but I am convinced she gets sicker and stays sick longer when they catch the same bugs."
+53581,lol username checks out
+53582,How do I convince my coworker with bronchitis to stay home instead of coughing every 30 seconds for two and a half weeks?
+53583,Convince your employer to give adequate sick time.
+53584,"They do!
+Plus you can work from home an unlimited number of days."
+53585,I get 5 sick days a year and can't work from home. I wasn't staying home past day 2 of bronchitis.
+53586,"I would use those sick days! Bronchitis is pretty bad and it's transmitted by inhaling cough droplets, so be sure to cough on all your coworkers!"
+53587,"These people are the worst. “Look at how dedicated I am” “no, dear. Look at how inconsiderate you are”."
+53588,"I agree
+
+This is not the case here, however. It just didn't cross his mind that he's putting everyone with kids at risk."
+53589,"Oh yeah definitely not always the case. But I believe the commenter mentioned that they have unlimited work from home days. In which case, it’s just rude."
+53590,"He's an idiot, then. That's a really generous sick policy."
+53591,Thank you very much for sharing this 😀
+53592,And a warning should be to not take  paracetamol when taking cold and flu medicines as it contains it as well.  (Or to read the labels first)
+53593,"Soooo important. Acetaminophen for those of us in the states (Tylenol) is the leading cause of acute liver failure in the US. 
+
+A lot of ""combo"" cold drugs have acetaminophen in them, including basically anything that NyQuil makes. I think it's a good idea to stay away from the combo drugs. If you need a decongestant and a expectorant, take one decongestant and one expectorant, not a combo that has a decongestant, an expectorant, an antihistamine, and acetaminophen."
+53594,"Hi OP! Thanks for this!
+
+Can you please explain kids cough medicine? Is it the same thing in smaller dosages or is it a different medicine all together? I know some cough medicine brands are for children 6 and over and others don’t make that distinction. Does Zarbees actually do anything or does it just coat the the throat with honey?
+
+Sincerely,
+
+mom with a coughing 4 year old"
+53595,">Is it the same thing in smaller dosages
+
+In general, yes. The other main difference is just that it comes as flavored chewable tablets or liquids, for kids who can't swallow pills.
+
+Zarbees does not do anything besides coat the throat with honey - but that's not necessarily nothing, it can soothe a sore throat and lessen the cough reflex. But if you find it's not doing enough, pick up something with real medicine in it."
+53596,I actually take a double-dose of the kids' stuff because I hate pills.
+53597,I rather take a couple pills and taste cough medicine.
+53598,"But the (under 6) kids versions don’t come with the cough suppressants, right? 
+
+So basically zarbees is the best option for soothing the cough?"
+53599,"I admit I'm not super familiar with all the formulations of kids' stuff, but I'm seeing stuff on the CVS website for ages 4 and up that contain dextromethorphan and guaifenesin.
+ 
+There's actually some decent evidence out there for the efficacy of honey in children's cough, though."
+53600,"Or just use a spoonful of Honey. It's cheaper and you can use it on your yogurt. Honestly, my first go to for my own cold symptoms is honey. I always give it a shot before ai break out the sudefed."
+53601,"Avoid honey if your kids are under 1 yo due to risk for botulism, but other than that totally agree!"
+53602,Pineapple juice will break up the phlegm and make it easier to cough up. Use this for me and all my kids. If it is too strong dilute it with water. I always keep a couple of the small cans in my fridge.
+53603,"Actual cough suppressants (other than things that soothe the throat, like Zarbees) are NOT recommended for children."
+53604,"YSAK that expectorants such as guaifenesin Should be taken with lots and lots of water in order to work, or they will pull water from your body and could potentially increase the risk of dehydration."
+53605,Can you tell me which essential oils will replace all these medicines? /s
+53606,"Peppermint oil is actually not bad for clearing sinuses. It’s not the magic panacea hippies claim it to be, but it’ll run some of the snot out of you and make your sinuses tingle to distract you from the congestion."
+53607,"Same with the whole mint family; my favorite is wintergreen. Mint has menthol in it, which is the same thing in Vicks. Granted, it's not going to be nearly as strong, but at least it smells nice. :P"
+53608,"I prefer really spicy food, a nice walk outside and about 50 snotwipes. Really cleans your head out for a nice long time."
+53609,I always want flamin Cheetos and something with bubbles when I’m stuffy! Also keeping some horseradish in the fridge and taking a bite occasionally helps clear the head:)
+53610,For allergies or a slight cold I will go on a run to clear myself up. It's only temporary and I'm a runner anyway but you get an hour or so of relief.
+53611,I agree with this. I prefer it to Vicks personally.
+53613,Agreed! I get these horrible stomach pains which feels like a burning sensation/I haven’t eaten in days when I took mucinex!
+53614,"I’m a big fan of Bronkaid when I get bronchitis. It’s actually intended for people with asthma as far as I know, but it contains ephedrine and guaifenesin, but is intended to work as a bronchiodialator, so it really works to open up your airways. Plus the ephedrine just sort of numbs or toned down all the shitty feelings of being sick, but gives you plenty of energy instead of putting you to sleep. 
+
+
+Do your research before taking my advice. People can definitely react poorly to ephedrine, and like I said, this is not the intended use of this medication. But it definitely works for me. Also it’s cheap as balls for like 40 pills."
+53615,I am on an SSRI and did not know that dextramorphan is contra-indicated. Avoid it if you don’t want it to mess with your meds- not a fun downer.
+53616,"it’s not exactly contraindicated (meaning you should absolutely not take the two together) but it can increase your risk of serotonin syndrome. it doesn’t happen to everyone who takes the combination and it’s still definitely an interaction to be aware of but i think it’s an important distinction
+
+also to the person who replied about not taking SSRIs with nsaids or antiplatelets: the combination can increase your risk of bleed (especially GI) and again it’s important to know about this interaction but i’d hate for people to get overly freaked out about it “killing your liver enzymes”. you can take the combination and many people do without issue (taking all nsaids and antiplatelets with some food is generally a good idea). if you do take both though you should be educated about what to monitor for (in the case of GI bleeds watching out for things like stomach pains or cramps, vomiting blood or black tarry stools)"
+53617,As an update to the antihistamines: Fexofenadine (Allegra) Cetirizine (Zyrtec) and Loratadine (Claratin) are known as 2nd generation antihistamines and are designed not to make you drowsy. Zyrtec being the slight exception there as there is a slight chance it will but nothing like Diphenhydramine (Benadryl).
+53618,I take Reactine which is Cetirizine and it makes me very drowsy. Should I try fexofenadine?
+53619,"Yes. Cetirizine makes about 10-15% of the population drowsy still. Loratadine less so, and Fexofenadine even less."
+53620,"Ysk that the Netherlands doesn’t have these.
+
+Source: had a cold in the Netherlands and found out that I should just suck it
+Up"
+53621,"I got sick in Prague. The cold medicine there doesn’t require a prescription but it’s not just on the shelf. Had to talk to the pharmacist and they sold me some of the most intense cough suppressants money can buy. Did. Not. Cough. But also made me very drowsy, dopey and paranoid. So much so that I actually thought I was getting sicker."
+53622,"Weird. I just wanted cold and flus, they don’t have pseudoefedrine in Aus anymore, so none of that.  But in NL they had just paracetamol. NOTHING to stop my runny nose"
+53623,My husband got sick while we were in Prague over Easter one year and I had to find a pharmacy window to get him some meds as NOTHING was sold OTC.  The pharmacist gave me a bunch of super strong meds which totally made his feel better and it cost the equivalence of $7.00 - it was amazing.  I was so grateful.
+53624,"The greatest drug-free solution to stuffed nose: those nasal dilator strips!
+
+They are incredible. Way better than you would ever expect, and the only side effects are possibly irritating your skin (because the nose strip sticks with adhesive tape) and looking funny. 
+
+Next time you’re stuffed up, give them a try.
+
+/u/flamants
+
+To clarify: I use them when I sleep because most listed drugs have a negative effect on my sleep. A nose strip and one Benadryl give me a good, restful sleep - way better than more drugs and no nose strip."
+53625,YES. I get sinus pressure headaches from weather changes and use them to help with that too! They do work really well.
+53626,"Nitpick - loratadine is quite unlikely to cause drowsiness, and cetirizine might cause a little, but nothing compared to diphenhydramine.  Also, guaifenisen is not shown to be any more effective than just drinking a lot of water, so i generally just stick with water and save my money.
+
+Great guide though!"
+53627,"Here's my Life Pro tip, buy all the ingredients of your common cold medicines as single medicines in bulk at Costco and save yourself a boatload of money.
+
+This way, if your cold is only giving you a headache and a sappy cough, you can take some Tylenol, if appropriate for you, and some Mucinex. Don't bother taking any decongestants or antihistamines because your symptoms don't need it. Save money and put less stress on your systems by not taking unnecessary medicines."
+53628,My mother told me DM stands for Doctor Mom. What a fucking liar.
+53629,I just love the science side of Reddit.
+53630,"> you can ask for it behind the counter, just don't use it to make meth. 
+
+I don't know, man, that's asking a lot of some people."
+53631,"This is probably gonna get buried, but you should add a liver warning on acetaminophen. It is **incredibly** toxic if you can't properly metabolize it, and should **never** be taken within 24hrs of alcohol or if you have impaired liver function.
+
+It is a seriously dangerous chemical that people treat like candy."
+53632,"You won't die from drinking alcohol while taking acetaminophen, as long as it's both in moderation. A cocktail with your Sunday brunch and 1,000 mg of acetaminophen will only take 6-8 hours to metabolize."
+53633,">One of these is found in a ton of combination cold medicines, but a lot of people already have these at home, so make sure you’re not unintentionally doubling up.
+
+This 1,000 times. It is so easy to double up on types of medication when you're trying to knock out a cold that makes it hard for you to focus mentally. Lose track of time, think that one just isn't working and you try another one ... it all adds up."
+53634,"Lmao, the ""It getting to that time of the year part"" cracks me up cause its fucking summer where I'm at lol"
+53635,"Thanks for this!! 
+
+Can I push the love and ask for a basic difference between antihistamines and anti-inflammatory meds? My husband is allergic to Voltaren and thinks that my antihistamines are the same medication and he'll be allergic to them too. He gets allergic rashes/hives sometimes and I think the my meds might help but he refuses to consider it. Obviously he should consult his doc but that will be at least 3 steps away. If I can explain the basic difference it will be a starting point."
+53636,"Yeah, they’re completely different meds haha. One blocks histamine receptors, one blocks an enzyme called cyclooxygenase (if you need that much detail).  
+If you only have a mild reaction (like a rash) to a medication, antihistamines are actually a great way to calm it down a little bit. Obviously if he starts having trouble breathing you should get to an ER."
+53637,"Haha the only thing they have in common is ""anti""."
+53638,Yep it's pretty frustrating.
+53639,Also important to not that many decongestants can cause a rebound congestion after a few days of use.
+53640,"I would add that antihistamines do nothing to combat cold/flu symptoms. Unless you are also experiencing seasonal allergies, they just make you drowsy. And acetaminophen should not be taken with alcohol, and moreso than other OTC drugs, you should not exceed the maximum recommended dosage. Both can lead to serious, even fatal, liver damage."
+53641,Please do not use ephedrine & co for more than 5 days. There's rebound vasodilation which will actually make it worse.
+53642,"I just want to add, to reduce the amount of people getting sick:
+
+Cough and sneeze into your elbow, NOT YOUR HANDS.
+
+DO NOT go to work if you are sick, *especially* if you work with the public."
+53643,"Phenylephidrine has been proven in many places to be *exactly* as effective as placebo. It’s literally inactive but because pseudofed can be used to make meth, it’s been caught up in the anti-drug craze and resigned behind the pharmacy counter."
+53644,How can I screenshot this so it'll be readily available when I need it?
+53645,[Here ya go](https://i.imgur.com/ccaMbJj.png)
+53646,"Main takeaway should be once you know the active ingredients, buy them at the dollar store and save a *shit load* of cash."
+53647,"I was hoping you'd mention this, but I didn't see it -- there's no evidence that phenylephrine does anything more than a sugar pill, i.e., a placebo.
+
+That's likely why you find that pseudoephedrine works better. It's because phenylephrine literally just doesn't do anything,"
+53648,This is great information. Thank you! Learned something new about cough suppressants and the cough reflex. Really interesting
+53649,Would be great if you could edit with the PSA about never mixing acetamenaphin and alcohol. That stuff will destroy your liver.
+53650,You can have alcohol while taking acetaminophen. Not a lot though.
+53651,"It blows my mind how few people know this shit. It's really pretty simple. Pharmacies really only sell like six ingredients OTC: acetominophen (Tylenol), ibuprofen (Advil), pseudoephedrine (Sudafed), DXM (Robitussin), diphenhydramine (Benadryl and most sleeping meds), and guaifenisen (Mucinex). There's some oddballs and equivalents too, particularly in decongestants/inhalers, but almost all common combination meds like NyQuil use some mix of the above ingredients."
+53652,"DM is not more effective than placebo for cough suppression (it was approved before testing against placebo was required). 
+
+Expectorants might be giving you false relief. Recent studies seem to indicate that they just make you produce more mucous. You feel like you're getting rid of the stuff but you're producing that much more so you don't actually have any less."
+53653,They're a godsend for if you have asthma with a chest cold
+53654,"That said...enough dextromethorphan will get you high, in which case you won’t much care about having a cold in the first place, so I suppose it works on that front, haha."
+53655,"Yeah I am glad you mentioned that. DXM is only going to get you high at *much* higher than recommended doses.
+
+I'm not telling you to do it or not, but if you insist on doing it, make sure that Dextromethorphan is the ONLY active ingredient. Other ingredients at those doses can severely injure you, or even kill you outright. 
+
+Also, if you plan on doing ridiculous amounts of DXM, I recommend a trip sitter, someone who will step in if things start going haywire. I've never done it, but I know those who have."
+53656,"The placebo effect is an interesting phenomenon, though. In the area of OTC cough medicines in general there’s not a ton of evidence or a ton of research, probably at least in part because the symptoms are so relatively benign and self-limited they’re not a huge priority in the medical field. 
+
+But if something works “as well” as a placebo...is that really such a bad thing? It’s impossible to sell somebody a placebo, because if you know it’s a placebo it’s unethical, and if they know it’s a placebo then the spell is lifted. But if you give somebody a pill and they report relief of their symptoms...who cares about the exact physiologic mechanism? Of course, there’s the issue of undesirable side effects, which I’ll give you for DM, but generally not at standard therapeutic doses."
+53657,What you said isn’t entirely true. The placebo effect actually does work even if the subject is being told that it is a placebo.
+53658,"Interestingly, I just checked [one of my sources](https://jamanetwork.com/journals/jamapediatrics/fullarticle/571638) before writing a response and found out I misremembered. DM is actually not significantly more effective than no treatment at all (while a spoonful of honey is)."
+53659,"Thank you for this information. Do you also have an opinion on switching meds to take them sooner?
+
+I might take one that I can not take again for 12 hours. So,  I'll take one with a different active ingredient if I start feeling poorly again in 8 hours."
+53660,"Are you talking about meds in the same category, or different categories?  
+In the same category, that's a no-no. Most of the adverse effects that would come with taking too much medication in too short of a period are generalizable to the mechanism of action of that entire class.  
+In different categories, sure, but since it'd be targeting different symptoms, I'm not sure how much continued relief it would give you."
+53661,I was specifically thinking of ibuprofen and acetaminophen for when the pain is just still there!
+53662,"Well I believe you can take both ibuprofen and acetaminophen every 6 hours, so I don't know if the 12 hours was just an example? I guess *technically* if you really needed something sooner, the mechanisms are different enough that it wouldn't harm you to take them both. But if you're having pain that's not relieved by the maximum allowed doses of OTC painkillers, that's probably an indication to see a doctor."
+53663,"Yeah, it was just a random follow the directions on the box number. Your post was very helpful. Thank you for how clearly you explained the options."
+53664,"Ibuprofen and acetaminophen can be taken at the same time. My mom works in a dentist office and they tell their patients to take up to 1000 mg of acetaminophen and 400mg of ibuprofen at the same time instead of prescribing opiates for pain. Can be taken up to 3x/day for no more than 3 days consecutively. 
+
+Mind you, this can cause similar GI issues as opiates like constipation, so drink plenty of water. And of course consult your actual doctor for guidance if this is okay for you personally."
+53665,"Acetaminophen and ibuprofen do not cause constipation. Too much acetaminophen is very bad for the liver, and ibuprofen can cause GI upset, even ulcers, and heart/kidney issues over time."
+53667,DM makes me drowsy but then I sleep like shit
+53668,"So wait, antihistamines are good for any kind of runny nose/sniffles? Not just allergies?"
+53669,"I want to emphasize, **don't** combine an **Expectorant** and a **Cough suppressant**.  
+It's not harmful, but they are kind of working against each other. The expectorant loosens up the phlegm, but you still need coughing to clear it.   
+
+I prefer to take an expectorant during the day, and a cough suppressant at night to help me (and others) sleep."
+53670,"I just looked up two of my most trusty meds and they both have suppressants and expectorants, leading to confusion.
+
+Max strength Mucinex DM: guaifenesin and dextromethorphan hBr
+
+(Generic) Dayquil: acetaminophen, dextromethorphan, phenylephrine (though a decongestant and not an expectorant)"
+53671,Ooh! Do one for crystal healing next!
+53672,"I almost always make it with just loratadine and ambroxol (don't know if that's the correct English name), if I'm not coughing not even ambroxol. Paracetamol for fever and I call it a day. Unless I see yellowish mucus, then I go to the doctor."
+53673,"Actually, mucolytics work a little bit differently from expectorants like Guaifenesin...
+
+Great post."
+53674,very useful thank you!
+53675,"Also, YSK that if you get sick and can't stop coughing (for more than the normal 1-2 weeks)/feel like something is in your throat, your illness may have triggered laryngopharingeal reflux. Happened to me a few years ago. Took multiple antibiotics and cough medicines unnecessarily.
+
+Find an ENT, get scoped, don't waste time and $ on meds you don't need."
+53676,I'll just stick with good old ginger tea with lemon and honey and nice daily walk outside. I don't think we humans need all that crap. People forgot how to prepare for winter
+53677,"I personally also avoid cold medicine and try to just rest and take it easy instead BUT not all people feel the same way with a cold or have a choice to rest or have the same duration of a cold. Being congested is annoying to me, but if you're asthmatic it might be pretty hazardous.
+
+Basically you don't know what other people are dealing with and if decongestants make them feel better then where is the harm? Treating an illness doesn't make you a weaker person."
+53678,lol suffer for no reason if you want
+53679,"Does anyone happen to know why something like DayQuil makes me feel nauseous when I take it?
+
+I’ve tried to figure out if there is a specific ingredient that affects me negatively, but I can’t make sense of it."
+53680,guaifensein probably
+53681,"OP you rock. I didn’t realize how few people do this (this = choose the right ingredients based on symptoms, not marketing) until I met my husband. In the UK they use weird little euphemisms like “chesty cough” and other shit like this so of course he never knew what to take. Now we run through his actual symptoms and I tell him what he needs (decongestant vs cough suppressant, etc)"
+53682,Someone needs to build this and make it a r/coolguides
+53683,"Not all antihistamines will make you drowsy, though. A couple of note are loratadine and fexofenadine; aka claritin and allegra, respectively."
+53684,Could you not just ask the pharmacist
+53685,"You definitely can, but it doesn’t hurt to be educated!"
+53686,"I recently asked the pharmacist about OTC drugs when I was super sick and her suggestion was to not take any of them, so... sometimes that isn’t always helpful."
+53687,"I got a question. When I had a cold a few months ago I drank this tablet (called Neozep here) for my stuffy nose. A few hours later I had a terrible asthma attack which really terrified me since I don't actually have asthma, that was a first. I never thought of it again and didnt blame the medicine- until when I tried to take it again, and bam, asthma attack again. Can someone explain why this medicine for runny nose gives me asthma???"
+53689,As more of a preventive measure or once you actually get sick? I find both to be quite effective.
+53690,"I'd add **good sleep** as a preventative measure. 
+
+Sleeping 3 hours a day is opening you up for an infection."
+53691,"For me, constantly being tired tends to be a signal that my body is trying to fight something off.  So if I can take a day and just give in to whatever my body is asking for (ie--sleep whenever I get tired and eat whenever I am hungry), I can usually knock it out before it gets bad and decides to hang around forever.  It usually turns into a whole day of ""sleep for about 3 hours, wake up and eat something, instantly fall back asleep for about 3 hours, wake up and eat something, lather, rinse, repeat"".  But it works!!  
+
+Also, I am a big fan of spicy, garlicky chicken noodle soup.  And detox baths."
+53692,"This is the way I tend to do it.  Sleep for 8-12 hours, eat something, drink a quart or 2 of liquid, go back to sleep."
+53693,detox bath?

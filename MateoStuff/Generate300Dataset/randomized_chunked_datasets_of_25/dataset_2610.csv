@@ -1,0 +1,71 @@
+idx,query,text
+12258,best gifts for dad,"I spent a while building up a collection of beer, picking a couple of bottles here and there over time and gave it to him. I thought it was a good present even if he didn't."
+53935,best medicine for a cold,I've had good results with heat. About 60% of the colds I've had in the last 8 years were treatable by hot nasal rinse or just bundling up under six blankets
+56386,best desktop monitor,"I mean, I had a TN panel as my primary for gaming before this, do all my singleplayer gaming on my OLED and have a lot of experience on IPS too.
+
+The black level smearing exists, but only in scenes with extreme contrast and very fast motion. I primarily use the panel for competitive FPS and it's perfectly acceptable in terms of average g2g. Again, non-issue imo considering the monitor's specs. 
+
+Would take this HDR1000 200hz 1440p ultrawide over any IPS panel on the market if we're disregarding price.
+
+Having said that, I've used lower-end VAs at friends' houses before and some of them are literally unusable for fast paced games imo."
+66056,best college in california,This applies to all Ivys
+43632,best items under $100,Books. Knowledge is currency that only increases
+24864,best spiderman actor,Yeah!  He was really 3 dimensional!
+50767,best rap album,"""I'll tell you happy birthday on the wrong day."""
+57358,best water brand,Dasani and nestle
+69890,best major to study in college,"Did your job happen to be in Madison, WI? :)"
+49010,best gaming monitor,I have 3 of these. They’re very good.
+46982,best hand santizer brand,Do note the concentration of alcohol we're talking about here. You use 70% to kill. Not wine strength.
+44217,best items under $100,"If you work outside during the winter, a Carhartt jacket. One of the best things to help keep you warm when outside for an extended period of time"
+42198,movies like Inception,I love A Scanner Darkly. The film style is so unique that it draws you in even without the plot (which is intriguing for sure). I wish more movies were filmed (animated?) like that.
+7947,best laptop for general use,In what order would you put the processor strength for the Intel i7-9750H?
+10352,best suitcase lock,Cool! I can finally wear my cheap 8$ belt with that suit!
+32366,best hotel to live in,"This reminds me of an experience riding the elevator in a Mexico hotel with this tall tanned guy.  Dude was apparently in sevaral telenovelas and went to great lengths to explain his role. Didn't matter, I still didn't recognize him and after a while it seemed like this really disappointed him"
+67501,axios alternatives reddit,"I use axios for everything, which is amazing if you work a lot with Apis
+
+A good pattern to use is creating an axios instance with all your defaults set, and then indeed only exporting functions to re-use.
+
+If you have a standardized return format, you can also use interceptors to pre-format standardized responses.
+
+    // /utils/api.js
+    import Axios from 'axios'
+    
+    const axios = Axios.create({
+      baseURL: url,
+      crossDomain: true,
+      timeout: 200000,
+      withCredentials: true,
+      credentials: 'same-origin',
+      responseType: 'json'
+    })
+    
+    axios.interceptors.response.use(
+      async (response) => {
+        if (response.data.ERR) {
+          return Promise.reject(response.data.ERR)
+        }
+        return response.data.RSP
+      }, 
+      async (error) => Promise.reject(error))
+    )
+    
+    export const getAccount = 
+      (origId, acctId) => axios.get(`/orgs/${orgId}/accts/${acctId})
+        .then(json=> json.ACCT)
+    // the interceptor pre-formats your response. saves you tons of boilerplate.
+
+[An example](https://github.com/doxick/eve-maps/tree/master/client/app/utils/api) of how you can use this, including multiple axios instances for different baseUrls"
+21622,best winnie the pooh comic,"shit, I wasn't."
+25095,best spiderman actor,"> plus his suit looked super dumb.
+
+You take that back right now"
+10102,best pencil for drawing,"I had a drawing instructor recently say that Prismacolor has gone down in quality recently. I have had trouble sharpening them, even with a knife — the lead keeps breaking. I think it was Derwent that I've switched to.
+
+Problem is that Prismacolor is the most commonly available coloured pencils and seem to come in many more colours than Derwent."
+52170,best hiphop album,Great list
+23628,best car racing video game,"It could definitely be more linear, the jump from level 2 to level 3 feels like jumping straight to 5. But, when you have an endgame car it really doesn't matter."
+38211,best newspapers to read,"> For example, republicans follow Milton's economics, while democrats Keynesian, both have correct predictions, both have wrong predictions, it should only then present both views equally. 
+
+This is not quite right. For example, both [Greg Mankiw](http://en.wikipedia.org/wiki/Greg_Mankiw#2008.E2.80.932009_Keynesian_resurgence) and  [Jason Furman](http://en.wikipedia.org/wiki/Greg_Mankiw#2008.E2.80.932009_Keynesian_resurgence) are [New Keynesians](http://en.wikipedia.org/wiki/New_Keynesian_economics#Major_New_Keynesian_economists)."
+68770,best science fiction novel,"I guess it's just popular. It's a good book, but best of all time? Not even close."
+20901,best workout music,The best answer out of em all

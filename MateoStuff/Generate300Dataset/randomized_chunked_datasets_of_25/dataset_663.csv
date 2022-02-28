@@ -1,0 +1,83 @@
+idx,query,text
+26583,best board games,"Oh yeah we ignore the point system, it’s all about hectic ridiculous drawing fun. We keep the dice but we’re not strict about enforcing it, and we keep the time limit + “no words” rule. At the end we usually just vote (loosely) on whose notebook turned out best overall and they “win”. Really it’s all about the laughs"
+17240,best iOS game,"Does Company of Heroes require lots of strategy? If so, it’s probably not for me. If not, I love military-style games!"
+52870,best hiphop album,"In no particular order
+
+&#x200B;
+
+Organized konfuzion - stress thy extinction agenda
+
+Lupe Fiasco - The cool
+
+OUTKAST - ATLiens
+
+Nas- Illmatic 
+
+Mf DOOM & Madlib - Madvillainy
+
+Mac Miller- swimming
+
+Souls of mischief- '93 til infinity
+
+Kid Cudi- Passion Pain & Demon Slaying 
+
+Mos Def & Talib Kweli areBlack star
+
+Jay-z - Reasonable Doubt
+
+Honorable mentions:
+
+Common- Be ( nominated for its depth)
+
+Heltah Skeltah - Ruck N Roll"
+56892,best water brand,"Pure, unfiltered water extracted from the springs of shangri la"
+45027,best items under $100,"For fucks sake, I still can't tie a tie, but your dapper dog has no problem doing it."
+31222,best country to live in,Costa Rica or Ecuador - far more exciting than most Western countries. Progressive and forward looking and emerging rather than decaying!
+55243,best places to hike in the east coast,"You could easily wander around the dolly sods in WV for a week. Lots of various trails, mapped and secret. Its quite far away from any roads. And its got the best campsites hands-down.
+
+If you choose this I'll even point out my favorite secret campsite to you in PM."
+2522,best headphones,"Came here to say Sennheiser HD-201, and yes, they have good sound, and can be obtained for about 30 dollars' worth of your local currency.
+
+I've had two pairs, and the first pair only stopped being used because I broke the plastic. The headphones would still work otherwise.
+
+Good, solid, and cheap headphones."
+57039,best water brand,I did know this- it explains everything
+40530,best midrange GPU,"If both cards are idle, do you REALLY think you will hear the difference? Over my 20 years of PC gaming, I can't recall where I said: ""\*\*\*\* this card is loud during idle"". Can you please link me to this noise test?"
+9393,best toothpaste,"One day your teeth will look up your dentist and shout ""Save us!"" And your dentist will look down at them and whisper ""No."""
+2369,best headphones,!thanks that’s a great list
+20842,best workout music,Pull up to the gym blasting Ohh Let's Do It
+41430,best instrument to play,"This man started learning piano in his 20s (which many would consider ""too late"" compared to those 5 year-old piano prodigies) and he released this Jazz album only 6 years after he began learning. He obviously busted his ass off, but you can do it in a relatively short amount of time. How do I know all this? I read the Youtube comments.
+
+https://www.youtube.com/watch?v=Hrr3dp7zRQY&t=15s"
+7282,best iPhone,That's good to hear! I probably will buy XR but I have some concerns as it is 2 years old. How many years do you think I will be able to use XR without needing to change phone?
+67668,axios alternatives reddit,"I didn't meant to attack you, I'm just sharing my real-world experience here. I'm going to reply anyway for anyone else reading this, and I'm going to stick to the facts and won't judge you personally.
+
+> I'm not really sure why you're trying to create new Promises from within a Promise or trying to parse JSON from text
+
+There are really good reasons why I'm doing this and even with comments, you say you didn't get it. This just proves my point, it's not trivial. (the stack overflow questions are just to show that there are a lot of people confused with the `fetch` API, I didn't mean to imply the answers are right for every use-cases)
+
+Your simple code is missing a lot and is far from the convenience of a request libs.
+
+- it fails to parse successful requests with an empty response content,
+- it fails to parse JSON error messages (common with any API) which are different than network errors,
+- It fails if the error response is empty and you won't know what the cause of the failure is since you're only getting the JSON parse error.
+
+What my snippet does:
+
+- Parses all error types with a safety net, both HTTP errors' body and all other errors
+- [Parses empty requests](https://github.com/github/fetch/issues/268#issuecomment-176544728)
+
+Don't get me wrong, I'm not saying `fetch` shouldn't be used or whatnot, I use `fetch` on a daily basis and I used Axios, `jQuery.ajax` and even tinkered with raw XMLHttpRequests in the past. My code snippet is not perfect, it's missing a lot of features and edge cases, it's just a quick example. When dealing with third party APIs on huge frontend applications, the simple `if (response.ok)` becomes insufficient rather quickly.
+
+My point is: `fetch` is less trivial than a request lib and is really not a replacement for one, it's a replacement for XHR."
+28397,best breakfast foods,"I wish I'd found out about homemade frozen breakfast burritos earlier. You can toss in whatever you want - I like eggs, onions, red peppers, spinach, cheese, and potato - and they're good as hell reheated. When I did my first batch I wasn't convinced the egg would reheat well but I was pleasantly surprised by how well it worked. Now I cook two huge breakfasts a month and have a delicious breakfast burrito every day! Pro tip: freeze on a cookie sheet, THEN wrap in foil, and they won't be soggy when reheated."
+32498,best vacation resort,That's weird to hear. I was just talking about all inclusive Mexican resorts with guys who go there a lot. They told me if you tip a dollar each drink that's more then enough and will be treated great.
+69357,best major to study in college,"I majored in finance and graduated 8 months ago. I was really split between some sort of engineering and finance. Sometimes I wonder where I'd be now if I went with engineering, but I'm happy I went with finance."
+69619,best major to study in college,"I’m always amazed at students who are “In going to learn X language to go to Y country and work!” Cool man, how are you going to be competitive to native bilingual speakers with a degree in something else besides the native language?"
+68356,best science fiction novel,It is on there as the Hyperion Cantos.
+33291,best electric car,"I do not think most will be buying the base model with the little battery but will opt for one of the higher priced models, so by the time the dealer gets some of that $12.5K government tax rebate by increasing the price a couple thousand, most buyers will be \~$60K. Now there will be a lot of people standing in line for this truck and they will probably have an ICE F-150 to trade in which will drop in price (the dealer does not want an item he cannot sell) since you can buy the Lightning for less $$ than a used ICE F-150. So the buyer will lose $$ on their trade in and the dealer will mark up the price because of the govt rebate.No legacy car manufacturer has proven they can mass produce an EV and all will be battery constrained. Who of the 700K buyers of the F-150 are going to want to buy a new ICE F-150 in 2022 when you can buy the EV F-150 for less money. Ford certainly cannot manufacture 60K a month of the Lightning in 2022 or 2023. Also in late 2022 and at least by the first Q of 2023 Tesla will have two plants that begin production and one plant will be building the Cybertruck. Tesla could potentially build 150K or more in 2023."
+12184,best gifts for dad,"> If you're the type of person I'm willing to accept gifts from
+
+Do you often say to people 'You're not someone I am willing to accept a gift from'?"
+68894,best science fiction novel,"Ah thanks, I'll have to go to the actual sub occassionally and do my bit by commenting I guess"
+64628,Best Nike running shoes,"Does nobody else have an issue with the heel being too short? Or your big toe hitting up against the toe box (not a sizing issue, I mean the there’s not enough vertical room for toes) I find these so uncomfortable."

@@ -1,0 +1,505 @@
+idx,text
+63233,There is an option to show incompatible stuff
+63234,I jail broken with Chimera that has Sileo. I know Cydia comes with Chimera. How do I get Installer?
+63235,"Cydia does not come with Chimera, Sileo comes with Chimera."
+63274,https://apptapp.me/repo/
+63237,Oh right. So when everyone was bashing them for vaporware.... 🙄😂
+63238,"Zebra has everything Cydia has and more. It's also lightweight, well written code wise and gets frequent updates from several people."
+63239,With Zebra my repos disappear frequently 😪 so I just use sileo and say fuck it.
+63240,"zebra works fine for me, just reinstall?"
+63241,Too much effort I got a shit load of repos
+63242,"Backup your repos
+Zebra stores repos at 
+
+>	/var/mobile/Documents/xyz.willy.Zebra/sources.list"
+63243,"This happened with Sileo to me as well. Now I just have all my repos in a note, and can import them all within a few seconds if needed."
+63244,Does Installer 5 support normal APT repos?
+63245,"Yes as well as dpkg. It also has its own package manage system.
+https://apptapp.me/threads/installer-5-public-beta-available-now.76/"
+63246,What’s the best way to get Sileo right now? I had it before but updated my uncover and lost it. And how do you get Zebra. It’s fine if you don’t want o explain I can google it tomorrow lol
+63247,"Zebra is on [https://xtm3x.github.io/repo](https://xtm3x.github.io/repo), and you can switch to u0 dark to get Sileo."
+63248,"Thanks for that link. Zebra is very nice, wish it had dark mode tho lol"
+63249,"It has a dark mode, tap half circle at the right top"
+63250,Oh shit yeah thanks
+63251,"Although good to mention u0 dark is only compatible with iOS 12 even though the installer says iOS 11 - 12, as there is a bug in the apt system on 11 devices like mine -_-"
+63252,Can i install zebra and keep cydia as well on Uncover.?
+63253,"Yep, they don't conflict in any way. Just remember to go to Community Repos and hit Import Sources from Cydia."
+63254,Repo for zebra?
+63255,https://xtm3x.github.io/repo
+63256,"I think Coolstar made it to where you couldn’t get Sileo on U0, but I can’t remember if that’s the case"
+63257,Can’t you get it through Unc0ver Dark?
+63258,Yes! You still can!
+63259,Hahaha 😂
+63260,In this case Zebra will take over cydia when cydia is abandoned.
+63261,Repo for installer?
+63262,ZEBRA FTW
+63264,Cydia has a lot of legacy code and is generally quite slow.
+63266,"Yes, because Sileo doesn’t exist for your device."
+63268,"By your logic, internet explorer on windows XP is faster than Chrome or Firefox on any modern OS.
+
+Of course the older software is better when paired with other older software.
+
+I like cydia as much as the next guy but to say it’s generally better than everything else just because it works fine on older software is a very narrow minded view."
+63270,zebra is better for those on a12 cause sileo is very limiting
+63271,Tbh I’m still surprised myself that [Installer 5 finally happened](https://www.reddit.com/r/jailbreak/comments/c8vbjl/news_installer_5_beta_released/)
+63272,Its a WIP but so far its different in a good way
+63275,It says it’s forbiden...
+63276,Just copy and paste into Cydia
+63277,And maybe Lime soon? I’m skittles overwhelmed tbh
+63278,"I hadn’t heard of Lime before today, and just wow, it reminds me so much of the App Store. [It looks great!](https://twitter.com/coronux/status/1146374403112013825)"
+63279,"Maybe I’m just stuck on the classics.. Cydia has not had an issue for me in years so I will not be testing new things, why fix what isn’t broken? Good work tho devs!"
+63280,"Seems to me like the creators of these other choices are instead aiming to *optimize* what isn’t broken - for example, people say Installer5 installs packages in 1-3 seconds"
+63281,"Just remember what devs always say, just because it's faster doesn't mean it's better, I'm not saying this is the case, but sometimes it's faster because of shortcuts that shouldn't happen.
+
+I think Zebra is the best one besides Cydia of course, there's a lot of very good and talented devs working together on it."
+63282,"Cydia’s main problem is that it’s too old and won’t work as well as a Cydia rewrite will on newer iOS versions. To add insult to injury, Saurik basically abandoned the project so it won’t be updated officially by him anymore. I personally still use Cydia but definitely wouldn’t mind using Zebra in the future because it’s basically a modern version of Cydia with the same UI but more modern."
+63283,Don’t give me wrong I really like Cydia especially when I use the flame tweak with it it actually makes it look like it isn’t from iOS 8 but that said Cydia is bloated and his legacy code is its eventual undoing. That and because Saurik walked off from the jailbreak scene and is no longer interested in updating Cydia or Substrate anymore. So far Zebra has been a good alternative for me. I have regular crashes using Cydia but Zebra it’s extremely rare.
+63284,"I recently switched over to Zebra and just want to note that it loads everything noticeably faster than Cydia ever did, so in that respect they definitely fixed something that was broken."
+63285,How'd you get Cydia and Sileo installed at the same time?
+63286,"If you’re using Chimera, like I am, you’ll need to use Chimera 1.0.4 as it’s the last version to unofficially support adding Cydia. Add the following repo to your package manager of your choice: https://diatr.us/chicydia
+
+Then just install the package named “Cydia for Chimera/Electra” and you’re good to go!"
+63287,"Unc0ver dark
+
+https://github.com/nqcshady/unc0ver-dark/releases"
+63288,Do you need to rootfs the previous jailbreak for this to work?
+63289,"Sorry, yes. You cannot just update unc0ver."
+63291,Just add it to cydia
+63292,"Installer 5 is lit , installing any package takes less than 3 secs"
+63293,Where did you install it from? The repo shows up empty for me in both Cydia and Zebra.
+63294,They deleted it to fix some issues then they will add it back .
+63295,Easy to do when you cut corners
+63296,Seems to be in a stock app..really like it! Awesome job!
+63297,"Evendev is developing another package manger name: Lime, Its awesome when developer is concern about it"
+63298,"Apart from all these features, there's still one thing I'm wondering: why that package manager's name is Zebra?"
+63299,"It might be a little biased since it was the latest package manager to be released, but Installer is my favorite"
+63300,"Can this be done on i7 11.2.6 ? Or only 12.x ? 
+If so how?"
+63301,"I’m pretty sure this can be done on both iOS 11 and 12. For Zebra and Installer, just add their respective repos and you can install them from your default package manager (Cydia / Sileo). If you use Electra, I believe the latest version installs both Sileo and Cydia. If you’re using Unc0ver, you’ll need to use [Unc0ver Dark](https://github.com/nqcshady/unc0ver-dark) to add Sileo."
+63302,"I’m finding signing service uncover darks which say not to install on iOS 11. 
+
+Are there older versions of UD that are recommended for Sileon on iOS 11?
+
+Ps: what are reliable sources for the other 2?"
+63303,But its not great when some peoply try to hype one of the newer ones just because they have no other option or they generally hype everything which is new...
+63304,I am HYPED for Lime.
+63305,"Zebra is basic but works good. 
+
+Sileo haven’t used since iOS 11 don’t really care too. 
+
+Installer 5. Kinda buggy atm and force closes a lot randomly. When scrolling on main page it lags and hangs up at times. 
+
+iPhone 6s iOS 12.1.2 Unc0ver jailbreak."
+63306,"Cydia = The old master.
+
+Sileo = Said to be the new Cydia.
+
+Zebra = The fast and lightweight alternative.
+
+Installer = Fantastic UI inspired by App Store."
+63307,Honestly unless Installer 5 truly blows my mind (hadn’t gotten a chance to test it yet before they pulled it from the repo) I think at least unc0ver should include Zebra by default. Especially once pwn implements the substrate/substitute option.  When I first jailbroke my iPhone 6 running iOS 11.4.1 I used Electra 1141 which is where I first used sileo. Idk what it’s like today but I had a lot of conflicts with it. Once I switched to unc0ver I never wanted to go back to Electra.
+63308,"Electra and Sileo on iOS 11 was not stable. Today is Sileo really good. Nice looking UI and really snappy experience. 
+
+Have both Cydia, Sileo and Zebra installed on my XS Max and I definitely prefer Sileo. Cydia is slooooow and Zebra:s design is so fu*king ugly.
+
+Give Sileo a go, if you don’t like it - just go back!😃"
+63309,"I’d like to try it within unc0ver Dark however until Shady (one of the u0 Dark devs) fixes the lib apt issue on iOS 11, which may be awhile as he only has a 12 device  lol"
+63310,What's the repo for zebra?
+63311,https://xtm3x.github.io/repo/
+63312,And lime is on the way so you’ll have a 5th to test
+63313,"Its a good thing, specially having other options besides Sileo.... i use cydia and will use till it no longer works, and when that time comes, Sileo is not the one i will use."
+63314,God this makes me feel old. I used to use Rock Your Phone way back when.
+63315,Does Installer 5 have a discord server?
+63316,There wasn’t before?
+63318,"####Your comment has been removed for the following reason(s):
+
+---
+
+
+> **Rule 1A** » r/jailbreak does not allow piracy tools, sources, or websites. No pirated tweaks, apps, etc. 
+
+
+
+> 
+
+> *^(NOTE: Piracy can lead to your account being temporarily or permanently banned. See)* ^[*here*](https://www.reddit.com/r/jailbreak/wiki/rules#wiki_ban_policy) ^(*for more information.*)
+
+---
+
+
+
+
+*If you have any questions about this removal, please feel free to [message the moderators](https://www.reddit.com/message/compose?to=/r/jailbreak&subject=Question%20regarding%20the%20removal%20of%20this%20comment%20by%20%2Fu%2Fpryde5abi&message=I%20have%20a%20question%20regarding%20the%20removal%20of%20this%20%5Bcomment%5D(https://www.reddit.com/r/jailbreak/comments/c8w3a3/-/esqz7ru/\)%20by%20%2Fu%2Fpryde5abi.).*"
+63319,Can I have all of em together?
+63320,Sorry how can I download installer on iOS 12? What’s the repo?
+63321,Just wait until Lime comes out. That's what Sileo should have been.
+63322,What about that Lime one?
+63323,When sileo will be available on uncOver?
+63324,Do any of these work for iOS 10?
+63325,Except when your phone randomly boot loops during a restart and you get a replacement and it’s on 12.1.4 😭
+63326,Zebra feels more robust at the moment.
+63327,"how do i add it, every time i go to packages for the repo its empty"
+63328,when i install the repo the packages are empty and i cant find Installer 5
+63329,Been jailbreaking for years but never really come across these. Which one is the best out of them all? I have tweaks installed on Cydia. If I install one of these will they recognise that they are installed?
+63330,"Yes if you install another package manager all your tweaks will show in your new package manager, I suggest trying Zebra as it is probably the fastest and easiest to use, but make sure to not uninstall Cydia"
+63331,"Thank you for your reply, I will try it. I was also maybe thinking of trying installer 5 if that's it's name?"
+63332,Can u have zebra cydia and installer alongside?
+63334,Aaaaaaand how do I get all of these?
+63335,From there respect repos
+63336,How do you get all these on Unc0ver?
+63337,Years ago there were choices but Cydia was the only one that survived. Great to see this scene come alive again.
+63338,Can iOS 12.3.1 obtain any of these?
+63340,Would recommend CocoaTop64 over CocoaTop
+63341,yes 64
+63342,Almost any app compiled for 64 bit is better than the 32 bit version
+63343,Also that 32bits apps are not compatible on iOS 11+
+63344,Thanks edited
+63345,how do i get it?
+63346,Thank you so much for this.
+63347,Enjoy! Thanks to the developers making these awesome tweaks .
+63348,excellent work. thanks for taking time to compile this report.
+63349,Two small things: 1) Quorra is on BigBoss and 2) it’s for iOS 12-13 (not 14)
+63350,Thanks I’ll remove it
+63351,"Awesome list! There are several tweaks I never knew about and will have to try them out. I also saved this post so I can link it when someone asks ""what tweaks do I install?"""
+63352,Someone gotta add this to the sidebar of this subreddit. It’s a great “jailbreak 101“ post
+63353,"Nice list, thanks. One mistake I noticed though is carbridge costs $9.99 not $4.99. Consider adding some words to the description to say you'd only buy carbridge over the free carplayenable if you needed ios 13 compatibility."
+63354,Yes I forgot the developer did change the price . Thanks I’ll edit that .
+63355,Thanks. It’s done ✅
+63356,"Wow!
+
+This is super helpful. I would not have known some of these tweaks existed If it weren’t for you.
+
+TYSM!"
+63357,"You can make a spreadsheet for ppl to review/edit/add, it is more convenient for  than listing the tweaks without alphabetical order or function categories like back in the day."
+63358,Idk how to make spreadsheets. Feel free to make one using this post .
+63359,https://docs.google.com/spreadsheets/d/1e3PAOhgzKp9W5Xb_P__IlabTXAeS-2OaowXDpjz4p2k/htmlview
+63360,"That gonna take a long time to do on phone . My laptop is not working.
+
+Check out the list , I reorganized the tweaks."
+63361,Swipe to delete contact doesn’t work on ios 14 atleast
+63362,Use DeleteContact from iArrays. It’s $0.99 but works well!
+63363,Thx
+63364,Whats the exact name of the tweak your talking about?
+63365,Delete Contact on repo https://apt.iarrays.com/
+63366,"Hmm it does work for me
+
+https://imgur.com/a/XDqJntO"
+63367,thank you very much for taking the time to write this.  I discovered a lot of tweaks that could be of great use to me.
+63368,Very nice list
+63369,One of my favorite developers 🤩
+63370,I like how u keep coming back and updating this list. I have this post saved and always come back there to look over the list again and always find somethin cool u/Maximessi
+63371,:) trying my best .. any suggestions are always welcome.
+63372,Awesome list
+63373,Thanks for your hard work. But the repo (antique repo) for [[Crash]] doesn’t work since many times. If you can add a link for direct access.
+63374,Couldn’t find it . Repo is down. I removed it from list
+63375,Tapblocker don't work on iOS14. Use safariblocker instead.
+63377,As far as I’m concerned all tweaks that matter (and more) are there. Great job!
+63378,Bookmarked! 🥰
+63379,I’ll keep the list updated when new functional tweaks come out or good suggestions.
+63381,Not working on iOS 14. Automatic safe mode.
+63382,Yes it’s not working on 14. Removed from list . Thanks.
+63383,"As someone who’s horrible at making their own decisions, this definetly helps, thanks man 😭🤞🏽"
+63384,"Should be cocoatop64, also why run altstore and reprovision?
+
+Good list though, also milky way 3 is out."
+63385,There is Milkyway fix for iOS 14 from Brandon repo . This way milkyway2 (free) works on iOS14.
+63386,Thanks changed
+63387,"Can someone please try dynamictimer . For me it didn’t work , but I’m not sure probably I didn’t know how to use it."
+63388,"[[Installer 5]] is kind of a package manager but also a tweak but honestly it’s so worth it for using JUST for its Batchomatic-like functionality. If something goes wrong and you have to Restore RootFS, it feels SO good to know that you can just restore everything and NOT have to spend hours and hours figuring out your old setup. 
+
+Always remember to only back up your setup when you’re relatively sure your current setup is pretty stable!"
+63390,"This is true. If what was messing you up was a tweak and you just restore it using Installer or Batchomatic and the tweak was backed up, then itll just show itself again. However, hopefully you can maybe go into safemode with iCleaner and identify and disable the problem tweak :)"
+63391,Do any of the tweak bypasses work for the Nintendo Switch Online app?
+63392,"amazing list actually, wow. i very rarely install tweaks from lists like this, but this list had genuinely useful tweaks.
+
+also, wth is that ios 13 list link?
+
+>	https://www.reddit.com/r/jailbreak/comments/injcwv/tip_discussion_for_people_looking_for_functional/?utm_source=share&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;utm_medium=ios_app&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;utm_name=iossmf
+
+https://www.reddit.com/r/jailbreak/comments/injcwv/tip_discussion_for_people_looking_for_functional/"
+63393,"Idk I just copied my post link . Idk what’s all this amp crap
+
+Edit : Thanks .Its fixed now"
+63394,Great work
+63396,thank you so much +1
+63397,Thank you for taking the time to do this for everyone!
+63398,When I get a better iPhone I’m installing all those tweaks
+63399,"I’d like to recommend: Instagram No Ads    
+It free, gets rid of ads, and allows you to download stories, videos, photos, IGTV, and reels as well as HD profile pics.    
+[repo](https://clubjailbreak.cydia-repo.com/)"
+63400,Added to list . Thanks .
+63401,"Great list, thanks"
+63403,Great work thank you so much !
+63404,Great list thanks so much! Saved.
+63405,Does priority work on 14.2?
+63406,I’m on 14.3 it’s working
+63408,[[CSources2]]?
+63409,It’s in the list
+63410,"Did not see it. 
+So u consider a tool that holds all of your sources for all package managers with the ability to enable disable whenever u choose without deleting not useful ?
+Ok."
+63411,"Again ..It’s in the list.
+
+If you are using Reddit on Safari or Apollo , you can search CSource and it will show up in the list ."
+63412,"I love the concept of csources2, but damn that UI is a mess. maybe i’m just not very smart, but i can’t figure out how to do anything with it. i’m also afraid of screwing up my repo lists in all of my package managers."
+63413,"Yea, CSources2 was created way back, went through several changes in order for the user not to be charged again when it was a paid package. Doing so made the app a lil not user-friendly in order to maintain the ios versions compatibility. There is a how to page on the Info page, press the i next to the count of repos. else [https://csources2.wordpress.com](https://csources2.wordpress.com) . In essence, the main page is the real tweak, all the rest are like tweak additions to the app in the app."
+63414,dude.. your explanation is just as confusing as the UI. now i understand why it’s so messed up.
+63415,Wth. How long did that take to write up this awesome list?!
+63416,"This list didn’t take long . I copied my ios13 list , add/remove tweaks ,and organize the list. 
+
+iOS 13 list was 50 tweaks , but every once a while I added new tweaks ..now it’s over 200. That list took time ."
+63417,thank you
+63418,Great post. Thanks.
+63419,Any reason why Cercube was not mentioned?
+63420,Harpy not work in ios 14.3 a12
+63421,I added that. Thanks!
+63422,Key+ is also a good alternative to swipe expander
+63423,Added
+63424,"I would reccomend removing Drain, as even the dev said that it's broken and drains more battery than it saves. Also, Litten has taken down her ""litten.love"" repo and moved to https://aurilia.cafe. u/Maximessi"
+63425,"Thanks, I’ll edit the post."
+63426,not seeing sucession on that repo
+63427,It’s there I just checked . Also you can find it on BigBoss
+63428,i can see it on bigboss but it doesnt say ios 14 in the description
+63429,You should probably use the beta version from https://samgisaninja.github.io/test/
+63430,"It’s not updated ,but it works."
+63431,Are you sure MGspoofer works on ios 14? Isn’t working for me.
+63432,You have to select options from + then respring then open MGSpoofer again .
+63433,Yeah I did that. I tried to spoof CurrentBatteryCapacity and it didn’t work. Resprung and everything.
+63434,Yes sadly it doesn’t work. Thanks I’ll remove it from list  .
+63435,[SmartNotifications 2]
+63438,Added thanks
+63437,[[TruestCuts]] combines TrueCuts and StopShortcutNotifications
+63439,"#[Truestcuts](https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=truestcutsDp) 🛠
+
+Enables true Automations and removes notifications too.
+
+ |  |
+--|---
+**Version** |1.0.0-3
+**Compatibility** |14.0.1
+**ID** |`com.shivesh.truestcuts`
+**Developer** | Shivesh 
+**Repository** | [BigBoss](http://apt.thebigboss.org/repofiles/cydia)
+**Firmware** | iOS 13.0 or above
+**Size** | 4.74 KB
+**Dependencies** | `mobilesubstrate`
+[Download Deb](http://apt.thebigboss.org/repofiles/cydia/debs2.0/truestcuts_1.0.0-3.deb)
+
+
+
+ >Can't believe ARX8x is making me do petty tweak-searching here
+
+[Report a bug](https://www.reddit.com//message/compose?to=arx8x&subject=rJailbreakBot+Bug+Report) **|** [Request features](https://www.reddit.com//message/compose?to=arx8x&subject=rJailbreakBot+Feature+Request) **|** [Add a repository](https://www.reddit.com//message/compose?to=arx8x&subject=rJailbreakBot+Add+Repo)"
+63440,Any alternative for GameGem? I am on iOS 13.5 and using gamegem version 1.5 it’s not working.
+63441,It works. There’s a known patch and it’s just an Mterm command.
+63442,"Here
+
+https://www.reddit.com/r/jailbreak/comments/944nk7/tutorial_how_to_make_gamegem_work_on_ios_11/e3ie3yn/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3"
+63443,ok leftist.
+63444,Anyone know what is the tweak to get a CC toggle to disable auto screen lock?
+63445,"Hey there aka YOOOO , if you still need it, \[\[AutoLockToggle (CCSupport)\]\] from repo: cydia.ichitaso.com"
+63446,"Awesome, thank you!!"
+63447,"Some other useful tweaks....Shuffle, HideJB, Nougat, Siliqua, AddToFolder, Comet, 
+PerfectNetworkSpeedInfo (ios 14)"
+63448,"HideJb Is for jailbreak detection right ? Does it work on 14?
+
+Perfectnetworkspeedinfo doesn’t work on 14"
+63449,"Yeah, both works on ios 14.3"
+63450,Does truecuts or stopshortcutsnotifications work on iOS 14?
+63451,Yes it does . I just tried with Truestcuts which combine both tweaks.
+63452,How long did you spend on this?
+63453,"Not much time . CopyLog and Copypasta did most of the work . What I did is copy description and source for multiple tweaks then add to my list and modify the description to make it look better.  
+It all started with saving my tweaks and repos to do restore rootfs."
+63454,Pretty cool. Nice of you.
+63455,"Has anyone tried 
+**succession**
+(the restore without updating tweak)
+on a A9 device running IOS 13 ? Just want to make sure it would be reliable and functional for me."
+63456,worked great for me. i credit it with saving my jailbreak. make sure you get the latest beta from this repo https://samgisaninja.github.io/test
+63457,"Awesome :D 
+I will definitely give it a try soon, when I have the time to transfer an IPSW, ty"
+63458,Works on A10 device iOS13 and 14 . I don’t see why it should not work for you
+63459,"Alright, thank you, it's good to know it's worked for someone and on IOS 13"
+63460,Does PerfectYouTube work on iOS 14? I couldn’t get it to work?
+63461,"It was recommended from a jailbreaker to added to the list . I have YouTubeReborn . I’ll install perfectYouTube and report back
+
+Edit : it’s not working."
+63462,"Nice list!
+
+But imho there are FlicksForAll (https://Cydia.Wuffs.org/), NoTrackpadDelay (BigBoss) and Shortmoji (https://miro92.com/repo/) missing"
+63463,"Shortmoji is in the list . I have FlicksForAll in the iOS 13 list but I don’t know if it works for 14 . 
+NoTrackpad delay work on 14?"
+63464,"Long list, haven‘t recognized it 😁
+
+FlicksForAll works on iOS 14, so does NoTrackpadDelay."
+63465,Added both
+63466,Isn’t Flicks for All similar to SwipeExtender ?
+63467,"Yes, but it’s free 😁
+
+I used SwipeExtenderX, what actually is a good tweak, but it didn‘t get along with slide typing. FlicksForAll works quite well with slide typing, though not perfect."
+63468,Ok cool I’ll update the list saying its similar to SwipeExtenderX
+63469,Where can I find noshareppl tweak I tried a lot of repos but still no luck
+63470,Tried searching the name for nothing . What this tweak is used for ?
+63471,It’s to take off most recently messaging apps when you trying to forward and image it takes that off and just shows apps
+63472,"Couldn’t find anything , most related name is NoSharePlz but it’s different tweak.  
+Make a post and describe the tweak people will answer you ."
+63473,"Found it it was on the www.yourepo.com/ 
+It’s called noshareshareppl no wonder couldn’t find it with the other name"
+63474,Great :)
+63475,I will thanks.
+63476,"Maybe a dumb question, but is there any kind of tweak to get around a Facebook ban? I'm guessing it would have to be something that would hide any identifying info in relation to my phone/number/location/ISP"
+63477,"Hmm I don’t use Facebook , someone else might know . Location tweaks are above you can try , probably Vpn"
+63478,"CCCalc crashed my Springboard and started it on safe mode
+
+On iPhone 8+ iOS 14.3"
+63479,It’s not working on 14. I removed it from iOS 14 list .
+63480,[[TouchFlow]] works same with the cc module tweak for it
+63481,Added ✅
+63482,[[BattSafePro]] also amazing (sadly not working for me in iPhone 11 Pro at iOS 14.0.1)
+63483,"That's odd. Works for me IPhone 12, 14.2. Are you using latest version 1.0.4 from udevs repo?"
+63484,"Yup! Using the latest version but still not working. Tried everything I could. I’ve unc0ver jailbreak, no incompatible tweaks and tried re-jailbreaking many times with reboots but still not blocking the charging. The diagnostic tool reports the charging block but in reality that’s not happening. I also disabled Apple health charging mechanism suggested by the tweak. I’m out of ideas 😂"
+63485,Dontstopmycall not working on ios14
+63486,Thanks removed .
+63488,"Hi there, can you add the following tweaks?
+ whatsappMessenger Watusi will make WhatsApp easier and simpler to use, allowing you to change every part of the app to satisfy your needs. Some of its features:
+
+Freeze your last seen and control your read receipts
+Keep your contacts deleted messages and statuses
+Status Add-ons: Never let your friends know that you viewed their statuses – Download any status – disable auto-advance – Privacy contact groups
+Auto-reply can reply to your messages automatically
+Schedule messages to be sent at a specific date and time
+Blacklist some contacts in order to stop receiving & showing their messages in the chats but instead read their messages in a private location
+Voice/Video call buttons will let you pick whether you want to WA call or carrier call
+Set app passcode or by TouchID – or just lock a specific chat
+Compose a chat by just inserting the phone number instead of creating a new contact
+Group button to show all your groups together
+View contact's profile picture by tapping on it from the chat list
+New Watusi sharing sheet will change your WhatsApp sharing experience
+Send unlimited number of photos at once
+Shrink those large emojis back
+Hide any button that annoys your WhatsApp usage
+Customize your WhatsApp notifications in many ways like replacing the icon with your contact’s profile picture
+Change the app and chats theme by picking any fonts & colors you like!
+And much, much more!
+
+The package includes a toggle for Control Center, download CCSupport package and activate it from Control Center settings.
+OnlineNotify
+track your watsapp friends when they come online, this1 is payed
+ developer Fouad Raheb 
+Repo
+ https://apt.fouadraheb.com/
+For both online notify and Watusi2.
+
+
+Network ad smartnetwork2Having a smartphone is useless without smart features and functions! SmartNetwork 2 is here! Built upon the success of SmartNetwork, this is a more redefined version bringing a lot of exciting new features and built fully to support iOS 14 and new devices.
+SmartNetwork is 2 split into two parts ! Once downloaded you get an app + tweak, an app called WiFiList that fetches all known connected networks and fetches the password for them, on a click of a button on the field you can easily share the password, have you ever went to work or someone’s place and they enter the wifi password manually instead of giving it to you ? Well WiFiList fetches this password, in fact it fetches the passwords of all connected networks, once clicked on the cell you can share the password via social apps, copy or even print it.
+Second part is the tweak, this is where it gets interesting here’s the features :
+-Choose to get notified from a list of selected apps with a notification when an app is launched on Mobile Data (very important if by mistake you switched the mobile data and you launched data intensive apps like netflix or youtube to prevent data consumption)
+-Choose to get notified from a list of selected apps when WiFi gets disconnected and you start to consume from your Mobile Data (very important if you are streaming series or videos and WiFi gets disconnected you’ll get notified immediately to prevent data consumption)
+-Stop selected apps from launching when on mobile data (prevent data consumption)
+-Stop selected apps from using WiFi.
+-Stop selected apps from using internet.
+-Enable WiFi booster : boost WiFi signals by removing limitations imposed by iOS.
+-Disable Background data : disable the use of mobile data when apps are in background.
+-Turn off mobile data once the device is locked and turn it back on when unlocked.
+-Turn off WiFi once the device is locked and turn it back on when unlocked.
+-Disable Mobile Data in low power mode.
+-Smart Switch (one of my favorites) : Disable WiFi and switch to mobile data when WiFi coverage is low (1bar) and connect back to WiFi when coverage is 2 bars and more.
+-Auto Switch (turn off mobile data when WiFi is connected and enable it back when it disconnects)
+-Safe WiFi : allows you to unlock the phone without password or face id / touch id if you are connected to a safe wifi you select ! Very important and convenient when connected on your home or office WiFi, password needs to inputted once then it gets stored encrypted, locally on device.
+-WiFi Notify : get a notification when connected to a WiFi network and when disconnected.
+-Favorite WiFi: Choose your favorite WiFi and set it up, you can trigger it by pressing volume up + down in a sequential order, once triggered, you automatically connect to that Favorite WiFi if it's in range.
+BT Connect: get a list of nearby bluetooth devices by simply double tapping the status bar, you can easily connect to your favorite bluetooth device from there.
+Safe Bluetooth: bypass lockscreen passcode when your favorite bluetooth device is connected! You get to choose and specify up to 3 favorites bluetooth devices.
+ developer elias
+This one is paid  available on packix.
+Airpods related.
+AirPods Case Low Battery on dynastic Notify when AirPods or its case has low battery!"
+63489,What is the price for Watusi2?
+63490,A dollar or two
+63491,It’s 4.99$
+63492,"Yes, could be region specific"
+63493,Great list!
+63494,[[ReduceWhitePointModule]]
+63495,Which of the three systemwide ad blockers would you recommend most?
+63496,Myblox
+63497,"thanks for this, the automatic lockscreen was annoying, LPMAutoLockTime finally fixed it"
+63498,Can anyone tell me how to use the repo listed for Relocate Reborn? I'm trying to get it to work but I'm not sure what to do with the link provided
+63499,Download the deb from browser and install with Filza.
+63500,Filza? Is there a youtube video for this?
+63501,"Thanks for the content!
+
+Is there a tweak / method of viewing / controlling your device from a mac? I'd like to do some in-depth Flex ""tweaks"" but being limited to a phone is pretty darn hard. If not for flex, is there a method of displaying / changing functions from your mac for applications on the iPhone? Thanks!"
+63502,"Hmm I have no idea I don’t own a Mac...best thing is post this as question , someone will answer you ."
+63503,Thanks for the help regardless! Great list :)
+63504,[this is what I get when I try to install 1.0.1](https://imgur.com/gallery/bsGKpFz)
+63505,Thank you for putting together this list! Very helpful.
+63507,Great thanks.
+63508,How do i use debhoarder? I downloaded it but nothing shows up in my settings->tweaks
+63509,"There aren't any preferences. Just reinstall whatever tweak you want to back up in your package manager (for me, that's Cydia 1.1.36 from the Procursus repo) and you'll find your deb file inside of `/var/mobile/Downloads/DebHoarder/`"
+63510,"Do you know some tweaks that make the notifications more like Android? Status bar Icons especially
+
+Am not on a notched phone if that matters"
+63511,"I have no idea how android notifications looks like . Try search r/jailbreak for “android” , you might see what you looking for."
+63512,Anyone know any good status bar tweak to add date on status bar iOS 14? I have used Xeon but was looking for something else. Thank you!
+63513,[[Lynx 2]]
+63514,I’m on iOS 14.3 and keep getting carrier update pop up and don’t want my phone updating my OS without me knowing. What’s a good tweak to stop that?
+63515,Carrier update does not update your phone. Hence the name
+63516,My iPhone SE is currently running a service called whitelist and regular usage how can I stop it?
+63517,"Guys, what is the name of the tweak that clones the IPAs of my iPhone?"
+63519,jb all in one
+63520,It me
+63521,"Very very useful, need more post like that"
+63522,Killer list thank you
+63523,OMG! That's so helpful!
+63524,Awesome Thank you sooo much for sharing🙏🏾
+63525,"Great recs, thanks!"
+63526,Are all the above tweaks working fine on iOS 14.3? anyway Im using Taurine.
+63527,Yes I tested most of them ... some are suggestions by other users and claimed to work on iOS 14
+63530,icleanerpro isn't free 😅
+63531,Idk man I keep getting weird crashes whiles it’s updating sources.
+63532,Remove the Zodttd repo
+63534,I had same issue a million thank yous!!!
+63535,"With the latest update, 1.0~beta15, this issue has been fixed, so you can reinstall the Zodttd repo!"
+63536,Can you send me the crash log please? We have a hotfix coming soon to fix most of the crashes as well
+63537,Hey I managed to fix it by deleting the zodttd repo while in airplane mode. I’m not sure how to send crash reports is it through cr4shed or crashreporter? Anyways thanks for all of your hard work.
+63538,"Agreed, will be happy to see it as the default package manager in our jailbreaks eventually."
+63539,Yeah I’m in the anti-sileo club even if it means no jailbreaks. All for Zebra if it turns out like Cydia!
+63540,"My biggest gripe with usability is the search function. I can type a tweak by name and it’ll be halfway through the results.
+
+That and, as many others have said, the crashes."
+63541,"I don´t know why it has so much discussions about package managers. I mean, how often i use Cydia, maybe 4-5 times in a week. The question i ask me, how many people use it many time in a day? What and how much tweaks install and deinstall they so often?
+
+When i use Cydia, i don´t care if it refresh the sources in maybe 20 sec. or in 10 sec. The most important thing for me is that it works. It does not matter if the UI looks a bit older or not..."
+63542,"I probably use Cydia or zebra at least 10x a day if not more. For updates especially but also to score new tweaks and uninstall others. Constantly trying to perfect my layout and flow and more than anything fictionality and stability.
+If everything just worked perfectly I probably wouldn’t use them any less lol."
+63543,"> fictionality
+
+...is for people who can't handle the TRUTH."
+63544,"Hilariously autocorrected
+
+*functionality"
+63545,For some reason the changes tab never refreshes for me.
+63546,"Zebra is very good, which is why I have it installed as a fallback in case my preferred package manager, Sileo, horrifically fails. I like Sileo’s support for native depictions, which Zebra doesn’t have, and I haven’t had any stability issues with Sileo in a long time.
+
+
+Cydia used to be my fallback package manager, but I replaced it with Zebra the moment it became a real alternative.
+
+
+In any case, I’m glad the community has multiple decent package managers to choose from, as opposed to the past, when Cydia was the only option."
+63547,Zebra chrashes for me all the time.
+63548,"Sileo is my go to. No need to try anything else ATM. Works just fine.
+
+Thanks for silver!"
+63549,"I agree. Maybe I’m just not seeing the hassles others are but I avoided going to chimera and sileo as long as I could thinking it would be crap. I was mistaken. So far I have nothing but positives to say except for the fact that I can’t get credit for my Cydia purchases. I’ve no crashes or stability issues. Then again I do have a lot of supposedly functional tweaks that give me the preference loader error (zeppelin,alkaline, most status bar tweaks, etc) but other than that I’m golden."
+63550,"If you go to Sileo’s featured page and tap the little profile icon in the top-right corner, there’s a “Sign in to Cydia Store” option. I’m not sure if it’ll do what you’re looking for but it seems that it would."
+63551,I’m signed in on all the repos
+63552,"My only problem with zebra is that I ignored the upgrades for a tweak then deleted it after some time and now it still appears in the app as ignored upgrades and when I press on it zebra crashes, other than that it’s better than sileo/Cydia for me.
+
+
+Edit: whenever i copy a yt link even after 10-20 mins when opening zebra it asks me if I want to add the repo with that url, if that gets fixed it would be one of the best package manager ever."
+63553,A fix for the pop-up for pasting from the clipboard could be only prompting if “repo” is in the URL somewhere. /u/poomsmart
+63554,There are plenty of repos that have repo nowhere in their URL. Not the best idea
+63555,"I do agree that this is a bit annoying when I’ve copied a repo to add, done the business I wanted etc. a little later I open zebra for whatever reason and it asks me if I want to add the repo. Erm... no I don’t, but thank you for asking me. Each and every time. 
+
+But, I do love Zebra, mainly because I love simplicity. While I do still like Sileo’s design, it feels a bit... bloated? Idk."

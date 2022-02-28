@@ -1,0 +1,663 @@
+idx,text
+0,"ranger has just that tiny bit too much of lag, nnn I do use regularly"
+1,"cd, ls, cp, mv"
+2,Same + shell aliases
+3,"was gonna say what about opening files then i realized ""xdg-open"""
+4,"Way too many letters. vim, feh(or eog) and mpv will handle 99.9% of the files I'd want to open."
+5,"*integrates xdg-open into dlsd to open any file with dlsd*  
+**considers renaming to dls**"
+6,lf - fast ranger
+7,lf gang
+8,lf ftw
+9,nnn. It just does most things the right way and it's fast as hell.
+10,"If I had to pick one, it would be nnn: it's blazing fast, and does everything out of the box. Every few months I try out ranger, lf or nnn, but can't find any real use, so I stick with ls/cd/mv/cp.
+
+The only thing I miss is an easy bulkrename utility but hey, I don't download tv shows twice a day"
+391,ranger
+12,"If you use ssh to get to other computer file systems then mc is the easiest one to use for that. That being said, nnn is my goto tool since it's blazing fast even on low powered machines like the Raspberry pi. It has single key shortcuts, navigate as you type functionality and the smallest footprint possible. A good basic knowledge of shell commands like cd and mkdir is always useful but once you get into bulk renaming and multiple file name and file type moving then a fast file manager is the right tool.
+If you would like to have image and file previews as you navigate then ranger is the one for you but keep in mind that this feature is amazing on fast machines while it becomes a nightmare on slow ones."
+13,"Ranger definitely starts to show it's slowness on older hardware for sure. I do like the features it offers, but it seems like it just gets more and more complicated to configure - nnn I like the idea of since you can add plugins for certain features.
+
+That said, I believe there are file previews via nnn plug-ins now? Preview-tui I believe it's called. Pretty sure it just uses a multiplexor to give it a split pane for the previews.
+
+Edit: mobile typos"
+14,"> I believe there are file previews via nnn plug-ins now?
+
+Yes. There's also an option to invoke a plugin at startup. Otherwise, you can also have your own independent script that starts nnn in preview mode."
+15,"> If you use ssh to get to other computer file systems
+
+SSH is as easy as typing the remote host name in nnn.
+
+However, nnn has gone beyond SSH and the rclone integration literally lets you mount any cloud storage you have at the same ease - type the host name. Details: https://github.com/jarun/nnn/wiki/Basic-use-cases#remote-mounts"
+16,"Indeed mc *used* to be the easiest one for ssh. I've been using the nnn remote mount for some time now, I stand corrected."
+17,vifm. But I use a file manager rarely. Can't work with nnn.
+18,nnn <3
+19,"mc, I use every single feature."
+20,"Probably unpopular opinion here:
+
+If I really need a file-manager, my go to is emacs + dired + tramp. 
+
+Otherwise zsh + coreutils + awk, sed, grep etc. is more than enough."
+21,"[nnn](https://github.com/jarun/nnn), all the way.
+
+Not just because it works extremely fast on my old hardware machine, but also because it has a tremendous amount of features and it's very easy to configure thanks to its extensive [Wiki](https://github.com/jarun/nnn/wiki) and **man** page."
+22,"I used to use nnn but I had some issues (my own fault probably) and went with fff, but they are extremely similar."
+23,"I source run the following bash script that I have alias ""cdd"" for:
+
+
+\#!/bin/bash
+
+eval cd ""\\""""$(ls 2>/dev/null -p ""$@"" | grep / | cut -f1 -d'/' | rofi -i -dmenu -p cdd)""\\""""
+
+
+
+recursive version:
+
+\#!/bin/bash
+
+eval cd ""\\""""$(find -not -path '\*/\\.\*' -type d \\( ! -iname "".\*"" \\)| sed 's/\^..//' | rofi -i -dmenu -p cddr)""\\""""
+
+
+recursive version with hidden files:
+
+\#!/bin/bash
+
+eval cd ""\\""""$(find -type d ""$@"" | sed 's/\^..//' | rofi -i -dmenu -p cddra)""\\"""""
+24,"Ranger. I know a lot of people like vifm, but I couldn't get into it. Ranger is vim like enough for me, and I'm used to it. I've also got it set up the way I want so changing to something else is just a pita."
+25,"I use vifm with it. Oh, and of course ueberzug with it for image preview when I'm in X"
+26,"I don't have a file manager installed. I tried to use `fff`,  `nnn` and `ranger` but I kept always using the basic commands.
+
+When bulk renaming just ls | grep ""something"" | vim and create a bash script which I run to do the work for me. I think ranger does that similar or the same way (?)
+
+Nevertheless. I don't need a file manager, except the one in the browser when uploading files."
+27,"If I may lightly derail this thread, what do people here use terminal file managers for ? I've never felt the need for it but since many people use them I am sure that they are more convenient than the shell to handle certain use cases."
+28,"At some point even I thought that I am more than good with running the utilities and working iteratively e.g.
+
+- run grep, copy the first file path in the list (select and middle paste) and edit... then go back to the second
+- cd, ls, vi OR run command with fish/zsh shell's TAB/auto completion... cd...
+
+ranger changed my outlook towards content visibility as I could see the complete directory at once and just go to the file, hover and work with it.
+
+Found nnn much later. The first thing that hooked me was the filtered navigation mode (just type the partial names to automatically cd or filter out a file). zsh has something similar but nnn's implementation is somehow instant even with 1000s of files in /usr/bin. Also, the matches are visible nicely sorted. Later I explored more and found several useful features. Speaking of the above 2 use cases - nnn makes these workflows look absolutely trivial. The first one is covered by find & list (you always have the list of results with you) and the second one by continuous filtered navigation."
+29,mc.. everything else is new age hipster bullcrap..
+30,Mc
+31,"This. It may be not worth it if you copy one file or have an exquisite regex for a metric ton of files and folders. But if you need to work on random groups of files here and there, move around unfamiliar folders etc., `mc` is the best. It is featherweight, superfast, rock-solid, reliable tool that works everywhere."
+32,"I used Norton Commander in the DOS times. Since then, I cannot live without an NC clone. It's the first thing that I need to install on a new system."
+33,"Same here. There was also [DOS Navigator](https://en.wikipedia.org/wiki/DOS_Navigator), NC on steroids - was very sad when it's development ended. MC is better that NC, but not even touching the level on DOS Navigator... ahhh, good'ol'days..."
+34,"**DOS Navigator**
+
+DOS Navigator (DN) is an orthodox file manager for DOS, OS/2 and Windows.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/commandline/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]
+^Downvote ^to ^remove ^| ^v0.28"
+35,"Me too, you have a pure soul."
+36,Team MC here 😁
+4311,vim
+225,vifm
+73359,+1
+40,"As a vi guy, I've been using vifm for many years now and have often recommended it here on reddit and sites like kmandla's old blog.  But in my opinion it's beginning to suffer from feature bloat, so I'm considering alternatives.
+
+To my mind, the ""vi way"" is to leverage external programs as much as possible rather than building the same functionality into a single, monolithic program.  vifm seems to be straying from that path, in an attempt perhaps to match Midnight Commander feature for feature...
+
+File managers, btw, are to the shell utilities (cp, mv, etc.) what full-screen text editors like vi or emacs are to ed.   They show you the context of what you're working on and many people (including myself) find this useful.
+
+&#x200B;"
+41,Nerdtree adds some nice improvements to vim's file browser.
+73840,[deleted]
+43,"And thus, the flame war begins"
+44,Nope.  I just ended it by downvoting /u/three18ti.  He won't bother us anymore :)
+45,"I haven't tried nnn, but I love ranger. Ranger is much faster for me to use than either a GUI file manager or a the standard bash tools.
+
+Granted, I don't use it for everything. If I know the file I want, 
+
+    $ cp ~/my_file.txt ~/Documents/my_file_copy.txt
+
+And the like are much more convenient than opening ranger.
+
+But if I don't know exactly what I'm looking for, or just want to browse my files, ranger saves so much time over
+
+    cd ~/foo; ls ~/foo; cat bar.txt
+
+rinse, repeat."
+47,I’d add `find;xargs`.
+48,don't forget `rsync`
+49,fzf
+50,Don't forget shell based tab completion! It is the real star of that combo.
+51,I usually love tui apps but I have to agree mostly. Every time I try to use one it’s too much effort to learn when I can just use the shell. I’d add autojump to the list though
+52,"Ranger, mc, vifm, etc work better when you need to move lots of random files to one directory. Select, then move."
+53,Better than globs? Strong words. I'm gonna give `mc` a try. Thanks.
+54,"````
+$ ed <(ls)
+: ,s,random files,mv & dir/
+: /other random file/s
+: 42s
+: g/^mv /.w !sh
+: q
+````"
+55,"Hah, as much as [I like `ed`](https://twitter.com/ed1conf), I tend to use `sed` for this:
+
+    $ ls | sed '…'
+
+if the output commands look right, then pipe them to `sh`:
+
+    $ ls | sed '…' | sh
+
+
+*edit: markdown*"
+56,Exactly.  Might as well use a GUI if you need a file manager.
+57,x over ssh? ew.
+58,\[easy_there_satan_meme.jpg]
+59,`z` is a must have
+72104,Agreed
+71689,This.
+62,Just plain `bash` (plus a multiplexer and a dropdown terminal). I've never used a curses-based manager.
+63,`ranger`
+64,I use ranger if I'm working with visual media (pictures and videos). It gives me a nice picture preview and a thumbnail script gives nice video previews.
+65,Mind linking to the thumbnail script? that sounds pretty nice.
+66,"I'm not quite sure how to mirror this consistently to github, so my server will have to do. Someone wanting to see it was a good excuse to clean it up and fix some speed issues, so thanks.
+
+[thumbs](http://git.msscripting.com/lorx/bin/src/branch/master/thumbs)
+
+edit:
+
+You can add it to your ranger scope.sh
+
+    if [ ""$preview_images"" = ""True"" ]; then
+      case ""$mimetype"" in
+        video/*)
+          thumbs ""$path"" ""$cached"" && exit 6 || exit 1;;
+      esac
+      case ""$extension"" in
+        webm)
+          thumbs ""$path"" ""$cached"" && exit 6 || exit 1;;
+      esac
+    fi"
+67,"Oh awesome, thank you! Seems great. And screw github, your gitea is perfectly fine. :)"
+68,Ranger.. I tried Thunar and came straight back to Ranger.
+69,"Usually just shell, but sometime also lf. lf is similar to ranger but faster, lighter, and configurable with shell: https://github.com/gokcehan/lf"
+70,"> https://github.com/gokcehan/lf
+
+I will testet lf, sounds good."
+71,just straight zsh. Don't see the need for a dedicated file manager.
+72,"Generally just the regular commands (cd, ls, mv, cp).
+
+Tab completion helps a lot. I have a few functions for some shortcuts (`p dist` will look at the project I'm in and cd to the appropriate directory-- and support tab completion)."
+73,ls
+74,"Technically not a standalone file manager and I don't use it in the terminal, but dired in Emacs is probably the most powerful (having used ranger before) file manager I can think of."
+75,ranger is number 1
+76,`emacs`
+77,"Bash does most jobs well enough, but I like the dual panes of mc for comparing directories or moving select files from one to the other. You can also configure mc to open files using a default program, which is nice."
+78,"ranger - because it's easy to extend with custom commands. I have commands to transcode, compress, speed up playback rate, extract, push to another machine, etc."
+79,Ranger. I am curious to how midnight commander  contends with ranger. I like ranger since I am familiar with python enough that I can add my own custom commands very easily. I don't know how I could navigate efficiently using any gui. I spend most of my time clucking icons where in ranger I can click three keys to get to where I need to be. It is marvelous.
+80,explorer.exe
+81,"for windows, `far`
+
+Comes with a text editor/hex viewer, can move files with the mouse if you want to, can open many archive types, and it has the same context menu as windows explorer including all your custom entries."
+82,Plus either ConEmu or Cmder come with enhanced far support built-in.
+83,The new nnn is pretty baller.
+84,The latest version of `nnn` has many features which were pending for a while. I've been developing this alone and it took some time to reach here. :)
+85,"Nice!  Hey, if I've got your attention here's a feature request:
+
+Either a command key  or  toggle for in program help screen for keyboard shortcuts.   Doesn't have to be always present (Toggle on off maybe?)
+
+Fantasy request:  Context use clues like [Kakoune](https://kakoune.org/img/screenshots/screenshot-i3.gif).   I always have trouble with the select. . .
+
+Edit:  But keep up the good work!  Awesome program.  It would be my main file manager if I could just get the multi select to work."
+86,"in program help key - isn't `?` working for you?
+
+latest version shows the selected files with a `+` before them.
+
+multi-select key is `^Y`.
+
+Context use clues: every help string needs memory to store, in addition, to show the help in a new window, each time we will have to draw it, show and then remove it and adjust the window below it as well. The keystrokes in `nnn` are far simpler than those in `vim` and far less as well. I think going for this kind of a program help mechanism would be a overkill."
+87,"Standard Unix commands + ‘fzf’ works well for me. 
+
+In some cases I like ‘tree’ and occasionally ‘vifm’"
+88,ls -lah
+89,"Coreutils, but if I had to choose an ncurses file manager/browser, I'd probably go with [rover](https://lecram.github.io/p/rover/)."
+90,I used ranger forever. I heard about nnn and I'll be trying that one soon. Only other one I kinda like is [**Last File Manager**](https://www.linuxlinks.com/LastFileManager/)**(lfm).** But you can't forget about Midnight Commander(mc)
+91,"tree, mv, cp, tar"
+92,"Tab completion + zsh is good enough that I never need anything else, but I do like ranger."
+93,"CLI is Command Line Interface. CLI ""file manager"" I prefer is zsh.
+
+What you mean called TUI. ranger is a TUI file manager, not CLI. I use vifm for that."
+94,"The vast majority of my ""file management"" is just using shell commands (`mv`, `cp`, `ls`, `rsync`, `find`, `cat`, `display`/`feh`, etc), so the only time I usually turn to a ""file manager"" is when I have disjoint files that I want to operate on *en masse*, but can't easily find a glob to pinpoint them. Usually media where I want to operate on particular files (they're all named, e.g., ""IMG_####.JPG"", but I want the ones of my parents; or a whole folder of podcasts and I want to delete the ones that don't sound interesting). For these particular use-cases, I'll use either `ranger`, `nnn`, or `lynx` in dired mode. I tinkered a bit with `mc` but it didn't fit my brain, and even though I'm a `vi` guy, I didn't find that `vifm` was what I was looking for either.   Fortunately, you can try them all and see what works for you."
+95,"I'm currently using vifm. I used ranger before, but for some reason I changed."
+96,WinSCP. :P
+97,`open`
+98,"I don't really get having a cli file manager. It's usually faster to just ls or whatever I need. If I want a file manager it's usually because I'm using my mouse to click around and drag stuff, etc."
+99,If you need to do one to five things and you know what and where and how -- yes. More than that -- mc will be just plain faster to interact with.
+100,"Sometimes all you have available is the CLI; just last week I had a user on a Linux box that couldn't delete some folder with a weird name that had a bunch of strange extended characters that I couldn't delete using rm and tab completion. Maybe I could have done it if I spent more time, but mc was able to zap it without any complaint."
+103,"They are quite useful — zsh or bash are quite powerful.  I had the same opinion for a while too.  However, if you have a collection of files and need to select a set of those files for an operation and there isn't an easy way to do it with names, that's a good one.  I used to fire up mc occasionally; now I use emacs's dired."
+104,"> zsh or bash, amongst many others are quite powerful."
+105,"Depends. I think it's best to be able to use both coreutils and a file manager efficiently. I mostly use coreutils but when e.g. learning the codebase of a piece of software that has lots of files, a file manager can be very helpful."
+106,tree and awk are my gotos for that
+107,"I use mc a lot to futz with jar and zip files
+
+* mc
+* open jar
+* delete shit
+* exit
+
+How do you handle situations like that? `fuse-zip` is a pain in the ass"
+108,Anything I have to do with zip files can usually be handled well enough by the standard `zip` util I have installed plus the things I mentioned above. But admittedly I don't work with them or jars all that much.
+109,"That, find and grep suffices for 90%+ of what I need.
+
+If only *nix had a sane mv/""rename"" command as a standard. For the equivalent of DOS/Windows' rename command, one has to resort to non-standard shell scripts."
+110,I thought mv was standard? Or do you just mean it lacks the functionality you would like?
+111,"Yes, mv is standard; and yes, I'm talking about a lot of the functionality with wildcards while renaming, features the DOS/Windows rename command has."
+112,"Most Unix systems have perl.  The `perl` package has prename (which at least Debian symlinks `rename` to).  That gives you a vastly-more-powerful-than-wildcards feature where you can apply Perl expressions to each filename that you want (and use whatever crazy features your shell has to select the files to operate on).
+
+Eg.
+
+    $ rename s/foo/bar/ *.jpg
+
+will change ""foo"" to ""bar"" in all your .jpg filenames in the current directory.  You could ROT-13 encode, change the case of, modify file extensions, etc on your files.
+
+Also, if you use emacs, and you use emacs's file browser, `dired`, you can use `M-x wdired-change-to-wdired-mode`, which makes your dired buffer editable as a text file.  When you're done, you just hit `C-c C-c`, and the changes to filenames are applied.  Gives you all the functionality of emacs to do renames."
+113,"I usually use that too. However, if I ever need a file manager, I go with vifm."
+114,Coreutils ftw
+115,rsync users represent!
+116,[You lose none of that with Midnight Commander](http://www.nawaz.org/media/docs/mc/mc.pdf)
+117,"Sure, but I don't gain all that much either, and it's just a new interface to get used to."
+118,"You gain a consistent interface.
+
+Can yout tell me without looking how to add 3 files to an existing zip file? To a rar file? To a 7z file? And how do you extract only 3 files from each? And how to do the same on a remote server (via sftp)? And view a PDF that is in a remote location and/or in an archived file with considerable ease? And search for all files that contains a string within an archive? In a remote location? And then copy all such files into a given location?
+
+With mc, you can do all that fairly transparently. You don't need to learn how to do it for each archive format, and for each virtual file system. If you know how to do it with one ""system"", you can do it with all. 
+
+Yeah sure mc doesn't give you any *capability* that you don't have with the command line. It does ease some tasks considerably, though."
+119,"I like ranger's ability to preview pdfs, source code, images and archive contents - needs atool, poppler-utils, caca-utils and highlight."
+120,"I'm strictly a terminal user when it comes to managing files (no file manager), but I downloaded Ranger and I'm impressed.  It's extremely responsive and the default vi bindings made it second nature to navigate."
+121,"ranger is nice. Have you noticed it goes into a 'hang' as you scroll down file names, there is a spinner on the top left. Sometimes, it gets left spinning endlessly.  
+One great feature is opening new views."
+122,"I don't have the 'hang' problem here. How many file are there in your directory? Does it always hang on a particular file/filetype? I'm using ranger 1.5.4-1 on Debian testing
+
+The thing i miss in ranger is a menu bar like aptitude has, so I wouldn't always have to browse the help page to remind me of available commands."
+123,"I don't think it was the number of the files. iirc, in preview mode, as you go down a file list file by file, it opens files to get info and shows a spinner on top. Sometimes, randomly it is doesn't close that process/thread and the spinner goes on indefinitely."
+124,MC 4 LYFE
+125,"I got started with mc's predecessor, Norton Commander. mc was a very welcome discovery when I started using Linux."
+126,"For those who have yet to hear about it: `vidir` from Debian's `moreutils` package (don't know where other distros keep it) is a very handy tool sometimes.  
+Also (although unrelated to the topic of file management): rest of `moreutils` is also worth getting familiar with."
+127,"*vifm* is very fast and nice, however it has a lot of features that are only mentioned and not fully documented. So there's functionality there that you want to use, but don't know how."
+128,"Pff, emacs' dired-mode rules them all."
+129,microemacs (me) also has a file explorer (using F10) that is very nice.
+130,"I love how only the Pythons programmers think it is relevant for the end-user what it is written in. I kinda like the language, but the community is horrible."
+131,I think the same things about the Perl and Ruby communites.
+132,cd ls mkdir touch rm
+133,pcmanfm
+134,Thunar and pcmanfm
+135,I use thunar and nnn
+136,NoNewNormal?
+137,[https://github.com/jarun/nnn](https://github.com/jarun/nnn) looks like n-cubed!
+138,"Double commander, pcmanfm-qt, dolphin"
+139,"I like ranger, has bulkrename which is useful"
+140,Dolphins plugins are pretty handy.
+141,"Can you recomend any good plugins? I also use dolphin but just the base version with some icon previews and ""ark"""
+142,Midnight commander (mc) for terminal
+143,"I really don't have a favorite. SpaceFM is nice.
+
+As for CLI file manager's. I guess I do have two favorite ones. Which are ranger and nnn."
+144,I quite enjoy ranger
+145,ranger for sure
+146,LF
+147,Thunar. Even in Gnome.
+148,I like ranger for the terminal and pcmanfm for gui.
+149,"Whatever comes with your Desktop Environment.  
+If you're on a WM, then Thunar or PCmanFM.  
+Ranger is a good TUI \[Terminal\] file manager"
+150,Is there a way to disable client side decorations in thunar?
+151,"I like dolphin, the integrated terminal is slick. The directory open in the gui will automatically sync with the current directory in the terminal"
+152,Emacs
+153,"Nemo is my favorite, Nautilus is my least favorite, lxde's file manager whatever it's called is just above Nautilus, everything else including Windows Explorer is ""meh it's okay."""
+154,Thunar
+155,Nemo.
+156,"Thunar is cool and light, Caja is cooler but not thaat light"
+157,vifm is definitely worth a look for vim people.
+158,Pcmanfm
+159,Dolphin
+160,Author here. I was told this subreddit exists and you might be interested in this. Feel free to share bugs/ideas.
+161,"This might sounds like a weird question - but what is the use case of having a file manager in the terminal?
+
+I don't understand the benefits to using Ranger/MC/If - all my file management needs seem to be covered by built in bash commands.
+
+How would you pitch this to someone like me?"
+162,"Let me try my best.
+
+- In one of the other threads I was basically saying that `lf` and `ranger` are like a normal mode (i.e. as in vim) for your shell. You can assign your frequent commands to keys and work from there. For example if you want to open a file in your pager you can press a key like `i` and it will just open whereas in shell you need something like `less abc<tab>` which can be shortened a bit using aliases but still. I think this task is easy in shell but easier in file managers.
+
+- `lf` and `ranger` gives you an alternative to `cd/ls` cycle to navigate the filesystem using only keys in the home row. You can easily drop to the shell whenever you want with a single key at the appropriate directory and then move on from there.
+
+- `lf` and `ranger` previews make it easier to quickly get the idea about a file or directory without opening them.
+
+- `lf` and `ranger` (and I think maybe `mc`) can be used to select only certain files in a directory by toggling them and run an appropriate command with them. Regular expressions are not always possible or easy for this purpose."
+163,"Thank you for the explanation. I bookmarked this and will try it tomorrow. But for some reason I have a feeling that I will end up not using it.
+
+Regardless this should be helpful information for other people in similar position."
+164,It's ok even if you don't like it. Maybe some other day these will grow on to you as well.
+165,"Bash commands require a lot more keystrokes than some file managers. 
+
+I wrote a [guide](http://blog.nawaz.org/posts/2012/Dec/a-guide-to-midnight-commander/) to Midnight Commander (PDF Presentation). You could go through it to get an idea of the capabilities.
+
+With MC, you still have your shell - so you give up nothing. By definition, it *can't* be worse than the shell.
+
+I've never found anyone who can manipulate files faster than I can with Midnight Commander - be they shell folks or GUI folks."
+166,"Nice, thanks. I will try to steal some ideas from `mc` :)"
+167,"I have yet to see a regex which picks the 10 music files I like most, so I can copy them elsewhere. 
+
+If you work with media files or badly organized files, a file manager is a must."
+168,"Have you used mc (Midnight Commander) before? If so, could you explain the pros/cons with lf vs mc?"
+169,"This has been asked in other subreddits as well but unfortunately I only tried `mc` very briefly just to see what it's like. I know it has a dual panel design and you can enter shell commands directly by typing I think. For `lf` dual panel can be achieved by using `tmux` for multiplexing. I have something about this in the example config file in the repo. In `lf` in order to run shell commands you need to type a key first (e.g. `!`, `$` and `&`). Other than that, there is some support for autocompletion for shell commands which I don't remember if `mc` has or not.
+
+`lf` is more comparable to `ranger` though and I have a comparison for it in here:
+
+https://www.reddit.com/r/linux/comments/55nzvd/lf_a_terminal_file_manager/
+
+Maybe if there is a comparison between `mc` and `ranger` somewhere, that could help."
+170,Midnight Commander really is the best file manager I've ever seen. I made a presentation about it some years ago. You can find it in a link [here](http://blog.nawaz.org/posts/2012/Dec/a-guide-to-midnight-commander/).
+171,Thank you very much for the guide. This is something I've been waiting for.
+172,"Do you have an idea how to set the file associations in `mc`? The answer ""edit the extension file"" is only giving you the place, not the how.
+
+I can kludge some change in, but everything in there seems connected to other things as well.
+
+For example, I want to change the dependencies to `mplayer` to `mpv`, for audio and video. How can I do this completely? There are also scripts in /usr/ which would need to be changed.
+
+Is this file documented somewhere?"
+173,"The really best manager is [Far](http://www.farmanager.com/). It's windows only but comes with awesome features like drag and drop, the regular explorer context menu, an internal file editor/viewer and 7-zip."
+174,"I actually mention Far in my presentation. I've used both, but am more familiar with MC. I've seen pluses to each that did not exist in the other, so I cannot claim one is better than the other.
+
+Drag and drop: I think MC has it within itself (not from Window manager to it). I personally do not care for it either way as I find the benefit of Far/MC is the ability to do everything with the keyboard. 
+
+Explorer context menu: Definitely good, but only relevant in Windows.
+
+File editor/viewer/archive manager. Both have them.
+
+Does Far let me SFTP to other sites and treat them like local drives? Also, I've not found a good way to bookmark directories in Far..."
+175,"> Does Far let me SFTP to other sites and treat them like local drives?
+
+I am not sure. It allows for regular FTP at least and the plugin system would certainly allow for such a feature, since the FTP client is a plugin itself.
+
+> Also, I've not found a good way to bookmark directories in Far...
+
+This is simple: Press [F2] to bring up the user menu and press [INS] to add an item.
+
+**Hotkey**: As a hotkey, use any letter, digit or F... key you want. I simply try to default to the first letter of the command, so for the command to go into the bat file directory, I use `b`.
+
+**Label**: This simply is the label that is shown on the menu
+
+**Commands**: Lines of valid CMD commands to execute. You can press [F1] and select ""Special symbols"" for some interesting variables. This is useful for example to build yourself git commands together. To bookmark a folder, simply enter `CD /D C:\your\folder\name`
+
+Save your changes. In the future to switch to that directory, simply press [F2] and then the hotkey you assigned."
+176,Also have you tried ranger? I was wondering how this compared
+177,"I have posted a comment about this in the other subreddit here:
+
+https://www.reddit.com/r/linux/comments/55nzvd/lf_a_terminal_file_manager/"
+178,"I really like this. I particularly like how lightweight and portable it is. I built this on a 32bit CentOs6 box, and I have been able to use the same binary across all my servers and my local machine (centos5, ArchLinux respectively).
+
+Some questions:
+
+Coloring: 
+
+* Any control over the coloring for file types?
+* What about coloring for previews?
+
+Previews:
+
+* Is it possible to allow an external application to handle the preview and then just display it?
+* If no for all the above, is it possible to get a hex preview for binary files?"
+179,"Nevermind. Looked at the doc, looks like I should be able to do most of this."
+180,"We still need to implement colorschemes. I think colorschemes in termbox is a little limited for portability considerations (i.e. Windows) but we might be able to do 256 colors, not quite sure though. Also I was told that colors in `lf` is not consistent with `dircolors`. I need to check it out when I have some time."
+181,One minor note: is it possible to provide the width of the preview pane to the previewer script?
+182,"We used to pass width argument as well but then we had to remove it while doing some refactoring. Not quite remember why. I can take a look at it again if you need this. I'm curious though, do you have a use case for it?"
+183,"Image previews with img2txt mostly. Not a big deal either way, I just thought its absence weird."
+184,"On a similar line, here's a mod of [noice](https://github.com/jarun/noice) file manager that integrates well with the desktop."
+185,Brew formula?
+186,"I don't know much about homebrew so I shall better not submit anything myself but if there is anything I can do I would be happy to help. If anyone submits a formula, s/he can ping me and I can add the installation instructions to the readme."
+187,"`mc`, is a classic, `nnn` is very popular. `ranger` I recall is also popular.
+
+I have been using `mc` for like decades I think.. :) or similar two pane file managers.."
+188,"`nnn` seems to be popular with the minimalists, but I prefer the expansive view and file previews of `ranger`. I haven't tried it, but I hear `mc` is the OG."
+190,I'm a fan of ranger.
+191,`lf` it's ranger but better
+192,"Faster, but no image previews"
+193,MC indeed! https://www.midnight-commander.org
+194,Love Ranger and MC and use both interchangeably.
+195,"nnn
+https://github.com/jarun/nnn"
+196,"Ye olde reliable `mc` works for me, but there are many others to choose from too."
+197,Try out vifm
+198,Another vote to ranger. I haven't used anything else but I saw screenshots of others and ranger is the one that looked better. I haven't had many complains about it.
+199,"Been using ranger forever. But I also install nnn. nnn is getting to a point, that I might drop ranger one day. nnn, just wasn't sold out to me yet. But, it's getting closer to that point."
+200,"Not completely relevant here, but for anyone using Android who likes this sort of thing there is a file manager called Total Commander that is excellent."
+201,nnn is bullet-fast
+202,Lf. It's like ranger but much more customisable.
+203,"`ranger` is the best!  Built to be easy to customize, with sensible defaults, and written in `python` (for further customization ease if you know python).  Beware that ranger can sometimes be a bit weird about error messages.
+
+If you use `emacs -nw`, then `dired` is also a viable option."
+204,"I mostly use [lf](https://github.com/gokcehan/lf), nnn is good too, ranger is slow as hell"
+205,The command line
+206,Don't know why you got all the down votes. It is better to learn how to navigate in your terminal with the navigation commands. I try many file manager and stuck with ranger and just got used to it. or maybe it's a little lazier. Really a terminal file manager is faster. If you set things up properly. Still it's nice to know both; commands and a CLI file manager.
+207,But I don't use any file manager just the command line
+208,"Not only that, I was also just joking. It is very confusing"
+209,Forgot the ;/
+210,"Ah, I broke reddit law"
+211,nnn
+212,"nnn hands down. It's minimal but I really wouldn't call it basic, it's actually quite advanced, especially with its plugins."
+213,"nnn
+hands down"
+214,"Not even close for me. Once I got used to nnn, everything else seems so slow and hard-to-use."
+215,"ls, mv, rm, etc."
+216,100% agree... at the same time nnn just makes life so much easier once you set it up..just like git is phenomenal but so is lazygit....choose what works best for you...
+217,"I'm with you. I never spent too much time learning a file manager because I always felt I'd forget or become worse at basic *nix utilities to do stuff. I'm not sure that idea is really founded at all, but that's how I felt. I played with Midnight Commander and Norton Utilities for a bit in my old DOS days."
+219,"I too am a mostly-in-the-shell sorta guy.  If I need to act on filenames that don't follow any pattern (e.g. images that are just ""IMG_####.JPG"" or MP3 files where I want to delete ""uninteresting"" ones where I can't target them with a file-glob), I'll pipe the filenames to `vim`, transform them to the shell commands I need, and then pipe that through `sh`.  E.g.
+
+    $ ls *.mp3 | vim -
+    [delete the lines I don't want to change]
+    :%s@.*@mv ""&"" ../path/to/dest/""&""
+    :%!sh
+
+If there's some discernible pattern that doesn't suit a glob, or the resulting command can be done with a regex, sometimes I'll use `sed` instead of `vim`:
+
+    $ find . -name '*.mp3' | sed 's@\([0-9][0-9][0-9][0-9]\)-\([0-9][0-9]\)-\([0-9][0-9]*\)\(.*\)@mv ""&"" ""../archive/\1/\2/\3/\4""@' | sh
+
+(I usually start by omitting the final `| sh` to double-check the commands that will be run, then recall the command and tack on the `| sh` to actually perform the actions)
+
+Alternatively, I'll occasionally use the DIRED mode of `lynx` do tag a bunch of files to delete
+
+    $ cd ~/Podcasts
+    $ lynx .
+    [tag a number of boring-sounding items using ""t""]
+    [use ""r"" to remove them]"
+221,Not everyone needs hours to do so.
+222,"Not the same person as u/raevnos. I just happen to also use pure 99% CLI commands for my file-management needs, like raevnos mentions.
+
+I've been using the CLI for ~30yrs now (Apple ][ DOS3.3/ProDOS, MS-DOS, then Unix/Ultrix, some time with RedHat/Mandrake & Debian before switching to FreeBSD & OpenBSD), so most of what I need to do is second nature.  Most of my needs fall into one of three categories:
+
+- **small:** Usually a couple files at play, so I can do them directly at the command-line, often assisted by tab-completion (which understands file-globs in most of the shells I have here)
+
+- **large & automatable:** lots of files but a simple transformation. Sometimes they're easily identified by a filename glob, sometimes some other attribute (file size, mtime, some property that can be extracted from the file by a utility like `identify` or `file`, etc), or using `rename` to slice & dice filenames. The breadth of CLI tools can make this pretty easy (a lot of `find`, `xargs`, `rename`, `sed`/`awk`, etc here).
+
+- **large & bespoke:** Here's where I usually use some means to generate a file list (`ls`, `find`, log-files, etc), pipe them into an editor, then use that to produce the desired commands"
+223,"and if by ""hours"" you mean ""I might occasionally take 10sec to glance at a `man`-page to check the syntax of a particular option I don't use frequently"" I guess so. But with lots experience (this is r/commandline after all), none of those tasks tend to take me more than a couple minutes total to compose, test, and execute—something that takes far longer most of the time in any of the file-managers I've tried."
+224,"An ""input stream""? When talking about working with files? Not sure what you mean, but there's plenty of tools available for working with files or their contents that can be connected with a bit of shell."
+226,"Vifm is my goto. 
+
+90% I'm using z.lua and all the other core utils but for that 10% I zuse vifm since it has everything. Previews, intuitive you name it"
+227,"[lf](http://pkg.go.dev/github.com/gokcehan). It's super fast, I like the client-server model (e.g. I can copy-paste files between different instances of lf), and it's easy to customize with just shell script."
+228,you could do the same with nnn as a selection of files is just a file shared by the different instances of nnn
+229,I use Broot https://github.com/Canop/broot
+230,"Broot is wonderful, and more so all the time."
+231,"Due to decades-long habit, I prefer 2-pane file managers. mc has a Windows version too, so I can use the same one under Linux and Windows. Boring but efficient for me.
+
+I also use nnn from time to time."
+232,https://github.com/gokcehan/lf
+233,"I'm using ranger, because image previews worked out of the box. I mean, I have skills to make it work in others, but I was just oo lazy."
+234,lfm is my goto..needs updating as it's quite unstable especially with copying and moving large files having said that i use ranger too.
+235,"ls, cp, ln, mv, qmv, cd, fzf, fd, rg, tree, ncdu, rsync, fdupes, tar, rm, touch, mkdir, chown, chmod, alias, bash"
+236,"CliFM is not written in Haskell, it's written in C. And yes, it might be a bit weird, because it is unique in this respect, but that's the price for keeping the shell always in sight. As everything nonetheless, there are pros and cons."
+237,"There’s an alternative called nnn.
+
+https://wiki.archlinux.org/index.php/Nnn"
+238,Try ranger.
+239,Midnight Commander?
+240,First thing that comes to mind too
+241,"> where the hell is the name of the app/program/package/command that makes the terminal navigate folders like a File manager and even preview file content
+
+It's called Ranger. It's really a slick terminal program. I just tested it to make sure my recall was right, and saw three columns:
+
+* Left column: folders.
+
+* Middle column: files.
+
+* Right column: sample contents of readable files.
+
+        $ sudo apt install ranger"
+242,There's also vifm
+243,"vifm is easily the most powerful, yet simple to use for the basics, FM I have ever seen.
+
+people who already use and like vim should definitely try this.
+
+Edit: someone downvoted this?  I didn't even say anything against the others.  Now I feel cheated!"
+244,When working on a project NerdTree is often enough :P
+245,Lf
+246,"Try nnn, ranger or mc"
+247,[https://github.com/isene/RTFM](https://github.com/isene/RTFM)
+248,From the screenshot I'd say it's ranger. It supports various ways of file previews. See https://github.com/ranger/ranger
+249,"ranger, midnight commander, ytree"
+250,Try ranger or mc
+251,"PCManFM - lightweight, supports GTK themes, all I need."
+252,"I tried switching to PCManFM from Thunar and I didn't like how it doesn't select the previous folder when going back. Similar issue when deleting a file, it doesn't select the next file so pressing an arrow takes you to the top of the list. Maybe I'm missing a config option but that made it unusable for me.
+
+Edit: pcmanfm-qt seems to behave more reasonably"
+253,Another vote the PCManFM. Highly recommend it. It’s efficient and comfortable.
+254,"For GUI stuff, Dolphin. Just because it's KDE's default. I have nothing to complain.."
+255,"Dolphin has a neat integrated terminal. I just press F4 and it opens a tab with a CLI. If i need sudo, i just do it in the terminal. Since i do work with some backend and SSH, i am used to edit files with sudo on the terminal. It a matter of practice"
+256,"I love Dolphin, but one of my most requested features is to order ""hidden files and folders"" at the bottom (similar to the default behavior in Nemo).
+
+This request was rejected because [every option makes the code more complex, and adds additional code paths](https://bugs.kde.org/show_bug.cgi?id=333219), which blew my mind considering the millions of options within KDE."
+257,"This was implemented back in August, I vividly remember enabling it. 
+
+https://pointieststick.com/2021/08/06/this-week-in-kde-stability/, second item under New Features."
+258,"Wow, I had no idea! This is exciting, thank you for telling me!"
+259,"**An option to group hidden files in the end**
+
+My favorite sort order is by descending date. And I have hidden files always visible. In that mode on home directory hidden files get in a way of comfortable work with other folders because of being updated frequently.
+
+I think that optionally grouping hidden files in the end of all the others will be easy to implement, understand and work with.
+
+Reproducible: Always
+
+^(I'm a bot that automatically posts KDE bug report information.)"
+260,"Funny, I use Nautilus, and wish it sorted hidden folders at the top like Dolphin does. I also wish Nautilus had those little check-mark boxes for (de)selecting folders.
+
+Honestly, if Dolphin didn't have so many dependencies, I'd use it in Gnome. Nautilus is such a crappy, barebones file manager."
+261,Cant open it in sudo tho
+262,You should never open GUI programs with elevated privileges.
+263,How come?
+264,"* Config files are saved in your home folder so the program won't have access to your config files
+
+* It's a massive security risk.
+
+
+[***""As put by Emmanuele Bassi, a GNOME developer: ""there are no *real*, substantiated, technological reasons why anybody should run a GUI application as root. By running GUI applications as an admin user you are literally running millions of lines of code that have not been audited properly to run under elevated privileges; you are also running code that will touch files inside your $HOME and may change their ownership on the file system; connect, via IPC, to even more running code, etc. You are opening up a massive, gaping security hole [...].""***](https://wiki.archlinux.org/title/Running_GUI_applications_as_root)"
+265,"> a massive, gaping, prolapsed security hole
+
+Sorry"
+266,Why would you want to open it in sudo?
+267,"What I think they meant was that they want to be able to manage files as root, not the entire GUI, this definitely could be implemented securely. The only ""workaround"" for creating/removing files/directories as root is to open a terminal emulator and do it there."
+268,I never used Dolphin for something that requires elevated privileges.
+269,"Yes you can:     
+
+```
+pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY KDE_SESSION_VERSION=5 KDE_FULL_SESSION=true dolphin
+```"
+270,"Yes you can..with ""Root actions"".  
+At least with Archbased distros available in AUR."
+271,"Cli or vifm, the latter is handy for vim commands that can edit in bulk via the visual mode commands"
+272,"never heard of vifm, but can I use it to (say) remove the first X characters from the name of several files at once?"
+273,"Yes you can. With vifm, you can open all the file names of a folder inside vim, and there you can make a substitute for each X character."
+51502,This is the way.
+275,Midnight Commander. Because Norton Commander was the first file manager i have ever used.
+276,Same here but PC tools -> Norton commander
+277,"Thunar - it gets the job done I need in Xfce4.
+
+A related tool I love is `ncdu`, which makes looking for files to delete very easy."
+278,Ncdu rocks
+279,"Another Thunar user here - it works for what I need it for so I've just never really found a need to go to anything else.
+
+`ncdu` is also great."
+280,"Me too! Also I use xfce-terminal for my main! I don't even use them in xfce either, I've been using qtile. But that terminal does transparent background, does what I want, can't complain. Ditto for Thunar. And really I only mess with Th when I'm in X already and not doing it in terminal for whatever reason, I haven't been messing with files and folders much."
+281,One thing I absolutely don't appreciate about thunar is lack of built-in search tool
+282,"> Thunar
+
+i love it's bulk rename utilities.  Though i wish i could invoke them for a single file sometimes."
+283,I did not know thunar had that; all this time I have just been writing convoluted bash for loops. This is great!
+284,"Also works great with Openbox. Never heard of `ncdu` before, should check it out tomorrow."
+285,Thunar is good. I use window managers most of the time and found that Dolphin handles themes poorly since there are dependencies on KDE services. GNOME Files (Nautilus) is good for both GNOME and a standalone window manager.
+286,I like nnn
+287,That's next month.
+288,"lf + thunar
+
+lf really gets the job done. it's simple and has default vim keybindings which is nice.
+
+but when I need a more ""visual"" manager I use thunar. (+ for drag and dropping into a browser)"
+289,i like ranger
+290,"Me too. I like it customizability and flexibility. It's even better when combined with the ranger-plugin that come [z.lua](https://github.com/skywind3000/z.lua), which I have bound to cj (I used auto-jump before this, which used that binding as well).
+
+I also really like how well it integrates with my keyboard-driven setup. I'm on i3 and I use a lot of programs that have similar keybindings, like Neovim and qutebrowser. i can even use it inside Neovim (including all settings and plugins)."
+291,Could you share how you integrate z.lua into ranger? Would like to do the same
+292,"Of course! [Official instructions are here](https://github.com/skywind3000/z.lua/wiki/FAQ#how-to-integrate-zlua-to-ranger-), but I'll type them out a bit more detailed anyways.
+After installing z.lua itself using the instructions on the Github page, you want to copy the file named ""ranger_zlua.py"" into ~/.config/ranger/plugins. Make sure to make the file executable if it isn't already. You can do that either manually or by running with this command:
+
+    wget https://github.com/skywind3000/z.lua/raw/master/ranger_zlua.pyi && chmod +x ~/.config/ranger/plugins/ranger_zlua.py 
+
+
+Then add this environment variabe to either your shell's rc file or to your environment file (Which is at /etc/environment):
+
+    export RANGER_ZLUA=""/path/to/z.lua""
+
+If you don't know where z.lua is installed, you can simply run this command to find out it's directory:
+
+     whereis z.lua
+
+For me (and probably you as well) it should be like this:
+
+     RANGER_ZLUA=/usr/share/z.lua/z.lua
+
+Then you want to add the keybindings to Ranger. Open up the config with your text editor:
+
+    $EDITOR ~/.config/ranger/rc.conf 
+
+I've added multiple variations to the end of this file, although I mainly use the basic cj binding. Customize the bindings and z.lua options to your liking. My bindings are:
+
+    # z.lua (Autojump-like)
+    map cj console z%space 
+    # z.lua - interactive resultselect with fzf
+    map cf console z%space-I%space
+    # z.lua - cd to parent dir starting from foo # z -b foo
+    map Cj console z%space-b%space
+    # z.lua - cd to child dir of PWD # z -c foo
+    map cJ console z%space-c%space
+
+That should do it. 
+
+Unrelated bonus plugin: I also really like this [mounting menu/script](https://github.com/SL-RU/ranger_udisk_menu) for when I plug in a USB stick. It doesn't seem to be very well known, but it should be as I find it to be very handy. To install, follow th instructions on the GB page. You can add a binding like I did like this:
+
+    # Udisk Mount Menu
+    map mm mount"
+293,Ranger is the way to go.
+294,I switched from ranger to `lf`. Its like ranger but noticeably faster.
+295,"None, just the CLI."
+296,Hackerman!
+297,"Heh. I'm not a hacker, just a long-time UNIX & Linux user."
+298,"I mean hacking doesn't just mean security stuff, even tho it's a bit too much to call navigating through the terminal hacking"
+299,Don't think I've ever used anything else to deal with files
+300,How do you search for files?
+301,find and locate I'd imagine.
+302,or a fuzzy finder
+303,I use fzf
+304,"Find, which, locate, fzf"
+305,whereis
+306,`find /path/where/i/think/the/thing/is/under | grep name-of-the-thing`

@@ -1,4 +1,10 @@
-import requests, time, concurrent.futures, pandas as pd, re, html
+import concurrent.futures
+import html
+import re
+import time
+
+import pandas as pd
+import requests
 
 """
 Global Variables
@@ -14,21 +20,25 @@ URLS = ["https://www.reddit.com/r/movies/comments/2isv8p/what_are_some_good_mind
         "https://www.reddit.com/r/movies/comments/evryo/inception_picks_up_where_shutter_island_left_off/",
         "https://www.reddit.com/r/movies/comments/1ukv5u/looking_for_some_movies_similar_to_inception/"]
 OUTPUT_FILE = 'output.csv'
-HEADER = {'User-agent': 'Reccomeddit-Bot 0.101'}
-
+HEADER = {'User-agent': 'Recommeddit-Bot 0.101'}
 
 """
 Uses regex to parse comments from requests object
 """
+
+
 def parse_comments(request_object):
     text = request_object.text
-    comments = re.findall(r'"body": "(.*?)"', text) # todo: preprocess these things a bit
+    comments = re.findall(r'"body": "(.*?)"', text)  # todo: preprocess these things a bit
     return [html.unescape(comment) for comment in comments]
+
 
 """
 Uses json parser to get title, text, score, and number of comments from thread,
 in that order. Returns None if fails to extract any attribute.
 """
+
+
 def get_basic_info(request_object):
     json_tree = request_object.json()
     try:
@@ -40,10 +50,13 @@ def get_basic_info(request_object):
         return None
     return [title, self_text, score, num_comments]
 
+
 """
 Calls get_basic_info and parse_comments. Assembles their results into a list
 of lists of the form [[title, text, score, num comments, comment] x N].
 """
+
+
 def assemble_thread_info(url):
     global HEADER
     try:
@@ -63,9 +76,12 @@ def assemble_thread_info(url):
         rows.append(row_part_1 + [row])
     return rows
 
+
 """
 Creates a thread to all assemble_thread_info for each URL passed to it.
 """
+
+
 def thread_builder(urls):
     list_of_rows = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=len(urls)) as exec:
@@ -76,9 +92,12 @@ def thread_builder(urls):
                 list_of_rows.extend(result)
     return list_of_rows
 
+
 """
 Main method. Creates dataframe and stores it to output file.
 """
+
+
 def main():
     global URLS
     global OUTPUT_FILE
@@ -87,6 +106,7 @@ def main():
     df = pd.DataFrame(rows, columns=[
         'title', 'text', 'score', 'num comments', 'comment'])
     df.to_csv(OUTPUT_FILE)
+
 
 """
 Prints time taken and comments parsed to stdout.

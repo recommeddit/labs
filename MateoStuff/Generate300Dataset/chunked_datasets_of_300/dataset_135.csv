@@ -1,0 +1,684 @@
+idx,text
+43298,"I think i understand what you mean. Given that most used in-app adservers are Mopub/Admob and they do not offer servicing, i thing you might need a specialized agency that performs both technical integration(of any of the adserver) as well as any kind of servicing you'd need (e.g. campaigns/inventory management). Honestly i dont know any specialized for in-app inventory, but if they sell you anything else then Mopub/Admob (and maybe a few exceptions for some formats, e.g. Fyber or Aerserv) - it would not be nice of them. 
+
+Ah, somewhere in the middle between the 2 (adserver/servicing) might be Pubmatic (which also is a good name, more known in standard display)."
+43299,"Yeah I’m super on the fence about going with a smaller / more unknown platform unless you really know what you are doing. In my experience most of what I have learned has come from talking to people within the community so the more you work with a partner that other app pubs or networks don’t have as much experience with you end up limiting yourself when dealing with an issue. 
+
+Ultimately I worry that you would be limiting yourself from maximizing on revenue
+
+But that’s my opinion so take it for what it’s worth"
+43300,"The problem is we've been using our own home grown system since the company was conceived 10 years ago and if I go with one of the bigger players like GAM then my own internal ENG team will be relying on support forums and documentation when they need a real tech team to rely on. Please note we're not doing programmatic so if any answers have programmatic tied then that's not a factor for us. We are a consumer technology company with all native advertising, no IAB standard banner crap and all our buys are CPA based."
+43301,Ah gotcha maybe talk to Adzerk? If you pm me I can intro you
+43302,"Talk to [Airtory](https://airtory.com), GDN 3PAS Certified adserver, and they offer dedicated account managers, custom creative offerings, DIY Creative Builder, realtime reporting and an easy pay-per-use pricing. DM me your email and I can setup a call."
+43303,"Use mediation and stop using Admob. I've written about MoPub mediation in one of my post so you can check it out and see for yourself. I'd say use Facebook audience network because they have pretty good support to help with your issues. And it's actual humans that reply. I've been using FAN from one year and I haven't seen any issues with it till now, and I'm not the top earner too."
+43304,"u/AwkwardShake thank you so much, I will check it out"
+43305,"Yes, FAN's support is really good."
+43306,">Hi, I tried to integrate it into my app, my app is still under review, but when I test it, the ads showing normally? I don't understand, should I submit a new update to Google play or wait till FAN accept my app?  
+>  
+>Also I load the FAN ads onAdFailedToLoad Admob method, what do you think?
+
+ 
+
+Hi, I tried to integrate it into my app, my app is still under review, but when I test it, the ads showing normally? I don't understand, should I submit a new update to Google play or wait till FAN accept my app?
+
+Also, I load the FAN ads onAdFailedToLoad Admob method, what do you think?"
+43307,"Don’t show real ads. Check how to enable test ads. You can enable test ads for your particular FB profile. 
+
+Don’t fully rely on onAdFailedToLoad. Use remote config."
+43308,The best alternative one is Facebook Audience Network.
+43309,"Hi, I tried to integrate it into my app, my app is still under review, but when I test it, the ads showing normally? I don't understand, should I submit a new update to Google play or wait till FAN accept my app?  
+
+
+Also I load the FAN ads onAdFailedToLoad Admob method, what do you think?"
+43310,"Good alternative to Admob is Facebook audience network. Apart from facebook, thete is ad mediation library as well call mopub which is now owned by Twitter. You can give these a try"
+43311,"u/NJOY_Tech so instead of using a lot of ad networks, I need to use the Mopub only for mediation ?, please correct me if I'm wrong"
+43312,"Yes, you understanding is right. Ad mediation allows you to show ads from different sources. Although now a days, all major ads serving platforms supports mediation.
+
+Check Mopub, iron source etc"
+43313,"I'd look for sponsors and cut the middle man ad network or create a ""Advertise with us"" section that redirects to your website for marketers. Make sure you implement your own analytical tracking if you go with that route."
+43314,"Try Appodeal, great network, high eCPM and waterfall / header biding solutions, meaning that you will have the most profitable ads among 30+ networks.  
+
+
+Support is also super reactive and money is very easily manageable."
+43315,"Thanks bro, I will lose my mind lmao, I've read some comment on Reddit talking about how bad Appodeal, and you recommended it to me, what should I do now?"
+43316,"I guess everyone has a different feedback using all of those networks. However, if I was you, I would give it a try. You have a great number of impressions per day, Locations are great (USA has a high eCPM average) and in the worst case, if you are not satisfied, just wait for 50$ threshold then get the cash and that's it."
+43317,What's wrong with admob?
+43318,"u/creati8e For some reason, they stop serving ads on my account, it's been now a 19 days passed, when I got an email from AdMob telling me that my ads serving has been limited due to invalid traffic, although my apps published on Google play only, so the traffic is 100% organic"
+43319,"Let me guess, you were also limited on June 18th?"
+43320,"Yeah, June 18,2020, too many devs get the same email in the same day"
+43321,"Yeah i wonder what actually happened. My fill rate is back again now, but still have the warning"
+43322,"The warning will disappear soon (it takes 7 days), did you do something to solve your issue?"
+43323,"No. 4 days after being limited, they allowed fill rate again, it lasted 3 days, then it stopped. Now is filling ads again since 2-3 days. I didn’t do anything, all happened automatically. Hope this time will stick and the warning will go away."
+43324,"I've read about this, they test your traffic, unfortunately, since 18th, they didn't serve ads again even for test (like your case) :/ I think I need to give up of my account"
+43325,My account is not limited anymore :)
+43326,">limited
+
+Congrats bro, unfortunately, the issue still present in my case"
+43327,"I actually work for an AdMob alternative!
+
+We're a pretty big publisher that started to offer our inhouse ad monetization SDK a year ago to certain devs. We use AdMob, FAN and about 30 other ad networks to optimize eCPM. If you are currently only using admob, I'm willing to bet you would see a pretty big uplift from a service like ours.
+
+Feel free to pm me if you are interested in specifics: I could also recommend some alternatives"
+43328,What’s your ad network company? Feel free to pm me
+43329,"PMed! Mobile Gaming is a really small world, so I would rather not say here"
+43330,"You can test:
+
+inmobi
+
+tapjoy
+
+smaato
+
+taptica
+
+mobusi
+
+appnext"
+43331,I think the best alternative for AdMob to monetize your app is the Facebook audience network! AdMob are the worst when it comes to monetize traffic don't mention to use if you arent using it yet.
+43332,May I know name of your app
+43333,"I have same issue. No ads just state that admob is reviewing activity. They did this to me a year ago. I do not do anything shady, just make simple apps. There is no way to contact admob and find status either."
+43334,"Very frustrating from this issue, I've always respected the AdMob policies, but they do such an Incomprehensible behavior, they did not even explain the problem to us, I don't understand why!!"
+43335,"Ya, I just randomly get notices from time to time about ad type promoting inadvertant clicking. All my apps are the same design, but just randomly I will get these. I give a response back and it goes away."
+43336,"**Before integrating Ad Mediation Networks, Read this.**
+
+&#x200B;
+
+I am an indie developer, I have an app in Play Store and App  Store, I have been living off of them from last 3 years. Recently, I  decided to use ad mediation on my Android app to increase ad revenue, so  I mentioned this to couple of my friends who works in app development  companies, one of those friends suggested me an ad mediation network,  which basically integrates their SDK as well as other ad networks SDKs  to your app (just like any ad mediation) and serve ads using their ad  units, not ours. But for admob, they use our app's ad units.
+
+Anyway,  I integrated their SDKs, after that, I couldn't sign the app to publish  to store, it was showing 'GC overhead limit exceeded' or 'Out of  memory: Java heap space' error. None of the solutions from stackoverflow  worked, but I could be able to sign the app by disabling Progaurd. I  contacted this  company on their website chat service, they responded  promptly, asked few questions, later they asked me to send my app's  Gradle file and Proguard file, which i did, then they told me to do few  changes to Gradle & progaurd files, I obeyed. Still the error did  not go away, when I told this to them, they asked me to send my whole  project. I was very busy on that day because I wanted to update the app  on that day itself so I told them, I'll send it later. Then I updated  the app by sigining with proguard disabled.
+
+In two days, our app  got over 100k impression but their ads are very intrusive and full  screen ads are unskippable , so I removed their SDK from the app and  updated the app only with Admob like it was before. After couple of  days, one of my ad units in Admob started showing more impressions than  usual, and impressions are increasing 20% each day but clicks were same  as before. So I suspected something unusual happening in my app, I  looked where my app getting more impressions, one day it was USA, next  day Hungary another day it was Brazil and so on. I disabled that  particular ad unit, then in next update, I replaced all the ad units  with new ones. Now ads are serving normally like it was.
+
+I  looked up about the ad mediation company's social media profiles, they  are deleted. Also, I found out couple of their ex-employees shared how  this company cheating developers. My guess is, this Ad mediation company  knew my app's ADMob ad units, so they artificially (using bots?)  inflated ad impressions, when Google finds out ad impressions are fake  Google will ban apps/developer from ever using Admob.
+
+This Ad  mediation company trying to ban me from AdMob using these tactics, so I  would go back to them again, at least I think that was this company's  intention. Also, they asked me for my app's source code, I don't know  what could they do with source code, considering they can't do anything  to my app's listing on Google play, but asking for source code is  unusual. So I think, this company try to scam me, at least that's what I  think though I do not have any proof to prove that, so I am not  mentioning that company's name.
+
+I am just sharing this here so if  any one wants to try ad mediation, be careful and mostly stick to  reputed mediations like AdMob, MoPub etc"
+43337,Scary man. Thanks a lot for sharing.
+43339,"I do not have any solid proof , so I do not want to share the company name publicly. I'll PM you the company name"
+43341,Mention the name publically? What's there to hide? They deserve the shame!
+43342,I would have if I had proof. Without proof I do not want to shame anyone publicly.
+43343,"I use MoPub and have had very good luck with them. I'm curious what ad networks people have had good luck with? I use MoPub, Admob, and Flurry mainly. I used to use Facebook and they did well as well. Amazon did well for banners and/or interstitials, can't remember which, but I've since moved to mostly natives and they don't have that."
+43344,Ideally you should have >5 ad networks to maximize the bid.
+43345,"I have had that in the past but it is really hard to manage if they don't have auto cpm and there are very few with auto cpm for natives. 
+
+&#x200B;
+
+I do have InMobi and Smaato as well but didn't mention them as they make a tiny fraction of what those other ones make."
+43346,How many impressions do you show per month? I figure you have to be quite big to get amazon integrated
+43347,"I actually used amazon a while back, didn't have anywhere near the volume I have now back then."
+43348,"I am using admob along with Facebook Audience Network.
+
+Works Fine"
+43349,Did you try mopub? I have seen mopub giving higher cpm for other team in my organisation.
+43350,Havent tried Mopub yet.Will have to try
+43352,Mopub is a mediation from twitter just as admob is mediation from Google. You can add even admob network on mopub.
+43353,How do you handle GDPR when using mediation with Facebook Audience Network?
+43354,"I do around 100-200M impressions a month, I've tried every network under the sun. 
+
+Here are the networks I avoid like the plaque (eCPM sucks with Volume)
+
+- Facebook
+- Applovin
+- AdColony
+- AppNext
+- ChartBoost
+- Tapjoy
+- Vungle
+
+Networks worth using
+
+- Ogury Mediation
+- Admob
+- Unity Ads
+- Iron Source"
+43355,"Impressive. Can you share your app. 
+Is ogury mediation is better than mopub?"
+43356,"I don't share links anymore, there was a time I did and it brought a bunch of problems.
+
+Yes ogury mediation is better, you need to disable the networks I listed though, those networks just want cheap traffic, they'll buy your USA traffic and pay you next to nothing for it, the other networks I listed pay good eCPM with volume, which is what you really want.
+
+Ogury Mediation pays net-1 as well with a 2% fee and net-30 without fee, slightly steep but, cash flow is important."
+43357,Oh sharing links can cause problems? Could you elaborate more? I was about to do after development of my app.
+43358,"I would be cautious for sure, I've never shared them on reddit but I've shared with other developers who I thought were just wanting to casually look at the app but later I found out a few I shared links with were actually making many google accounts and 1 staring the app basically out of jealously and competition. 
+
+The community on reddit seems decent though, but still, I would be careful who you share your app with, for all you know they could submit a fake DMCA or anything."
+43359,I'm using adMob in my current apps from last 2-3 years & everything seems Fine till now.
+43360,Did you try using mopub? In my last organisation one of the team has used it and the revenue has gown up by 30%.
+43361,"Oh! Seriously. It sounds better, I'll try it."
+43362,Try it and late me know. I just want to see everyone else observation from the post.
+43363,"I've also heard about Facebook ads, but never tried it out. Did you?"
+43364,But it will be configured in ad meditation right?
+43365,"Yes, https://www.facebook.com/audiencenetwork/products/overview?utm_source=1H2019_AudienceNetworkSMB_Search&utm_medium=Search&utm_campaign=20190108_APAC_ENG_India_Brand_Beta_2018&utm_content=facebook_in_app&gclsrc=aw.ds&&gclid=CjwKCAjwg-DpBRBbEiwAEV1_-BsfSmCVfq3cNRu2vZUJwPXUUepNb9Jtcx_6Ob8iBmyoyF7-BMD-mBoCOCkQAvD_BwE"
+43366,Thanks. Will check it out.
+43367,Purple Brain (or Ogury with the new name). It is good.
+43368,"I use Adaway for global, and lucky patcher for app specific. As a result j never have to deal with ads. YouTube is a different ballpark, for that I have to flash YouTube Vanced."
+43369,"I think you've got the wrong idea, buddy."
+43370,Sorry :/ I'm new here
+43371,"All good! But hilariously, the discussion is around putting ads into android aps (and which ad 'providers' are best) rather than taking ads out of apps :D"
+43372,"I would recommend Mopub's mediator.  They are not ban happy like admob is.  You can use many networks server to server or via html tags.
+
+Other than performance, which varies for everyone, you also want to consider:  
+1)payout delay  
+2)payout minimum
+
+Most of the following copied from me [here](http://www.reddit.com/r/androiddev/comments/1ijrjc/admob_account_suspended_for_no_apparent_reason/)
+
+Tapit .. avoid. I finally got paid 5 months late after sending about 20 emails. net60/$100  
+Jumptap.. not bad, but payout terms are net90/$100  
+Hunt.. took 6 months to approve my account (They supposedly specialize in Latin America) Trying them out now, but can't find their payout terms anywhere.  (I've quit using them bc fill rate is terrible even if targeted)  
+Mobfox.. not great, not bad. Just another basket to keep my eggs in. payout terms are net45/$50  
+Mojivia.. Tried to register with them, but I used to use Mobclix, so I can't 'double register'  
+Millinial Media.. decent. payout terms are net60/$15 after you reach an initial $50. requires native SDK which is somewhat large.  
+Chartboost.. I think that they only have intersatials. I looked into setting them up awhile back, but it was really confusing, so I just gave up.  
+Lifestreet.. starting using them awhile back and have been pretty impressed. Payout terms are net14/$10. They pay each week.. so you wait no more than 3 weeks.  
+InMobi.. deplorable performance. Maybe it's just me. Edit: they have gotten better lately.  
+Appbrain.. Requires SDK. They always pay me within 10 days of month's end.  
+Applovin.. requires SDK. They were okay for awhile. Always paid about 2 weeks after months end (net15).  
+Tap for Tap.. requires SDK, nothing special. They pay quick but not enough IMO.  
+Leadbolt.. I'd say that this is my 2nd favorite behind LifeStreet. They always pay in the middle of the next month (net15). Please Consider using my [referral link](http://www.leadbolt.com/advertisers_signup.php?ref=10040531) if you sign up. To add them, just create a custom Mopub network and paste your tag from leadbolt in there. Leadbolt approval is automated and generally takes an hour (A bot checks the market for your app. Note that names must match. ""My Cool App"" != ""My cool app"")  
+Smaato - Just started trying them because they have tags. net60 min $1  
+Edit:formatting"
+43373,"2 questions what do you mean by Net90/$100?  
+
+I want to avoid ad networks with adultish kind of stuff, like Airpush with has some crappy adult chat app they advertise, does lifestreet have that?  I only ask about them since you liked them."
+43374,"NetX/(Payout min)
+
+NetX means they pay you X days after the end of the months that you reach the minimum.  For instance, if you break $100 in September, you would be paid early December. 
+I used to get emails about adult ads, but haven’t in a long time.  I remember having to explicitly disable them with a few networks."
+43375,"it varies from time to time i hear. i wouldn't really know, i concentrate on paid apps.
+
+best source of info i think is this forum:
+
+http://forums.makingmoneywithandroid.com/advertising-networks/"
+43376,"**Note**: this website makes money from affiliate links to ad networks and probably some extra from ""other benefits"" from ad networks so I wouldn't trust 100% this data, but hey...it's better than nothing."
+43377,"Don't get married to just one network, use a mediation layer instead."
+43378,"Couldn't agree more.  
+I'd like to add that it's not wise to use Admob's mediation.  Banned account = no mediator."
+43379,using Admob as one of many networks in your mediation gets your admob account banned?
+43380,"What I meant was the if you admob account is banned, and you are using their mediation for peace of mind, you are SOL.
+  
+
+Also, Admobs TOS states that a minimum percentage of fills must come from Admob if using their mediation service.  Of course, you will never know why your account is banned because they will not tell you."
+43381,Mobfox pays you pennies
+43382,They have been better lately.  At least for me.  I suspect they they used to suck for me bc I was using an old version pf Mopub
+43383,"BTW, is there an ad network that specializes in China? My game has lots of users there for some reason."
+43385,I've already gone with Lifestreet but I'll have a look.
+43386,"I use admob, haven't had any problems in almost a year"
+43387,"There is only one problem that people have with admob.  Everyone thinks that admob is great until it happens to them. [This](https://www.google.com/#bav=on.2,or.r_qf.&fp=cba72ab729d2fd6&q=admob+account+banned&safe=off)  No email, no recourse, no reason given.  Just STU, GTFO, and leave you money at the door.  
+
+edit:typos"
+43388,That's harsh...cold blade in your back when you least expect it from your partner.
+43389,If you give us app names we will reveiw them if they are iOS
+43390,Have you considered getting rid of all ads and monetize your audience differently?
+43391,">Have you considered getting rid of all ads and monetize your audience differently?
+
+Do you mean in-app purchase?"
+43393,"Unfortunately, Google does not support this feature in my country, all I've to do to monetize my apps is Ads"
+43394,"May I ask, which country is not supported by Google IAP?
+
+ Do they support the Google Play store for downloading the app?"
+43395,[https://support.google.com/googleplay/android-developer/answer/9306917?hl=en](https://support.google.com/googleplay/android-developer/answer/9306917?hl=en)
+43396,"Wow that's great information, looks like about 10% of the Play Store countries don't support merchant operations.
+
+I wonder what the percentages are in terms of populations and payment volume."
+43397,"For quite a long time my country wasn't supported as well. I was offering in-app purchases via 3rd party e-commerce provider. Google did not complain about it. I kept this option even when Google Play Billing became available for developers from my country. Actually, I am still using it as the deadline for switching to Google Play Billing is September 30, 2021."
+43398,DM me I have very valuable information abput Google..
+43399,"You can try MoPub, AppNext, Appbrain but they are a lot worse than AdMob and FAN"
+43400,MoPub mediation with AdMob/Ironsource/AppLovin/etc
+43401,"Unity ads, appodeal. You could also try placing banners from affiliate programs if nothing works. Like fiverr or amazon. They pay based on CPA."
+43402,I've used Appodeal in the past which is a bit better than plain Admob and about as easy to implement.
+43403,"Thank you, what about the revenue, which is the best one?"
+43404,Appodeal had better eCPMs for our app by about 30%
+43405,appodeal are scammers dont use them at all
+43406,How so? Which Mediation should i use?
+43407,"|  AdMob start to place the ads limit in my account randomly   
+
+
+It's a shame, did you get any response from them?"
+43408,"No bro, I'm tired of this issue since June 2020, I've never promoted my apps, so all traffic is 100% organic, I tried to contact them, they replay with the same message :  
+
+
+***Hello,***
+
+&#x200B;
+
+***Google is constantly investing in measures to protect and improve the experience for advertisers, publishers, and users of AdSense and AdMob.***
+
+&#x200B;
+
+***As we have been unable to verify the quality of your traffic, your ad serving is currently being limited. Your sites or apps may experience less demand from Google while we continue to evaluate your account compliance and traffic quality.***
+
+&#x200B;
+
+***We understand that you may want to know more about the activity we’ve detected, but in order to ensure we maintain a healthy ecosystem for all stakeholders we are unable to provide you with information about specific account activity.***
+
+&#x200B;
+
+***You can view details about this account level enforcement in your Policy center, and learn more about ad serving limits and what you can do to address them here.*** 
+
+&#x200B;
+
+***We encourage you to be proactive in making sure your account complies with the AdSense Program policies, as well as checking out our Help Center on Invalid Traffic to learn about how to prevent invalid traffic and improve your traffic quality.***
+
+&#x200B;
+
+***Best regards,***
+
+&#x200B;
+
+***Google AdMob Team***"
+43409,"Wow! Thanks. It looks like a standard response.
+
+You probably tried and did it, but let me ask - have you tried to add all your testing devices in AdMob?"
+43410,"To be honest, no, when I want to test the ads, I use the ad unit from here :  
+[Sample Ad units](https://developers.google.com/admob/android/test-ads#sample_ad_units)
+
+Should I add my device to AdMob testing devices?"
+43411,"Yes, add it all your test devices - it is a good practice because of Google Invalid Traffic. It can help you."
+43412,"ADMOB is the best, don't waste your time"
+43413,Best is AD FREE
+43414,AdMob can provide fill rates but doesn't guarantee the highest CTRs. I'd recommend trying Admixer.Network. They offer a holistic monetization approach: at least 20% revenue growth through the optimization of fill rate & eCPM.
+43415,"dont use appodeal , they are scammers , when you try to request payment they create a fake story to terminate your account dont use them at all"
+43416,"Reddit, the best place on the world wide web."
+43417,"If your problem is retention rate, finding a better ad network won’t do anything for you. You should be looking at why you can’t retain users in your app and keep them coming back, not find more users. Ads are not meant to retain users, it’s to gain new ones."
+43418,"That's true, but targeting users is very important too.  If an Ad Network manages to show the Ads to the correct users you will have a better retention rate for sure."
+43419,"Beyond promoting your app and getting the word out, how are you monetizing the users that you are getting?"
+43420,my monetization is mostly earned from advertising revenue aka banner ads and interestials as well as rewarded video ads. I also have some apps with in-apps
+43421,"Have you heard of Enhance? 
+We support a wide range of networks and services and eliminate the need to integrate SDKs.[https://enhance.co/](https://enhance.co/?utm_source=Reddit&utm_medium=Online%20Forum&utm_campaign=2018%20Feb%20rozek_forum_post_signature&utm_content=Chris%20R)"
+43422,"Admob is certainly the easiest to integrate. Mopub is a decent alternative. Amazon ads are okay, with the plus side that you do not have to rely on Google Play Services as you do with Admob. I would probably just go with Admob due to its ease of integration."
+43423,"I recommend running Amazon together with Admob with a mediation service (easiest is Admob's). Amazon ads usually pay much more than Admob but the fillrate is low, around 50%. With mediation you can fall back to Admob when there are no ads provided."
+43424,It depends on your niche. Just try different ad-networks or use ad-mediation for the highest possible revenue. Good luck!
+43425,"Adcolony, Amazon, Admob
+
+They're the best honestly."
+43426,"People usually say rewarded videos are the way to go, but it really depends on the game and where do you have most of your users. 
+On my experience unity video ads have performed worse than admob, they promise a CPM ~$6 but it is less than $2 for south america  countries (where we have most of our users)"
+43427,"When you say ""pay per download"" I'm going to guess that is the same as ""cost per install"" (CPI) which is the term usually used in the mobile space.   And the answer is yes, many ad networks pay out on a CPI basis.  Usually, the company paying for the installs is paying somewhere around $2.50 - $3.50 and the developer/publisher is receiving around 70% of that (but this can vary wildly).  
+
+What it comes down to, then, is conversion rates.  This gets a little tricky as different apps convert differently, and sometimes even differently per network.  For example, we manage over 2,500 apps and we have different ad networks running in different places in our waterfall for each app (mostly game apps).  Unity Ads may do well in one, but not so well in another, for example.
+
+I think fgl_sam gave a great list of ad networks that are currently ""hot"" though it's not a definitive list.  There are many good ad networks out here in mobile and as I said, some do well in some apps and not in others.  Also, some have great fill rates and others don't (so eCPMs will be high, but overall revenue is low).  Some have good campaigns now, but will not do as well when they lose them, etc...
+
+Also, sometimes CPI ads are not the way to go.  ""Brand"" ads are growing in popularity.  These pay out on a flat CPM or CPV (Cost per View) and are aimed at increasing brand awareness for companies and products. Some apps do much better with these types of ads and the have the added bonus of not pushing users out of your app and into others.  I suggest a healthy mix of both types, though. 
+
+As ixidor56 points out, it will also depend on where your users are from."
+43428,"With ""pay per download"" I was aiming at a monetization strategy which guaranteed the publisher a small revenue for every install of his/her app. It was in my experience a pretty lucrative model in the past, but, of course, unfortunately based on kinda intrusive ads (like creating an icon on the home screen after launching the app (with the option to opt-out)).
+
+Those intrusive ads were forbidden by Google pretty soon after I started using it and every ad network I know has stopped such a revenue model. However, those cpv ads you've mentioned kinda seem to be comparable to it. Is this also category one would see user-revenue based (unity) video ads in (so the revenue is generated with every ad impression rather than every conversation/click)? Or am I confusing something? Does this revenue model exist with ad formats other than video ads with a minimum viewing duration (which are exactly those unity video ads as far as I know)? Like the common interstitial/banner ads?"
+43429,"Ah ok, yeah I think CPV may be the most comparable, but you would need to run them as a pre-roll, I think, and you would have to check with each ad network's terms of service for that.  Some video ad networks require ads to be shown ""moment based"" (at particular points in an app).
+
+I'm not aware of this sort of thing being available outside of video ads.  And not all video ads are cpv.  Many are still cpi (per install).  Some networks focus on one model, some on the other.  As I mentioned before, the best bet is to integrate with a few different networks.  Ideally with mediation."
+43430,How do you manage 2500 apps?
+43431,My company has been around a long time and has a large community of indie game developers.  These developers make great games and work with us to help monetize and market their apps. The company is [FGL](http://fgl.io/gor)
+43432,"Expanding on this question: does anyone know how android app ad-revenue has evolved over the past year(s)? Has it shown increase or decrease? 
+
+Thanks in advance"
+43433,The company I work for has worked with game developers for over 10 years. We have seen mobile advertising revenue completely surpass web advertising revenue (around 30x the CPM compared to web) and is now in a cycle of steady growth.
+43434,"There are plenty of ad networks out there, offering several different ad formats like:
+
+&nbsp;
+
+1\. Banner ads
+
+2\. Interstitials
+
+3\. Native ads
+
+4\. Video ads
+
+5\. Surveys
+
+6\. Exit ads
+
+7\. Others
+
+&nbsp;
+
+It really depends on the profile of your apps and which mechanisms currently best applies to the concept of your app. When you find which model you want to follow (let's say CPA with rewarded video ads) you need then to find the proper network for your own apps. Each network is stronger in different areas. It is always a good idea to mediate and combine networks to fill gaps in  fill rate, set floors to eCPM and many other options
+
+&nbsp;
+
+You can have a look at AppBrain listing of all ad networks:
+
+&nbsp;
+
+[Android Ad Library Stats](http://www.appbrain.com/stats/libraries/ad)
+
+&nbsp;
+
+where you can see the categories and apps using each network and their popularity/adaption in the Android ecosystem.
+
+&nbsp;
+
+You can read more around monetization on articles I write from time to time. This is my latest one:
+
+&nbsp;
+
+[Rewarded Surveys - The Answer To An App Publisher’s Revenue Prayers?] (http://vourkosa.github.io/monetization/2016/05/17/Rewarded-Surveys-The-Answer-To-An-App-Publisher-s-Revenue-Prayers.html)"
+43435,"I know Airpush has a pay per download option. I like them but I didn't like the permissions on their sdk. 
+
+I just switched to Appodeal (I do only banners) and revenue seems higher than anything I've used. (their sdk doesn't need write permission btw)"
+43436,Appsflyer just put out a performance report of all the networks that is worth looking at - http://hub.appsflyer.com/appsflyer-performance-index-2016-h1
+43437,"The two key things that I've always seen as important to compare are CPM and Fill Rate.
+
+The main networks I've found effective for these two metrix are:
+
+For Rewarded Video:
+
+Unity, AdBuddiz, AppLovin, ChartBoost, HeyZap, Mediabrix.
+
+For Interstitial Ads:
+
+AdBuddiz, AdMob, AppLovin, ChartBoost, HeyZap, Mediabrix, Pretio Interactive.
+	
+Changing them out can be a pain, but I will mention FGL has a tool for changing ad network SDKs in your app in seconds:
+
+We called it Enhance by FGL, check it out if you have time. http://fgl.io/wdi"
+43439,"Almost, but Enhance isn't an ad network, or even an ad mediator. We created Enhance as a tool to speed up using SDKs in apps we were developing and helping others develop too. We are sharing it with others now in the hope it'll be useful to other developers.
+
+We exist to create tools and services that makes developing apps and monetizing off of them easy. With Enhance you can insert SDKs into an app in a few minutes, rather than hours or even days, you can swap out which ad networks you use, or even which analytics you use."
+43440,"Fair enough. 
+
+Might wanna put up a link to some docs or guides or something on the website, nobody likes having to sign up before they even know if they want to."
+43441,"That's true. I do know our marketing team are currently making a more comprehensive front page as we speak. 
+
+We only soft launched the site 2 weeks ago, I just wanted to share with OP as it sounds like he's in the same boat we were when we made Enhance."
+43442,"For being an engineer your posts sound a lot like straight from the marketing department, which is probably what nets you all the down votes."
+43443,I'm just excited is all... perhaps a little too earnest
+43444,"Two pet ducks. You may be tempted to go for one. But trust me. You need two. And you’ll have about $76 left over.
+
+Edit: Fully humbled by the awards, kind friends."
+43445,"They don't tell you this in school, but the ducks in the park are free..."
+43446,Nice try Jeff Bezos
+43448,Worth every penny to not have that wet plastic ever touch you again!
+43449,Another monitor.  Your productivity will increase dramatically.
+43450,I have 3. But maybe you are right...
+43451,"A nasal irrigation kit - either the electronic pump or simply the squeeze bottles. I started using them both leading up to surgery on my sinuses, and I haven't stopped using them since. It takes some getting used to, but the relief and clean feeling is amazing."
+43452,Make sure you only use DISTILLED water for nasal irrigation. There are horror stories out there of the consequences of running tap water up your nose. Brain eating amoeba type horror stories.
+43453,Or boil the water.  Pretty sure that was part of the instruction with my neti pot.  And salt as well.
+43454,"LET IT COOL after you boil it, though. 
+
+Just trying to keep you from getting sued, Tom."
+43455,AeroPress coffee maker. The thing broke my wife of her $200(?) monthly Starbucks habit. The unit costs maybe $25 or so.
+43456,"House plants. They will make you happy looking after them. I recently bought a venus fly trap, she caught her first fly today. So proud."
+43457,"This is so wholesome I could die. 
+
+I started keeping and growing plants and herbs, and just *not killing them* feels like such a huge accomplishment. Seeing a new sprout is like a celebration. 
+
+Now I understand why people have graduations for kindergarten."
+43458,Rice cooker. That fucker kept me fed during depression when I barely had the energy to get out of bed. Takes less than nothing to get some rice in there and flip the switch. Want something sweet? Throw coconut and sugar in there. Want flavor but can’t be fucked to make anything? Get some spanish rice or saffron goin. You can throw tofu in there with it if you need . Yeah it’s not the best for you but hot food is better than no food.
+43459,"New pair of socks. If you’ve been wearing the same pairs forever like I typically usually do theirs nothing like putting on a new pair of freshly bought socks, you can totally feel the difference, I never realized til was an adult sadly but I appreciate the feeling of new socks all the time."
+43460,"I bought a $1 back scratcher from an asian market in town.      
+Best $1 I ever spent."
+43461,A decent light wake up alarm clock. Completely changed my mornings. Don’t think I could ever go back to using my phone or a simple alarm clock.
+43462,"Would it help wake up non-morning people like myself? If so, link?"
+43463,"Hello fellow non-morning person. I have one of these, it doesn't help me that much. It might work for you though!"
+43464,"If you have trouble getting up or functioning in the morning, and like a nice cup of coffee or tea, an electric kettle with a timer can be a real game-changer. Or just getting an electric kettle if you don't have one."
+43465,"Vertical mouse. $20. Saved my wrist using it at work all day.
+
+It looks odd but it feels so much more natural. I even got a bunch of people at my office to buy one after they tried mine.
+
+Edit: [Here’s the link](https://www.amazon.com/Anker-Wireless-Vertical-Ergonomic-Optical/dp/B00BIFNTMC/ref=mp_s_a_1_3?dchild=1&keywords=vertical+mouse&qid=1595422956&sprefix=vertic&sr=8-3) to the one I have for those interested."
+43466,"This was a lifesaver for me. I made a special trip to my office once mandated work from home started in March because I NEED it. After I got it, I got some weird looks from office mates but started to see them picking them up too."
+43467,A king sized blanket for a queen sized bed.
+43468,"I got a king for a double bed. Best decision ever! The double sheets fit the bed, but I couldn't snuggle completely under them without curling up. Now. I can hide completely under the duvet stretched out. Best thing ever in the winter!"
+43469,If I pull the covers completely over myself the boogeyman can’t find me.
+43470,Just make sure your foot doesn’t hang over the edge of the bed.
+43472,"I have a king size bed, and even king size comforters are kind of small, so my partner and I have two king size comforters — one one each side, so no one has to share."
+43476,The eyes?
+43477,The demons
+43478,"I’m not stuck in there with them, they’re stuck in here with me!"
+43480,Fellow raccoon here. Send help please.
+43481,This post cost me over 400$ so far
+43482,Sharp knives for the kitchen
+43483,"I put off buying a whet stone for a long time, mostly because i was nervous i would use it wrong and ruin my knifes, but its not too hard at all if you get one with an angle guide. Makes chopping stuff up faster, easier & safer"
+43484,"We bought a whetstone what feels like years ago and it went unused until last week. Everyone in the household is constantly complaining about dull knives and I always tell them, ""well, we do have a whetstone,"" to which they respond ""i DoN't KnOw HoW tO uSe ThAt!!1""
+
+Eventually the dullness started to actually bother me so I spent 30 seconds watching a Youtube video and gave it a crack. Then I learned it had been bothering me my whole life and I just didn't know it. Knives are supposed to cut THAT easily?! Holy crap!"
+43485,When I started dating my now wife I introduced to the concept of sharpening knives and she had no idea that it was supposed to be easy to cut veggies and fruit!
+43486,No matter the knife my wife would always just use pressure to cut things. She was amazed how I was able to cut tomatoes and bread without destroying them. “Let the knife do the cutting”
+43487,"A glass breaker on a keychain. Push it against the glass of your car window and it shatters immediately, helping you get out of a car underwater,  broken door etc. Super cheap and life saving"
+43488,"I have [these](https://www.amazon.com/gp/product/B01AXCGJNQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) things.  They can cut your seat belt in a pinch, too."
+43489,In my opinion definitely a weighted blanket if you have a hard time sleeping at night or have anxiety. They have some at target for $25 currently :)
+43491,Something else that really helped with sleeping for me is a bottle that keeps water cold (Mizu or whatever). Being able to drink ice cold water at any time during the night without leaving your bed changes everything.
+43492,How do you not pee all night? I force myself to stop water intake by 8:00 PM because I end up peeing twice a night even with my water curfew.
+43493,You need a nice water bottle and a good size pee jar for your nightstand. Try not to confuse them.
+43494,Motion sensor night lights. Can’t tell you how many stubbed toes or falls they have prevented. Also a cheap intruder alarm.
+43495,Get a motion activated toilet bowl light.  They're amazing.  Don't kill your eyes in the middle of the night when you gotta pee.
+43496,"Relatedly, a dimmer switch for the bathroom.  Works in the middle of the night, as well as early mornings, as you can gradually increase the brightness to match your current tolerance for the world."
+43497,Carbon monoxide detector
+43498,Post-it notes are far cheaper!
+43499,"Our landlord isn't letting me talk to you, but it's important we do."
+43500,I feel happy I recognize this
+43501,It's quite legendary.
+43502,Such a crazy moment of reddit history lol
+43503,More than one 10mm socket.
+43504,"Excuse me while I cry, one 7/16th of an inch at a time"
+43505,I was just working on my motorcycle last night and picked up my 10mm socket and thought “see ya later good buddy” as I knew I’d prob lose it by the end of the night. lol
+43506,Blackout curtains for your bedroom.
+43507,"Changes your life if you want to sleep all day, I refuse to have them in my room after living like a vampire for a few years"
+43508,Combine it with a wake up light alarm clock!
+43509,"Block the sun, then emulate its rise. The future is here, people."
+43510,"This is how I feel when I put foundation all over my face to get rid of the redness, then apply blush on top of that to put redness where I want it."
+43511,"May sound simple, but a good pillow. It is amazing the change in body aches, and sleep you see when you have a good pillow that fits you."
+43512,"I thought that I liked memory foam and other fancy pillows, but the real life changer for me was a buckwheat pillow. I have sleep apnea, and it allows me to get my head into the perfect position and *keep* it there comfortably.
+
+EDIT:
+
+Before you go out and buy one, please research the pro's and cons. They aren't for everyone.
+
+Consider them if you like a firmer pillow, occasionally wake up with an achey neck from lack of support, and want a pillow that breathes well. Someone in the comments has also pointed out that you will win every pillow fight you get into.
+
+Downsides are: if you shift around in your sleep a lot, you'll need to adjust the pillow to fit your new position. Adjusting the pillow and settling in makes a little bit of noise as the buckwheat husks rub against each other, kind of like dry leaves crinkling. Some people are also allergic to buckwheat, but there are other similar fillings such as millet husks. Organic fillings also need to be replaced once in a while, since it breaks down over time."
+43513,"Oh man, did my life change when I got my buckwheat pillow. I tried using the standard pillows but could never find one that was comfy. Memory foam got to hot or would compress to a pancake. 
+
+Getting used to the noise took like a week or so, but after that, pure bliss."
+43514,"how does one find the perfect pillow
+
+Edit: Time to start my journey into the world of pillow-shopping - thank you everyone for the responses!"
+43516,"I entered into my relationship with my wife, who only ever bought cheap 5.00 pillows from Walmart, with a quality/expensive pillow.  She swore up and down she'd never buy one.
+
+Eventually said pillow migrated over to her side of the bed and was the one and only time in 8 years of marriage that she's admitted to being wrong."
+43517,So what pillow do you have ?
+43518,"At the time?  No idea any more.  I believe it was a Tempurpedic?
+
+Currently we each have one of these -- and I'm ashamed at the price.  But holy hell they are great.  ( [https://www.dormezvous.com/en/polar-tropic-pillow/product/15POLARPIL](https://www.dormezvous.com/en/polar-tropic-pillow/product/15POLARPIL) )"
+43519,"Never be ashame of a price for something you spent a third of your life in/on. 
+
+A good mattress/pillow can change everything. Hell everything related to sleep is very important and worth investing into."
+43520,"Sunscreen.
+
+No skin cancer for me"
+43521,"For anyone that disagrees with this comment.  I've had multiple skin cancer surgeries.  It's not the scalpel cutting flesh away from your body that hurts the most during the procedure, it's whatever liquid they inject into you to deaden the nerves around the cancer that hurts.  The needles don't hurt but that shit they inject into you is f'ing nasty.  
+
+Wear your sunscreen kids."
+43522,"I am German Irish and had a skin graph on my temple, and removal of a lymph node on my chest. My wife convinced me to go. Turns out that I should have been going to the dermatologist the whole time. She saved my life. I would have waited it would have went from to lymph nodes to my brain and / or my lungs and that would have been end of story. If my wife did not insist I would not be here right now. So, I get to experience 2020... so, yeah.
+
+in all seriousness, I may not be here. Listen to your wife.
+
+The end result is  I cannot spend  more than an hour a day in the sun. I need to wear long sleeves and long pants and a ton of sunscreen even for a short time in the sun.
+
+What is my motivation? I get to piss off all the people that thought I should be dead. Screw you, I am staying alive to spite you. The only downside is my beautiful wife slaps on a ton of sunscreen everytime I leave the house.
+
+I guess living well us the best revenge.
+
+Update note 1: Wow, thank you for all the kind messages, and yes I am doing well. And yes, I do know my wife is awesome. You all are awesome for all the support.
+
+Update note 2: To clarify, the surgeries were covered my my insurance with a copay. The reason I say this was less than a $100 is the advice from my wife was free and the copay for the dermatologist was $10."
+43523,An air compressor to air up your tires. Got one off Amazon for 30 bucks.
+43525,"A 10 foot charging cable 
+
+Or a quality pair of shoes"
+43526,Fuck me im reading this hunched over with my phone plugged in to an impossibly short charging cable.
+43527,"You might consider a USB extender which comes in handy for other things as well.
+
+Then you can just plug it into whatever. Don't wanna sit at your desk for gaming? USB extender. Now you can sit at the couch and use the coffee table instead of your desk and the tv instead of your monitor"
+43528,">A 10 foot charging cable 
+
+Only if of God quality. Otherwise it might lose enough voltage over is length for the phone to not charge. Been there done that.
+
+Edit: I meant good quality. God quality is overkill for this application.
+
+Edit 2: Christ if I get another response recommending to buy an Anker cable I'm going to drown myself."
+43529,"I once bought a 10 foot charging cable of God quality, unfortunately it was the god Hephaestus and almost burned my apartment down."
+43530,He’s not used to working with cables. Give him a break
+43531,National park annual pass
+43532,"If you’re a veteran with any % disability rating, they’re free for life."
+43533,Did not know this thanks
+43534,"Even if you are not a veteran, if you have a handicap placard along with the letter you take to your dmv it's free as well."
+43535,"If you have a large lawn or a property that requires a lot of yard work get some [3M Worktunes](https://www.amazon.com/3M-WorkTunes-Protector-Bluetooth-Technology/dp/B0723CYHPZ). About $50 and they're combination hearing protection and Bluetooth headphones so you can actually hear your music  without destroying your eardrums.
+
+They're a good gift too for anyone you know with a lawn or wood shop or something.
+
+At my old house it was a 4-5 hour ordeal to mow and trim the property. I'd likely have went fully insane without those."
+43536,"Great idea! Useful on a plane too. With minor hearing loss from too many concerts in my 20s, I have to turn the volume to nearly max on a plane, so I usually just put in earplugs and can't watch or listen to anything, but this would help."
+43537,"Although more expensive, decent active noise cancelling headphones change your life if you have to fly a lot. It doesn’t matter if you sit at the wing or not the amount of noise that gets blocked out is incredible. It drops the background noise by more than half easily."
+43538,"Step 1: Throw away all your socks. 
+
+Step 2: Buy 3-5 packages of the same sock. 
+
+Step 3: Enjoy a life without ever having to match socks again."
+43539,I used to only have these specific adidas ankle socks but they stopped selling them/changed them. It was a very sad day.
+43540,"A good shop vac. You will not believe how many uses around the house you'll find for it. Cobweb removal, water removal, gravel removal, vent cleaning, soot trap cleaning, (after a good scrub since it's likely dirty from other tasks) car vacuuming, dust sucking, the list goes on. Seriously if you plan to buy or already own a home go get a shop vac."
+43541,My wife said we needed a new vacuum and made the mistake of sending me out to get one. I love my new shop vac. Lmao
+43542,What's the difference between a shop vac and a vacuum? I've not heard of the former before and Google isn't helping clear it up
+43543,"Shop vac can suck up anything whether solid, liquid, a mixture of the two. They can’t be beat overall. Try vacuuming up broken glass and beer with a Hoover or Dyson and you’ll maybe be able to do it once. Lol"
+43544,"That makes me wonder; what's the downside? It sounds so good that there's just no reason to buy a regular decent vacuum, as they're hardly much cheaper."
+43545,They are bulkier and are probably harder to do routine carpet cleaning with since all you have is a hose and whatever attachments you want to put on it.
+43546,"Live in an apartment and this is our vac for everything. Carpet, vinal, bathroom, car. I'll use the blowing side to inflatable air mattres or coals for bbq.
+
+Edit added punctuation for clarification."
+43547,You have a bathroom car ? Look at Mr./Ms. Fancy Pants here.
+43548,I mean any car can be a bathroom car.
+43549,but it's a *vinyl* bathroom car
+43550,"Many of them can also reverse and with a nozzle attachment (or a funnel and duct tape) inflate pools, air mattresses, float tubes etc."
+43551,"Fitted sheet straps. They keep cheap sheets from popping up at the corners. So now I can use soft sheets that don't cost a fortune and my sleep is undisturbed by them popping loose, greatly improving my quality of life."
+43552,Condoms
+43553,My dads biggest regret
+43554,Womp womp
+43555,"A basic skincare routine.
+
+I’m talking like cleanse, moisturize, sunscreen, and if you’re really adventurous/ in need, get yourself a topical for acne or concerns. 
+Amazing for your self esteem, and also becomes a form of self care eventually. It’s so easy to forget to take care of yourself."
+43556,First Aid Kit
+43557,"Similarly, a fire extinguisher"
+43558,"My dad was a firefighter.  When my wife and I bought our first house my dad gave us 6 fire extinguishers, a box of 9 volts, and a life ladder.  Man I miss that guy!"
+43559,"I can only imagine the pride on his face as he relishes in the “of course you did” look on your face. Sounds like a great guy and a better father, I hope he’s resting easy."
+43560,Thanks internet stranger!  I really appreciate that.
+43561,"Light hearted, but... a pressure cooker! You can get one for around $100, and it can easily cook a genuinely staggering variety of food, and cook it well.
+
+EDIT: TIL there are two types of people that use pressure cookers... people who use them to cook food, and people who use them to make bombs.
+
+EDIT 2: ... aNd PeOpLe WhO uSe It To StErILiZe ThInGs."
+43562,"Every Indian family uses a pressure cooker. I can say with confidence 99% of indians use this. 
+
+I can't imagine my life without a pressure cooker. It makes rice, meat, lentils, pulses, beans almost everything in less time."
+43563,"Indian pressure cookers are very uncomplicated though. Which is what i like.
+
+No fancy manometers, no timers, just basic weights for pressure release and stove top use.
+
+I love them"
+43565,Yes! I surround my desk with them so I've got something to look at while I'm waiting for stuff at work. It's very satisfying to watch them grow over time and I also think that being near plants is something that's psychologically good for humans on a very primeval level.
+43566,If I had them near my desk I'd probably end up slowly pulling them apart cause I fidget with everything in reach
+43567,I keep a lego bucket near my desk for this specific reason.
+43568,Foam roller
+43569,First time I used one it was a girl's house and she let me use it. As it popped my back loudly it also pushed out a really loud fart. She looked at me like I just murdered someone.
+43570,A lacrosse ball as well! Get them glutes people!
+43571,An electric kettle. (I'm American)
+43572,"As a UK citizen, a kettle is on a par with actually having food in the house
+
+Holy shit, just got up this morning and it's all gone mental! Thanks for the award!"
+43573,"As an Irish citizen, I'm pretty sure our right to a kettle is explicitly stated in our constitution."
+43574,Until I met my (Australian) wife I had no idea this was something I needed. We moved back to the US from Australia and a kettle was one of the first things we picked up.
+43575,A dash cam for your car can protect you from wrongful claims also vandalisms and theft
+43576,"I got one! Although I have never been in an accident before *knock on wood*, the peace of mind that it gives me to know that I have backup evidence or anything of that sort for future issues is calming. Best 50 bucks spent in the last 30 days."
+43577,Or maybe some sweet internet points down the road from catching some happenstance situation. Remember all them rad meteorite videos from Russia because everyone had a dashcam?
+43578,"Im not going to lie, when I was installing it that thought also went through my head haha, I dont have many points so I would be banking on that lol"
+43579,"I've had one for a few years. Finally paid off when a guy backed into me at full throttle while we were waiting at a red light. Without it, I'm sure I would have been blamed for rear-ending him."
+43580,"No doubt, whoever is behind a vehicle, and somehow hits the back of another vehicle -  unless you have complete total confirmation and visual proof, you will always be found at fault. Which is why the current situation I’m in is so stupid. The woman switched lanes right on top of me, and I had no room and very little time to even throw on the brakes. 
+
+And I just hadn’t gotten the dash cam up yet. Life is stupid like that sometimes."
+43581,"My Mom had a dash cam in her van for years, when she got into a really bad accident with a 18 wheeler we where able to use that to our advantage"
+43582,"A good showerhead. I cannot stress enough how a high quality showerhead can turn getting clean into utterly zen, 30 minute self healing and relaxation session.
+
+Edit: ok clarification, I don't shower for 30 min every day. Modern rain showerheads use very little water and I only have about 15 min to get ready in the morning so this is a rare treat I let myself do once or twice a month. I appreciate the loving comments."
+43583,Bonus points for a detachable showerhead and extra double bonus points if you are a lady who enjoys that particular brand of flying solo.
+43584,I was reading this and I was thinking if it’s detachable how the fuck does the water get to it? I realised on reading further and thinking rationally that this is pretty much the standard shower head on a hose that we get in the UK. Didn’t realise fixed shower heads were the standard elsewhere
+43585,Damn yall dont got wireless water in the UK?
+43586,"+1 for a detachable showerhead. I don't enjoy masturbating that way, but I do like being able to clean with a directed stream of water on my private bits because leftover soap gets itchy down there. Squeaky-clean b-hole: A+"
+43587,"I need to install my detachable shower head at the new house we moved to.
+
+My husband and I are in a disagreement about it. I like being able to fully clean where the sun don't shine, but he feels like the water pressure decreases when it's installed. So I have to find a better, but more expensive, one that we can both be happy with."
+43588,"Look and see if it has a water efficient restriction in the attachment point. Pop out that little white plastic bit, hooray instant pressure improvement."
+43589,"I did that hooray, my drain can't keep up with the shower head!
+
+Honestly I cleaned the drain recently,  not much came up since I'm already using a tub shroom.  Could I have a obstruction further down the line than my zip it can reach?"
+43590,"24(M), I bought a book online about SQL for like 25 bucks and then a course on Udemy for like 11.99?
+
+But went from a job earning 35,000 to 55,000 because I took time to learn a new skill. 
+
+And if I end up staying and becoming a higher level analyst, salary is around 70~75k 
+
+Maybe data analysis isn’t your gig, but learning a skill can be cheap in terms of money: more time consuming than anything but worthwhile."
+43591,"I make $120,000/yr US. My primary skill is SQL and pulling data. Yes I have degrees, but I don't really use any of that shit. Moving data is a skill that makes you a God in the business world."
+43592,"A good chef's knife and a cast iron skillet. When you have tools that are satisfying to use, cooking becomes less ""chore"" and more ""hobby"". You'll end up eating healthier, cheaper than takeout/restaurant, and ditching the dull Walmart knife and scratched up nonstick aluminum skillet are the best place to start.
+
+Editing to add:
+
+Since so many are asking what to get: Victorinox 8"" or 10"" chef's knife, and 10"" lodge cast iron skillet. These in my opinion are at the tippy top of the curve on quality to price ratio. 
+
+These probably leave enough room in the budget to get a $2 steel from goodwill and a large butcher block cutting board. As long as you use the steel with some regularity, a good knife should go a long time before it actually needs to be sharpened.
+
+Second edit: I agree that a good sharpener is important, but if you have $100 to spend today you can wait on sharpener as long as you have a steel to maintain the edge. You will need one, but not today. 
+
+Also I am going to take another look at carbon steel skillets."
+43593,"I got a great knife at the outlet mall for $52 and a 12"" cast iron pan on sale for $32. That leaves me $16 for ingredients for fajitas."
+43594,And you can make alot of fajitas for that price.
+43595,Not with the amount of cheese and sour cream I put on fajitas.
+43596,"Having plenty of counterspace is a part of this as well though, if you have a small kitchen, consider investing in a couple of taller, sturdy tables to prepare food on. It will make your life much easier. Also get a large cutting board. Once you've found a board you think is big enough, get one a little bit bigger, it really makes cutting/cooking much more enjoyable."
+43597,"A hammock.  Bought my Eno a year ago and I have no idea what I did without it, you can literally post up anywhere and everywhere and it will encourage you to go outside a lot more."
+43598,"> Hmmm, should I stay inside and lay down?  Or shall I go outside and lay down?
+
+-- Op"
+43599,"This is an accurate representation of my activities during the pandemic.
+
+Really thinking about bringing my computer so I can lay in my hammock in the park and watch tv"
+43600,An electric toothbrush
+43602,"so truee! I've been using one for years so I don't even remember how big the difference was, but recently I convinced my bf to buy himself one and he was like ""wtf my teeth never fealt so.. brushed"""
+43603,A used instrument
+43604,Geetar
+43605,Peeoino
+43606,Troompat
+43607,"A SSD.
+
+SSDs are a gift from god."
+43608,"A passport
+
+Although, it depends where in the world you are ... where I am it is less than the equivalent of US$100"
+43609,"Silk pillowcase.
+
+EDIT: I got a silk pillowcase because I have really really long hair (down to my butt) and it keeps it from tangling as badly overnight."
+43610,"A Cook Book.
+
+Not like a fad celebrity book but a real oldschool family cookbook.
+
+Best one I ever found was at a garage sale and was like 6"" thick Ring binder full to the brim with yellow pages some with stains.  It honestly should have been a family treasure and I got it for $20.
+
+Hundreds of family recipes with easy to follow hand writen notes.  I'm sad i never met the grandma that this thing once belonged to.
+
+Edit: Wow thanks for all the up votes.  Its nice to read the comments about other people that have found cool old cook books.
+
+Edit 2:  OMG this is my biggest post ever.  Thank you for the awards and all the votes.  You all made my day :)
+
+Edit 3: Sweet Raptor Jesus...I guess i have a project now to scan and upload this book.
+
+Umm a few people asked so here is my favorite recipe.  These things are amazing and disappear so fast.
+
+
+[My favorite recipe in the book](https://www.dropbox.com/s/b8rrlr5xh5dbfzu/20200721_224518.jpg?dl=0)"
+43611,"Or an old school home ec textbook. Found one at a thrift shop and it’s from the early 60s and it’s awesome. It’ll teach just plain old home cooking, but also includes stuff I’ve never seen in other cookbooks. For example, how to time everything so it all comes out at once, a chapter on cooking for the ill, and there’s also a dated chapter on losing or gaming weight. Budgeting is also a big part, as well as just planning tasty, balanced meals."
+43612,The part about timing things sounds super helpful!
+43613,As a Canadian it is really upsetting to hear about all the things that can supposedly be had for $100 in other places.
+43615,This comment was such a roller coaster I am seriously considering buying one.

@@ -1,0 +1,545 @@
+idx,text
+616,So... what VPN do you recommend. Legitimately would love to know.
+617,"I strongly suggest you take a look at cyberghost and Mullvad. There are hundreds of VPN services. I wouldn't necessarily advise someone to give them all a shot. Assuming some VPN services are unsafe, unreliable or malware, your advice would include an unnecessary exposure to risk. The only somewhat reputable [VPN trial](https://www.morecyberdeals.com/NordVPN/) is the one from Nord. Many others are pretty sketchy and shady."
+619,"PureVPN user here, i actually look to get away from it because i feel like there's better options out there.
+
+p2p speeds are terrible, one rare day 7mb/s download, but most others at best 1-2mb/s within barbados or the netherlands with configuration set in favor for speed rather than security.
+
+it's been an ok 4 years but certainly not the best!"
+620,"mullvad all I want perspnally. port forwarding, no logs, fast, low price, good rep,"
+621,How do you make mullvad fast? Its slowing my internet a lot. Pls help
+622,">How do you make mullvad fast? Its slowing my internet a lot. Pls help
+
+Every VPN will slow down your internet - you need to get more data than that."
+623,"I'm curious what speeds are you getting with mullvad from a heavily seeded torrent? I'm currently using surfshark and I'm getting my full speeds (250 down 25 up are my advertised speeds).
+I was looking at signing up for mullvad once my subscription expires since surfshark doesn't support portforwarding.
+But if mullvad doesn't give me all or a big chunk of my current speed it might not be worth switching."
+624,"Over the last 10 years, I've cycled through a lot of VPN providers.
+
+I'd say the experience and performance varies greatly by location, ISP and whatever deep packet inspection they're employing.
+
+Mullvad has always given me ~75% of my ISP bandwidth and their multiple permanent port-forwarding feature trumps any minute speed loss for me."
+625,A lot of talk about Mullvad. Where would you recommended getting started with it? (aside from downloading it obviously.)
+626,">A lot of talk about Mullvad. Where would you recommended getting started with it? (aside from downloading it obviously.)
+
+Proper, unlimited and full port forwarding."
+627,I know. I just want to what the best settings are
+628,i just use wiregaurd with closest server
+629,Probally tyler the creator is the closest with 699
+630,"Yes, every provider usually reduces your connection because it is using servers and split your internet connexions. What you can do is picking servers that are closer to you  or by installing it into your home router. Personally it worked that way for me."
+631,How do you install it into your home router
+632,"Mullvad, because nothing beats multiple open port forwarding."
+633,"Airvpn, Protonvpn, Mullvad and Ivpn"
+634,"No logs (so nobody can subpoena your activities)
+
+Independently audited (to make sure no logs is a genuine claim)
+
+Lots of international servers (improved bandwidth and access to media in foreign countries)
+
+ OpenVPN (TCP and UDP) and WireGuard
+
+Kill Switch (closes apps that use VPN  if it fails)
+
+Allows torrents (Norton doesn't)
+
+Competitive prices and positive reviews"
+636,"How does someone ""do your own research"" without including reviews? Are you suggesting that no review sites are credible? 
+
+There are dozens of VPN services. Are you advising people to use free trials to assess them all before buying? Assuming some VPN services are unsafe, unreliable or malware, your advice would include an unnecessary exposure to risk. 
+
+Independent audits aren't a panacea or guarantee. They are better than no audits and unfounded claims of privacy and security. Are you suggesting that a level playing field exists for all VPNs? I ask because you've implied reviews, word of mouth and audits are redundant. 
+
+I'm willing to bet you're using a well known VPN - Mullvad or Top 10 equivalent. You chose it from a limited number of higher profile VPNs with positive reviews and word of mouth."
+638,"Cool, because there's a consistency between reviews and popularity. Protonvpn wouldn't be high on search engines if it wasn't for popularity. You've assured yourself that Proton is good and so have a lot of review sites. By extension, it's possible that reputable review sites are positive about other VPNs because they're also good."
+639,"This guy is a tool. He himself will use ProtonVPN but then say HMA and Norton VPN is ""basically the same"" as that and will argue with you unecessarily. He pretends no logs VPNs that are reputed with experienced downloaders are somehow the same as HMA because ""you cant verify"" if they dont log. HMA says they log! But dont waste your breath with this guy, he will keep arguing with you and creating disinfo. Nobody recommending VPNs to new users here say that VPNs are a 1 stop solution or you should trust them explictly, and recommend doing due dilligence before making any yearly commitments."
+640,"The two most important things a torrenting VPN should provide are excellent security and good connection speeds. Features like a kill switch and split tunnelling are especially useful here, too. Here is my recommending list of [best VPNs for torrenting](https://recoversoft.wordpress.com/2021/07/01/best-vpn-for-torrenting/). If the VPN goes down while you are torrenting, without a kill switch, your torrenting will no longer be private."
+641,"A quick question, what is your opinion on ExpressVPN?"
+643,"Thanks for the info, i just wanted to know if it was reliable, it's the first VPN I've used so i can't say I'm much of an expert..."
+644,"It's owned by a Chinese shell company, they pay heavily for shill reviews (just Google ""best vpn""), and they post shill comments on social media (like Reddit) and review sites.
+
+Other than that, they seem great."
+645,"With VPNs, ownership of the company is important. If it's suss, why use it? 
+
+Check this out: [https://strikesource.com/2021/03/09/chinese-vpns-are-recording-world-data-on-a-massive-scale/](https://strikesource.com/2021/03/09/chinese-vpns-are-recording-world-data-on-a-massive-scale/)
+
+I'm having a tough time finding an honest review of VPN providers from legitimate sources that isn't Chinese owned. I would imagine the government would love to log their citizens who use VPN services."
+646,"I purchased both ProtonVPN (Basic) and Windscribe (Pro).
+
+I could not even use Windscribe VPN service since bandwidth was very low. I asked for refund but they didnt refund it.
+
+Bandwidth while using ProtonVPN is very high. I didn't have any trouble while using ProtonVPN (Basic). Software provided to use their service is also very decent compared to Windscribe."
+647,"NordVPN -
+
+&#x200B;
+
+ No Logs, Nordlynx (for Speed), Tons of Servers around the World, Kill Switch etc"
+648,Nord has been caught multiple times leaking data.
+649,"You are so full of BS man. I have done multiple tests with NordVPN and not only found a speed improvement, but no DNS leaks , no logging, Kill Switch works perfect. Stop being a troll and an A$$HOLE!
+
+&#x200B;
+
+NordVPN is a great provider!
+
+&#x200B;
+
+&#x200B;
+
+Prove me wrong! Lets see where you get your sources from about data leaks."
+651,"That has to do with their payment system has nothing to do with the app dumb ass.
+
+Prove to me that users have been compromised using NordVPN then I may listen to you. For now I say Nord is one of the best VPN's around."
+652,"Sounds like you signed up for the year subscription and can't get out of it. You were just sent two documented examples of breaches, in which nord admits to keeping logs. You also never answered my question in regards to your claims about testing."
+655,That looks like a pay to play article…
+656,"Mullvad or PIA as others have constantly repeated, but yes [this best deal](https://www.morecyberdeals.com/NordVPN/) from nord is what i would personally recommend.."
+657,"Till now I have used lots of VPNs like CyberGhost, TunnelBear, etc. but none of them was able to provide satisfactory results while doing torrenting. But recently I switched to ExpressVPN and the results were really satisfactory. It helped me to share file torrent with other with the maximum protection and fast speed. For torrents, I would strongly suggest all of you go with ExpressVPN."
+658,"How would you rank expressvpn, mullvad, and cyberghost? I want it mainly to torrent, stream, and surf. I was on nordvpn before but I was not that impressed."
+659,I would suggest you to go with ExpressVPN. It is one of the best VPN currently available in the market.
+660,Take a look at nord's trial before anything else honestly. That or mullvad.
+661,"Nord is a great all around 
+
+But not for torrenting, lots of people still get copywrite warning from their service provide ""cut it out or go to jail'
+
+Cyberghost is made for torrenting, not that I'm encouraging anything. Small disadvantage in speed, but it's better than going to prison"
+662,"[NordVPN](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=60707&url_id=902) is great for torrents right now. It's fast, connections are stable, overall the best VPN."
+663,Give [NordVPN a look](https://www.morecyberdeals.com/NordVPN/). It's the best overall for these sort of things.
+664,for torrents specifically? [nordvpn](https://reddlink.tech/nordvpn.com). and it's crazy fast now.
+665,Mullvad or Windscribe. Nothing else comes close.
+666,AirVPN old but gold
+667,nordVPN has specialty servers for P2P.
+668,Nord is a data collection agency.
+669,Tell me the proof plz.
+670,"1. I use Windscribe, researched it and it is solid. 
+
+2. You can use the search bars on this or the r/piracy sub to search those VPNs for more info any time.
+
+3. You also can research them on torrentfreak.com  They both have outstanding records in court for not keeping user info. If they don't keep records, there's nothing to give law enforcement if they come knocking."
+672,"""Our"" requests? Find your own proof, I'm busy with 5 things."
+674,1000% wrong. You're addicted to Reddit. It's not how life works.
+676,"I'll explain how things work. I come on here with 20 years experience in building and repairing computers in my business including all the research I've done. I give the benefit of my experience and put it out there in good faith. If someone (or more) chooses not to believe that, then I or anyone else walks away and you figure out things for yourself. Do you get it now? I would do the same thing to you face to face. I'd smile and walk away waving like I'm doing now. Bye."
+677,"No he's right, the burden of proof falls on the one making the claim. I too am curious."
+678,"> You're addicted to Reddit.
+
+*Ad hominem* attacks are another sign of a weak argument."
+679,souce please...
+681,he hasn't shown anything so far :D another Reddit troll. Oh well :) was fun to read him though
+683,"I've been reading it for the last 5 years. I don't have to provide evidence to YOU as it was a couple years ago and I'm not a librarian. If you want to use Nord and get caught, be my guest."
+684,"> I don't have to provide evidence
+
+You made the claim, you back it up.  Otherwise your claim collapses under its own weight.
+
+They teach this in critical thinking 101  :)"
+685,"Like I said, enjoy getting busted."
+687,Like I said. I'm not a librarian. Do your own research and don't be lazy. Nord is used by a lot of people whop know nothing and don;t care because they do massive advertising. They are very dangerous for torrenters. I know it to be true. Believe what YOU want. I don't really care.
+688,"Windscribe, mullvad, oVPN"
+689,"AirVPN, Windscribe, Mullavad."
+690,Go to torrentfreak and check their VPN lists.
+691,"With torrents your main concern is getting a copyright infringement notice.
+
+It comes in the mail and yes ...
+
+I had two with windscribe :'( 
+
+Nord is probably good, but I prefer cyberghost because they don't have one centralized login. That would make it easy to tie activity to an account in an SQL table"
+692,"I will recommend to NordVPN, AirVPN, Mullvad or Windscribe for torrenting. There have many VPNs on the internet. So, I will suggest you must compare the [best VPN for torrenting](http://bestvpnchoice.wordpress.com/2021/09/30/best-vpn-for-torrenting/)."
+693,"I used [Nord's trial](https://www.synthesizerguide.com/nordVPN/) and never went back to anything else. Although for torrenting specifically, you got a couple of other decent options. My personal faves include:
+
+Torguard
+
+Cyberghost
+
+ExpressVPN
+
+There are a lot of options to choose from. Just do a little but of research on reviews for each vpn to know the best one for your circumstances."
+694,"here's the best ones IMHO:
+
+* tunnelbear
+* expressvpn
+* mullvad
+* torguard
+
+torguard is litterally designed for torrenting"
+695,NordVPN got good speeds but not being able to seed with them witch sucks....
+696,tunnelbear is faster and with them you can plant your seed
+697,i am using that one. why can't you seed with it?
+698,Dont have port forwarding. Google it
+699,"Happy cake day, btw."
+700,"i guess what ever that means?
+i do not celebrate any holidays.
+
+""cake day""?  what even is that?"
+701,"It was your Reddit ""birthday"". Hence ""cake day"" as you had the cake icon next to your name."
+702,"but i do not have a ""birthday""."
+703,"The anniversary of the day you joined Reddit. So, yes, you do."
+704,"i already knew that, but no i don't.  just because reddit says it, does not mean that i do.
+
+reality is not defined by websites.  reality is defined only by God.
+
+all birthdays are pagan."
+705,"Yeah, sure thing guy. Hail Satan."
+706,I use Nord. Have absolutely no issue seeding.
+707,"Nord does not have a feature for forwarded ports.
+your ""seeding"" is NOT what you think it is.
+BT clients need an opened port."
+708,So what is the seeding mine is doing then?
+709,"that is not true seeding.  it is not using an opened port at the end of the VPN outgoing server node.
+
+you cannot have a forwarded port for DHT to work, using NordVPN."
+710,Well I can 100% say I am seeding using Nord. I can see it being counted towards my ratio on private tracker.
+711,surfshark really tickles my pickle both for streaming and for torrenting
+712,What about IPVanish? There's currently a special for $48/year.
+713,Mullvad
+714,Thanks for the help! I’ll check this one out.
+715,I have been using smartdnsproxy for few months now and it works very well.
+716,Do you torrent a lot with it?
+717,I've used ExpressVPN and PIA and they are both fine.
+718,RapidVPN Switzerland server is what I use for torrent
+719,Mullvad and Windscribe are both great options.
+720,What are the pros/cons of each?
+721,Windscribe is slower than other vpns. Look for threads on reddit
+722,"Thanks for the info, i’ll check these out."
+723,Hi. I consider this as the [best vpn for torrenting](https://fivebestvpn.com/best-vpn-for-torrenting/) compared to other services. Recommend to read the article.
+724,"-	Celo VPN (offer port forwarding)
+-	Mullvad
+-	AirVPN
+-	ExpressVPN"
+725,WindScribe and PIA
+726,PIA
+727,"Not only can you unlock games you can unlock prices. If you look like you're buying in India the prices are way cheaper. My friend got Netflix for 3$
+
+But yeah it's highly illegal. He also got warning when using warez-bb, switched to Windscribe and got a copywrite notice. No problem since he started using CyberGhost. No login= Nothing to log data to"
+728,"What do you think about these fish?
+
+http://www.youtube.com/watch?v=c9BvQeBw4dI"
+729,Neat!
+730,What's the best ice cream to eat?
+731,"Coldstone's Cake Batter ice cream.
+...Am I fired now?"
+732,Could you recite all 31 favors off the top of your head if a customer asked?
+733,"I could, and I would, but then I'd feel pretty bad about my life.
+
+Thin Mint, Cherries Jubilee, Chocolate Chip, Mint Chip, Jamoca, Word Class Chocolate, Chocolate Fudge, Lemon Sorbet, Daquiri Ice, Wild 'N Reckless Sherbert, Bubblegum, Icing on the Cake, Rainbow Sherbert, Pineapple Wildberry Breeze, Gold Medal Ribbon, Pralines 'n Cream, Nutty Coconut, Strawberry Cheesecake, Jamoca Almond Fudge, Reese's Peanut Butter Cup, Snickers, Butter Pecan, Pistachio Almond, Rocky Road, Chocolate 'n Peanut Butter, Tax Crunch, Black Walnut, Cookies 'n Cream, Bundle of Love, Love Potion. 
+
+Yep...FML."
+734,Bubblegum? How do you and general customers like that one?
+735,"I detest it. And it's sort of an inside joke between us employees how gross it is. (But maybe that's because we're not two years old.) However, the people that order it range from toddlers to young women to butch bearded motorcyclin' dudes soooo, to each his own."
+736,What's Love Potion?
+737,Love Potion is white chocolate flavored ice cream with a raspberry ice cream ribbon and raspberry-filled chocolate hearts. (The Valentines flavor!)
+739,It's almost the season! Hopefully you can hold out a little longer.
+740,"As a former baskin Robbins employee, I used to hate scraping the tubs at the end of the night. What is your least favorite task? Also.... German Chocolate Cake needs a comeback..."
+741,"Ugh, someone that finally understands me. Scraping tubs is probably my least favorite thing too, next to interacting with all the people.......
+I also hate when an ice cream is particularly hard to scoop and someone orders something that requires like ten scoops. Some of my tears may have gotten into their triple large milkshake.
+German Chocolate Cake is currently available in pre-packed quarts! (In my store, at least.)
+
+
+Just to add, two of my biggest pet peeves are when either 
+a) people tap on the glass to get my attention while I'm scooping like I'm an animal in a zoo
+b) people ask me questions like, ""What does strawberry taste like?"""
+742,".... I know how I'm spending my Tax Return. My Local Baskin Robbins is about the feel the wrath of a man who really wants German Chocolate Cake Ice Cream. I used to really get mad when someone would walk in, say they were feeling daring, Try like 6 different flavors...then get regular Chocolate or Vanilla. What's your Favorite way to get ice cream? Mine's Mint Chocolate Chip in a Dipped Waffle Cone. Or A Butter Pecan on a Cake Cone."
+743,"Incidentally, I'd go with butter pecan in a dipped waffle cone. Gotta go with the classics."
+744,Butter Pecan is Underrated.  Awareness must be brought to the people.
+745,Do you get free ice cream? Have you ever spit in anyone's ice cream?
+746,"No. We get a 10% discount which usually isn't even worth using because we have to go through a process to prove that we used it for ourselves and only ourselves (we can't use it on friends, etc.) We get unlimited samples though so, can't complain.
+
+And no, although terrible, miserable, life-sucking customers make that fun to think about, I don't think I could ever do that."
+747,"I got some sort of smoothie at a BR some time back, took one sip and knew something was off. My girlfriend tried it too and agreed it tasted kind of fermented. We told the girl who made it and she lifted the little lid on the chiller container with peaches in it and got a really disgusted look on her face and called her manager, who got an equally disgusted and embarrassed look on her face. They offered me different one but I asked for a refund instead because I was starting to feel Ill.
+
+How often does stuff like this happen?
+
+Edit: Also, what the fuck did I probably eat?"
+748,"It's never happened to me or in my presence. A big part of my job is constantly restocking products that are perishable, or rotating products so that the older things are used before they expire. It's not hard to keep ingredients fresh! 
+That sounds pretty gross though... Now don't everybody rush down to BR for a smoothie at once!"
+749,When is the Shrek 2 sherbet going to come back? The one with the pop rocks. That was the best.
+750,"To be honest, I've never even heard of that one! But I feel like it'd be odd to bring back an ice cream based off a film from almost ten years ago? And I don't remember seeing this ice cream on the ""upcoming"" list! Guess I missed out."
+751,When it came out it was free for a whole day. I stood in line in front of BR for 4 hours for it and by the gods was it worth it.
+753,"I have tried all of them! And there are actually 36 flavors. Ice creams had to be made according to modern allergens, (dairy free, gluten free, nut free, etc.) so the 31 Flavors isn't so true anymore. 
+
+My top three have to be:
+1. Snickers
+2. Nutty Coconut 
+3. Love Potion No. 31
+but I love Butter Pecan and Chocolate Chip Cookie Dough (too many choices!)."
+754,"I love the Snickers and Chocolate Chip Cookie Dough. But Strawberry is my favorite forever. Still, you have great taste!"
+755,"I LOVE BASKIN' ROBBINS. That being said, do you know the recipes of the flavors? And what's the least ordered item on your menu?"
+756,I know nothing of the actual recipes besides the basic ingredients (essentially the flavor) of the ice creams and the allergen info. The least ordered items are probably the sherbet freezes. They're basically melty otter pops in a cup.
+757,"I used to work at Baskin Robbins... I used to troll customers into trying the Black Walnut flavor.. damn that was fun.
+
+ANYWAYS.. did you do the same? Are there any flavors that you like to troll customers into trying?"
+758,"Do you switch up scooping hands, or do you have one giant forearm?"
+759,"As much of a joke as it sounds, I really do have uneven biceps. One arm is totally toned and the other is but a noodle."
+760,how much is it to get the licensing deal for a country?
+761,Whens Daiquiri ice making a comeback?
+762,Daquiri ice is alive and well and has been for sale for a long time now!
+763,No kidding. Well I know where my fat ass will be all weekend
+764,You should carry peppermint all year long. It's awesome.
+765,"If I had a dollar for every time someone has said that! I have to give it to BR though, they sure found a way to bring people in during freezing weather."
+766,"My iPhone makes a static hiss when plugged into the speakers which stops exactly three volume clicks from its highest setting, one more click down or up and the hiss is back. Why do you suppose this is?
+
+Also, can we get some protein enriched ice cream? That'd be swell."
+767,"Sure, let me give Baskin a call."
+768,"Oh man not another one of these common ass minimum wage jobs!!!!
+
+Read the damn AMA rules!!!! This isn't something UNCOMMON that plays a central role in your life or something that is truly interesting and unique type etc. event....
+
+Downvoted."
+769,"Okay, I'm sorry. This is my first post and I was unaware. I apologize that my ""common ass minimum wage"" life created such a disturbance to your apparently very important one, as you obviously have nothing better to do than to take the time to chastise me for this cardinal sin of mispost. 
+Downvoted."
+771,What kind of ice creme do you recommend
+772,"If you like chocolate, try World Class Chocolate, Gold Medal Ribbon, or Snickers!
+If you're less of a chocolate person, try the Butter Pecan or Nutty Coconut!"
+773,"1- Mint chocolate chip
+
+2- Pralines and Cream"
+774,Praline and cream
+1748,Mint chocolate chip
+776,"Subjectively speaking, I find Haägen-Dasz is better than BR.
+
+Cold Stones is good too but I still prefer Haägen-Dasz."
+777,Rainbow Sherbet
+778,Jamocha almond
+779,"anyone else? Gharissa Icecream’s? Got to try them only recently, found it to be thick, rich & true to it’s flavor. 
+
+and, yes, Haägen-Dasz over Baskin Robbins.
+
+If we talking Baskin Robbins, honestly, just go for any icecream in the ‘shades’ of brown and get a good pump of those hot butterscotch sauce, some nuts and the cherries that taste similar to🪳. The butterscotch is the main element, atleast to me."
+780,I like carre four lemon sherbet
+781,Chocolate mousse
+782,"Jammin Jamocha
+World class chocolate"
+783,Pralines Cream
+784,"Mado, I love Turkish ice cream!"
+785,"For me, strawberry! Really good too with milkshakes!"
+786,"Mint chocolate chip, but only the green mint kind."
+787,"...and actual frickin' chips, too! Not those cheap-ass tiny flecks. I'm lookin' at you, Franklins!"
+788,"It's not mint chocolate *ideas*, it's mint chocolate *real fuckin chips*."
+789,I concur. That and strawberry cheesecake
+790,"I wonder who was the first person to put what outwardly seems like an odd combination of flavors together and yet the result somehow fits so perfectly. 
+
+If not man, than surely it must have been Prometheus stealing the recipe from the Gods."
+791,This guy knows the score.
+792,Ben and Jerrys mint chocolate chunk is seriously the best.
+793,Fuckin worst flavor. Almost as bad as tiger but different strokes for different folks...
+794,Butter Pecan.
+795,Butter pecan is far superior to chocolate. Prepare for destruction.
+796,Hell yeah it is.
+797,Good old vanilla. You can always customize it as per your choosing but vanilla is a really good base.
+799,"Cookie 'n Cream.
+
+The kind with Oreos."
+1707,Salted caramel
+801,Pistachio Ice cream. Tbh I don't think it tastes like pistachio at all but the flavor is addictive!
+802,Rocky Road
+803,Double fudge brownie!
+804,Baskin-Robbins chocolate chip cookie dough
+805,Sweet buttery asshole.
+806,"*sweet buttery asscream 
+
+FTFY"
+807,Homemade peach
+808,How can a person choose? How?
+809,The only right answer.
+810,Rocky road
+811,"Peanut butter chocolate chip, and lavender from a specific ice cream shop comes close second."
+812,Vanilla Bean. Haägen Das
+813,I don't like most ice cream flavors but damn moose tracks are definitely the best.
+814,"I loved moose tracks ice cream so much when I was a kid. Haven't seen it in the longest time, though. :("
+815,Dulce de leche
+816,Coffee ice cream
+817,"Rocky road all the way. It's got chocolate, vanilla, crunchiness... so delicious."
+818,Coconut & Lime
+819,Chocolate fudge brownies for me is the best
+821,Favorite ice cream flavor ever: Chocolate Chip from Baskin Robbins.
+822,macadamianut ice cream
+1757,Cookies and cream.
+824,"coffee, or rum n raisin."
+825,I don't care I just GOTTA HAVE IT!
+826,"Chocolate chip cookie dough. 
+Starwberry Cheesecake
+Mint chocolate chip
+Whatever the name is of the one with brownie chunks with shit tons of chocolate 
+
+Can't go wrong with any of those."
+827,White chocolate with salty liquorice
+828,Cotton candy!!
+829,[Red velvet cake](https://1.bp.blogspot.com/-Z3mZHVkpcJg/TlGkj1eVbNI/AAAAAAAACgQ/xcs8VR6Avy4/s1600/blue_bunny_red_carpet_red_velvet_cake_ice_cream.jpg)
+830,"Turkey Hill has this ice cream called double dunker. It is love, it is life. If it were a man or woman I would gladly make sweet sensual love to it to the calming sounds of Barry Manelow. It has coffee flavored ice cream with chocolate chip cookie dough chunks and Oreo mother fucking swirl. If you haven't tried it start living. Get a pallet. Then go out into the world and be forever known as the guy who fucks because you'll have a grin the size of Texas on your face and you probably won't be able to walk straight afterwards. Welcome to manhood, Shirley"
+831,I love cherry Garcia
+832,green tea
+833,Vanilla
+834,"Coffee.
+
+Cake Batter.
+
+Chocolate Fudge.
+
+Strawberry.
+
+Cookie Batter."
+835,"Lemon with chopped basil. Trust me, once you have tried this, regular lemon ice cream (which is already superb) will taste like sunscreen in comparison!"
+1663,Cookie dough
+1720,Strawberry
+838,Fireball
+839,Green tea
+841,Cake Batter from Coldstone
+842,White chocolate raspberry
+843,Tiger.
+844,Rocky Road!!
+845,Tabasco.
+846,Blue moon
+847,Cookies 'n Cream Oreos Style is my favorite.  Second favorite is Strawberry.
+848,Bubblegum all the way
+849,"Cotton Candy, it's like vanilla but with a kick to it."
+850,Imma try that next
+851,bbq ripple.
+852,"This frightens me.
+
+But jfl like I'd *ever* eat ice cream."
+853,"it's the national ice cream of bisexuals the world over.
+
+It Is Known."
+854,Peanut butter chocolate.
+855,Jamocha almond fudge
+856,Pumpkin Pie ice cream. It is awesome!
+857,My second choice is Oregon Blackberry ice cream.
+858,"Mint chocolate chip
+
+Green tea"
+859,Rum raisin; mint chocolate chip; and butter pecan - in no specific order.
+860,Pralines and Cream
+1714,Coffee
+862,"idk, never tried"
+863,Kleenex and Puffs are fine for me. I only need to blow on a tissue once or twice. It is not being saved like a handkerchief. I would rather it be soft than scratchy is all.
+864,"Puffs suck. They have a tendency to leave behind fluff. Kleenex. Plain Kleenex. No softeners, moisturizer, medication. 
+
+Just plain Kleenex."
+865,You can buy Tempo on Amazon.
+866,How very American.
+867,The lotion and extra soft versions of kleenex and puffs are pretty good.
+868,"I bought these German tissues at a clearance store (similar to TJ Maxx) and they were very thick. They were similar in texture to the fancier kind of paper napkin. Its not like anything that's sold in the US as a tissue. 
+
+OP, try these: [https://www.homedepot.com/p/Vanity-Fair-White-Paper-Napkins-100-Pack-35501/303197716](https://www.homedepot.com/p/Vanity-Fair-White-Paper-Napkins-100-Pack-35501/303197716)
+
+The brand should be available almost anywhere -- Target, a big grocery store, Wal-Mart, and as linked, Home Depot."
+869,"It sounds weird but get the Charmin Ultra Soft toilet paper. I always use that instead of tissues when at home, it’s much better imo."
+870,"Same, I haven’t found any tissue brand that doesn’t wreck my nose."
+871,Have you tried Puffs Plus? Kleenex are pretty thin.
+872,I had no idea American tissues sucked :(
+874,A nose in need needs Puffs Plus indeed! I buy the boxes in bulk every spring. Otherwise my nose gets raw and painful.
+875,Search 'Kleenex UK' on Amazon and pay $20 shipping
+876,"If I’m not sick I use a cloth handkerchief. I have a deviated septum which makes my nose run when the air is dry, I would kill so many trees using tissues.
+
+If I am sick I use our apparently weak tissues out in public, I want to throw those out immediately anyway.
+
+At home I use toilet paper."
+877,"If you just buy the cheapest generic ones, you'll get super thin that are basically nothing. Go name brand and you'll probably be fine."
+878,We had one of [these](http://www.anglepoise.com/Anglepoise_Original1227.aspx) when I was growing up it went missing in a move but it was pretty indestructible
+879,The Anglepoise is a design classic. Designed by a automobile engineer who spent his life designing car suspensions.
+881,"Kind of defeats the purpose of having this subreddit doesn't it? If anything it's raging against the ""cheap"" ""use and throw"" nature of the IKEA world."
+882,"It certainly does. But the light quality is fine, and some things you don't need to BIFL."
+883,But the people here DO want to BIFL. They want something quality they never will have to worry about replacing.
+884,"> It certainly does. But the light quality is fine, and some things you don't need to BIFL.
+
+Uh... good for them?  But the title of the post clearly starts with ""BIFL request"" not ""cheap, but good enough for a couple years request""."
+885,"I know, but I'm just pitching in my experience."
+886,"I have the same IKEA one, can definitely recommend it. Lost some springyness after a while but the simple design made it easy to just tighten the springs so now it's all good. Attaches to a wall, desk, etc. Can be screwed in or clipped on an edge. Flexibility = awesome!"
+887,"You can, however, wear out the springs. I have seen a couple of those used in places like garages, where you would point the light in awkward directions frequently, with worn springs. *On a desk, however, it will probably outlast your children.*"
+888,This is the only one posted yet i'd have in my house.
+889,A simple [banker's lamp](http://imgur.com/6UQBx) has served me well for about 20 years with no sign of slowing down.
+890,"There's a ton of them available on ebay for $10 to $20, including ""vintage"" ones.  Considering how many of them are available and how I can't find anyone selling a broken one, this sounds like a great BIFL item.  Not surprising considering how few moving parts they have, and their lack of fiddly plastic bits.  
+
+Of course, if you really *want* to spend $500 on a fancy designer lamp, go ahead.  But a banker's lamp seems like the perfect desk lamp.  And some of them are pretty damn beautiful, too (but that could just be my inner steampunk talking)."
+891,"i'd like to get a banker's lamp but my concern with getting the cheap ones is that I worry the stand will be made of some crappy plastic and spray painted bronze. I'd like a real bronze stand, heavy and solid but i'm sure those are very expensive."
+892,"Actually, they're really cheap.  The ones I saw on ebay were actual brass (well, at least the ""vintage"" ones definitely were, brass was cheaper than plastic in those days anyways).  It's pretty easy to tell fake brass from real brass, even in a photo.  [Here's one](http://www.ebay.com/itm/BRASS-BANKERS-LAMP-WITH-ADJUSTABLE-HEAD-LIGHT-BULB-/221105876705/) that looks pretty BIFL.  [This one](www.ebay.com/itm/VINTAGE-BRASS-BANKERS-DESK-LAMP-w-CLEAR-RIBBED-GLASS-SHADE-/190713964259) and [this one](http://www.ebay.com/itm/Vintage-MID-CENTURY-Green-Shade-Desk-Bankers-LAMP-Brass-/330778671484) are pretty cheap and look like real brass and glass to me.  If you can't tell from the photo whether it's real brass, check how much they're asking for shipping.  Brass and glass are pretty heavy, so it'll be around $15 or $20 (plastic would probably be closer to $10)."
+893,"thank you! unfortunately i don't live in the US and shipping (where shipping outside of the US is an option) is really expensive to Singapore. i will keep my eyes peeled on ebay though, i'd never considered that before. thanks again."
+894,"How about a [Luxo](http://www.luxous.com/) lamp, as seen in Pixar logo? I bought a used one from someone that has a large magnifying glasses built-in. It's mostly metal, solid industrial strength construction."
+895,"The [Tolomeo Table Lamp](http://www.ylighting.com/art-tol-cl-led.html) by Artemide (pronounced Ahr-tim-mid-dee) is seen in almost every movie. Here it is on the desk at [NCIS](http://i.imgur.com/u2LNa.png) (pronounced Cee-ess-eye-rip-off). It is beautifully balanced, pivots and can extend pretty much to full length without tipping over or needing to clamp to the desk. This allows you to use it as a task lamp with a compact head that won't obstruct your work, or can be brought up to full height to work as a flood. There is a similar lamp at Ikea called the [Husvik](http://www.ikea.com/us/en/catalog/products/70140257/) but I cannot vouch for its quality. The Tolomeo has won multiple awards and is in the Museum of Modern Art's permanent design collection."
+896,$460 ?
+897,"Yeah, not cheap, but well designed. Here is the mini version for [$290](http://www.amazon.com/Tolomeo-micro-table-lamp-Artemide/dp/B001CN8EIY/ref=pd_rhf_ee_p_t_1) on Amazon."
+898,"This beauty arrived today:
+
+http://www.gertsenpr.com/blog/wp-content/uploads/2011/08/3_PH-2-1-Table-Paris-3.jpg
+
+PH 2/1 table lamp, by the Danish designer Poul Henningsen. It's built to illuminate as much as possible without ever causing glare. It's not cheap, but my descendants will fight over it when I'm dead. And it's beautiful."
+899,"Hm that looks fancy, how tall is it?"
+900,"35,5 cm"
+901,"Z-Bar. It built with LEDs, will actually last for L in BIFL.
+http://www.amazon.com/Z-Bar-Power-Lamp--Metallic-Generation/dp/B000U6DW5E"
+902,Do you have one of these? I want to know what people think about it.
+903,"Yes, I have it right on my desk. I have the first version, so the brightness is lower than the current one. I have 6 LEDs in a row. It means that everything on the desk has 6 sharply defined shadows, which is unique but some might find it unappealing. I like it.
+
+I's not too bright, plenty bright for night time and to help to read at dusk, but if you use it daytime, it won't make much difference.
+
+As an aesthetic statement, it's awesome. Most people wonder what it is at first and they get kind of giddy with the +/- buttons :)
+
+We've moved a lot, and if you do too, you will love the modularity of it. I have the round base plus the clamp base, and the light strip separates too. You can mount it the way I want it. 
+
+I had it over 6 years now. No degradation whatsoever. One of the tiny plastic reflector cup fell off after a rough move, but nothing that a tiny dollop of crazy glue can't fix :)"
+904,"Oh and they have the daylight and the warm light versions. I recommend the warm light, it won't mess with your circadian rhythm as much."
+905,"i have the i-Tower, which is a 2-part version of the Z-Bar (which has 3 parts + base), also built by Koncept. It's great, the base is solid and heavy, which i love. 6 LED lights, mine is in daylight but perhaps i will switch to a warm light version. it's plenty bright, which helps because i spend a lot of time reading at work."
+906,"[Sunnex](http://www.sunnexonline.com/tasklights/700.htm)
+
+/thread"
+907,"I saw a very nice battlestation with one of these lamps, but google does not tell me where I can buy one or find the price. Do you know by any chance?"
+908,"[Mine?](http://www.flickr.com/photos/fantasysage/6264543825/in/photostream/lightbox/)
+
+Assembled lamps ebay is your best bet. They are $$$ though. You can get the parts (head, neck, base) from an industrial supply store and build it out though."
+909,"Haha yep! Good job with that setup, I'll look into the lamp."
+910,"Isn't a desk space too valuable to lose on a lamp? I would either hang a lamp over my desk, or use a floor mounted lamp instead. I'd be knocking over a desk lamp all the time and grudge it the footprint is occupies."
+911,"I'd prefer a clamp style one for that reason, but I have a decent amount of space on my desk if I can't find a good enough clamp style one."
+912,"That lamp doesn't look like $170 worth of lamp to me.  It looks like about $40 worth of lamp.  
+Lamps don't really need to be particularly durable.  Anything with half decent hinges and joints that are wood or metal should be sufficient.  
+Simple CFL lamps will be more reliable, since the ballasts are built in to the lamp.  LED lamps have the ballast built in to the lamp, so if the ballast dies the lamp is useless. (Ask me how I know).  
+On top of that, you are limited to the color temperatures that the manufacturer provides - you can't replace the LEDs easily.  If you don't like the color of the CFL, you just buy a different one.  
+LEDs will also tend to have a more narrow throw than CFLs, even with wide angle lenses.  
+I'd just start [here](http://www.ikea.com/us/en/catalog/categories/departments/workspaces/20502/) (Yeah, it's ikea - but they make decent enough CFL lamps with a great selection, and it's not like they make lamps out of particleboard) and pick something with a solid classic lamp design and CFLs.  
+I have [this](http://www.ikea.com/us/en/catalog/products/20370383/) one and it's great.  Clamps to my desk behind my LCD and comes right over the top of it.  
+There's no reason BIFL needs to equal the most expensive option.  
+EDIT:  You can also switch out the CFL to higher or lower wattage to adjust your brightness.  \
+EDIT:  Disagree with an ikea recommendation all you want, but the CFL info is solid purchasing advice."
+913,"I have the Jansjo (the first one) and it's a piece of garbage. A desk clamping one like you linked would be great, although I wish it came in black to satisfy my OCD :P
+
+I'll make a trip to IKEA next time I can."
+914,"Funny you say that, I had the Janso one first, too.  It sucked ass.  The power supply burned out pretty quick.  
+The clamp one I got is perfect."
+915,"I had a TERTIAL for a couple years, the bits that hold the ends of springs are made of very cheap plastic looking material. 4 of them on mine cracked and broken off spontaneously under the tension of the springs. Unless they fixed this quality control issue in recent years, I wouldn't recommend it."
+916,"That's too bad. I've had two tertials for 12 years, and they're still going strong. I just tighten the screws every few years. I guess it shouldn't surprise me that quality has gone down."
+917,"A Dazor model 1000 like this:
+http://img.auctiva.com/imgdata/1/1/2/8/1/1/4/webimg/489608552_tp.jpg
+
+They go for around 40-75 on ebay and many are well over 50 years old.  Very heavy and high quality and made in USA.  There are several other types of Dazors that are clip on that also look very nice."
+918,"Planet makes durable desk lamps, pretty standard looking and a touch of a collectors item but they're fucking good."
+919,"Since LED-type lighting is evolving pretty rapidly, this doesn't seem like a time when BIFL is really an option. If lights come out in 5-10 years with large surfaces with programmable color and temperature, will you really be happy with an incandescent, or a dated-looking LED lamp?"
+920,"Electrix makes [very well-regarded desk lights.](http://www.electrixtask.com/office_task_main.htm)  And they make them in the US!
+
+They are pretty pricey (compared to your average Wal-Mart or Ikea lamp,) but most of them will last for as long as you will, provided you don't abuse them (gentle adjustments, don't carry them by hinged parts, etc.)  I wouldn't say the gooseneck designs are BIFL, but the spring-arm ones should be (although you might need to replace the spring after a while.)
+
+I think everything carries a 3-year warranty, but I'm not 100% sure.  Most of the things I saw do.  Electrix also sells replacement parts too if you do need to fix something."
+921,This seems pretty sturdy http://www.kickstarter.com/projects/sketchydesignstudio/andromeda-tactical-lighting
+922,"I picked up a nice classic Dazor desk lamp at Goodwill the other day.  It's similar to the [2-tube fluorescent](http://www.dazor.com/2&3_Tube_Fluorescents.html) shown on their page, with the heavy ""desk base"", and the photos there really don't do it justice. It has much longer arm segments than most task lights you'll find on the market, and the base is *heavy*.  (It's full of cast pot metal of some sort, at least 5-10 lbs of it.)
+
+The nice part is that you can easily get various color temperature bulbs for it, and even combine 2 of them if you want an intermediate temperature.  I have daylight bulbs in mine, which some people find very cool, but you could easily get a lower-temp bulb if that's what you prefer.
+
+Whole thing cost me $10 plus another $2 to fix the sketchy plug.  Made in the USA, definitely looks like it'll last forever.  I'd certainly encourage anyone to keep their eyes open for one, and nab it if the opportunity arises."
+923,"More monitors! Basically the same thing :D
+
+Though in all seriousness I have a lamp from tau tronics and love it. Not a classic architect lamp exactly, but it is just as adjustable, you can change the light to be more warm or cool (the warm light is nice at night when winding down since it's not as harsh, the cool light is nice when I'm working on other projects at me desk), it's dimmable, and most importantly to me it doesn't look out of place at a computer. My version is built really well too, nothing feels flimsy or cheap. The exact version I have seems to no longer be on Amazon, but I'm pretty sure this the successor to it: 
+
+https://www.amazon.com/gp/aw/d/B0197ZOAKE/"
+924,Wow it has over 5000 5 star ratings Im going to look into this lamp a little more thanks for the suggestion.
+925,"No problem at all. They have a couple other designs on amazon, not sure if they have the same number of reviews but seems like most are at or close to 5 stars."
+926,"I didn't want to lose any desk space to the footprint of the lamp, but still wanted a high quality adjustable lamp.  This one is a bit expensive, but it's been fantastic.  LED, you can adjust the color temperature and brightness easily.
+
+https://www.amazon.com/gp/product/B014KQE6RW/"
+927,"Don't really use a desk lamp since...my monitors are bright as fuck, I have recessed lights in the ceiling and also a table lamp on a cabinet behind my desk. If anything, I'll get a floor lamp and put it off to the side of my desk..."
+928,I just got my wife a Himalayan Salt Lamp if thats your thing :o
+929,"this list is amazing, I like modern style.."
+930,"What if you got a wall mounted lamp and put it above your monitors?
+
+example: http://www.lampsplus.com/products/halogen-gooseneck-brushed-steel-plug-in-wall-lamp__13748.html"
+931,Wall mounted isn't a bad idea. Have you used this lamp before? I was leaning towards the LED type ones but I'm open to all suggestions.
+932,"You could also get [monitor stands](http://www.amazon.com/Dual-Monitor-Stand-clamp-monitors/dp/B002R9HQLI/ref=sr_1_1?ie=UTF8&qid=1364134752&sr=8-1&keywords=dual+monitor+stand), I recently got them a they somehow save tons of space on my desk."
+933,I want to but my Samsung monitor doesn't have the mount points for them. Was thinking about selling my current setup to get two Asus monitors that I could mount.
+934,"Are you certain it doesn't have mount points? I had to take off this plastic cover on mine to see where they mount.
+
+Also, Monoprice.com for really cheap and great quality ones."
+935,Its a smooth back but I can see if I remove the back if it has some
+936,"You could also make a monitor shelf out of a board and a couple bricks, and then light the underside of the shelf with adhesive back strip LEDs."

@@ -1,0 +1,105 @@
+"In stark contrast to the Aztecs...
+
+I wish I could watch a documentary on this."
+I've never worn perfume but I'm interested. Is this something one wears every day? Or is perfume a special occasion type of deal?
+best album for me is mach-hommy pray for haiti. find something new and great about it with every listen
+"Dark is ""Dunkel."" His name would've have been ""Dunkel Vater"" if it was in German."
+When he came on the scene because of Spider-Man and he was just so fresh and innocent in his interviews I remember being glad that he said people like RDJ and Bumblebee Cabbage Patch were taking him under their wings because I just didn’t want him to be ruined by whatever it is in Hollywood that just messes people up.
+"Back in 2012, I worked at a facility that did tagging for network promos. I don't know if anyone has done that stuff before but it can be lots of variables and deliverables incorporating one spot. When you have 40 or so deliverables to many networks and platforms, I integrated Trello into our workflow and they ended up buying the pro subscription to add other people to board. It works well more on an AE or organizational level, but for anything creative - or even laying down story ideas, it doesn't really help as much as a flow chart would."
+"Spend a few days reading results for ""mysql vs postgres"" and you'll find heaps of info.  
+
+I've probably read most of the first 100 google results, and a bunch of things they all link to.  I'm really slow at making ""shopping decisions"" (even though this is free, it's a large investment of time to learn).  I should have done 10% of the research and spent the rest of my time just jumping in and learning postgres.    It doesn't take a heap of learning to switch anyway.  
+
+I built a couple of projects around that time on mysql seeing I knew it and just wanted to get on with building, and I now really wish I'd switched sooner and done them on postgres instead of just reading ""vs"" debates on the web (although not many people who have used both who prefer mysql).  The latest project around that period I actually did initially build and almost finish on mysql, but then converted to postgres.  It was definitely worth it.
+
+There were a few minor inconveniences with postgres being stricter about how I insert data - but they all have good data integrity reasons behind them.  In the long run this is actually very important to ""fail early"" to ensure you don't end up with a messed up production database down the track that needs a bunch of fixes applied to it that never would have occurred if the database was stricter to begin with.
+
+Likewise PHP's default behaviour of errors that still allow the script to continue are the biggest reason behind PHP systems built by beginners being buggy.  When starting out, new developers who haven't set up exceptions and logging notifications likely are deploying projects that are generating errors all the time, and they'll only find out when the issue is big enough for the client/users to notice something being broken on the site.
+
+Languages like Python and JavaScript will by default throw exceptions and stop running when there's a bug.  It feels like a pain in the ass when you're trying to learn - but forcing you to ""fail early"" and fix the minor bugs or ambiguous means you'll release much less buggier code.   
+
+For your PHP projects, I highly recommend you enable ""error exceptions"" at all levels of errors so that you can fix everything from the start, including minor warnings.  Also make sure you have some kind of email notification system to let you know when bugs occur in both dev + production.  Monolog is good.
+
+
+
+Here's my summary:
+
+### Postgres benefits:
+
+* stricter about ensuring you enter data as intended, one simple example is no crazy ""0000-00-00"" bullshit
+* reputation as mobile stable/reliable
+* much more functionality, one big difference is recursive CTEs, i.e. you can get a whole tree structure of recursive records with parent_id values in a single query, ordered however you want while maintaining the tree structure
+* JSON is a first class citizen, you get the flexibility of structure-less nosql, with the power to do complex queries with standard SQL
+* [foreigndata wrappers: you can use a postgres connection to query data stored in all sorts of things... mysql, sqlite, other postgres servers, most of the common nosql databases, JSON files, git repos, IMAP servers, web APIs etc](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
+* truly open source, not controlled my a private company... especialy not oracle who have a vested interested in discouraging mysql
+* not fragmented like mysql/mariadb/percona is now
+* much much better doco than mysql
+* features being added very rapidly
+* these days performance is generally as good as mysql or better, especially for complex queries.  most of the ""mysql is faster"" stuff you read on the web is old and based on MyISAM - which nobody should be using anymore
+* more flexible CHECK constraints you can easily add to table definitions
+* mysql only supports SQL in procedures (functions). postgres supports: SQL, tcl, perl, python, javascript, lau, R, sh
+* more native column/data types like: IP addresses, UUID
+* timezones included in timestamptz (datetime in mysql) columns - this ensures there's no ambiguity about whether or not your data is UTC.  very convenient for development/debugging... timestamps always get stored as UTC ""under the hood"", but you can view them using a different timezone based on a db connection option (and also do timezone conversions in the db if you like)... so in the database GUI you use during dev for example, you can see all the timestamps in your local time rather than UTC if you prefer.  
+* having both postgres + mysql (or even postgres only) on your CV will make you look better for higher end jobs on larger or newer systems
+
+
+### MySQL benefits - (all with caveats, haha):
+
+* easily to get started - because it's not very strict with what data it accepts (and then may silently change, unless you're logging warnings etc)... so it's a short term benefit, but long term risk
+* right now I think the **built-in** multiserver stuff might be a bit more complete - but even after 18 years of web dev, I've never needed a multiserver database cluster for a single project (of course I and the clients all thought we would, but in reality you need to be running something massive like reddit to really need it).  By the time that I do need multi-server, postgres will probably be better anyway.  Note I'm only talking about the built-in functionality here, there's already shitloads of things you can add to postgres for clustering
+* if you want to hire cheaper developers to work on a project, they're more likely to only know mysql
+* likewise you'll probably find more employers looking for people to work on mysql projects - however this will likely be lowerend/small jobs
+
+
+
+The only recent support I've seen for mysql over postgres was the Uber case.  But they were basically using it like a dumb JSON datastore instead of a relational database.  And even their use case preferring mysql has been refuted my a bunch of people that probably know better.  
+
+
+
+""Web scale"" has basically become a meme.  It's basically mocking the proponents of nosql databases, because generally SQL will in reality be better for almost every web project, and 99.99% of projects that think they're going to be the next facebook will in all likelyness never need more than one server.  So don't cripple your project with nosql from the start to solve a problem you'll probably never get to anyway.  
+
+If you do get there, you can solve it then.  Even very large sites that use nosql often still use SQL as their primary database, with the nosql cluster being used more for stuff like caching.  Reddit is one example of this: Postgres + Cassandra.
+
+The biggest mistake I made in starting SaaS company/website I started about 7 years ago back was wasting heaps of time building it to function across multiple servers so that we were ""ready"" before we needed to be.  7 years later that site is still running on one $5/month VPS.  I could have been spending that time improving or marketing the product, and maybe then I would have had enough customers to start worrying about scaling... a nice problem to have, but doesn't need solving until you get there.  https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
+
+And anyway, Postgres will scale massively if you know how to use it properly, and learning to do that is less work than jumping over to some entirely different nosql system with massively reduced querying functionality.  Postgres has been shown in some benchmarks to be faster than mongodb when used a a JSON store anyway.  
+
+Most of the ""nosql is better for web scale"" shit comes down to people never bothering to learn to use mysql/postgres properly to begin with."
+80s Windies and 00s Aussies were seriously intimidating.
+"I also use vscode, but it's not fast. You got tons of stuff that just mitigate that effect overall. The issue however relies on electron, not VScode itself."
+"I once got End of Eternity on a book sale, not knowing what it is. Boy, was I surprised. Great story and a wholly novel approach to time travel ideas!"
+Uprights are less efficient. Every time you open the door all the cold pours out. A chest keeps the cold in.
+"American Optical is the military issued pilot sunglasses, they look nice to boot"
+"Nope, just what I said. For context, even the most comfortable mattress will eventually give you bed sores."
+"Your [comment](https://www.reddit.com/r/LaptopDeals/comments/pzjtue/best_general_use_laptops_updated_for_october_2021/hkkt2vs/) in /r/LaptopDeals was automatically removed because you used a URL shortener.
+
+URL shorteners are not permitted in /r/LaptopDeals as they impair our ability to enforce link blacklists.
+
+Please re-post your comment using direct, full-length URL's only.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/LaptopDeals) if you have any questions or concerns.*"
+"Just for reference, Home Depot offers the same ""meet-and-beat"" price matching."
+"pharmacist here, you never skip a dose for this medicine. develop a habit of taking your medicine the moment you wake up."
+"This would be great for people with memory problems. I shared a hospital room with a woman who was in because of an accidental overdose. She took her meds, forgot, took them, forgot, took them etc."
+I’d say through God Emperor is good. After that it goes off the rails weird.
+Knotts Scary Farm is really well done
+Not in the western world.
+"To me these guys are unimpeachable 
+
+-Tom Brady
+
+-Jerry Rice
+
+-Lawrence Taylor
+
+-Deion Sanders 
+
+-Jim Brown 
+
+You can argue everyone else. You can debate whether Payton or Sanders deserves to be the other RB or whether a Montana, Manning, Graham, Starr or Unitas should be the other QB’s. Moss, TO, Largent or Hutson."
+"Can confirm this. I have the Kawika model and the polarized lenses are simply stunning.
+
+Their QC is not very good though. Had issues with my first pair and then the very same issue with my replacement pair. The third pair was finally perfect."
+"US News has a social mobility ranking and UC schools top the list. However, HBCUs deserve a lot of credit for bringing generations of black students out of poverty."
+Yep that sounds like a nightmare. :(
+Chicken and waffles you fucking faggots

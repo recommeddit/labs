@@ -1,0 +1,614 @@
+idx,text
+29727,"They integrate with another product to do the banking pulling in. So it's an ongoing cost for them to pay for that service (it's also probably setup per user, so the more users they have using the auto-import feature the more it costs them. So part of that monthly fee goes to that. But it's also all hosted by them so they have ongoing server costs and all that fun stuff to deal with.
+
+On the plus side, they control the platform now so they don't have to live within the rules of Dropbox. As an app developer who has worked on rather complicated Dropbox sync solutions I can't even begin to explain how awesome it is to own and control the entire stack for sync. It makes a huge difference to reliability and features. You spend less time trying to hack around problems and more time making better features. 
+
+My only major complaint with the new YNAB service is they don't encrypt the data I store there with my own keys. I'd much rather that only I have access to my data stored there. Instead it's encrypted on disk by a shared key that per their privacy policy or security docs only certain people at YNAB have access to. But either way, I'd rather that the keys to the kingdom be held by me, and not someone else. I have no qualms with cloud syncing when it comes down to me controlling the encryption keys."
+29728,"The encryption strategy you're talking about sounds great, but I haven't encountered it.  I get nervous about putting my info into YNAB and other finance tools.
+
+Can you refer me to any services that use the encryption you described so I can learn about it (or switch to it if it's something useful to me)?"
+29729,"Services like Signal do this really well. I believe they have the details written up how they've implemented the security stuff on their site somewhere.
+
+iMessage as well. The encryption keys themselves are generated and stored locally on each device. While this has some wonkiness to it at times it generally has gotten better over time for me. And I appreciate the difficulty they have to contend with here. 
+
+The biggest one that does this is 1Password's new subscription service. They even have a white paper that describes the details of how it works  in language that is very readable. They don't store anything on their side that can even be used to facilitate cracking. 
+
+I believe Keybase may be of interest as well. Though I'm not totally sure if they base a bunch of it on GPG or their own stuff these days. It's a super neat service, but it's also incredibly confusing due to GPG not being used for their new teams, chat, and git services."
+29730,"The thing I like about online is: You can usually enter transactions manually still. There seems to be a day or two delay before you can import them, but if you manually enter them and it then imports the transaction, it doesn't duplicate it. It only ""links"" them together.
+
+But at the same time, if you miss a transaction it will automatically import it for you in a few days."
+29731,"I just always import.  It's especially annoying at the end of the month when I want to sort everything out and assign leftovers to savings but they're not in yet, but usually I wait because 5% of the time either I enter it wrong or the charge comes in a way that doesn't link correctly, like when Amazon splits up charges by shipping unit."
+29732,"What kills me is when I have charges that randomly take over a week to import. Like, I'm trying to sort my budget from last month a third of the way into the next month. If I had a firm grasp on this or the time to do it manually, I wouldn't need YNAB."
+29733,"It wasn’t for a long time.  It’s only recently, especially with the new mobile app that I felt the price was finally justified"
+29734,Thankfully I joined after the app was improved so much. I love the app so much.
+29735,"I’ll third YNAB - they also have lots of training videos/articles - at least one is for variable income like you mention 
+
+- https://youtu.be/BTEOEbt8lBY
+- https://www.youneedabudget.com/slaying-the-variable-income-dragon/"
+29736,I'll fourth YNAB.
+29737,"It's interesting that Ynab, a tiny company started ten years ago by one man in his spare time, is going head-to-head with relatively huge companies like Intuit with Mint, with success. And without any advertising. By relying purely on word of mouth, it means that everybody recommending Ynab must be happy with it."
+29738,"Mint's beginnings were just as humble as Ynab's .. Intuit bought out mint in 2009 - intuit did not create mint, but in my opinion they are quickly destroying it with ads/solicitations."
+29739,Here here!  I was a Mint user and left for YNAB because of how much they have ruined it.
+29740,"Is it that bad? I got the mint program a while ago but haven't used it, I've honestly just been using the excel budget spreadsheets but I'm looking for something else. What is bad about mint? I can go and try it myself but this might save me some time lol."
+29741,"I just got sick of the ads and other things. Under Intuit I think the ads have gotten more numerous. When I login the last thing I want to see is half a page of ads in my face. The $50 annual fee for YNAB is worth it just for no ads. 
+
+Also Mint would miscategorize a lot of things so I would have to go back and correct them. Might as well do it myself upfront(YNAB) to start with. 
+
+I also found I prefer the YNAB system more. It is the envelope system of budgeting. While Mint is more trying to forecast everything."
+29742,"Oh, I didn't know that. I tried it a couple of years ago, but can't say it was much use to me."
+29743,"Intuit got greedy and stifled innovation by insisting banks pay them monthly fees to be compatible with Quicken OFX so your bank is synced with your local account. OFX is an open protocol that could be used by any bank, utility, credit card company or lender, but because Quicken sucks, it will only sync with the handful of companies that bother with it. Intuit sold off the Quicken part of the company a few years ago due to its failed business model.  
+
+Use MoneyDance."
+29744,That's what happens when you make a great product that solves a problem.
+29745,From little things big things grow. Just yesterday I was reading an article about Dropbox's new building lease and also Drew's YCombinator submission for the product when he made the beta. Pretty motivating
+29746,Doesn't this cost a yearly fee though?
+29747,"Yes, but the ROI is insane.  My annual YNAB fee has saved me *thousands of dollars.*  
+
+It blew mint away, which ultimately just nagged me but did not change my behavior one bit.  YNAB was like a brutal spiritual journey where I had to confront my own consumerism and come to terms with the idea that desire is infinite and will never be satiated no matter what I bought, but my bank accounts are most definitely finite.  It sucked.  But now I'm debt free and have a six month buffer and am saving for a house.  YNAB will make me rich, someday.
+
+Oh, it also made my marriage stronger.  We are literally on the same page financially.  That also took some time to get there but it was worth every single squabble and compromise."
+29748,Is YNAB good on mobile yet? Last time I tried it most things I had to do on computer
+29749,"They just updated it! It's now basically the full web app on mobile, so you can move money from categories etc. On mobile now!"
+29750,"Only bummer is that you can't reconcile accounts, but that's not that huge of a deal."
+29751,"Yeah, I still do most of my budgeting on the web app, but having a mostly full experience on mobile is a serious improvement from what it was!"
+29752,The last big update just made everything 100x better on mobile. Moving money between categories was a pain before then. It's so clean now.
+29753,It’s great on Mobile. The phone app is close in functionality to the web app. The iPad version is almost indistinguishable
+29754,The YNAB app is fine for logging as you go!
+29755,You make it sound like a spiritually enlightening experience .  Geez!
+29756,"It honestly kind of is. It really does force you to face your spending head-on, and by the end your whole attitude towards money will change."
+29757,"Seconded. If you overspend a category in your budget, it doesn't break you, but it forces you to really consider what you're giving up in order to cover that overspending.
+
+Personally, the category I overspend in the most is ""Dining Out"" (go figure). When I buy fast food, it makes me feel good for about the 15 minutes it takes to eat. When I go into my YNAB app and have to move the 10-12 dollars from somewhere to cover my overspending, I realize that I just had to take that money from my ""Rome Vacation"" fund to spend on the burger and fries that I could have avoided. It's alternately terrible and wonderful."
+29758,Congrats!
+29759,"So the reason I stopped using managers was because they were never fast enough for me. I would always be checking my bank account and actively managing my money anyway, so by the time Mint caught up to what I'd spent my money on, I already was aware. I was just wasting my time on a manager.
+
+Is YNAB fast when updating recent transactions, or is it like Mint where it can take a full week to update your money flow?"
+29760,"It's on demand. If it's cleared your bank, it's importable into YNAB."
+29761,Current college students also get their first year fee : https://www.youneedabudget.com/landing/students/
+29762,"Yes, the first 34 days are free - there is a fee after that - and typically after 2-3 months of using it, you'll have developed enough new habits in saving money, planning for your future, avoiding overdraft charges, etc etc that the fee ""pays for itself"" in a majority of cases."
+29763,"I just checked -- my net worth is up 150ish% since I started using it in Jan 2016. I'm out of credit card debt, paid off a car loan and my student debt, put aside 20k+ in investments and savings, and I'm now about a month ahead of my regular expenses, so I'm no longer living paycheck to paycheck. Absolutely worth it for me."
+29765,"If you don't want automatic import (which takes a day or two before new transactions show up), just press the Skip button on that screen. If you already connected them, you can easily disable it."
+29766,"I haven't connected any of my bank accounts and enter everything manually. Which honestly makes the experience so much better, as the syncing seems to be buggy for lots of people. Join us at r/ynab if you have more questions!"
+29767,"https://docs.youneedabudget.com/article/32-recording-spending  
+
+Yes, the newest version is much more advanced than the old versions."
+29768,I still manually enter all info. Totally an option.
+29769,"I'll add another vote for YNAB.  I started using it earlier this year when I found out I was being laid off and it has really helped me feel more secure and in control with the reduced income.  I've always saved ""enough"" for retirement and long term/big expenses so I wasn't worried about not having an income, but I've indulged in some excessive lifestyle creep over the last few years, and YNAB inspired me to actively work against riding the credit card float and take better care of my disposable income.  
+
+The upfront $50/year cost made me wary, but in the first month of using it for free, after taking a REAL look at my expenses, I found an easy way to cut $55/mo out of my expenses, and did it the day after I set up my budget in YNAB.  So I saved enough in my free month to cover the subscription cost for a year, and will save another 12x that over the year from that one, single, simple change.   Between that one realization and several other small changes that have helped me focus on my actual priorities rather than spending mindlessly just because I can, I will be off the float within 1-2 more months."
+29770,"> Try YNAB free for 34 days
+
+That's an odd number (actually it's even but you know what I mean)"
+29771,It allows you to try it out for an entire month's worth of budgeting without having to pay. It's quite nice!
+29772,"> > Try YNAB free for 34 days
+>
+> That's an odd number (actually it's even but you know what I mean)
+
+The internet trains us into such bad habits.  I actually stopped reading your post at ""That's an odd number"" and started typing a joke reply before even reading the next word.  >.<"
+29773,"I prefer YNAB4, while it is on its way out, I am more mindful of my spending by manually entering transactions in.
+
+I work retail and am paid every 2 weeks, I'm still fighting my credit card debt so I haven't gotten to age my money as of tet, but with YNAB I am in a MUCH better financial place than I have ever been. Best impulse Steam Sale purchase ever."
+29774,"You probably know this already, but you can manually enter transactions in the new YNAB too.  I've never connected with my bank, and still enter and reconcile every transaction manually."
+29775,"Actually, I did not. :P Thank you for the information though! I am glad a manual option is there, I guess the other part of me staying old school is the fact I don't deal with a monthly fee. Maybe when I get my debt paid down I can roll over to the new YNAB."
+29776,"I don't know if some subscriptions are different, but I only pay once for the year, and it's $50. It was rough to come up with the first time, but I've got a cool YNAB budget now that lets me put away a dollar a week so when my scrip comes up again, it'll be easy ;)"
+29777,"I need some advice on how to use YNAB. I used it for 2 years but it really didn't work for me. What am i doing wrong? 
+
+- we'd have a monthly allocation for, say, eating out. But we'd have no idea of how much we had already spent that month. It wasn't until i imported all the credit card transactions at the end of the month that i would know if i was over or not. It didn't influence our spending. (We can't manually enter transactions as we go, hands are full with little kids)
+
+- categorising transactions took ages. Has YNAB got an auto-categorising feature yet? Surely it could suggest a category for ""McDonalds $9.90"". It took a whole night once a month to do, which was just too long and tedious.
+
+Any advice or tips much appreciated."
+29778,How does it work if I connected a credit card and a separate bank account that I pay off the credit card with? Does it double count the credit card transactions and the transaction from by other bank account paying off the credit card?
+29779,"No. It treats the credit card transactions as the actual transaction and puts the credit card at a negative balance. Transfers used to pay the credit card off are simply transfers, which cannot be assigned a category and so just bring the credit card balance closer to 0."
+29780,"Their import for their bank transactions can be extremely slow. At least it always has been for me. Personally, all of their features can be replicated in a less pretty version in Excel but otherwise I do like the tool but probably wouldn't pay to use."
+29781,If you have an excel spreadsheet as comprehensive as YNAB - please send it to me and i'll get it added to the collection of other spreadsheets on our tools wiki!
+29782,Does anyone have any experience with the phone app? Is it the same thing or is the website the best way to go?
+29783,"It bothers me that a site for making budgets costs me money against my budget...  
+
+Someone explain to me why paying a monthly fee for a service like this is worth it?"
+29784,"That's kind of like asking why you have to buy food in order to cook...
+
+Budgeting software, like all software, is a product.  Someone took the time to think of it, create it, develop it, and publish it, all of which costs time and money investments.  You, as the consumer of the product, pay to use the software the company developed, which is how the company pays the people who did/do all the work, and allows them to keep improving or create new products.
+
+Some companies give away their products for free, but typically either the product is really bad, or they make money in other ways, either by showing ads (or selling you other services like mint.com does) or selling the content you create using their software (like facebook and reddit)."
+29785,"It's an annual fee, $50 per year."
+29786,So I saw all the recommendations for ynab...went to the AppStore and saw ynab(you need a budget) and ynab classic. Which is better? what’s the difference?
+29787,"Go directly to www.ynab.com to start - get the 34 day free trail - be prepared to spend 1-2 hours setting up the budget, linking accounts, adding goals to your budget - the more time you dedicate to setting it up properly, the more likely you are to continue using it and benefit by using it."
+29789,"""YNAB"" is the most recent product. ""YNAB Classic"" is for users of the older YNAB4 software (previous version) which isn't supported or currently available any longer (as of Jan 2017)."
+29790,I love EveryDollar. It is the envelope budgeting system in an app.
+29791,"+1 for everydollar. Also, no adds for their free version."
+29792,"Hard to beat Dave Ramsey's advice. 
+
+Plus EveryDollar is free."
+29793,"(The base version is free, but the transaction syncing with your bank is $99/year.)"
+29794,"Yes! And it also has a ""funds"" function."
+29795,"This right here. Fantastic app. No ads. Never crashes. Use it all the time, daily. Almost perfect."
+29796,"Agree. I’ve found that the free version is actually best because instead of linking my accounts and auto-syncing the info, I am manually inputting every single cent I spend so I feel it more. No ads. Never crashes. Can’t recommend more."
+29797,I have used them all and every dollar is the best.  Hands down
+29799,That's why it's called fast food. Fast way to be broke (and often unhealthy) food.
+29800,"Mint does all of that but on a monthly level, I'm not sure if there's a way to do it on a weekly level other than to just look at your budget and see where you are in each category compared to how far long in the month you are."
+29802,I still don't understand why most features of the desktop version isn't on the mobile app since that is what I primarily use.
+29803,"I'm considering using mint to be my budget tool,  but I'm a little cautious about linking my bank account to mint. How safe is it exactly?"
+29804,"Incredibly safe. A lot of misconceptions revolve around hacking, websites selling data, or websites being compromised. You're more likely to get your information stolen by someone virtually ""watching"" your keystrokes (as in a keylogger, or a similar family of malware) than the website messing up."
+29805,Is there a weekly view?
+29806,"Mint sends me a ""Weekly Update"" email that gives me a breakdown of my spending for the week. 
+
+It's a really great program, and I recommend it highly. I don't have the app on my phone so I can't speak to that, but the UI of the desktop version is really easy to use and looks nice. 
+
+I tried YNAB, but found it to be much more labor intensive and also...ugly? Which I understand is a dumb reason not to like it, but Mint just seems much friendlier."
+29807,"I've found mint more maintenance and cumbersome myself in the past. That of course may have changed. 
+
+The new ynab android app really makes life easy with all the auto-imports, especially since we have multiple people using the app. All I do is monthly set my budget, then enter my expenses as they occur, and rest happens automatically. Now that I have monthly funding goals for most of my expense categories, budgeting takes 10 minutes tops a month after those were set up.
+
+I still adjust on overspent categories as needed."
+29808,"I use mint a for high level tracking and then I went a step further.  I have a Google sheet that breaks down in 2 week increments ( based on the couple times a month major expenses hit, like student loans and mortgage, and when paychecks come in). 
+
+I then have different cells set up as sums of expenses/deposits (I add lines entries as needed, like if I took out cash that week, or had a non regular expense paid in cash).  Credit card payments just take a single cell since I pay them in full.  
+
+
+Gives a more granular view and lets me know how much I'll have after major expenses come out, and if I need to shift money around in advance"
+29809,www.personalcapital.com for tracking your net worth.
+29810,"They have a great tool, but they've started to become a lot more annoying in the past few months.
+
+About every two months, there will be a new ""Personal Advisor"" assigned to me, who will then call me and try to sell me on their financial services.  I try to be polite, but they've been getting more pushy lately."
+29811,I haven't experienced that at all and I've used them for a year now. I understand how them calling you can be a pretty annoying. Would you happen to know of a similar service to track net worth?
+29812,"I'm evaluating different services right now (so this thread is awesome timing).
+
+I liked Mint, but last time I used them they didn't have support for RSA key fob things.  That's a big deal for me since several of my bank accounts use them.
+
+YNAB gets all sorts of praise, that one is next on my list.  Also, it's not free."
+29813,"Just tell them you work for (insert brokerage firm name here). Most firms don't let their employees hold accounts away so they'll leave you alone. 
+
+Source: Work for brokerage firm. Told them once and they don't call anymore."
+29814,"Personal Capital does a good job with investments, too. Their retirement planner is pretty nice if you take your time with it"
+29815,Is this worth using alongside YNAB?
+29816,I use both. YNAB for monthly budgeting and Personal Capital to track my growth and net worth. PC shows more of the bigger picture and provides encouragement as you see your money grow.
+29817,"Try [Prism](https://www.prismmoney.com/), it's free and easy to use.  You input all of your billers (one time and recurring) and set up alerts for everything.  It's SUPER handy, you can pay your bills straight through the app and it's legitimately helped me get my finances back on track."
+29818,"I second prism. It’s really helped me keep track of due dates which is what I’ve always struggled with. I used to have bills come due and I don’t have the money for it. Now I pay them ahead of time based on when I get paid and when others are due. 
+
+It doesn’t seem to track my account balance very well so I still use my bank app. But the timeline of due dates is what really did it for me."
+29819,"My coworker suggested that to me, and so far I love it. I just wish it had a widget.
+
+Also, how do you handle cash transactions?
+
+Or if you already withdrew the money, should I not include cash transactions since it will reduce the amount twice from my banking account balance?"
+29820,"I hardly use cash, but when I do, it's almost always from an ATM so I just mark it as a one-time bill so I can remember what I spent it on.  It can get a little tricky with cash, but I'm sure there's a workaround, I just don't know enough about that in particular."
+29821,Is it possible to view my spending in categories?
+29822,I use goodbudget. It's free! And it let's you manually input transactions and divide up your budget I to categories though you'll probably have to do some extra math to figure out how big those categories should be. It may not be the most comprehensive one but it's been very effective for me
+29824,GNUCash works for people who want pen and ledger style accounting.
+29825,"OP could use this method, but on Excel / Google Sheets to be able to update on mobile."
+29826,"There's [GnuCash](http://www.gnucash.org/). It's free, open, and easy. You can use it on both your computer and phone."
+29827,"Gnu Cash is a lot of things, but you're delusional if you are calling it easy to use.
+
+I recommend MoneyDance."
+29828,"Hmmm... You have a point. I suppose it does need an hour of learning. Once you're used to it, though, it *is* easy. I do acknowledge there may exists tools which are easier to pick up."
+29829,"I like Money Manager Ex: https://www.moneymanagerex.org/
+
+It's free, open source, multi platform, portable and cloud compatible. I use it since about two years. It's very easy to use but at the same time it is very capable. You can use multiple currencies at once, keep track of your stock portfolio etc pp. 
+
+You have a great overview over your assets and can always display various reports (where the money comes from, where it goes, your usage depending on categories etc)."
+29830,"You may find these links helpful:
+
+- [Budgeting wiki page](http://www.reddit.com/r/personalfinance/wiki/budgeting)
+- [Finance spreadsheets](http://www.reddit.com/r/personalfinance/wiki/tools#wiki_redditor_created.3A)
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/personalfinance) if you have any questions or concerns.*"
+29831,"I think it's ironic that the same board that pooped its pants over the Equifax breach and kept telling everyone to immediately pay money to freeze their credit would also advertise services that ask for your login info  of all your financial accounts and aggregate them in one place for the sake of convenience and pretty graphs.
+
+
+Make an excel spreadsheet and format the cells to dollars and cents. Maybe put a password on it."
+29832,"ynab lets you enter everything manually, which is what I do. I don't trust them with access to all of my accounts."
+29833,I do the same with EveryDollar. Manual is the only way I’ll use an application like this.
+29834,"Try [GoodBudget](https://goodbudget.com/). It's more basic than YNAB and doesn't hook to your financial accounts. That's good in that it's more secure but bad in that it won't import transactions for you. 
+
+You get two devices and the website for free. 
+
+It's a little quirky at first but once you figure it out it's great."
+29835,"I've tried YNAB and thought it was a great app; however, I like the simplicity of the EveryDollar app.  I can link all my accounts and then the app pulls in transactions from those accounts.  Then I simply slide them over to the appropriate category.  You can also manually add cash transactions, add balances for your debts, track savings, and add goals.  It usually only takes me 5 mins a week to balance the budget."
+29836,Agree. EveryDollar from Dave Ramsey is great!
+29838,"> TL:DR I want an app that can tell me: here's how much you have saved up, here's how much you can spend this week while still having enough for bills and saving a little money. Can also manually input cash transaction.
+
+You're going to have to get into a monthly mindset.  All budgeting is based on monthly since the VAST majority of bills are all billed out monthly."
+29839,"Not necessarily. Level money shut down a few month ago, but handled budgets on monthly, weekly and daily views. They pulled all the bills out at the beginning of the month and then what you wanted to save. The remaining money was put in a spending pool. It worked really well for me and I'd love to have another app just like it."
+29840,"Sounds a lot like what my new bank Simple does. I was using Mint, but got fed up with the ads and feeling like it wasn't really helping me DO anything other than just keep an eye on my balances.
+
+Simple let's you set up bills which it will move from your safe to spend bucket a month before they are due and the idea is that you set up all of your recurring bills there and what is left over is how much you are allowed to spend. It is the same enveloping strategy.
+
+Simple has the advantage that they are your bank. So there is no security problem with linking to your checking account. I haven't looked into tracking savings or other accounts yet, but my finances are fairly basic. I have student loans and a checking/savings account but no credits cards."
+29841,"i'm happy with www.mint.com
+
+> The tricky part is finding an app where I can manually put in the weekly doctor appointments since the money it is cash, not a credit/debit transaction.
+
+That should be easy to do in any budgeting app as a manual transaction."
+29842,"I use mint as well, and while it's ko fault of their own, it's tedious when most of your accounts migrate to two factor authentication that keeps mint from auto updating."
+29843,"www.ynab.com
+
+for these ""weekly"" things you mentioned, just enter your cash transactions as a manual transaction entry. Every transaction, you are required to label the category it is for, in your example, ""doctor's visit""."
+29844,"Not at an app exactly,  but honestly making a Google doc sheet for this isn't to difficult.  I created one that does exactly what you're talking about that covers a year at a time,  the down side being that I have to manually enter the amount and timing on the bills and spending.  Once you've set it up it's  easy to maintain.  I've perfected mine over the last two years, and at this point it only takes a few minutes at the end of the week to keep it balanced, and since I estimate my bills on the high side at the beginning of the year,  I usually have more money at the end of the year than I plan for that I can use for anything I want.  I used other services but I didn't like the monthly views, and the lag between spending and reporting.  If my spreadsheet says I have 50 dollars and my account says 250 I know that 200 is spent even if my account doesn't know it yet lol."
+29845,"I tried ynab and mint, but wasn’t a big fan. I got a google doc sheet layout off this sub and it’s been working pretty well. Easy and free, No ads, and Fully customizable. Glad I went this route!"
+29846,"That's awesome.  I enjoy tinkering with things and programming so I made my own,  but there are lots of great templates out there :)"
+29847,"If you don’t mind me asking, how do I go about learning to make my own sheet? I feel so overwhelmed with the different functions. I know my goal is to make one my scratch and set it up in a specific way. Just don’t know how to get started"
+29848,"I literally use a ""Note"" on my phone which has every single bill I pay.
+Everytime I am paid, I look into my bank account through online banking, and subtract my ""Bill total"" from that amount, I now know EXACTLY how much money I have to start planning shopping with and any other potential expenses such as petrol etc.
+I then have that figure listed under all of my bills, along with any potential outgoings listed underneath that I wouldn't classify as bill i.e food, petrol, savings etc. 
+I normally spend around the same each month on food etc, so allow myself say £30 a week for food shopping, x4, and I have £120 to take away from my ""total figure"" after all of my bills have come out, under all of the expenses, I then have listed my ""me money"" as it were, that I can either spend or save, without fear of missing a bill or not having food covered. It can be a pain to type and set up at first, but at the click of a few buttons I can clearly see at any time how much money I have free, after all bills and expenses. Really does help you see and save as well in my opinion, you feel a lot more in control of your money."
+29849,I just spent the week setting up GNUCash and it works for me using Evernote to track transactions for input.
+29850,Check out tillerhq.com customizable. Does cost 5 USD a month but I think worth it.
+29851,"Can not recommend this one enough. It is $5 a month but so worth it. It is your own personal excel spreadsheet with Mint capabilities. Best of both worlds, and they keep making it better."
+29852,"Maybe not what you're looking for but I love Excel. It has so much flexibility and you can just keep adding sheets to keep everything organized. I've got balance, budget, cash flow non monthly expenses, and past years budgets all in one spreadsheet and I have formulas set up so if I put something into the budget it adds it automatically into expenses in cash flow and all sorts of stuff. It does require effort to start and some basic knowledge of Excel but I really do think it keeps me more organized then an app"
+29853,Excel is still the best choice in my opinion.
+29854,"And are there any that track the whole picture, for example pension plans etc"
+29855,"You can use YNAB for this with off budget accounts, but it's a pain to keep everything current, especially with market fluctuations for investments."
+29857,"Like others said, YNAB is excellent for monthly budgeting and future projections. Personal Capital is also really good for tracking investment portfolios. It has monthly budgeting as well but I'd argue that YNAB is superior in that regard.
+
+That said, I gave up on Mint because it would routinely screw up my bank accounts and make me have to update my passwords after too many invalid login attempts. I also got insanely annoyed with the ads it had. Still, I guess it can be good for someone who's just starting out with budgeting because it's definitely the easiest to use out of the others I mentioned."
+29858,www.mvelopes.com has been very effective for me. I can add my checking account and credit card and it automatically downloads the transactions that I can assign to my envelopes. They charge $4 a month or $40 a year.
+29859,been using EveryDollar since it came out. love it
+29860,"Mint is the best. It allows you to see graphs on where your money is going each month (utilities, fitness, groceries, etc), set goals, and I'm pretty sure it monitors your credit as well. This is great if you have trouble keeping track of your money- you can never believe how much a $3 coffee a few days a week adds up!"
+29861,"Preaching from the choir here: YNAB.  In conjunction with Dave Ramsey's baby steps, my wife and I are now debt free!"
+29862,Budget Touch is a one time charge app.  If you can get it for android I suggest checking it out.  Easy to use and edit as you go.  I record my expenditures almost daily.  You can easily plan and  track your cash purchases since it uses the envelope budget method.
+29863,"Haven't messed around with it a whole lot but ""Penny"" has some cool features for tracking as well, I will try the one you guys recommend as well."
+29864,andromoney is what I use. It's very visually bare bones but it does all of the above. There's ads in the free version but they're not super obnoxious.
+29865,"My credit union account has a tab called PFM (personal financial manager) where I can add all my checking, savings, and loan accounts.  The info is also accessible on their app. You can set your budget and track your spending, saving, and goals.  You can get alerts when you’ve gone over budget.  It is free. The only negative is I’m always away of my negative net worth because of my student  loans."
+29866,"so far my absolute favorite to use is prism. nice UI, easy on the eyes, and has all of the major billets. they also have a search function to add smaller billets or custom bills. AND IT'S TOTALLY FREE!"
+29867,"I use money dashboard and it’s fantastic! You can easily view your spendings in pie chart format, break it down into sub-categories and also set budget spending limits on each category. Links directly to your bank account also."
+29868,What app is the best for 2 people to use? I want to do YNAB but it would be really helpful to have something cloud based I guess for both my wife & I.
+29869,"I'm a fan of the [Wallet app](https://play.google.com/store/apps/details?id=com.droid4you.application.wallet) . It'll require premium for collaboration. I've never used collaboration, but it is included in the premium subscription."
+29870,"Tried Prism, YNAB, Mint, Personal Capital, .. I just stick with Mint. I don't really budget though. I just track net worth, transactions, and monthly in/out. 
+
+Looks like there's other android apps I haven't tried though. 
+
+""Wallet"" (budgetbakers.com), ""Monefy"", etc."
+29871,"Wallet is great imo. I'm a fan of location saving so when I get home, it'll all me if I spent money at the places I've been. It's a little but brother, but helps loads with manual entry."
+29872,"YNAB looks more user friendly than Mint.. however I use mint and find it to be very useful.
+I use the budget tab in Mint and have all my bill dates set on my calendar app on google so i know exactly when I have to pay what bills. since i get paid every 2 weeks i know at least how much money i cannot spend... on top of that i pack lunch and cook dinner so the going out expenses is usually just friday to sunday..
+i think budgeting might seem hard but it is easy to cut down spending when you cook lunch and dinner instead of spending 100+ a week on food
+you can also set goals in mint where it will tell you how much you should put aside per month."
+29873,My bank's account app. It's super accurate. ;P
+29874,"Banktivity is solid, if you're a Mac / iPhone person.  I switched to it from YNAB, which focuses more on budgeting than tracking.  For your needs, YNAB sounds perfect though.  Go through their tutorials and forums where people have figured out the best way to set it up in terms of categories."
+29875,"Toshl is really nice. It has a slick and simple interface. You can input everything manually if you preffer that. They are also implementing support for more and more banks. It also reminds you to input your daily expenses so you don't loose track.
+
+Edit: link https://www.toshl.com/mobile/"
+29876,"Maybe unconventional, but I get a lot of utility from Easy Bills Reminder (Android) https://play.google.com/store/apps/details?id=com.aa3.easybillsreminder
+
+It's 100% manually input based, but that's what I like about it. I just look a week ahead and pay the bills as they're due. 
+
+No more emails alerts or trying to remember due dates. I also don't use auto pay for about half of my bills so this is incredibly useful to be reminded of the bills none the less.
+
+It's pretty basic but it may meet your needs with manual input and keeping track of a balance and or individual transactions."
+29877,"I use Excel. 
+
+It works fine lol"
+29878,"I would use YNAB if it were free personally, but I prefer my handy self-made spreadsheet. It involves a little bit of manual input, but it tracks and offers the same functions any other app would."
+29879,MVelopes though there is no longer a free version i do pay the yearly basic and love it.
+29880,Doesn't your bank app do this for you?
+29881,Dude use a spreadsheet thats what i do on google drive.  Each tab is a new month.  Tells me what i owe for each month amd how much ill make that month.  Its been one of the best decisions for me.
+29882,Monzo bank comes with budgeting app that tells you exactly where when and what you spend your money on as well as categorising and letting you know how over/under budget your on
+29884,"Your post has been automatically removed. [Referral codes, invites, links, etc. are not allowed](http://www.reddit.com/r/personalfinance/wiki/rules) (without exception, it doesn't matter if you don't receive money yourself). Mentioning that you are willing to receive PMs for referrals is also not allowed. This removal will not be reversed. **Spamming referral links can result in a ban without warning.**
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/personalfinance) if you have any questions or concerns.*"
+29885,"Try ""Every Dollar"" by Dave Ramsey"
+29886,"I use a spreadsheet-Google Sheets.  Can’t get any more flexible than that.  Probably not for most with simple finances, but if you have many income sources, business expenses, exotic investments like crypto or crowd source, a spreadsheet is the way to go.
+
+Good thing about Google sheets is you can access it on any machine with internet access.  I can update it from my phone too.  Not like Excel."
+29887,Do u use a premade template?
+29888,I use [ledger](http://ledger-cli.org/). I manually enter cash transactions and import files downloaded from my financial institutions every week. It's a great tool!
+29889,Once you have a budget if you want to keep a record each week of spending money there is an app called Balance that is a simple ledger for deposits and withdrawals. It's one thing to know how much you have to spend but to keep track of it as it's happening during the course of the week really helps me.
+29890,"Hi r/povertyfinance!
+There is currently an opportunity for members of this sub to participate in a Mod-approved survey by Kintsugi, an organization seeking to democratize mental healthcare through technology. It is a 2-part survey with a speaking section and a multiple choice question will take no more than 10-15 minutes to complete.For your time, you will be sent you a $10 gift voucher!
+**Learn more at [this post](https://www.reddit.com/r/povertyfinance/comments/pou1i6/please_participate_in_a_modapproved_survey_for_10/)**
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/povertyfinance) if you have any questions or concerns.*"
+29891,"If you have self-control, an Excel sheet will work fine too."
+29892,None of these apps will work if you don’t have self control.
+29893,"Totally agree with you, with a little helps of those budget app,  your financial house will be even in a better shape..."
+29894,"[https://aspirebudget.com/](https://aspirebudget.com/)   /  /r/aspirebudgeting
+
+Should also get a look from anyone who likes the zero-based-budgeting of YNAB but needs a free DIY alternative. It is all Google Sheets so anyone familiar with working on spreadsheets can customize it for their unique situation."
+29895,I cannot recommend YNAB enough. It was truly changed my life. Keep in mind I am a college drop out with a modest $17/hour office job. It took me a while to into the rhythm of it but now I cannot look back. I’m so glad I kept trying.
+29896,YNAB is super good overall for individuals and couples to manage cash flow in the good wheel. Me and my partner also have a share account and we use YNAB to monitor our income and expenses at the end of the day.
+29897,does it cost money tho?
+29898,yes and they just bumped their price to $14.99/month or $98.99/year. Kind of ridiculous for a marginally better budget app
+29899,Digit should be in this list as well.
+29900,"Share your honest feedback and review on particular Budget app based on your experience, it helps a lot for other to choose the right one."
+29901,I haven’t used Digit…. but definitely will have a try and see how it’s going. Thanks for sharing.
+29902,"I wrote an app because all the ones out there didn't meet what I wanted in an app, all the while storing the data locally on my own device.
+
+Android: [https://play.google.com/store/apps/details?id=com.spendtracker](https://play.google.com/store/apps/details?id=com.spendtracker)
+
+iPhone: [https://apps.apple.com/app/id1566779043](https://apps.apple.com/app/id1566779043)"
+29903,"i've enjoyed my first 4 months on Monarch - great interface and awesome service. Still growing, so some kinks to work out. But overall great platform
+
+&#x200B;
+
+[Monarch Money](https://www.monarchmoney.com/)"
+29904,">Monarch
+
+Thanks for sharing another great platform….."
+29905,"As well as 
+
+MoMa: [http://momaservices.com.au/](http://momaservices.com.au/) does this and allows you to also perform additional bank like features from the app.
+
+Or Pocketbook [https://getpocketbook.com/](https://getpocketbook.com/) low level but still really good for transaction categorisaion"
+29906,Another two great platforms. Thanks you so much for sharing to the community.
+29907,No problem!
+29908,Personal capital is amazing
+29909,"Yeah, I currently use Personal capital…Overall it is one of the best platforms so far."
+29910,Mint and Airtable are useful too for budgets.
+29911,"What a coincidence, soulmate! We've got 4 of 5 of these [personal finance management apps](https://dashdevs.com/blog/top-10-apps-for-your-personal-finance-management-become-thrifty-with-us/) in our Dashdevs selection. They're truly the leaders in the global market this year, but maybe you'll find the other 6 in our list helpful too. For instance, take a closer at Acorns that also picks its speed in 2021 thanks to the popular envelopes approach, little action on the user's side as well as educational function. Will be glad to give you assistance with the other budget management tools in case you need any help."
+29912,"I like using YNAB, it's about $5 per month though, but been using it for years now and it's great. It connects to your bank account and once you're use to it, its amazing.
+
+I've also heard Mint is good, and you could try Personal Capital, thing PC is more of a spending tracker, not sure."
+29913,Just here to Second for YNAB.
+29914,$84 per year (7 per month)
+29915,"I have had it for a while, guess they never raised my price. I budget (using YNAB lol) $5 per month for it as part of my ""finance cost""
+
+Still worth it imo even for $84 per year. It has paid for itself many times over"
+29916,"For sure! I’m only 2 months in but it’s definitely been a complete shift to how I’ve looked at money. 
+
+And I thought that might be the case, since I had heard others who were grandfathered in at a lower cost. Just wanted to give the exact number for clarity."
+29917,My four year anniversary of using YNAB is this month.  Embracing budgeting through it has changed the way I look at money.  Debt free for the past 2.5 years.
+29918,"EveryDollar is free and the first budgeting app that has worked for me. I tried Mint and YNAB, didn’t like them. You have a few to try now, see which works best for you."
+29953,"You may find these links helpful:
+
+- [Budgeting](/r/personalfinance/wiki/budgeting)
+- [Tools and spreadsheets](/r/personalfinance/wiki/tools)
+- /r/mintuit and /r/ynab
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/personalfinance) if you have any questions or concerns.*"
+29920,"I second Goodbudget! I also really like Buddy. 
+
+Both are free and don’t require you to link your bank account info. I feel like I have to hold myself more accountable when I manually log my expenses."
+29921,I like DenJohnn app. It allows tracking of incomes and expenses also as accounting of unlimited number of accounts. Just all necessary for saving and increasing money
+29922,YNAB is my go to
+29923,This. There's nothing better than YNAB in my opinion.
+29924,"You may find these links helpful:
+
+- [Budgeting](/r/personalfinance/wiki/budgeting)
+- [Tools and spreadsheets](/r/personalfinance/wiki/tools)
+- /r/mintuit: all about Mint
+- /r/ynab: all about YNAB
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/personalfinance) if you have any questions or concerns.*"
+29925,"Full disclosure, not a full on budgeting tool, but m I’m a big fan of www.balanceforecastingapp.com. I ran across it completely randomly one day, and I’ve used it ever since.
+
+1.) It’s as basic/simple as it gets.
+2.) Still allows repeat bills to be loaded.
+3.) Cheap
+4.) By and far the best thing it does for me is exactly as the name implies, it forecasts. Minus incidentals, it’s very easy to see exactly what my account balance(s) will be in 1 month, 3 months, whatever. I can easily add in or remove 1-time payments to see the impact, etc.
+
+There’s no auto-syncing with my banks, no real advanced features, the reporting quite honestly doesn’t work for shit but for just a simple cheap “can I afford this/that” it works just fine. It’s simple, and it’s cheap, and does exactly what I personally need it to do. Nothing more, nothing less."
+29926,"My partner's work just let her know John Hancock is offering ""My Money Connector"". From the short video it seems like this might be another option. Has anyone used it?"
+29927,"There are many SaaS apps that you can use. Mint and YNAB are good. Other good ones are:
+
+* Dollarbird
+* PocketGuard
+* Wally
+* Mvelopes
+
+&#x200B;"
+29928,"YNAB. 
+
+Excellent support from both the company and user communities. Apps available on every platform so you can update things without trying to manage a spreadsheet on your phone. 
+
+Mostly though, it's an entire budget philosophy rather than simply a way of tracking spending, and if you stick to it has the potential to really transform your financial life."
+29929,"if you search online, you can find a 3 months trial code for YNAB.  And I hear that if you email and ask for more time they sometimes grant more.  Or if you're a student, you get YNAB free for a year.  It takes a few months getting used to, but it's super helpful!  I tried Mint before and it was too passive for me."
+29930,"This is late but I also have a link that gives it to you for 4 months:
+
+https://www.youneedabudget.com/landing/stack-social/"
+29931,"1 week early for me, thx! I followed the link and downloaded the app, signed in with Google and working with it now. Not sure how the free trial works but I guess I'll find out. Seems to be working now"
+29932,FYI. They respond really quickly if you contact them. I ask a question in a forum and they gave me a free month on top of the 4 month trail because it was an issue they couldn't fix right away.
+29933,"Cool, thanks again!"
+29934,"Having used Mint, Everydollar, and YNAB, I vote for YNAB, hands down.  Yes, it costs money, but it is the best interface out of all of them.  It will save you way more than $7/month pretty much immediately."
+29935,"Yeah that seems to be a common theme, YNAB being the best of the lot. I wish it wasn't a subscription service through, even a 1 time payment would be okay but paying for the upcoming years is hard to swallow. Oh well!"
+29936,"You can pay by the year, but it's the same price. Also if you're a student or know a student that would be willing to let you use their name/email to signup you can get a free year."
+29937,"I prefer mint. Yes the mobile app is wonky sometimes, but that is easily fixed by just using the web interface for some things."
+29938,"I love YNAB, It's been life changing for me and I promote it to everyone. It's just a great way of viewing your money."
+29939,"I tried Mint, kept having to close and reopen the app anytime I wanted to add something manually so I gave up, I just use the google spreadsheet in the wiki, it tracks my savings accounts too which is great 
+
+A lot of people like YNAB, but I’m not necessarily looking for a strict budget type tool that I need to pay for, ultimately I think it comes down to personal preference and what your goals are for the app since each probably has their own pros and cons"
+29940,"YNAB is great if you need to change the way you think about budgeting and tracking expenses, but I find it too involved/handholding. I prefer Mint because I don’t care as much about the allocation of funds to specific budget categories and stuff like that. I just want more of an overall picture of my accounts and spending"
+29941,"I like Daily Budget. I have an Excel sheet for my full finances and have figured out my allowance for discretionary spending there. I put that in Daily Budget and it divides that monthly amount into an accruing daily allowance. I have to add purchases manually but I've gotten into the habit so it's not that annoying anymore. If I make a big purchase and my balance goes negative, the next time I want to buy something I see that value and do a double-check if I really, really need to make the purchase now or if it can wait. It's worked really well for me."
+29942,I'll have to check this one out. Thanks
+29943,"Not entirely a budgeting app, but my bank lets you automatically save things into budgeting, and as you spend you spend from those budgets. Basically the envelope system but using your money. 
+
+I.e, you automatically save $100 a month for gas. You spend $50 at the gas station and it deducts from that $100."
+29944,What bank?
+29945,Simple
+29946,"I have been using personal capital not very long, but I really like the interface and budgeting tool. It’s free, but I’m still getting things updated with my bills changing and some items being marked as a certain category when it should be something else. Just fine tuning basically. So far, I’m motivated to use it."
+29947,Hey! I've also been creating custom categories on Personal Capital (such as Lyft instead of just Travel). Do you know if there's a way to automatically have future Lyft transactions labeled as my custom category Lyft?
+29948,I prefer Clarity Money over Mint. I think the user face is a lot better.
+29949,Never heard of that before. Is it much like mint?
+29950,Mint allows you to create a budget where Clarity Money does not.
+29951,Similar idea. Just better I think.
+29952,"I used to use Mint and really liked it. I connected my bank and it was super easy to assign charges to categories. I only stopped because my husband is an accountant and prefers to budget using our own Excel file. Excel is nice because we can customize it ourselves, but I'm not great with Excel so if I wasn't married I'd probably still use Mint. I also like to listen to Dave Ramesy, and his company's budget app is called Every Dollar. A lot of people like that one too!"
+29954,"I am currently using [Financisto](https://play.google.com/store/apps/details?id=ru.orangesoftware.financisto).
+
+Pros:
+
+- it is highly customizable
+- it provides a lot of functionalities, making it easy to classify and separate the incomes and expenses.
+- it offers cloud backup in Google Drive or Dropbox.
+
+Cons:
+
+- it is an open source project of some guy, so nothing fancy.
+- its interface is very simple (sometimes ugly).
+- it doesn't synchronize with bank accounts, so all operations are manual.
+
+I tried other apps but some of them were too complicated or didn't have the features I was looking for.
+
+To give you some idea, I know how much I spend in each category
+(food, tax, house, ...) and I also can control savings.
+So far I could control my expenses and save per month a decent amount."
+29955,I need something that holds my hand like ynba but it doesn't work with my bank!
+29956,"I thought YNAB is a subscription app?
+
+Did look into using it a while ago, but am not a fan of SAAS apps. I don't deny that people have used and enjoy YNAB, and are happy to pay. I'm just old school myself and don't like that business model personally.  But its disingenuous to say it is a free app, IMO."
+29957,"Yup subscription-based. Using it correctly though, I dropped off 10K+ CC debt in a year and am very aware of my expenses and I HATE SAAS under normal circumstances. Mainly because it is for apps I use maybe once a year. I log into YNAB daily and considering how much it has helped me it's been worth the money.
+
+You also have to be wary...the r/ynab community can be like drug pushers..."
+29958,"Not disagreeing- if it's worth it, pay it.
+
+We just use an 8 column money book ($30) for the last 2 years and it will last us another 5, using a kakeibo approach. 
+
+Both are equally good, as long as they are equally used!   ;)"
+29959,You're right. It's paid. But it does offer a 30 day free trial (that they will extend to 60 if you ask nicely).
+29960,"Thank you, really appreciate this!"
+29961,Simple doesn't exist anymore. Look at DAS Budget.
+29962,YNAB isn't free but well worth the subscription fee.
+29963,"I have had a great time with [Buxfer,](https://www.buxfer.com/) I started on their free plan and eventually moved up to one of their paid ones. but even still it's been so simple and easy to use. It has made such a difference."
+29964,"Mint is the most common. Yes there are ads, but I've never personally felt there's enough to bother me."
+29965,Did you see any improvements in savings? At the minute I follow a very bad spreadsheet but I never seem to be any better off.
+29966,"I did my budgeting in a spreadsheet for a few years by the time I downloaded mint, so not for me personally, because I had my savings very controlled at that point.
+
+But it categorizes your expenses so you can clearly see where you've been spending. You set budgets like ""I want to spend $XXX on grocery this month"" and you can see how you are progressing towards that goal.
+
+I like using it because it is a simple way to see all my transactions and account balances in one place rather than logging on to each separately"
+29967,"Mint is ""Incompatible with all of my devices."" I have a Nokia 6, EU..."
+29968,"EveryDollar is my favorite. I didn't like Mint because even though it categorized, I didn't feel like it gave me a good idea of what was going where. 
+
+&#x200B;
+
+You can't link it to your bank account for free. That part cost 100yr. You can try it without the bank connectivity though and it beats using a spreadsheet. I did this for almost a year before I ended up just paying for it."
+29969,What's the benefit of using that without linking to your account? Why not just use a spreadsheet?
+29970,"It's more convenient for some. I use a spreadsheet because I feel like I'm holding myself more responsible when I have to manually track my purchases. 
+
+Some people like automation because it's more hands off and they don't have to worry about it."
+29971,"I just wanted to post the very same question right now, glad I found this
+
+Edit: Recently I tried a handful of these apps, my most important criteria was the same: bank sync
+
+I checked Wallet, Money Manager, Spendee... the best option I found so far is that the latter has a ""lifetime premium"" offer. But frankly I want a free free app with budgeting, just like you."
+29972,"If you are hands-on and prefer a more manual process for setting and tracking your spend then I recommend EveryDollar.  You can even set up sinking funds to manage different cash goals.  I only have 1 savings account, but I have 3 different savings buckets tracked in the app.  I can't use the others like Mint and YNAB because I spend just as much time untracking its automation.  Withdrawing cash from a checking account is not a transaction!"
+29973,I personally don’t trust any free budgeting app because if they aren’t charging you then how are they using data to make money? I also don’t see where an app can do anything special that you can’t do on your own
+29974,Ads
+29975,So you will budget to try to save money while exposing yourself to targeted ads that are designed to get you to spend? All while providing your complete financial profile so that the ads you see tomorrow will be more effective at separating your money from you than the ads you see today? No thanks
+29976,"If you don't have enough willpower to not click on every as you come across, that's on you."
+29977,If you think that being exposed to advertising doesn’t change your spending patterns that’s on you.
+29978,"I'm glad we can all agree that regardless, it is all on the individual to make good financial decisions. With all the knowledge and tools, one still must decide to put them into action.
+
+Edit: Happy Cake Day, friend."
+29979,The only ads I see on Mint are for credit cards or investment tools
+29980,"Your data is being used by something somewhere.  
+
+&#x200B;
+
+Businesses can offer free services and be completely transparent about the other sides of their model which generate revenue.  
+
+&#x200B;
+
+Many ideas are successful not because they allow you to do something you otherwise couldn't but because they allow you to do something better.
+
+&#x200B;"
+29981,"Have you seen mint? They have a bunch of ads. That's how they get money. I personally use my own spreadsheet for finances, but there's nothing inherently untrustworthy about free budgeting apps"
+29982,Yeah I think I’ll keep my tin foil hat on for now at least
+29983,I think you mean tin foil glasses
+29984,Yeah I’ll put that foil all over my head.
+29985,"With your eyes covered, you can continue to believe that you aren't exposed to passive advertising every day."
+29986,Lol. I never said that. I do what I can to minimize my exposure to ads though. For everything there’s a trade off and some are worth it while others are not. Everyone has their own limits
+29987,"Unfortunately not the answer you’re looking for, but most of the good budget apps assume they pay for themselves by helping you save money. Most of the good ones added bank account syncing too, which costs money.
+
+There are some envelope budgeting apps out there with a freemium model like [Goodbudget](https://apps.apple.com/us/app/goodbudget-budget-planner/id471112395) if you need something to get started before jumping into a full fledged app."
+29988,Mint.com if you are OK with ads and trusting them with a lot of login info.
+29989,"i tried mint. i like it but all it does is show my spending habits and not an app to actually make budgets. 
+or am i dumb and not seeing it? lol"
+29990,"Mint has a ton of budgeting. Check the ""This month"" tab, then the top block is the budget. My wife and I have used it for the last decade.
+
+I will say that the ads in Mint are pretty intrusive. After using a few alternative apps for a few months, Nerdwallet is just ok for a free one. Simplifi is a great ad-free alternative to Mint - but it requires a subscription. 
+
+The Wirecutter review is pretty spot-on: 
+
+[Wirecutter: Best Budgeting Apps & Tools](https://www.nytimes.com/wirecutter/reviews/best-budgeting-apps-and-tools/)
+
+Edit: Thanks autocorrect"
+29991,If you’re a student you can try YNAB free for a year.
+29992,"Additionally if you are not a student and try the 34 day free trial, you can email asking for a bit more time to see if it works for you. The devs are well reputed for extending the trial (up to six months) in those cases."
+29993,I’m using EveryDollar which is zero based budgeting. I am using the free option which does not allow bank syncing which is fine for my needs and working well.
+29994,I use Fudget and Moneylover. Both have a 1 time purchase to remove ads if you wish.
+29995,"Paying for a budget app only has a defeated purpose if you don’t get the value out of it. In my first year of YNAB I literally got several thousand dollars of value out of it. 
+
+Also, YNAB has a free 34 day trial and 1 year trial if you’re a student. Well worth the cost though. It’s now part of my budget to pay for YNAB."
+29996,"I second this, YNAB helped me save more each month than the cost of a year."
+29997,I can vouch for YNAB. I’ve saved almost 10k in the last year using them.
+29998,"I’ve used and tested scores. I’ve found nothing better than “finances” which has both iOS and MacOS versions, and in iOS well formatted versions for iPhone and iPad. https://hochgatterer.me/finances/guide/introduction/
+There is an affordable cost, but no monthly fee.
+What I love most is the ability to put in repeating future entries — say expected payroll checks, expected costs like electricity, internet, car payment. It will show your future balances.
+And you can have different “accounts” like bank account, savings account, money on hand. You can move money from one account to another.
+It works for me and has for several years, and it’s not crazy complicated.
+Hope this helps, as I know how frustrating looking for an affordable program can be, especially one that works and syncs between devices, and can be shared with your partner all for one purchase that’s not priced to the moon."
+29999,Fin
+30000,Spendee
+30001,What about the good old-fashioned Excel?
+30002,The best answer here imo
+30003,[Goodbudget](https://goodbudget.com) is an envelope system and will work on two devices for free (plus web app). I don’t believe it hooks into your bank accounts but if you’re not looking for that it’s free. We’ve used it for years.
+30004,You can try the TestFlight for [DAS Budget](https://testflight.apple.com/join/NHvmLiD3). I’ve seen some people really like this one.
+30005,Outgoings
+30006,Pluto Money
+30007,Zenmoney
+30010,i built my own system with google sheets. if you like using sheets you can try that
+30011,"I started with the Personal Budget template in the Numbers app (free!). Put your monthly income in the Money In section, list your monthly expenses in the Money Out section (recurring stuff like utilities, rent/mortgage, cell phone, etc.). 
+
+I use the app Strides to track spending on everything else (free as long as you only have a few trackers). I have a tracker for Groceries + Gas, a tracker for Entertainment (which is basically just takeout expenses right now), and a Funds tracker to track spending on whatever money I have left over. 
+
+Downside: It requires manual logging. Upside: It can tell you average spending for each tracker, which you can take back to the Money Out section of the Numbers sheet and then you have a full budget!"
+30012,Money manager is an option.
+30013,Budget Badger
+30014,I use spendee and the free app is really good ngl.
+30015,"MoMa: [http://momaservices.com.au/](http://momaservices.com.au/)
+
+Or Pocketbook [https://getpocketbook.com/](https://getpocketbook.com/)"
+30016,"Honestly the best thing that works for me is an Excel spreadsheet. I have to track everything manually, but my budget is not very complex. I tried a few options like Mint, but never got much out of them. The Excel app is free if you sign in with an outlook email."
+30017,Personal Capital. Though I prefer paying for YNAB. An advantage of PC is that you can track investments.
+30018,"[OpenBudget](https://openbudget.us) might be a good fit. It's an envelope budget system that has a free tier. Nearly every feature is free, though it has a small subscription/one time fee for a few features"
+30019,"Sorry for the question but what do people need a budget app for? 
+
+I know what I earn, I know my monthly expenses and how much I want to save. That leaves me with the sum that I can spend each month.  
+
+
+How is an app needed for this?"
+30020,"Convenience, especially when it comes to planning for long-term expenses (e.g., my annual car registration fee, new tires that I will need in 5 years, planning for a new phone in 4 years, etc) . I could set up a spreadsheet and figure out exactly how much I'm setting aside for those goals and how much I have saved for each of them, or I could pay a small amount for an app that will do it for me. I value my free time, so I choose the latter."
+30021,"Ang dami palang apps based on the comments, right now I am using MoneyManager. Had to pay premium of 250 pesos to get rid of ads and to unlock all configurations. Happy with it so far. Tried the YNAB before but it was too complicated and clustered for me plus the mknthly subscription fee just doesn't appeal to me."
+30022,"Up for Money Manager. Been using it for three years. At the time it was the only app I found with all the features I want : 
+
+1. Multiple, customizable accounts (up to 12 for free I think?)
+2. Fully customizable categories and subcategories (eg. Food --> Breakfast, Transportation --> Bus, Salary --> Bonus, Investment --> Dividends, etc. YES it's *that* detailed) 
+3. Uploading of pictures (for receipts) 
+4. You can add notes to each entry.
+5. Bookmarks
+6. Other apps have two major types of entries : Income and Expense. This one has three: Income, Expense and Transfer --> which is lovely if you use digital wallets all the time.
+7. Daily, Weekly and Monthly views
+8. Filter and Search of all entries and categories
+9. Investment/Loan management
+10. Budget --> Connected with your expenses/income categories
+11. Export data to CSV (this is already available for Free version)
+12. Widgets
+
+Cons: It's an app catering to power users. Complicated set-up. The stats/reporting feature is pretty lacking (what I do is export my data and do my own analysis using Excel). It's also not very pretty. 
+
+I think I'm forgetting a few more, it is really fully-packed with features ""OC"" people will love and minimalists will hate. I gush about the features of this app, but because it's already packed I haven't tried newer apps. I'm particularly piqued about the auto-connect with bank/credit card that others say other apps have."
+30023,"The transfer entry is so usefel with how I want the app to work for me. I now have complete visbility of my money down to a peso. What I do at the end of the day, I transfer coins from my cash account to a piggy coin bank. I like my money without ""butal"". I am a self diagnosed OC person that is also a minimalist with everything, but I found the app to be just enough for me. But haven't tried too many apps out there. I wanted to just master one and stick with it and so far it has made me handle my finances smartly."
+30024,"Me too, Money Manager for tracking my expenses. I've tried several apps before pero ito lang yung very comprehensive for me. I even paid premium to support the developer.
+
+As for envelope budgeting, Google Sheets lang pwede na."
+30025,"I've used money manager for 7mos but it betrayed me. :( I turned on the daily backup but, when my phone was accidentally wiped, I discovered the app hasn't been backing up my files for the last 3mos."
+30026,Aw :( will have to check mine.
+30033,Money Lover
+30028,Google Sheets
+30029,I love sheets!! my friends and I made a monthly tracker that fits what we really need. The only problem was that it's hard to edit on mobile and ofc there's no quick input so I had to switch to a dedicated app.
+30030,I used google forms before for any transactions I do.
+30031,"SAME! Super helpful ng sumifs function. I love being super organized and specific with my expenses and finances in general, and I figured na it’s much better to just make my own rather than use an app na limited ang features based on my needs and preferences."
+30032,Money Lover!!! I think I’ve been using it for almost 2 years now:
+30034,Expense manager
+30035,"Forgot to mention the pros and cons. Pros - a lot of built-in useful tools, also easy to back up data. Cons - lacks aesthetics."
+30036,Expense Manager since 2014!
+30037,"Bluecoins (Premium)
+
+PROS: Easy input (with various widgets), lots of reports that you can customize depending on what you want to see. Autosync/backup works perfectly (Premium only; I switched from free Money Manager because of this). Income/Expense reminders that can automatically input the amount (I use this for my salary and recurring expenses). No limits on the Accounts. Daily reminder actually works (Im looking at you again money manager)
+
+CONS: Free ver doesn't have sync/backup via gdrive; only extract via excel/csv iirc. The widget, tho I can easily input expenses, I prefer notif bar quick menu/input."
+30038,"Up for this! I used to switch around apps after a few months but since I used this I never looked back. All the reports are very useful which is missing from the other apps. Set up is not really complicated. I have all my ATMs, Credit Cards, Loan, and even Investment portfolio in the app. That way I see a complete picture of my financial standing at anytime.
+
+Also very quick replies for any question via email.
+
+I think Bluecoins is also Filipino-made so I didn't mind paying the P100-200 for all the premium features (one-time payment)."

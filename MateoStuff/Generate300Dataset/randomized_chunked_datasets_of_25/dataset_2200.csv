@@ -1,0 +1,74 @@
+idx,query,text
+2521,best headphones,"Yep, I've had 2 pairs over the last 6 years approx."
+4381,best text editor,This is key. I have wasted so much time in other IDEs trying to find plugins that do what I want. You end up with a pile of plugins that all have their own menus and options layout. And then updates break them and you need to wait for a fix if it ever comes at all.
+64514,Best Nike running shoes,"Not OP, but the new Pegasus 33 that just released feels a LOT more cushy and similar to the older ones.  They switched to zoom air through the forefoot, and re distributed the cushioning in general, and it does feel a lot better.  Worth stopping in someplace to try on IMO."
+42212,movies like Inception,Directors cut version only!
+73656,best battery bank,"I found this website a while ago and found it incredibly useful. Poke through it to find your optimal setup. 
+
+[https://switchchargers.com](https://switchchargers.com)"
+48500,best color to paint with,"This is by far a better approach, than putting bright or unusual colors on your walls."
+17294,best iOS game,I mean most of these are just ports
+4304,best text editor,Haven't seen anyone mention [e-TextEdtor](http://www.e-texteditor.com/).  I got hooked on TextMate at work and now use E on windows -- love it.
+40420,best midrange GPU,"If you can wait a year max, then 3060. If not, then 2060 or  Rx 5700."
+39265,best web browser,"While I use Firefox as my daily driver and whole heartedly endorse it, I wouldn't quite say it works everywhere. 
+
+Every once in a while I find a site that is still very clearly chromium optimized, and I'll need to switch back over. Also, Firefox does not support Progressive Web Apps nearly as well as Chromium. So I'd still recommend using Firefox as your main browser, but when you do need a Chromium backup I'd recommend Brave. It's a privacy focused Chromium skin."
+7940,best laptop for general use,"Great, let me know if you have any questions."
+67666,axios alternatives reddit,"It's more complicated than that. To get the convenience of Axios, you have to understand how `fetch` works and then deal yourself with the parsing and the promise handling around it.
+
+
+    // If the response is empty, response.json() will throw, so first make sure
+    // it's not empty by parsing the text.
+    const parseJsonResponse = response => response.text()
+      .then(text => (text ? JSON.parse(text) : {}));
+
+    // Fetch like jQuery ajax, Axios or other requests libs.
+    fetch(/* */)
+      .then(
+        rawResponse => parseJsonResponse(rawResponse)
+          // Any HTTP status gets resolved.
+          .then(response => response.ok
+            ? response
+            // So we manually reject status that are not ""ok"" (usually outside 200-299)
+            : Promise.reject(response)
+          ),
+        // Network error, etc.
+        rawError => parseJsonResponse(rawError)
+          .then(Promise.reject)
+      );
+
+
+This doesn't look trivial to me, and is the simplest snippet to get a similar behaviour that we're used to with Axios and jQuery's `ajax` for example.
+
+Some Stack Overflow questions that prove it's not trivial:
+
+- [Fetch: reject promise and catch the error if status is not OK?](https://stackoverflow.com/q/38235715/1218980)
+- [Fetch API error handling](https://stackoverflow.com/q/50330795/1218980)
+
+edit: code format"
+29470,best game console,"Do NOT play it on steam without an xbox controller. Hell, its pretty unforgiving even if you do use one."
+66580,best soccer team in the world,"True that, fuck Juve :D"
+12304,best gifts for dad,"A day all for yourself. no obligations, no guild or blame afterwards."
+66078,best college in california,plenty of affordable options out there... just not the schools that everyone else wants to get to unless you're la creme de la creme
+41874,movies like Inception,It’s one of the best time travel stories. It’s by one of the best sci-fi writers. And it stars Ethan Hawk. Any more could spoil it.
+18678,best YouTube video,Bill Wurtz
+37367,best amusement park,"It's not surprising that Silverwood is more popular in the state considering it's actually in the state. I bet people in Coeur d'Alene search for (and visit) Silverwood a whole lot more than people in Idaho Falls/Pocatello search for/visit Lagoon.
+
+Living in Boise, where truly the most people live, it's hard to say which of the two is more popular. Based on my limited interactions it seems to be Lagoon here as well, but they're both far enough away to be out of most peoples' radars.
+
+I'm guessing a majority of the searches for amusements parks from the state are coming out of the CDA area, which overshadows searches from other parts of the state."
+15180,best tree for the garden,Yeah this is what this garden really needs 😂
+22070,best celebrity,"I met Chris Hemsworth last year at the restaurant I worked at. I often joked that I moved to Australia to find him and then one day, all of the sudden, he’s in my restaurant walking up to the host stand. I was so horrified by my own normalcy that I could barely look up at him (he’s so tall). I tried to seat him and his wife at a table in my section but he politely asked to be moved to a quieter area. While I was slightly disappointed that he wouldn’t be sitting in my section, I awkwardly smiled on and directed them to a more secluded section. He and his wife couldn’t decide which table so I made some lame joke about sitting at two separate tables and throwing the food at each other (this was a 6 star resort restaurant, boss did not like hearing that comment).
+They sat, I put a napkin on his lap, almost shit myself, and their dinner went smoothly. The end."
+56603,best desktop monitor,"For those of you with multiple monitors with different resolutions, there is a program that fixes the mismatch of the mouse position between the monitors, called LittleBigMouse. It's an open source project on github and It's especially useful in 1080p/4k setups to be able to more easily move the mouse between monitors without confusion. I use it with a 1440p/1080p setup and the mouse cursor lines up on both monitors smoothly and seamlessly.
+
+The one recommendation I have is make sure to disable it any time you plan to change monitor resolution or position in the Windows settings and the re-enable it after because it can get a little screwy and lock your mouse cursor in a smaller area than it's supposed to if you're not careful."
+31316,best country to live in,"The horrors of American health care are about *paying for it*, not about the quality of the care itself."
+31569,best hotel to live in,"The food and beverage service were awful. I hope they fire/replace whoever the F&B Director is. 
+
+Grocery store wine list. Oily pizza. Unimaginative menu. (I admit I am a harsh critic).  We went into town to eat bbq it sucked so bad. 
+
+The pool is super cool though and the overall vibe is awesome. 
+
+Antelope canyon lives up to its expectations and you can hire a private guide from amangiri that lets you cut through al those crazy lines."
+10692,best suitcase lock,https://youtu.be/tbpKhHwwtiY?t=53s

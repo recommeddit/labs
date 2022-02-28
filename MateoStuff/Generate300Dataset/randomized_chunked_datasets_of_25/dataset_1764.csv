@@ -1,0 +1,56 @@
+idx,query,text
+33184,best energy drink,No. I only drink water.
+46135,best trick or treating candy,We have good name brand candy from birthday parties we go to (2 3 lb cheeseball containers worth) we will be giving away on holloween.
+21341,best workout music,"""I'll make a Man out of you""
+
+Mulan"
+40247,best midrange CPU,"No, Zen3 is the next generation of Ryzen CPUs (4000 series on desktop). It'll use AM4 and is compatible with B450 and above chipsets.
+
+There's no Zen2+ on the roadmap. There's a recently announced refresh of some Zen2 CPUs, but these are just better binned versions of existing models without any other changes. So they don't constitute a new generation (not even an intermediate ""+"" generation).
+
+Zen4 / Ryzen 5000 is expected to be a departure from AM4, but that's still at least 1.5 year away."
+28175,best breakfast foods,Whether or not an European likes peanut butter depends on which country they are from. For example the Dutch love that stuff. And personal taste of course. :)
+9297,best toothpaste,"I saw that too, it's definitely not that bc that has stannous fluoride (the tooth stain formula).
+
+My tube says Colgate PreviDent 5000 Plus, it's 5000 ppm fluoride and 1.1% sodium fluoride. 1.8 oz / 51 grams size"
+30210,best Mexican war to study,"It was not taught at all at my high school, to my knowledge. IIRC, I took every history class that would have covered it, so I'm pretty confident in that.
+
+I did learn about it in college, though. As others have said, it is taught almost entirely based on the issue of slavery."
+55108,best places to hike in the east coast,Anyone got specific trail info?
+45724,best trick or treating candy,Ohh god the lollipops. Did you know they have 3 different flavors?!
+3715,best college for research,"Yes, that would be great."
+56763,best desktop monitor,"Also, While it may not be VESA mountable there are VESA converter mounts like [this](https://www.amazon.com/Adapter-Bracket-i2367Fh-i2757Fh-i2267Fw/dp/B01A3XDIQQ/ref=sr_1_1?ie=UTF8&qid=1468253283&sr=8-1&keywords=aoc+i2267fw+vesa)"
+73713,best matte screen protector for ipad,"quick question: for supershieldz, does it come with installation kit or just a microfiber cloth ?"
+10393,best suitcase lock,"Fun fact - European airport security tends not to be as aggressive as the TSA, and if you're travelling between EU countries you even get to use the special ""Blue Lanes"" at customs, where you basically walk through.
+
+If you have one of those fancy biometric passports and the airport supports it you can even go through passport control by scanning your passport on a robotic gate, meaning you don't have to talk to any security officials."
+63426,best package manager ios 14 jailbreak reddit,not seeing sucession on that repo
+67246,axios alternatives reddit,"Getting a 400 means you requested a resource that does not exist - which is an error. Your application shouldn’t be requesting resources that don’t exist. It is appropriate to throw. 
+
+I don’t care if you prefer not to throw when you get an error - but that is your application in error right there.
+
+If you’re saying that 404 is used as a valid response in rest apis for valid requests, it shouldn’t be.
+
+For example if you request all favorites of user 4, and user 4 has no favorites, 404 is not an acceptable response. An empty array (or similar) is because the user exists and the actual response to querying for his favorites is an empty array which is not the same as “resource doesn’t exist”."
+32305,best hotel to live in,"This wasn't a 5 star by any stretch, but while in training to install kitchen cabinets for this one company they put the majority of people up in a hotel. This one day we got all our tools to use on the job, chop saw, drills, table saw, etc, etc, etc. This hotel gave one  free beer per person, and these guys from training were getting a LOT more than one beer. That night they decide to take apart all the furniture in the room, and install it on the roof.
+
+The company was hit with that bill of course. They were not amused. They also changed how/when they gave out tools as well."
+70518,best major to study in college,"Well, I never majored, but I did my BA and MA in history. I think the worst thing of both of them is that people don't take history seriously, and consider it unemployable (which is hilarious because I've never been without a job in my field since I graduated with my BA, even if they're all temporary). The best, though, is that history is my passion and I could not have enjoyed my education as much in any other subject.
+
+I'm currently doing my PhD in human studies, which is an interdisciplinary social sciences and humanities program, and the worst for that is similar to that in history: people don't always take interdisciplinarity seriously, if they even understand what it is. Another is that people also don't know what ""human studies"" is and don't usually understand what I study. The best, though, is that I can continue doing history, but I have the benefit of blending it with other disciplines (so my research is primarily historical but also partially sociological)."
+52148,best iphone case,"I'll second the Apple leather case. I've had one in navy blue for a couple of months now, and it's the first time I've preferred an iPhone in a case rather than carrying it naked. Doesn't add much thickness and has a great feel. Like you said, only downside is the price."
+31435,best country to live in,Depends on what your requirements are. I would say The Netherlands because that's where I started a new life and it worked out well for me. Am in the US now though. Kinda regret leaving but oh well.
+70764,best movies with a cool twist,"Hush, Hush, Sweet Charlotte and Whatever Happened to Baby Jane?"
+17066,best iOS game,"Thanks for the list! Real good games there
+
+Do you prefer a3 or Raziel?"
+28306,best breakfast foods,Feta cheese with honey on top of toasted bread. Quick and dirty.
+69324,best major to study in college,What would you do in technical school? Just wondering
+58719,best cologne,"1. Creed Aventus (19u11 batch) 
+2. PDM Herod 
+3. Roja Dove Creation-E Enigma Pour Homme 
+4. Dior Sauvage EDT 
+5. ADG Parfumo 
+ 
+Bonus: Versace Eros, Roja Elysian, or Mugler Pure Malt"
+27148,best board games,Kind of surprised Ticket to Ride wasn’t on the list

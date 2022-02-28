@@ -1,0 +1,75 @@
+idx,query,text
+44997,best items under $100,But even a good toothbrush is not a replacement for a dentist visit. It's still a good idea to go once per year
+6896,best iPhone,"Oh yes, that was the best Year ever. 
+
+The spec of an 6s with a chassis of 5s. Just like the current SE 2020 i’m using. Thing is pretty darn powerful."
+72828,best Linux distro,"Why not?  You'll learn basic cli, UNIX file hierarchy, and basic package management.  It's a good intro to linux"
+51610,best iphone case,Got the yellow. Love it. Thank you buddy
+31546,best hotel to live in,Looks like some stunt
+50503,best rap album,Agreed. Key to the Kuffs has a few on there that just sound like noise. I tried to get over it but I can't.
+39751,best Chrome extensions,"[Fakespot](https://chrome.google.com/webstore/detail/fakespot-analyze-fake-ama/nakplnnackehceedgkgkokbgbmfghain). Gives you an easy way to test the authenticity of reviews on Amazon (and a few other sites, not sure which). Edit: It can be used for free, the paid features just adds the fakespot grade on the page as you browse. Free opens a new tab.
+
+[The Camelizer](https://chrome.google.com/webstore/detail/the-camelizer/ghnomdcacenbmilgjigehppbamfndblo) (from camelcamelcamel) to easily check price history on Amazon, and set up price alerts
+
+[Lastpass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd). I've had sites be hacked and my info stolen before, and had a bad habit of reusing passwords. Lastpass generates secure passwords and saves/autofills them. Unlike chrome's password saver, it's encrypted too, and with the app can be used cross-platform.
+Edit: since a couple of people asked, I'll add that you can apparently import from chrome Password manager with lastpass (Account Options -> Advanced -> Import -> Google Chrome Password Manager).
+
+~~Google translate. Allows you to quickly translate stuff/autotranslate pages.~~
+Edit: some people have pointed out that chrome can autotranslate pages without the extension now, so I guess this one isn't needed.
+
+[Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) for a pretty new tab page.
+
+[IE Tab](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd). Basically turns the tab you use it on into a virtual internet explorer tab. I had something I used a while back that could only run in IE for whatever reason, so rather than subject myself to that I could just run IE Tab and it would work perfectly within chrome.
+Edit: tested it and it will run stuff like Silverlight that Chrome won't. Fairly sure it essentially opens an instance of IE in a chrome tab somehow so everything works natively.
+
+Also, this isn't an extension but I strongly recommend running your email through [haveibeenpwned](https://haveibeenpwned.com/). It's a site that keeps a database of emails from website hacks and dataleaks and will tell you if your email was ever in one (and allow you to sign up for alerts for future ones). Obviously it's not foolproof and only has what the guy running it has managed to get his hands on but it's a really great tool! Goes hand in hand with lastpass imo."
+70751,best movies with a cool twist,"Old Boy is one of those movies. Watched it about 10 years ago for the first time, still gets me everytime I show that movie to someone."
+61078,Best comedy show on Netflix,"Niles and Frasier's back and fourths were amazing. 
+
+My favorite sitcom"
+54047,best medicine for a cold,"As a Chef I have learned about the medical properties  of some foods.
+My mix is Equal parts Lemon Juice (Real lemon)+ grated Ginger+ Cayenne pepper + Honey
+Lemon juice = Lots of Vitamin C
+Ginger = Immune system boost, helps with tummy aches. (mongoose chew ginger after being bit from snakes)
+Cayanne = Clears the sinuses 
+Honey = Antiseptic with energy boost 
+Hope it helps"
+73871,best matte screen protector for ipad,"A matte one, it just feels so much better. 
+
+I've used the matte screen protector from tech armor for years and it didn't require me to switch nibs in my pen. For the past few months, I've used paperlike, and I've had to switch nibs 3 times already. I don't find the difference noticeable, so I'll be sticking with the cheap option."
+48383,best color to paint with,"I have repose grey. I do like it, but sometimes it looks dingy to me."
+47284,best state to visit in the United States,Yeah just don't wear shoes you like.
+98,best terminal file manager reddit,"I don't really get having a cli file manager. It's usually faster to just ls or whatever I need. If I want a file manager it's usually because I'm using my mouse to click around and drag stuff, etc."
+27381,best stocks to buy,"SENS - goes high once 180 day tool FDA approves, 
+
+AEHR - This is growing and order book increasing - chip shortage 
+
+RIO  - very low now, high dividend, I keep adding 
+
+VEON - High dividend, I keep adding 
+
+FRO  - High dividend, I keep adding
+
+All these stocks, I keep adding every time it dips nicely, no plans to sell."
+67592,axios alternatives reddit,"I like everything about it except for having to [manually specify the `responseType`](https://www.npmjs.com/package/got#json-mode).
+
+[`.extend()`](https://www.npmjs.com/package/got#gotextendoptions) looks like it can be used to ameliorate that. Never thrilled about more boilerplate though."
+41075,best instrument to play,"As a guitar player who transitioned over to bass for the sake of landing a spot in a gigging band, I find I enjoy practicing bass and performing much more than guitar. I feel like a part of the music a lot more, I really feel the groove and timing when playing bass in a way I never did when playing guitar. It makes me think I was playing the wrong instrument all this time :(
+
+Guitar seems disposable as an instrument in this day and age... I have seen really amazing contemporary bands that don't even have a guitar at all. It is very refreshing."
+40561,best midrange GPU,Greetings from RDR2
+60387,Best comedy show on Netflix,"Oh yeah it is pretty goofy but still hilarious. Titus is amazing. They're about to come out with the new season and I think it's the end. I actually haven't finished all the current seasons yet myself but I do think it's funny as hell. I love the stuff Tina Fey comes up with. And speaking of Tina Fey, another show I love that i forgot to mention is 30 Rock."
+4724,best home improvement store,"Generally I prefer Home Depot. The one near me is better organized than it's corresponding Lowe's, plus they carry Makita and Milwaukee. Lowe's carries Bosch though so I go there sometimes for tools. I like Kobalt as a store brand better than Husky, so that's a point for Lowe's."
+62990,Best online React course,lolll i love how you plug it
+69127,best science fiction novel,"1. Speaker for the Dead by Orson Scott Card
+
+2. Dune by Frank Herbert
+
+3. Old Man's War by John Scalzi"
+34568,best NFL player,"Still think it's dumb that the athletic put brown ahead of Rice, he's objectively a better player and played for much longer."
+8845,best toothpaste,"This is common in other products. Take a look at all the different varieties of Dove shampoo for example, and compare the ingredients list. They're identical, except sometimes the positions of the last two items is swapped."
+558,best mac app to annotate pdf with wacom tablet reddit,"I do use my Wacom One for taking notes.
+
+I was too lazy to investigate apps, so I use rather Illustrator CS6 (good for pasting photos and instant tracing too) or our best and worst enemy, Paint. It fits me
+
+Wacom One is intended on everything you can do with a pen and more. It's all about the software you are comfortable with using & tweaked settings. You do you"

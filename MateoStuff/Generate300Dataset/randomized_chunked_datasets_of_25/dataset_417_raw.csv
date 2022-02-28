@@ -1,0 +1,72 @@
+"This site is great, usually get a reply pretty fast and the researchers are nice too! Recommended to everyone that asks for help on searching full papers and related ones."
+"Didn’t like it I’m afraid, plus the main guy is one of those actors I just end up finding annoying in most roles he’s in"
+"1. Sixth Sense
+
+2. Fight Club
+
+3. Old Boy
+
+4. The Prestige 
+
+5. Psycho"
+"I have the middle one ($23.99) and I love it. It's fast via both outputs and charges pretty fast. When I travel, I pretty much charge with that since it moves around so easily. If I even need to recharge it, it charges fast."
+"It depends a little bit if you're asking about warmest temperature in general, or warmest average temperature. For average values then yes - the oceanic flow keep the winters mild in Denmark, but also prevent extremely hot summers. Due to its more inland location however, the summers in the interior regions of Finland can get significantly hotter than the rest of Scandinavia (30+ from what I've read). On the flipside, the winters are also way harsher than in the coastal areas. 
+
+And yes, the bike paths get salted and cleared of snow when needed. They are generally well-maintained... The Road Directorate runs a machine over it regularly, which uses laser to identify unevenness in the surface due to root damage or potholes (I'm not an engineer though, so I don't know too much of the technical details... I just thought it was cool that they used laser to identify bike path potholes heh).
+
+Also, Key West is awesome! I fell in love with the quirky atmosphere when I visited a few years back. Someone told me that the Keys declared independence when someone tried to make them pay for use of the bridge. I have no idea if the story is true, but it perfectly captures the mood of the place to me :)."
+"Buy 15 pairs of summer socks, and 15 pairs of winter socks."
+"Have not watched the most anime, but I really loved Steins;Gate, Kami nomi(third season is the best), and High School Dxd(not for any deep reason, just because it's absolutely ridiculously laugh out loud funny)."
+Ask A Mortician. Really anything by Caitlin Doughty IMO.
+"Shards of Honor is really an outlier in the series. I think it’s probably the weakest book out of all of them. I always suggest new readers start with Barrayar because it’s a better introduction to the series and the recurring cast of characters. 
+Cordelia and Aral take a backseat once Miles is born and then all the fun shenanigan start. Don’t judge the series based on Shards of Honor. It’s nothing like the rest of the series."
+"Give each kid one. Then at the last second, give up another one or two because their costumes are so cool/the best you've seen so far/whatever."
+That makes no sense.
+Are you some sort of acronym answering wizard?
+Computer lounge. Currently it is not possible to get hifiman in NZ though. And they were only that price because it was the last pair of the last bit of stock they had before all the hifiman gear sold out. They won't be getting more.....
+"> rich ass-kids
+
+***
+
+^(Bleep-bloop, I'm a bot. This comment was inspired by )^[xkcd#37](https://xkcd.com/37)"
+We make the same mixed shot (sprite + cran + dragonfruit Bacardi) and call it a Huxtable because it tastes like jello.
+"Best I’ve ever had were Burn energy drinks when I was in Europe. 
+
+Personally, I am a sucked for a good Amp energy drink though."
+"Definitely this. I didn't used to floss because it hurt. When I got older and my teeth got shitty, I started flossing, and it didn't hurt at all. Even with sensitive, bad gums. The trick? 
+
+Good floss (glide, baby!), and GENTLY shimmy it between the teeth, then pull it so the floss cups as much of the surface of the tooth as you can, then pull the other way to get as much of the surface on the adjacent tooth. And don't forget to floss the backs of your back-most molars, they need it too!
+
+My only problem is I tend to drool on myself. frik
+
+ Also, make sure to brush for at least 2 minutes (but no more then 3). Get a stopwatch on your phone and time yourself, you're probably not doing it long enough. It's an easy habit to make so make it when you can. Soft-bristle brushes, and use the same pressure you might use to polish a tomato. No whitening toothpastes. If you're going to use mouthwash, don't use Scope it's trash. Something like Listerine, the ADA accepted ones, nothing fancy. If you do wanna get fancy, include ACT mouthwash. Again, the simple one, ADA accepted. Time yourself.
+
+Oh and also get Xylitol mints for after meals/snacks/etc. It lowers the pH in your mouth which makes it harder for bacteria to grow and strengthens the teeth. Plus it's tasty. 
+
+Is...is it obvious I developed severe teeth/dentist anxiety? Don't care. This is the best-of-the-best tips/info I found when I was freaked about it, and it's what I use. Also brush at least twice a day, preferably three times after each meal. But wait about 30min, and/or pop a xylitol mint then brush. Brushing too soon after a meal can cause damage to the teeth, since the acidity of your meal weakens the enamel slightly. Reduce/avoid soft drinks, and don't sip sweet drinks throughout the day."
+It's mad that the 2020 M1 macbook doesn't even have a freaking HD webcam
+Get a Japanese Maple.
+"I too am a mostly-in-the-shell sorta guy.  If I need to act on filenames that don't follow any pattern (e.g. images that are just ""IMG_####.JPG"" or MP3 files where I want to delete ""uninteresting"" ones where I can't target them with a file-glob), I'll pipe the filenames to `vim`, transform them to the shell commands I need, and then pipe that through `sh`.  E.g.
+
+    $ ls *.mp3 | vim -
+    [delete the lines I don't want to change]
+    :%s@.*@mv ""&"" ../path/to/dest/""&""
+    :%!sh
+
+If there's some discernible pattern that doesn't suit a glob, or the resulting command can be done with a regex, sometimes I'll use `sed` instead of `vim`:
+
+    $ find . -name '*.mp3' | sed 's@\([0-9][0-9][0-9][0-9]\)-\([0-9][0-9]\)-\([0-9][0-9]*\)\(.*\)@mv ""&"" ""../archive/\1/\2/\3/\4""@' | sh
+
+(I usually start by omitting the final `| sh` to double-check the commands that will be run, then recall the command and tack on the `| sh` to actually perform the actions)
+
+Alternatively, I'll occasionally use the DIRED mode of `lynx` do tag a bunch of files to delete
+
+    $ cd ~/Podcasts
+    $ lynx .
+    [tag a number of boring-sounding items using ""t""]
+    [use ""r"" to remove them]"
+Bourbon mixed with bourbon.
+Colorado. Just visit though. No moving here when you love it.
+"I dunno.. lately they’ve not been great. Ready Player One, The Post, The BFG, Bridge of Spies were all pretty mediocre"
+I decided on behr white 52 for my white. It’s white but with a little extra tones so it’s not uncomfortably bright.
+"Dosent change shit, I the user had A credit card connected a user could easily change the email and thus sit with a account he can sell to multiple people"

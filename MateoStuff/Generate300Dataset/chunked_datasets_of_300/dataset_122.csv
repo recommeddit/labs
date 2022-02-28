@@ -1,0 +1,584 @@
+idx,text
+39271,Ok then.
+39282,[https://imgur.com/a/WwHqJmO](https://imgur.com/a/WwHqJmO)
+39274,Bullshit. Firefox never uses less than 2GB of RAM on my PC whereas chromium based browsers always hover around 800MB-1.5GB with the same extensions and tabs open.
+39278,"Adguard, BitWarden, and a ported version of IT Glue's Chrome extension (this problem exists with the IT Glue extension present or not)."
+39280,I go back and try it again every few weeks. Memory leak issue still remains. I've tried it on multiple computers and every time it crawls up to over 2GB usage and slows the PC down to a crawl.
+39281,"My firefox is using 241MB of ram with 4 reddit tabs open and my whole system is using 1.3GB. What website are you on or how many tabs are you running? Often there are scripts on pages that will blow out the ram usage, which is not browser based. Except google sites which intentionally cause issues on none Chrome browsers, very much a Microsoft move."
+39283,Had the same problem *before* Quantum. Been fine for a few years now though.
+39284,It never went away for me
+39285,"RAM is cheap these days, 16GB is standard for most builds."
+39286,"Bud, I have 16 GB. Firefox crushes it."
+39287,"16GB as well, usually have 4-6 tabs open at any given time, never uses more than 2-3GB last I checked. I'll try it out when I get home from work and see if anything has changed."
+39288,2-3 GB usage is the problem tho......
+39289,"I take that back, 5-6 tabs is under 800MB at the moment. I opened all 51 links in my bookmarks bar and it jumped to just over 3.2ishGB, still not terrible imo. I have the RAM, so it's not much of an issue for me."
+39290,"Stop trolling. If you want to use Chrome and give Google the entirety of your information and online activity, go ahead. Just stop lying and creating problems you don't have to discredit Firefox. 
+
+It had problems during the years, especially with video players (Facebook mainly) showing purple and green lines, clouds and so on. But everything has been fixed and is constantly being fixed."
+39291,"> Stop trolling
+
+I'm not?
+
+> If you want to use Chrome and give Google the entirety of your information and online activity, go ahead.
+
+I don't? I use Vivaldi.
+
+> Just stop lying and creating problems you don't have to discredit Firefox. 
+
+I'm actually telling the truth. I'm not trying to discredit Firefox. I love Firefox. It just has too many issues *for me personally* to use it as my daily driver.
+
+> But everything has been fixed
+
+This is an objectively false statement. 
+
+Maybe don't go around assuming you know everything about everyone and every situation."
+39292,"Vivaldi is still based on Chromium. 
+
+The issues you've mentioned use to exist with previous versions of Firefox, but they've been fixed. There are websites and even videos benchmarking the performance of multiple browsers and Firefox has shown to be the most ""complete"" and most efficient among the most known ones. (There are obviously less known browsers that are incredibly light but also have fewer features and capabilities) 
+
+DYOR!"
+39293,">Vivaldi is still based on Chromium.
+
+&#x200B;
+
+I never said it wasn't. Chrome =/= Chromium and Chromium =/= Google's hands in the cookie jar.
+
+&#x200B;
+
+>The issues you've mentioned use to exist with previous versions of Firefox, but they've been fixed.
+
+&#x200B;
+
+I'm sorry, but ""it doesn't happen on my machine"" is not a valid solution. It is STILL an issue for me.
+
+This is with 7 idle tabs open and 3 extensions 5 minutes after opening Firefox:   [https://imgur.com/pKpzz1g](https://imgur.com/pKpzz1g)
+
+You can see Chrome  for comparison's sake with the same tabs and extensions open, plus 3 or 4 few more tabs, uses UNDER HALF the RAM Firefox is using. Its ridiculous that you keep insisting this problem doesn't exist when it clearly does. This problem exists on multiple computers at two different physical locations.
+
+If I start opening  more tabs in Firefox (its not uncommon for me to have 15-30 tabs open at once) that number will slowly climb until it nears or eclipses 3 GB RAM, which is *ludicrous* RAM usage for a web browser, and the PC begins to lag, freeze, and become unusable until I close Firefox completely.
+
+&#x200B;
+
+>There are websites and even videos benchmarking the performance of multiple browsers and Firefox has shown to be the most ""complete"" and most efficient among the most known ones.
+
+&#x200B;
+
+Lol, you're telling me to ""do my own research"" yet all you can do is reference benchmarking websites and videos for performance tests *you didn't even do yourself.* You didn't even provide any sources to backup your claims.
+
+&#x200B;
+
+>DYOR!
+
+&#x200B;
+
+See above. I have been ""doing my own research"" on this issue for the better part of a year and longer."
+39294,"If Firefox is using an unexpected amount of RAM, report a bug by following the steps below:
+
+1. Open ```about:memory?verbose``` in a new tab.
+2. Click *Measure and save...*
+3. Attach the memory report to a [new bug](https://bugzilla.mozilla.org/enter_bug.cgi?product=Core&component=Memory%20Allocator)
+4. Paste your ```about:support``` info (Click *Copy text to clipboard*) to your bug.
+
+> [If you are experiencing a bug, the best way to ensure that something can be done about your bug is to report it in Bugzilla. This might seem a little bit intimidating for somebody who is new to bug reporting, but Mozillians are really nice!](http://dblohm7.ca/blog/2014/08/14/diffusion-of-responsibility/)"
+39295,"I'm just too tired for such a conversation. Use whatever you like, but even if Firefox behaved this was on my computer, I'd still avoid using Chrome; my privacy is more important than a few GB of RAM. 
+
+Firefox is using about 5GB of RAM on my computer in this moment, but I keep about 10-15 tabs open, which are incredibly heavy on RAM, CPU and GPU (TradingView and other charts, Youtube, Whatsapp etc.) 
+
+I've had both Chrome and FF in the past, they used about the same amount of RAM and CPU, but Chrome lagged a bit. It was usable, but not good enough. And this was before Firefox Quantum and the latest updates that have made it lighter and faster on most computers. 
+
+Take care."
+39296,What are you saving your RAM for?
+39297,"Lol my only issues with Firefox and it's ram usage have been with the latest 67 version that introduced that automatic tab unloading on low ram situations.
+
+Issue with that feature on my case was, that my computer has 32gb of ram and when this feature kicked on, Firefox was using around 2gb of ram and my computer had more than 25gb still unused according to task manager.
+
+Even though there being more than enough ram to run more than 12 identical Firefox programs simultaneously, Firefox still unloaded tabs with paused Youtube videos that i had watched only like 3 minutes ago or something.
+
+So in my opinion Firefox could have been using at least 10 times more ram and i would have been better off with that.
+
+I understand that this feature is nice to have for pc's with 2gb ram or something like that, i remember not having any problems with my old laptop with 8gb ram on Firefox.
+In my experience windows kept things regarding ram control nicely in check, so 8gb or more is enough for Firefox so such features are not necessary."
+39298,"I personally like the Firefox too. The tools are easy to locate. It alowes me to block unwanted pop-ups. It has a lot of features and easy to use. I can set it up to automatically clear caches and cookies, when you have kids set up the parental controls...etc"
+39299,Not even shilling but I have Chrome set up the same way.
+39300,"I used to use Firefox until I made the switch to Brave - Brave is much more secure and was actually created by some former members of the Firefox team. If you haven’t used it yet, definitely check it out if you care about your privacy!!!"
+39301,I like tor
+39302,"I would like to use Firefox, but for whatever reason it is incredibly laggy on my 4k display. I tried so many methods, still cannot fix it. Ended up back in Chrome.
+
+Right now I'm using Edge Chromium, it is pretty good actually:)"
+39303,I am on 4k with Firefox with zero issues.
+39304,Me too. That seems more like a hardware issue than a browser issue.
+39305,"I disagree.
+Firefox is laggy. I don’t find the same speed that I have on both Safari and Chrome.
+I’m so disappointed because I would love to make the switch to Firefox :(
+
+PS: currently on MacOS, waiting for Ryzen price drop to build my PC :)"
+39306,"I had that same problem on Linux way back, Chrome always seemed so snappy. Recent versions though have greatly improved that experience, and I decided the insignificant difference in performance was an acceptable trade-off for the increased privacy."
+39307,On Linux Firefox is better then chrome. But I can’t switch to Firefox since one thing is missing. The bookmark bar does not show only in a new tab like chrome. If it only showed the bookmark bar in a new tab I would like it more.
+39308,There are lots of themes and plug-ins that allow you to customize Firefox in lots of different ways.
+39309,I know there is but is there something to get rid of the bookmark bar in websites and only show it in a new tab?
+39310,"I don't understand what you mean by ""show it in a new tab"", but the bookmark bar can be disabled. Right click and click on the ""Bookmark Toolbar"". As for the ""new tab"", Firefox is set by deafult to show bookmarks and most visited sites on every new tab or window. This can further be customized to show only what you want. 
+
+You can also put your bookmark on a side bar and let i there permanently with a plug in/add on."
+39311,The boomark toolbar only showing in new tab page and not on websites. So when I open New tab I see my bookmark bar till I go to a website it goes away.
+39434,See https://github.com/Timvde/UserChrome-Tweaks/blob/master/toolbars/show-bookmarks-only-on-newtab.css
+39313,"Firefox or something based on it. Chromium is not good enough, because Google still gets to choose how it runs, and because blink has a majority on the browser engine market, Google gets the most say in setting the industry standards.
+
+Anyway, I know this is the Windows sunreddit, but if you're worried about Google then you should also look into the things Microsoft have been getting themselves into.
+
+I am a Linux user. I subscribe to this sub for relevant information when I need it. I feel like the people here often don't get enough outside opinions, and since your post doesn't technically have to do with Windows in the first place, I think I also have a say to bring up that Windows may not be the best OS for someone concerned with these matters. You might like to put some consideration into using a more open-sourced OS."
+39314,"I just wish that Linux played better with games.  I know, I know, it is improving but for quite a few games you have to be a power user just to get them running."
+39315,"[Not really.](https://youtu.be/Co6FePZoNgE)
+
+Improving is an understatement, the level of compatibility I get now makes it basically an established platform. The majority of my Windows-only games run on Linux without setup now, and some of the ones which may need setup have very basic how-to guides on forums and wikis."
+39316,"Still no native battle.net.  No native epic, no native gog...   Yes some of those are easy to install but not having native applications is a deterrent to a lot of people."
+39318,Yeah that I can understand. VMWare Player is only barely powerful enough on my laptop to run Fusion 360.
+39319,"Quite frankly while I mostly agree with you, I don't think it's at all fair to compare the privacy implications of Windows vs. Chrome as equivalent. Windows does collect Telemetry data, but it's anonymized telemetry data that is explicitly not allowed to be used for advertising purposes and is just used by developers so that they know why their app is crashing or not running properly.
+
+On the other hand Chrome's data harvesting is explicitly for advertising purposes, to build up profiled information on you that will be sold to the highest bidder. And that's not to mention that because Google fundamentally makes it's money from advertisers (whereas Microsoft makes it from selling businesses software and services), Google's incentives in the development of Chrome's feature set are much more perverse and insiduous (just look at them blocking ad-blockers).
+
+Fundamentally, at the core of Microsoft's business (i.e. where all their revenue comes from) is securing other businesses data. At the core of Google's business is selling your data to advertisers.
+
+If you can get away with running Linux as your daily driver that's awesome and I do think that's the ideal. But I don't think Windows and Chrome are remotely comparable from a privacy standpoint, and I would still wholeheartedly endorse someone who wants to use Windows, but not so for Chrome."
+39320,"I used to use Opera but it got bought out by a sketchy Chinese comglamorate, so I dumped that and moved to Chrome, which is far better because it's owned by a sketchy American conglamorate.
+
+For real tho I use Firefox"
+39321,I too moved from Opera -> Firefox (+Vivaldi as the number 2)
+39322,"There's also Brave, another privacy focused Chromium skin."
+39323,I use it on my phone.. but don't quite like it as much on my pc.
+39324,"Damn. Never knew opera got bought out....... Now that sucks.
+
+Removing it today. There's no way I'm leaving that on my system with the Chinese. I'd rather chrome than opera now"
+40148,Firefox
+39326,Chromium Edge
+39327,It does look promising but does it work on Linux?
+39328,"That's what we all want to know in the Windows subreddit.  (Don't get me wrong, I love Linux)"
+39329,"Sorry, I was about to go to sleep so didn't think much about it."
+39330,"Gives you an indicator about their ethics, even if you don't use Linux"
+39331,About who's ethics?
+39332,The business'
+39333,"Good point, but still probably not the best place to expect the answer to that question."
+39334,"I think it will at some point.
+
+It already works on Mac OS X."
+39335,"underrated but the best in my opinion, pretty lightweight on my surface"
+39336,I've completely migrated to the dev preview of Chromium edge. Quite liking it.
+39338,Ditto.
+39339,The new edge. I was a chrome guy but it used up so much ram and drained my laptop. Switched to the new edge and it works great.
+39340,Vivaldi hands down.
+39341,Just switched to it full time and its been great
+39342,"This is the right choice for exactly one reason -- it's the only Chromium-based browser that properly implements ""tabs at the end"".  There are Chrome extensions, but they get it wrong when undoing closed tabs (ctrl+shift+t), thinking that's a new tab and moving it to the end instead of opening where it was closed.  Firefox does ""tabs at the end"" correctly, too, but I prefer Chromium's rendering and extensions."
+39343,"My favorite is Opera, but use Firefox at work. I like Opera due to the built in dark mode, vpn, and ad-block and the fact that is relatively lightweight (compared to Chrome). Use Firefox due to being easier to run than Chrome and it is pretty much our standard. Used to use Chrome but it got quite heavy and once I switched, I realized how little I liked the design and feel of the interface. I still have it installed, but don’t really ever use it anymore. Tried Edge but just felt a bit incomplete. That being said, I have not tried the new Chromium version yet. For old stuff (Windows 98SE) I have been using Seamonkey, albeit an older version, because it works. I avoid Internet Explorer and Safari at all costs."
+39346,"> google was and still is an NSA funded program
+
+Uh, no?"
+39347,"Better having the Chinese log my data than Google, Amazon, Facebook and the US government ;)"
+39349,Always choose the better worse.
+39350,I'd rather Facebook et al have my data than the Chinese.
+39351,"You must be a ""proud"" American :P"
+39352,Actually no. Not American. Used to think it was stars and stripes forever as a kid ... but not these days
+39353,Brave browser.
+39354,I use it on my work laptop and on my phone. Haven't switched on my personal laptop or desktop yet. Not entire sure why. Built in Ad-block works really well.
+39355,"Seconded, it’s been pretty great so far plus I dig the the concept of how they handle opt-in ads that pay back to sites you choose (which roughly translates to some ad revenue for them). Great for smaller sites that haven’t monetized yet but you still want to support."
+39356,I like Firefox for privacy but...most of my development life has been with Chrome.
+39357,"I use Chrome solely because a lot of my old passwords are synced with my Google account. For most the accounts I use on the regular, I use a password manager but if I want to move to say Firefox, how can I move my passwords over? Note that the accounts that are synced are the ones that I rarely use and don't give much shit about but I stills don't want to lose them."
+39359,Thanks a bunch. I'll try it once I wake up.
+39360,Why do you leave your passwords for something like Google only? You should have a backup somewhere for your own.
+39361,I have been using Vivaldi and it is the best i found.
+39362,"Went back to Firefox after the nonsense with Chrome as of late, works great for me."
+39363,I switched form chrome to firefox and it is my best browser till now now I love it
+39364,"I have been using Brave as my main one and Firefox as my secondary. On both of them, I'm using Ublock origin in advanced mode and they're about tied for performance. I really like Firefox, I've been using them as a browser going back a long time and there's definitely been ups and downs with them but I think it's important to have them as an option. I downloaded the Firefox preview for the new android version and it is fantastic. Once it supports extensions etc I might just switch over to it."
+39365,Firefox and has been since the beginning......
+39366,I'll give you the opinion of a long-time web developer: most developers use chrome to create and test sites.
+39367,*Chromium.  You can still use chromium with other more privacy focused browsers like Brave... And take advantage of chrome extensions without sacrificing your data.
+39368,"Yeah I would suggest using Firefox though. Brave still promotes the Chromium monoculture and their ad policy is parasitic, hurting small creators, in my opinion. Tbh it is a bit mafia like. Good reskin though"
+39369,Why does it hurt small creators? I think there might be a misunderstanding.
+39370,">Yeah I would suggest using Firefox though. Brave still promotes the Chromium monoculture and their ad policy is parasitic, hurting small creators, in my opinion. Tbh it is a bit mafia like. Good reskin though
+
+Disagree, quite the opposite actually. The ad design gives a larger revenue share back to small creators than Google AdSense.  That's why so many small YouTube creators have signed up for Brave (135,000 of them)."
+39371,"Sure but they get none of it until they agree to be partners. Aka buy our protection or we will beat you and take your money, classic model"
+39372,">Sure but they get none of it until they agree to be partners. Aka buy our protection or we will beat you and take your money, classic model.
+
+That's no different than using Google AdSense.  With Brave, publishers will be able to have integrated ads and receive 70% of revenue... that's more than they get now (68% with AdSense).  So not sure what you're saying..."
+39373,"But google doesn't block ads, that's the key difference, it's pretty simple"
+39374,It does if you use an ad blocker. Brave promotes users to view ads by paying them. And it allows users to support sites without viewing ads via contributions. Is that correct?
+39375,"But only if the site signs up to be a partner and agrees to the terms where the user gets 15%, otherwise brave just blocks the ads"
+39376,">It does if you use an ad blocker. Brave promotes users to view ads by paying them. And it allows users to support sites without viewing ads via contributions. Is that correct
+
+Exactly.  Ad blockers are not going away... 25% of people in the US use them and that number is only going to grow.  Brave gives users choice, added privacy, more targeted impressions for advertisers (to users who have actually agreed to seeing them and without sacrificing your private data), while maintaining an ecosystem that pays publishers a larger share of ad revenue.... It encourages users to give back to their favorite creators with either their own contributions (patreon-like) for those who wish to keep ads blocked, OR without even having to contribute their own money...rather their attention."
+39377,That's changing a little as time goes on.  Devs have more reason than anyone to hate a chrome monopoly.
+39378,Given that they're fucking with ad blocking I'll pass.
+39379,"Brave.  
+
+It defaults to block ads, defaults to blocking third party trackers, defaults to prevent device recognition and fingerprinting, doesn't report traffic via the referer header, auto https upgrades, etc. And also has their Chief Policy & IR Officer promoting GDPR-like US regulation to the Senate, as well as advocating for actual enforcement in the EU... So they are fighting for our privacy rights.  The browser is honestly so fast. 
+
+They also give you the option to opt-in to a new form of privacy based ads if you want.  They use anonize ZKP (Zero-Knowledge Proof) protocols which allows them to match ads client side on your browser.  This way none of your personal data leaves your device to an external ad server.  Users are then rewarded for giving your attention and you can give back to your favorite content providers if you choose.  Verified sites already include Vimeo, The Washington Post, Chess, The Guardian, DuckDuckGo, WikiHow, etc."
+39380,"I use Brave Browser, it blocks ads and redirects to HTTPS by default, and you can now start earning BAT by viewing their approved ads, which you can pass on to content creators."
+39381,Currently using stock EDGE Faster and Lighter. Was using chrome for years
+39382,Stock edge. Wow not even the chrome edge. You are going way back. I only use edge on my other computer since it is to slow for chrome.
+39383,"I use Firefox, but also think Chrome has a lot of great things going on as well. In my personal experience, Chrome is actually faster by a little bit. OTOH Firefox has far better customization, and I like the UI better. Extension support is really a wash between them. For development tools I prefer both for different reasons, I keep both open.
+
+But there is one point Firefox is objectively better. Firefox on Android supports extension, so I got uBlock there. And If I am using FF on phone, I am using the same on Desktop."
+39384,Chromium Edge [Dev]
+39385,"Firefox. I've been using it since it was still called Mozilla and I don't see a reason to switch to something else. I also use Vivaldi sometimes. At work I use Firefox for work stuff and Vivaldi for personal stuff, at home I use Firefox primarily and Vivaldi for whenever I need a second browser for some reason.
+
+Sometimes I use Chrome for translating pages."
+39386,"I use Firefox on PC and mobile, it does the job the right way!"
+39387,"Best in which case? Security? Then a chromium based browser.  
+
+Privacy?  Tor browser.  
+
+Wouldn't recommend nor use Chrome because of bad Privacy"
+39388,"Firefox, but using edge by chromium. Edge can be the best I think."
+39389,Don't know what's best but I use Firefox the most and feel safe and comfortable with it. I also enjoy Yandex browser. Recently tried Chromium Edge and I'm really impressed! It could probably be my second favorite browser.
+39390,"Edgium Canary although I have a softspot for the original EdgeHTML version.
+
+Microsoft buckling to Google's standards is going to be the downfall of the Web. Handing basically complete control of the user facing Internet is horrible. Firefox can only do so much."
+39391,Brave. Try it. It'll change your life.
+39393,"Firefox, because it isn't Chrome/Chromium, though I am forced to use that one at work."
+39394,Why are you forced?
+39395,My work requires using extensions and websites that only work with Chrome.
+39396,"Well, some extensions are only available on Chrome since they sign exclusivity deals (pretty much like Playstation and Xbox), but websites? Which websites don't work on Firefox?"
+39397,"It's a pretty specific extension made for an online platform our company uses. Common users don't have access to that. The websites open in Firefox, but we need the extension to do our work."
+39398,"All the big companies like Google ""spying"". And they don't even try to hide it! If you read the ""Terms and Conditions"" you will see by yourself. And its not ""spying"", its more like ""collect data to improve the Chrome and show better adds. Just don't care that much about what anyone can say about Google, Microsoft etc."
+39399,Edge.
+39400,Brave. I feel sorry for anyone who doesn’t use if to be honest.
+39401,Firefox. Since the Quantum update it immediately became my favorite browser.
+39402,Firefox with treestyletabs. I don't know how I would live without treestyletabs.
+39403,"Firefox, by far. Better customization, better privacy, lower resource overhead than Chrome, and personally I would argue better looks.
+
+There are a few features Chrome has that I wish Firefox had (better smoothscrolling, smoother drag-and-drop tab support, better Windows high-contrast support), but overall the pros of Firefox outweigh the cons for me."
+39404,"I just started using the ""new"" Edge today. Dev channel. No complaints so far. Compatible with the uBlock Origin extension. Definitely fewer glitches than the old Edge."
+39405,brave
+39406,Chrome for general use. Firefox for privacy based stuff.
+39407,"Chrome, except if they do remove ad blockers, then Firefox"
+39408,"On my work PC, Firefox (this is /r/windows, after all).  On my Linux laptop, Firefox.  On my Android mobile, Firefox (Lite).  I only use a different browser (Safari) on my iPad."
+39409,"Firefox > Vivaldi/Iridium/Edge (Chromium) > Edge > Chrome (ignoring privacy related stuff, it's pretty barebones & performs shit compared to most other Chromium browsers. Only Opera felt heavier than Chrome)"
+39410,Either firefox or vivaldi because if something didn't fit your cup of tea you could simply tweak it
+39411,"I’ve jumped on the Brave train. Privacy, ad control, and built on Chromium so things don’t break like on Safari and Firefox. The compatibility of Chrome with a future-facing approach to privacy with its own tokenized reward system. Bookmark management is not the best, but everything else has been solid."
+39412,Firefox with DuckDuckGo as search engine.
+39413,High five! :D
+39414,"The production version of Edge is my favorite, I'm sticking with that for the time being, all the other browsers including ChrEdge suck in comparison for various reasons including speed, power consumption, and usability."
+39415,Brave/Firefox
+39416,"I flip between Chrome for basics, Edge for work stuff, and Brave for personal."
+39417,Recently there has been a paradigm of using two browsers on your system to minimize tracking. One is the private browser and one is for all sites you log into. I use Firefox as my public browser and Brave as my private.
+39418,Firefox w/Simple Tab Groups is great for tab organization.
+39419,"With all the recent news about Chrome/chromium I would say that Firefox is the only viable browser left. 
+
+If there is still a need for chromium based browser. There is Vivaldi. Highly customizable and feature rich browser. Used it for almost a year, had mostly good impressions."
+39420,"Firefox is literally the fastest and most efficient since the last update. It's also open source and (kinda) privacy-centered. With the right plug-ins and search engines, Google, Amazon, Facebook and other tech giants will never be able to track you and know everything about what you do online. 
+
+Make sure to use DuckDuckGo or some other search engine that doesn't log your searches and doesn't show you personalized ads. 
+
+Get HTTPS Everywhere, the DuckDuckGo add-on and uBlock Origin."
+39422,yeah i like it can use chrome's plug-ins without being chrome
+39423,Try Vivaldi or Brave :)
+39424,But China.
+39425,Google Chrome
+39426,Chrome Canary
+39427,"Any of the unbranded browsers, really. The main corps just can't be trusted."
+39428,"Opera has a build-in adblocker and VPN
+
+
+But FireFox is also good.
+
+My opinion: Opera is better."
+39429,Opera lots of good features
+39430,I'd say Edge if Google didn't sabotage sites for edge.
+39431,How is that Edge's fault though?
+39432,It's not. I love edge and used it as my main browser but was forced to switch to Chromium Edge because of slow Google sites.
+39433,I like chrome because it only shows the bookmark bar in a new tab. If I could change Firefox so the bookmark bar only shows on new tab and not on websites then I would use Firefox.
+39435,I will see and I would switch to Firefox if it works
+39436,I got it to work. I can try out firefox and see if I like it.
+39437,"Safari is the best overall for me but it's only on mac sadly. For Windows, Firefox is probably the best option for general use. For a chromium base and tighter control over resource usage, the new Opera GX browser is perfect for that."
+39438,"I'm changing my opinion every couple of years about that question.
+
+I was using FF until end of last year, but it was sucking up so much memory that I stopped.
+
+I'm now using Brave (Chrome based), which also uses quite a bit of memory, but not as much as FF."
+39439,"Don't care what the ""best"" is. I use Chrome and it does everything I want and it plays nice with my Android phones."
+39440,Too bad it's the worst for privacy.
+39441,I guess if I cared. I guess I'll use something different if I ever needed to access the dark web or anything nefarious.
+39442,"The dark web can't be accessed with any of these browsers; It needs Tor. Privacy is not just important for ""criminals"" and addicts and pedophiles buying and selling online. 
+
+Saying you don't care about privacy because you have nothing to hide, is like saying that you don't care about free speech because you have nothing to say. - Edward Snowden 
+
+Why give important information to huge corporations when you don't need to? So Google can show you ads for video games and dog products (example)? Why should they know what kind of porn you watch? Or what you discuss online with your friends, be it public posts or private messages?
+
+In a not very distant future, these tech giants will be able to rule the world. Facebook is already minting currency (which they call cryptocurrency even if it's not true); Google is on the forefront of AI, Amazon already owns most of the servers from which the most prominent websites (Reddit is one of them) run, while dominating multiple other markets. When the day comes, they won't need to register us and give us ID cards, they will already have all the info. But we can avoid that by giving as little information and access as possible to them.
+
+[This is a video by David Icke explaining more about how these corps. will enslave and control the entire world population](https://www.youtube.com/watch?v=rver8vjc04U)"
+39443,"I already told you. I don't fucking care. Every time I use my debit, credit or loyalty card I'm tracked. My phone's GPS knows where I am. I don't give a shit."
+39444,"Well, I also use my debit card sometimes (exclusively online), but both the bank and MasterCard already know where I live since you need to give them your address to open an account and card. 
+
+I never use GPS, mainly because I don't need it. I really hope you are not using it to post check-ins on Facebook and other social media.
+
+Too bad that you don't care, but if that's your choice, I respect it. 
+
+Take care my friend :)"
+39445,Opera so far it’s working.
+39446,"Brave 
+
+&#x200B;
+
+defaults to blocking ads/trackers/etc. without installing aps/plug-ins
+
+Tor browsing works great when looking for flights. The prices miraculously are consistent all of a sudden."
+39447,You should use the DuckDuckGo browser on Android.
+39448,"Firefox or Brave, both of them are privacy focused. If you want to be anonymous then Tor.
+Visit privacytools.io"
+39449,"Brave, then Firefox."
+39450,"I use Chrome (because I am already accustomed, but actually should change to firefox). I've added DuckDuckGo extension that manages my search and a Ghostery extension that blocks unnecessary trackers and malicious stuff that you find on a daily basis while browsing the web ;)"
+39451,torch has media grabber and opera has FREE vpn. Torch works like chrome
+39452,"Opera has inbuilt adblock and a free VPN. Both work on mobile, too"
+39453,"I like Firefox and edge. I tried to stop using chrome, but I can't. Don't only why I keep going back to chrome. Maybe I will switch to chromium edge when stable version is released."
+39454,"Opera, of course"
+39455,"Contrary to popular belief, EdgeDev is not using chromium. It's using Blink, a rendering engine used by chromium based on WebKit. Microsoft is actually planning to make EdgeDev a chromium BASED browser WITHOUT all the disadvantages that chromium has. Use EdgeDev."
+39456,Chrome but I'm very unhappy with the fact that they have such a huge piece of the market share.
+38997,"Firefox, easily. Great privacy settings which is a priority for me."
+38998,"I agree, but firefox for android isn't all that great and I prefer using the same browser on both my platform, so I stay away from firefox lol. Stupid reason but that's how I operate lol"
+38999,Firefox feels great
+39000,There is an extension/add-on called [Page Load Time](https://www.reddit.com/r/browsers/comments/p8yoet/page_load_time_is_the_photo_finish_of_browser/) for people who disagree with this.
+39001,"I use OperaGX
+
+
+Yep. I know.
+
+I have Firefox and Edge but Firefox seem to have incompatibility with most of the sites I go to.
+
+Edge, i don't know."
+39002,"I replaced Firefox with OperaGX. For some reason Firefox kept eating my RAM (memory leak) if I left if running for a while which is very annoying. With OperaGX, I can limit memory usage and I never experienced any memory leaks."
+39003,Yup that's the main selling point for Opera's products :)
+39004,I was hesitant in suggesting opera gx is because people usually get on my case about using it. It's so far the best browser I've ever used so far.
+39005,"Lol I agree, there's some sort of a stigma around opera lol but they're pretty good."
+39006,"I really like Opera GX, indeed a very well thought out and executed idea!"
+39007,"I used to use Chrome until a few months ago, Edge has been my default now. Why? First of all, its Chromium based, so that's already a plus. Second, it has extension support from the Chrome Web Store too, and it uses less memory. It also has a very simple security gui, and it has ad-blocker enabled by default!"
+39008,"you should try Brave it's really fast and have a built in ad blocker an a lot of more useful options. hell you can even accept preferred ads to watch and gain some crypto tokens.
+
+so yeah i really recommend it, it has every good thing a bout Chrome and none of the bad things. WIN WIN"
+39009,"It's been a while since I made this post. Since then, I've been using brave as my rare second browser. I use a very minimalistic clean setup and brave's UI doesn't seem polished enough. But the privacy features are the reason I still have it :))"
+39010,"I’ve been loyal to Edge (chromium) since I’ve known it. Used it on my Windows, Mac, iOS and Android devices."
+39011,1 + for edge chromium
+39012,"Agreed, Edge indeed is probably one of the best if not the best browser out there :)"
+39013,"Majority of people use Google Chrome but I would prefer Mozilla Firefox because of its design, features and security."
+39014,The fact that the home page always has a white background puts me off (I last used Firefox about 6 months ago)
+39015,firefox or chromium edge is great.
+39016,"I really like Edge, but I have started having memory issues. I am only using Firefox for the next couple of days to try and rule out Edge."
+39017,Hehe that sounds like me testing new browsers out :)
+39018,"Edge chromium, a lot of features coming and available, low resource usage and also new privacy options"
+39019,Yes yes yes agreed!
+39020,"The Chrome based Epic Privacy browser. Complete ad and tracker blocking, dark reader, browser proxy(VPN) (with extensions through their free store.) They also have an android version."
+39021,"How's the UI and ease of use? and yes, the memory usage?"
+39022,"Firefox on the desktop, I don't trust google at all and webkit/blink has too much market share. Firefox is the only remaining competing rendering engine and needs the support, besides it is great to use and I prefer the interface. I use vivaldi occasionally as a backup.
+
+On mobile I prefer the interface of chrome, firefox mobile is horrible to use and I dont care about sync at all. However chrome has no ad blocking so that is ruled straight out, Ive been using kiwibrowser, basically a chromium fork with ad blocking built in."
+39023,"I agree, I've liked Firefox on the desktop right from the beginning, but their mobile app is miles away from the competition and that keeps me away from using Firefox at all :("
+39024,"I use opera gx and brave in phone 
+I know about the piracy issues on opera gx but they are still based on Norwegian and they have to follow European privacy laws so I think it’s safe enough"
+39025,I think Opera is just as safe as any browser out there rn. Opera GX is an underrated browser!
+39026,r/qutebrowser is pretty damn good.
+39027,"Stick to the built in chromium edge browser. It's a high class browser with very good startup and performance. The RAM usage and CPU usage is far lower than Chrome (not the lowest but still the best). For privacy, it has built in privacy and tracking blocking measures which you can customize to your heart's content. Brave does use less CPU and RAM and has better privacy options, but I'd stick with edge and not waste any storage downloading extra browsers for Windows 10."
+39028,"It depends on what you value the most
+
+* **Privacy:** Firefox with tweaks followed by Brave
+* **Features and Customization:** Vivaldi followed by Firefox
+* **Performance:** this varies from device to device"
+39029,"Ungoogled Chromium is probably the best in performance, Firefox is close but it takes some time to start up"
+39030,"Microsoft Edge has done a lot of improvements on Chromium they haven’t pushed upstream yet. 
+
+So Microsoft Edge might take the cake form un-googled chromium."
+39031,I'm sure that all the baked-in telemetry makes it slower
+39032,Try it and then tell. Edge is really snappy compared to any other browser. Somehow Microsoft managed to do it even with telemetry
+39033,I like edge but it comes down to personal prefrence
+39034,"I use edge, its pretty good but it comes down to preference"
+39035,"Safari, Edge, Firefox"
+39036,"I think the better question is: What's the best browser for <insert use case here>?
+
+Personally, I switch between Firefox, Chrome, Tor,  Brave, and Safari depending on the use case. I own 2 MacBook Pros, 1 Lenovo laptop, 1 iPad, 1 iPhone, and 1 Android phone.
+
+My criteria for choosing my main browser are the following:
+
+* sync
+* ad-blocking
+* support for other browser extensions I use
+* good performance on lower-end hardware
+
+With these considered, my main browser is Firefox. I use Chrome mainly for things I can't do,  or things not available on Firefox like this extension. [https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?hl=en](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?hl=en)
+
+On the iPhone and iPad, I use Safari when I need ad-blocking. As far as I know, Firefox nor Chrome doesn't support content-blockers.
+
+On Android, my main browser is Firefox but, though not a deal-breaker, it is a bit slow. So for quick searches, I use Chrome. Honestly, I mainly use Firefox for YouTube to block ads using [https://addons.mozilla.org/en-US/android/addon/ublock-origin/](https://addons.mozilla.org/en-US/android/addon/ublock-origin/) 😅
+
+I use Safari on my Macs when I wanna use as little battery as possible. Brave and Tor I use when I want to do any browsing that I don't want to be associated with my Firefox and Chome accounts.
+
+Reading through what I've typed here, this seems pretty tedious. But it's just something that gradually came into being after more than a decade of using browsers. 😅"
+39037,"try brave for ur ipad or android, it blocks ads"
+39038,"I do use Brave and, yeah, sometimes I use it for that occasionally."
+39039,"Tor is pretty cool because you get to see the spooky fun side of the internet. Before using it though you need to learn how to keep yourself safe on the deep web so you don't end up getting yourself in trouble with hackers, etc"
+39040,True. But for general use??? no way
+39041,for general use firefox is best because it is very private and doesnt use chromium
+39042,It comes down to prefrence. I don't like how much firefox affects my pc and I find other browsers easier to navigate around with
+39043,"Its performance is slightly better (for me, not for you) but it does use up RAM especially for video-playing. Edge is the best performing browser on Windows."
+39044,OK fair enough!!!!
+39045,ok but dont use chrome unless you like the government spying on you. the fbi sometimes picks random people to spy on and if you use browsers that they created such as chrome and edge they will watch you.
+39046,sure buddy
+39047,btw im trolling lol XD
+39048,ok XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+39050,"the thing is people here try to act as if their daily driver is their brain child to be frank if you have enough ram then stick to chrome because the fact is till the time chrome controls chromium their is really no hiding from google so use chrome as daily driver and tor for other shit.
+
+if ram usage is a issue than switch to edge chromium its just like chrome but uses less ram but tab sync is still not there
+
+if you want customized browser than switch to firefox or vivaldi.
+
+personally i like vivaldi and use it as my daily driver.
+
+ps:if you are on macOs simply stick to safari"
+39051,how much ram is too little?
+39052,"Any thing that causes your laptop to crash or dysfunctional If you run heavy programs like android studio as chrome's sandboxing causes it to use more ram and edge is more optimized ,it's better to use edge on such systems."
+39053,i have a hp laptop new 4g of ram /?
+39054,Brave. It doesn't need a long drawn out reason for why you should switch. Theres a reason they are adding 2m users a month.
+39055,"It's based on Chromium lmao. It's Chrome with an inbuilt ad-blocker and shitty cryptomining business. And from your post history, I know that its value is lesser than Bitcoin and other proper crypto coins. [It is very shady](https://en.wikipedia.org/wiki/Brave_(web_browser)#Controversies)."
+39056,And? Firefox is based on dogshit. Theres a reason people use chromium based browsers and not gecko based fireshit.
+39057,"Tor is based on Gecko for a reason you shithead who goes around shilling Brave while saying Firefox bad and when someone responds you say ""C O P E"" because you are an idiot who believes that doing this will make get you more BAT.
+
+Brave was created so your hero Brendan Eich could get money to fund anti- LGBTQ groups and jerk off to his reflection."
+39058,"C O P E
+
+O
+
+P
+
+E"
+39059,"Yea Brendan Eich fan who wants BAT and needs to jerk off when thinking of BAT, I will definitely cope with the shittiest browser created in the history of the internet."
+39061,">Get a life Brendan Eich fan who believes Brave is the second coming of Christ. You have to watch like 44 ads and still get like 3.2 BAT. Do something with your life instead of praying to Brendan and Brave everyday when you wake up. You have fallen too deep into a MLM scheme where the employees earn money from displaying so much ads while you make like 1 BAT. Your 2 working braincells don't have the capacity to understand that this is just an MLM scheme.
+
+Aww, did I scare you so you deleted your comment? Are you afraid of the mods little Brave shill? Don't cry my little shill. Go on shilling Brave!"
+39062,"C O P E
+
+O 
+
+P
+
+E"
+39063,That's my little Brave shill!
+39065,"C O P E  
+O  
+P  
+E"
+39066,"if Brendan is Anti LGBT, Than I am gonna use brave.
+
+lmfao."
+39067,"Iceraven for Android:
+
+https://github.com/fork-maintainers/iceraven-browser/releases
+
+Basically, the opposite of basic.  
+
+Tons of options, customization, extensions, information about the way your browser interacts with the Internet and vice-versa, and so on and so forth (They also try to get rid of as much proprietary telemetry as they can, so it's more private and more open-source than a lot of browsers out there. I am not saying than every browser out there, but a lot of them.).
+
+It's one of the only browsers, maybe the only browser out there, that really lets you use the screen space and power of a modern phone the way you would use a computer.
+
+Most Android browsers give you very few choices and really make everyone's web experience one thing.  Iceraven lets you make your phone your own.
+
+Heck, if you really get into it and want to code a little, it's sort of a shoestring all volunteer project, so they accept patches and pull requests from the public and if you're good at it, they could actually use some more regular maintainers/developers, too, to help the main guy out (It doesn't pay, but its a way to get into developing a web browser pretty quick if you catch on.).
+
+For desktop, I use Vivaldi these days, which also has a lot of options (They have an Android version, too, but it's not as good as Iceraven for Android or Vivaldi for desktop IMO.  Vivaldi for Android don't provide the options I'd expect from Vivaldi or any extensions on Android- yet, anyway.).  If you don't need sync, Iceraven on your phone and Vivaldi on your desktop work great- I'm not a sync guy and those are my defaults.  If you do need (or want) sync, though, Iceraven for Android is definitely capable of syncing with Firefox for desktop and probably (but not definitely) Waterfox for desktop, so you could explore an Iceraven for Android and Firefox (or Waterfox) for desktop combo if you need sync.
+
+And, of course, you know, trying a new web browser out is free except for the value of your time, so if you want to try several browsers and see which ones you like, there's not really any reason not to.  I guess if you focus on one and try to learn it, you'll learn quicker and get less frustrated than if you try a bunch at once and have to try to figure them all out at once- so maybe it depends on your temperament.
+
+I definitely think you are on the right track with going beyond Chrome.  I'm not saying that Chrome isn't the right browser for some people (Everything is the right browser for someone), I'm just saying you don't know if you haven't ever tried anything else.  If you don't like the other stuff as much, you can always go back.
+
+What amazes me is that Chrome for Android won't even offer an ad-blocker, content-blocker, or extensions of any kind, whereas Iceraven has UBlock Origin and a bunch of other favorites you may know from Chrome for desktop that they won't let you use on Chrome for Android.  Google doesn't bother to try to make Chrome for Android competitive by allowing stuff like that because they don't have to- people just use it because it comes with their phones
+
+**TL; DR**: Iceraven for Android, Vivaldi for Windows."
+39068,"Use Firefox, Edge or Vivaldi based on (for win 10 device with i7 processor and 8gb RAM):  
+\-Speed : Firefox  
+\-Less RAM usage : Edge  
+\-Customization : Vivaldi (1st) and Firefox (2nd)"
+39069,Yandex is my favorite
+39070,"[https://www.opera.com/gx](https://www.opera.com/gx)   
+Opera GX best browser imo"
+39071,Opera team has to add the enhanced address bar on Opera GX. It will become invencible.
+39072,"Opera is the best web browser. No doubt! I too like Vivaldi, but it needs time to compare with Opera."
+39073,Otter Browser is nice and very lightweight.
+39074,"I'd say Opera GX personally. I really don't care about what reasons a company is doing something or not, I also just wanted something different. If you like gaming and have  social media, they integrate Twitch, Instagram, Whatsapp and Discord. You can change your background for the home screen and change the outline of it too. (Meaning what color the borders and tabs look like) also has built in VPN that is decent, RAM Limiter and other features too."
+39075,"**OPERA/OPERA GX**
+
+So I've been using Opera & Opera GX for years, and I am happy with it.
+
+IMHO, Opera GX is the most modern, fast, and easy2control browser.
+
+By the way, the typing sounds in Opera GX are so good. :D
+
+I am not disrespecting other browsers, they're cool too ;)
+
+I've started on Mozilla Firefox, but it kept crashing on my win7 so I started using Opera. I'm happy with it."
+39076,"Vivaldi, Brave, Firefox"
+39077,Brave
+39078,This right here. These are hands down the best browsers on Windows right now.
+39079,"I'm pretty satisfied with brave fast,good ram management and can use all the chrome extensions which is better than Firefox extension store."
+39080,"Use firefox if you want to customize it however you like. The new design update will help you feel right at home as well. There are also lots more cool stuff which is only done at FF and it's also extremely privacy centric. 
+
+If you run up at any problem when you're transitioning you can reply to this message and I'll help you out with everything! Just check it out, install a few add ons (Ublock and dark reader and containers and all) and try to feel it out for yourself."
+39081,"true, Firefox has a lot of power, but it's not developed anymore since Mozilka decided users don't need power and abandoned it"
+39082,What happened? Can’t find anything on the internet about this.
+39083,"removed XUL extensions without providing API able to replace them, and since then keep removing features"
+39084,“Not developed anymore” lmao stop being so dramatic
+39085,For windows it is now Edge
+39086,"Agreed, Edge is great"
+39087,doesn't fix any of chromium issues
+39088,firefox or edge is use them both on my windows systems
+39089,"Microsoft Edge (Chromium): It is much, much faster than Chrome and Firefox and uses less resources (both RAM and CPU) as it's optimized really well for Windows. Edge is even faster than Brave when you install uBlock Origin.  
+  
+In my opinion, Microsoft Edge (with Strict Tracking Protection and uBlock Origin) is the best alternative to Chrome. It's lightweight, private, and reasonably feature-packed (screenshot tool, vertical tabs, collections, downloads flyout, PDF reader, reader view, etc.). Edge Beta is currently my default browser."
+39090,Why edge beta though? Do you like testing new features?
+39091,"Yep, the beta build is stable enough for everyday use with some new features. I'd stay away from the Dev and Canary builds though, too unstable for daily use."
+39092,Thanks for replying! Do you know of anyway which I can have different accounts on both stable and beta?
+39093,"Nope, but you can add multiple profiles in either browser."
+39094,"Although I suppose that if you reset either of the browsers and disable syncing, you might be able to log in to different accounts on both."
+39095,I think you should try Edge. It' is surprisingly good.
+39096,Edge is trash. Because its made by MS
+39097,"I bethink thee shouldst tryeth edge.  T' is surprisingly valorous
+
+***
+
+
+
+^(I am a bot and I swapp'd some of thy words with Shakespeare words.)
+
+Commands: `!ShakespeareInsult`, `!fordo`, `!optout`"
+39098,exactly as bad as any chromium
+39099,"Use firefox or Vivaldi, nice browsers and are very private browsers something that every chrome users need! Brave is also nice browser but many people say that it is not a very privacy specific browser! Firefox new proton ui is a lot nicer and many users are switching to firefox!"
+39100,"For Windows, go for Edge. Best optimized for windows."
+39101,Brave Browser if u want to earn some cash which will give huge returns in the future as it pays through cryptocurrency
+39102,How’d you earn money from it?
+39103,"Brave blocks all ads even in youtube, but it has its own ad campaign of 0-5ads per hr that literally wont even disturb u, or u dont even know thats an ad, and u eventually get paid without knowing, somewhat passive money but has a huge return in future."
+39104,"Why? 
+Because you saw the bitcoin and dogecoin taking off?"
+39105,Can I use Chrome extensions with Brave?
+39107,Try edge or opera
+39108,They r both spyware thou
+39109,"The best browsers are brave, SR Iron, Waterfox, Basilisk which is open souse. The fastest one being brave. U can check the speed of a browser by going to [html5test.com](https://html5test.com) on the browser. If a browser has a score of 430+ its ok. If it has a score of 470+ its fast and anything in the 500 range is very fast. Brave is around 128."
+39110,"Firefox and Waterfox provide more UI customizability than Chromium-related browsers.
+
+Edge, Opera, Vivaldi, Brave these days support nearly all Chrome extensions. Vivaldi provides the most UI customization of them."
+39111,Especially Waterfox classic has a lot of modding capability and cust. I use Waterfox classic as daily driver
+39112,"I don't know anything about its performance, but have you tried the new Edge browser? It's basically Microsoft's spin on Chrome (it uses the Chrome engine)."
+39113,"I second this. The new Edge (Chromium) is so good, it's like Chrome minus the bloat and it runs so much better. It's what Chrome should've been."
+39114,"idk if there's any hard data out there but anecdotally Edge seems to use significantly less RAM than Chrome, even with all the same extensions and tabs open."
+39116,They are basically the same piece of software but with a few random changes so I would not be surprised in the least if resource utilization is not entirely consistent between machines.
+39117,"new Edge is quite amazing tbh, any chrome extension works on it too"
+39118,"Does it support external download managers like IDM, ADM ?"
+39119,yes it does
+39120,"Nope. It doesn't. It only supports opening links in external apps like YouTube, Twitter, etc. but uses it's own download manager."
+39121,It does my friend. Idm automatically downloaded an extension for me on edge and it started working
+39122,Sorry. I meant on Android.
+39123,"The only problem I ran into was Google Earth Studio, wasn't able to use it :("
+39124,Go to r/firefox and learn how you can solve all of your problems with minor tweaks and add ons! It’s privacy focussed and open source. No spying or ads tracking !
+39125,Setting privacy to strict and disabling autoplay of videos will prevent a lot of wasted bandwidth and energy.
+39126,Blocking thirdparty scripts with no script or umatrix will also increase speed and lower bandwidth usage
+39127,"I like using Brave, I have an low end notebook and Brave was the one that worked for me the best. I tried using firefox and chrome, but in my current system is just impossible. I don't trust Opera, there's a lot of privacy concerns.
+
+ The other thing good about Brave, is that this browser is based on chromium, so basically any extension that you would find on chrome works on Brave as well."
+39128,Why would brave be more memory efficient than any other chromium based browser? Does it do something special?
+39129,"it tries to block data tracking and ads, which can be a huge proportion of a website's data"
+39130,I definitely agree with that. Would you say it does a better job than one of the popular adblocker extensions like ublock?

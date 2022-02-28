@@ -1,0 +1,904 @@
+idx,text
+67400,"[superagent](https://www.npmjs.com/package/superagent) is a pretty solid HTTP client. Not the most popular but it does have a large user base and is still maintained. 
+
+Axios seems to be one of the most popular clients but the lack of updates in the past year and the growing backlog of issues reported on github makes me hesitate to use it in new projects or recommend it to anyone."
+67401,"I tend to use supertest (which is built on top of superagent) for HTTP testing & mocking, which is easily the best available off the shelf for those classes of tests."
+67402,What do you mean 'more modern'? What do you want from it?
+67403,"Request is great but old and bloated from all the polyfill added during years of development
+
+Some of the fixes/polyfill are completely useless as of today with node 10.x.x
+
+[Request’s Past, Present and Future](https://github.com/request/request/issues/3142) is a great post about it"
+67404,"Wow, didn't realize the library's development was winding down. Thanks for the heads up."
+67405,"If this kind of thing worries you too much why not go vanilla? No deps, no external worrying, full control, and if there are gaps in your knowledge of all the stuff you need to account for when making requests, you'll sure have the bugs to fix and loads to learn..
+
+Obviously depends on how much time you have and the type of application, Yada Yada Yada"
+67406,Axios works well still for all of my needs!
+67407,"I still use fetch lmao but was using Axios when I wanted backwards compatibility with IE.
+
+Edit: Didn't realize you meant for NodeJS. In that case Axios but I have some old apps using request."
+67408,Axios is great. Fetch isn’t bad either but it doesn’t error/reject on 400+ which annoys me.
+67409,I like request because it interfaces well with streams. Otherwise I use request-promise if I don't need streams.
+67410,"RxJS is a good option if you're using RxJS already. The automatic cancellation with `switchMap` is great for complex asynchronous scenarios and I use that a lot with redux-observable. Makes things very predictable.
+
+I wouldn't recommend it on its own, but it has its uses."
+67411,"[https://github.com/wumpusapp/wumpfetch](https://github.com/wumpusapp/wumpfetch)
+
+&#x200B;
+
+Gets the job done. Maintainer is a chill guy and can add things if you ask him nicely"
+67412,Everyone's talking about axios! Is there anyone who  using ajax from RxJS ? let me know im not alone :(
+67413,We use Axios.
+67414,[urllib](https://www.npmjs.com/package/urllib) — it is the only package that does basic-authenticated proxies correctly for me.
+67415,wreck https://www.npmjs.com/package/wreck
+67416,"wreck, it's the one with the fewer dependencies and async/await based"
+67417,async/await based. You mean it just used promises like all the other ones?
+67418,"Nah, it uses it under the hood."
+67419,whats wrong with the HTTPS module
+67420,"Proper redirection handling, gzip/deflate support, JSON parsing, cookies, cancellation, progress, a nicer API are just some of the things that most of these libraries provide over native http/https. As your code keeps growing, you can avoid a lot of boilerplate and code duplication and write more succinct request code."
+67422,I happily use request promise.
+67423,"I didnt....  First I created a simple class (40 lines maybe?) to turn xhr into a promise.  Dirt simple.  ($ajax.get('page').then(...) etc)  Then I started using fetch, because it was just there and I didn't need to include anything.  Then, one day, I wanted an upload progress bar.  My options were either to spend like another day figuring out how to add that to my class, or just include axios.  So, axios it is. At least on uploaders."
+67424,Yeah upload progress is basically the one major thing `fetch` still can't do.
+67425,"The funny thing is that I hate dependencies (hence the custom class) but when I looked at what is required to implement upload progress, it was just clear as day “fuck it, we’re bringing in axios”.  Sometimes if an app has only one request I still write out the xhr even.  Axios is one of only two dependencies I use in js."
+67426,">The funny thing is that I hate dependencies (hence the custom class) but when I looked at what is required to implement upload progress, it was just clear as day “fuck it, we’re bringing in axios”.  Sometimes if an app has only one request I still write out the xhr even.  Axios is one of only two dependencies I use in js.
+
+&#x200B;
+
+I wrote the article to let people know fetch can do everything your 3rd party HTTP lib does. \*Maybe not always as simply\*, and you might still prefer using Axios if you often need progress updates. 
+
+&#x200B;
+
+The main point is fetch is now a far better developer experience than XmlHTTPRequest ever was. And many use cases I previously assumed were in the domain of 3rd party libraries are actually well supported - if not well documented.
+
+&#x200B;
+
+&#x200B;"
+67427,Right on.  But fetch does NOT do everything...it doesn’t do upload progress.  That was my point.
+67428,"I was really surprised that it actually does - maybe it's not elegant. 
+
+This was the main Use Case that prompted me to write this. I was also convinced it couldn't be done because of the Promise-based design.
+
+Here's a direct link to the section: https://danlevy.net/you-may-not-need-axios/#download-progress-helper"
+67429,My bad.  I initially disregarded it because it says download progress and I needed upload progress.  And are you bringing in a dependency to do that?  It looks like it....
+67430,"Yep it's a similar pattern & I'll add it soon. 
+I'm just running into a bug in Firefox - still trying to verify if it's me or not."
+67431,"> This was the main Use Case that prompted me to write this. I was also convinced it couldn't be done because of the Promise-based design.
+
+There is no mention about the progress being used for uploads only downloads? There is mention of uploads prior but not related to progress %. Your article should point out that it's usable for uploads if it works with uploads as well?(Haven't gone over it yet, but it didn't look like it'd work to me)
+
+There is [this StackOverflow](https://stackoverflow.com/questions/52422662/how-to-get-file-upload-progress-with-fetch-and-whatwg-streams) which points out why upload progress isn't usable with fetch(but is fine with downloads afaik), an answer links to two github issues that can resolve it, one of them is about ReadableStream which you use(so presumably upload progress with fetch works now?), yet the issue is still open.
+
+According to [this issue](https://github.com/whatwg/fetch/issues/577), it's not suitable for HTTP1 servers only HTTP2(H2)? 
+
+> It requires chunked encoding which pretty much limits it to h2. (You can't negotiate chunked encoding in h1.1 until after request has been sent, which is too late.)
+
+Also browser support seems [a bit flakey still](https://caniuse.com/#feat=streams)(no good for IE, [experimental in FF](https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Using_readable_streams)). The spec seems to still be [under development](https://streams.spec.whatwg.org/)? But the ReadableStream uploading part was [merged into spec almost 2 years ago](https://github.com/whatwg/fetch/pull/425)... so still seems to be handled better atm via axios."
+67432,"I'll add compatibility info.
+
+I found some of those links as I failed to get the upload version work in any convincing way.
+
+Uploads are still a work-in-progress, and probably deserving of a stronger warning of it's compat... (Assuming I can get it reliably working)"
+67433,"> Uploads are still a work-in-progress, and probably deserving of a stronger warning of it's compat... (Assuming I can get it reliably working)
+
+Ah ok, your comment to someone else suggested that the download snippet you linked to in your article was usable for upload progress too, and I gathered from the links I sourced that it kind of works(at least in Chrome), not sure about Firefox, that seems a bit iffy atm."
+67434,Now that's a fair point
+67435,"Fetch is dirt simple to use. Xhr wasn't all that bad.
+
+I've never understood why people need jQuery or Angular (yes, I've seen people include Angular just to use $http) or Axios or anything else to make http requests."
+67436,"I agree about fetch, but xhr was pretty bad..."
+67437,"Proper error handling. Making assumptions that your end points will be always returning what you are expecting is foolish. Secondly, it returns javascript object, not JSON. So that's a little bonus. Cannot timeout. Does not allow to cancel request. Forget upload progress bars and no cookies by default."
+67438,"Wait... you're saying you can't do proper error handling with fetch? And that getting back a parsed object is better than a serialized object (fetch has an easy to use string to object method)? Also pretty sure you can cancel and do progress bars (article says as much). And cookies can be done by setting just a one-line config property, I believe.
+
+None of that stuff seems difficult to do with fetch."
+67439,"> Also pretty sure you can cancel and do progress bars (article says as much).
+
+I remember reading about an issue with implementing progress bars, I think it was with fetch and file uploads, the article that pointed it out then suggested using axios which didn't have that issue.
+
+Cancellation seems to have been an issue with fetch at least [in the past year](https://news.ycombinator.com/item?id=16655112), perhaps that has changed since, but you can imagine that people who ran into the issue back then and used an alternative like axios as a solution probably don't bother checking up if their opinion ""A is better than B because of X problem"" has changed, they just stick to what works unless given good reason to. That's the case with lots of libs/api/frameworks/etc, probably even languages.
+
+fetch is also not supported on the backend with node and perhaps other uses of JS where I think axios is?(there is also node-fetch for node users). There is a rather long issue about it on nodes github about adding fetch and it doesn't seem like it'll happen. Sooo... in this case it can just be use axios frontend or backend, remember how to use just that and not bother about switching between the two."
+67440,">fetch is also not supported on the backend with node and perhaps other uses of JS where I think axios is?(there is also node-fetch for node users). There is a rather long issue about it on nodes github about adding fetch and it doesn't seem like it'll happen. Sooo... in this case it can just be use axios frontend or backend, remember how to use just that and not bother about switching between the two.
+
+&#x200B;
+
+There's a handy package called \`node-fetch\` - it's [mentioned in the compatibility section.](https://danlevy.net/you-may-not-need-axios/#compatibility) of my article. It's no worse than having to install any other 3rd party lib, however you get symmetry between front-end and back-end code."
+67441,"> There's a handy package called `node-fetch` - it's mentioned in the compatibility section of my article. 
+
+Uhh... I know you copy/paste dropped that response around a bit on this thread, but my comment that you're responding to that with literally mentions `node-fetch`, see the final paragraph.
+
+Also note that with axios as frontend and backend,you just import axios and use it the same way on both ends, it's an abstraction api so you get that nice benefit. With fetch on the backend, node-fetch has differences, your code isn't isomorphic in certain areas, like your progress helper that uses ReadableStream, in node-fetch you use native node js stream instead:
+
+> The data encapsulated in the Body object. Note that while the Fetch Standard requires the property to always be a WHATWG ReadableStream, in node-fetch it is a Node.js Readable stream.
+
+So your code for such things needs to be adjusted, I'd argue it's a better dev experience with axios."
+67442,"Thanks for the reply.
+
+I'm new to reddit... :) 
+Still learning my way around.
+
+> ... I'd argue it's a better dev experience with axios.
+
+If you need upload progress, Axios might be still inarguably better. 
+
+Honestly I still use Axios, just less and less (as compatibility gets better.)
+
+I included the pattern to let people know it's possible (most devs I talked to were surprised to find download progress was possible w/ fetch - myself included). 
+
+I will include more compatibility info - and general guidance: I only used it in a project which had already been built on native fetch, adding a 3rd party library for progress updates was something I wanted to avoid..."
+67443,"> adding a 3rd party library for progress updates was something I wanted to avoid...
+
+Yep, totally understand that. If I'm not doing anything that something a library like axios would make easier, native APIs make plenty of sense. Though I guess many of us can be lazy to use more than one approach when we're comfortable with one we've been using for so long, so it's usually a switch or stay choice :\"
+67444,"> fetch is also not supported on the backend with node
+
+It's not?? I thought Node was fine with fetch... Pretty sure I've used fetch with Node."
+67445,Then node-fetch wouldn't be necessary and there wouldn't be a github issue about fetch support being made native in node?
+67446,Well.. I'm delirious. You're right.
+67447,"Yep, use the `node-fetch` package - it's mentioned in the compatibility section at the end: https://danlevy.net/you-may-not-need-axios/#compatibility
+
+It's no 'worse' than having to install any other 3rd party lib, the bonus, however, is you get symmetry between front-end and back-end code."
+67448,Interesting. I'll have to check it out.
+67449,"> the bonus, however, is you get symmetry between front-end and back-end code.
+
+Well for the most part yes. There are [some differences](https://github.com/bitinn/node-fetch/blob/master/LIMITS.md).
+
+Not really seeing how that's a different argument vs using axios which works on both front-end and back-end code too though?"
+67450,"It's not radically different. 
+
+A benefit is being able to omit a 3rd party http lib in the browser bundle saves Kbs.
+
+We now have a good-enough-in-many-cases option that is **browser native**, and using it on the server adds no more overhead than Axios. 
+
+It's ok if this doesn't motivate you. 
+
+The `fetch` interface isn't as clean in an absolute sense. However it's not nearly as bad as I once thought. 
+
+(I'm hoping to promote & share better `fetch` patterns than I was initially aware of. Some of the patterns I'm still working on - specifically timeouts, and upload progress. The interface design isn't quite right yet...)
+
+Some people may want to move to modern & standard APIs. Eventually `fetch` might be easier to teach & find hobbyists with prior experience. (Meaning it'll be used from docs to framework examples.)"
+67451,"Not sure what if it can do it now. It wasn't been able to do it in clean way earlier like 8 months ago. And obvious option was Axios. If had to do something new ground up, I would maybe check it. However, I'm doubtful it's on par, though."
+67452,"I mean.. axios is just js, right? It can't do anything you can't do with native js."
+67453,"> Not sure what if it can do it now. It wasn't been able to do it in clean way earlier like 8 months ago. And obvious option was Axios. If had to do something new ground up, I would maybe check it. However, I'm doubtful it's on par, though.
+
+Exactly, Axios is just an API wrapper around XmlHTTPRequest. 
+
+I wrote the article to demonstrate the many use-cases which used to have me reaching for Axios."
+67454,"Did you read the article? Several of those use cases I covered.
+
+&#x200B;
+
+Let me know specifics & I'm happy to address or add them. They still might not be 'pretty' - so you may still want axios, but I want to at least demonstrate a functioning pattern for each case.
+
+&#x200B;
+
+Some of the things like default cookie handling is silly but security related. Cookies are easily added with the opt-in \`{credentials}\` param (granted it's the worst name for cookie stuff)  but it works."
+67455,"I second this...why are you using a package for basic native functionality?  I can't understand it.  Well, I suppose if you go all in on a framework and they have something built-in, then sure.  But otherwise, throw a light wrapper around the native API and import into your files as needed: maximum control and minmal duplication."
+67456,"> I second this...why are you using a package for basic native functionality?  I can't understand it.
+
+Besides the point of people that aren't aware of fetch because they've been doing web dev for a long time(or perhaps new and never heard of it), so they stick with what they know. fetch doesn't work on node natively, you can use node-fetch package for it apparently, or you could use axios on either node/browser.
+
+I've read in the past that fetch couldn't be used to get progress events (for file upload iirc), but with axios you could show the upload %. [In the past year](https://news.ycombinator.com/item?id=16655112) fetch also wasn't able to cancel requests? If that's no longer the case, great, but if you were doing dev around then and tried fetch out and ran into that issue and axios solved it, that's probably why you'd stick to axios and not fetch.
+
+It's not that common I think to make choices like that and then keep yourself up to date with all the other alternatives to see if you should reconsider, you just stick to what works well for you, and maybe if there is enough noise about an alternative at a later date you'd give it some thought."
+67457,"Definitely all fair points.  I totally agree that there are circumstances where using something else (in the examples you mentioned and others) it makes sense.  
+In my experience, however, that isn't the case.  I see many people rushing to npm before even bothering to see what the native capabilities are and that is a bit troubling."
+67458,">I've read in the past that fetch couldn't be used to get progress events (for file upload iirc), but with axios you could show the upload %.   
+>  
+>In the past year  
+>  
+> fetch also wasn't able to cancel requests? If that's no longer the case, great,
+
+That's why I wrote the article, I had no idea all the stuff was possible. ❤️"
+67459,"I think it's because people are unaware fetch exists, which is why this article was written.
+
+Despite my comment below, it's a great article and I love the fact it gives actual use-case examples."
+67460,"The important bit is to create a wrapper / abstraction that ensures separation between application code and apis like this. Refactoring to use the module of the day, or even better to replace the module of the day with a native api, then becomes a matter of updating <100 lines vs your whole app."
+67461,"100% agree.  Unfortunately, many people don't seem to understand that."
+67462,"Saw this article posted in another programming subreddit. One person complaint that they didn’t like using a function called ‘fetch’ to do post request, another didn’t like that the response from is not automatically parsed into json.
+
+Different folks different strokes, I guess."
+67463,"I suppose...
+
+""Fetch"" for anything other than a GET does kind of make my eye twitch a little... now that you mention it. I suppose if the endpoint always returns a response that helps lol!"
+67464,"Hahah yeah that’s how I think of it — even if you do a post request, you’re still ‘fetching’ the responses... 
+
+Unless a majority of my users is on explorer or edge, I just can’t imagine pulling in axios on the front end just because I don’t like the name of the built in api..."
+67465,"Check out fetchival! It's 0.5k minzip, so it's not like it's a huge dependency."
+67466,"> Xhr wasn't all that bad.
+
+Xhr was dog shit back in the day. If I remember right you had to check for window.XMLHttpRequest and if that didn't exist it was a series of try/catch blocks for *various* ActiveXObjects depending on the versions of IE you were supporting."
+67467,"> it was a series of try/catch blocks for various ActiveXObjects depending on the versions of IE you were supporting
+
+Lord... never had to deal with that. That does sound awful."
+67468,"Personally I use the _incredibly_ light wrapper (fetchival), as it makes fetch that much easier and cleaner to use."
+67469,"I cannot recommend node-fetch. We got bitten by this bug:
+
+&#x200B;
+
+[https://github.com/bitinn/node-fetch/issues/533](https://github.com/bitinn/node-fetch/issues/533)
+
+&#x200B;
+
+We did use the suggested alternative, but it's just plain odd that you can only call an output function a single time only. I get that this is a function of the underlying impl being a stream, but from a ux perspective, it's poor.
+
+&#x200B;
+
+We're actually moving away from node-fetch because we'd rather not have to deal with such situations. We've decided to go with request/promise because it's been very battle-tested and you can have reasonable expectations about how it works."
+67470,">**Streams and cloning**  
+>  
+>It is important to realise that **Request and Response bodies can only be read once**! Both interfaces have a boolean attribute bodyUsed to determine if it is safe to read or not.  
+>  
+>This decision allows easing the transition to an eventual [stream-based](https://streams.spec.whatwg.org/) Fetch API. The intention is to let applications consume data as it arrives, allowing for JavaScript to deal with larger files like videos, and perform things like compression and editing on the fly.  
+>  
+>Often, you’ll want access to the body multiple times. For example, you can use the upcoming [Cache API](http://slightlyoff.github.io/ServiceWorker/spec/service_worker/index.html#cache-objects) to store Requests and Responses for offline use, and Cache requires bodies to be available for reading.
+
+&#x200B;
+
+From [the fetch API introduction blog](https://hacks.mozilla.org/2015/03/this-api-is-so-fetching/), emphasis mine -- it looks like it's the standardize behavior."
+67471,Thanks for the clarification. It makes sense now. Didn't know about the Cache API either. Will definitely check it out!
+67472,"No problems, I learn something new thanks to your comment!"
+67474,"> I think they should fix it
+
+Native fetch in the browser behaves the same way, it's not something specific to  the `node-fetch` library, so when you say ""it"" you're actually referring to the standard created by the browser vendors (a.k.a. WHATWG).
+
+While it's not ergonomic in this particular case, it's done for a good technical reason, and is one of the very few caveats you have to remember (just like the fact that 4xx/5xx responses don't reject the initial promise). But in opposition to the article, I would just recommend using Axios if you want these things smoothed over for you.
+
+`fetch` is intentionally barebones - it's first and foremost a replacement for `XMLHttpRequest`. While there's definitely an improvement in ease-of-use compared to XHR, that's not its primary concern - the intention is that wrapper libraries (like Axios) fulfill that role.
+
+Edit: a previous comment I made on the subject: https://www.reddit.com/r/javascript/comments/907gua/http_requests_compared_why_axios_is_better_than/e2pydi9/"
+67475,"So hold on, is the issue at hand (unable to resolve a body multiple times) only an issue for node-fetch or is that actually specced?
+
+My initial impression was that's it's node-fetch specific, which in that case I'd expect it to work to spec ... But if it _is_ working to spec than its purely a non-issue ..."
+67476,"It's specced, you can try it in your browser console if you want.
+
+Edit: 
+
+https://developer.mozilla.org/en-US/docs/Web/API/Response/clone
+
+> In fact, the main reason `clone()` exists is to allow multiple uses of `Body` objects (when they are one-use only.)
+
+This is just a property of streams, which is what HTTP responses are, and therefore what the `fetch` spec uses. In general, once data has been consumed from a stream, it can't be consumed again from that same stream (i.e. streams are ""single-consumer""). If you want to read a given stream multiple times it needs to be split ([""teed""](https://developer.mozilla.org/en-US/docs/Web/API/ReadableStream/tee)) first, which I assume is what `.clone()` does under the hood.
+
+The issue with `response.json()` is that it reads the stream (consumes it) then tries to parse it as JSON, in a single expression. If the parsing part fails, then there's no way to retrieve the data that has already been read."
+67477,"According to the comments above, it is to spec. Given that, I can't complain other than to note my own failure to read and/or understand the original spec."
+71058,Nah
+67481,"Calm down, I don't mind the downvotes really, not the end of the world"
+67482,You’re not going to get far as a developer with that attitude.
+67483,you could just return axios instead of the promise. (and I would personally use async await.)
+67484,"Yea that was my first approach, but as I already know exactly what I'm going to be getting as a response, I figured I'd wrap it in a promise so I could drill down into the response a bit. Again, to help my mental state ha.
+
+example:
+
+instead of calling it like so:
+
+    getAccount(id,id).then((response) => {  
+        response.data.RSP.WHATEVERISHERE 
+     })
+
+i can just do:
+
+    getAccount(id,id).then((response) => {  
+        WHATEVERISHERE 
+     })
+
+sometimes it's the small things...
+
+also await would've been another great solution, but I went this route to make the code just a bit cleaner should my co-worker have to dig through it if I end up getting hit by a bus ;)
+
+edit-- I know 'cleaner code' in this instance is per person, but still"
+67485,"Just so you know you don't need to wrap the axios promise chain in an explicit Promise, even to drill down into the response. You can just return the axios call itself which will end up returning whatever you returned from the last .then() call. That should simplify your code a bit.
+
+&#x200B;
+
+So something like (sorry for no formatting): return [axios.post](https://axios.post)(<stuff>).then(res => return [res.data](https://res.data)). The last thing you return from the last .then() is what will be returned from the promise chain.
+
+you don't even need to add the .catch() part in the method if you don't need to do anything with it at that point. You can instead add a .catch() to the method outside when you call it.
+
+&#x200B;
+
+Also: If you like Promises make sure you take the time to learn how to do async/await instead. It transforms promises into a much much cleaner paradigm and can be used anywhere promises are. It might seem daunting at first glance but I promise you won't look back."
+67486,"Cleaned it up a little for you:   
+ 
+    const getAccount = (orgId, acctId) =>
+      axios({
+        baseURL: `${url}/orgs/${orgId}/accts/${acctId}`,
+        crossDomain: true,
+        timeout: 200000,
+        withCredentials: true,
+        credentials: ""same-origin"",
+        responseType: ""json"",
+        method: ""get""
+      }).then(response => {
+        if (response.data.ERR) {
+          throw response.data.ERR;
+        }
+        if (response.data.RSP) {
+          return response.data.RSP.ACCT;
+        }
+        return 'something else when the data.rsp.acct prop is not there ?'
+      });"
+67487,"I think I prefer maintaining the use of the `catch`, because if the `get` was to return an error, then I don't think it will go into the `then` block.
+
+I could be mistaken though."
+67488,Catch and rethrow is useless if you're not doing anything else with the caught error.
+67489,axios is the fcking bomb. every time i try to use `fetch` like a brave man i get burned by some stupid api snafu or other. axios would have saved me days of my life.
+67490,"Story of my life, fetch .json () and having to coerce non 4xx/5xx to errors... Bane of my existence"
+67491,"Axios is all I ever learned,  haven't hit a situation where it hasn't worked perfect yet."
+67492,How did you get burned by fetch?
+67493,most people get burned by the fact that 4xx/5xx is not an error-does not throw.
+67494,"I use it, because for whatever reason it worked without additional config whereas fetch didn't like our internal security layers. So we all decided as a group to use axios. I have had to write very little code with it, but it works for what we use it for. I have found cases where it's lacking, like handling query parameters that can be repeated. Sometimes it's been a bit annoying to work around, but it's a pretty simple library. Wish the typescript declarations were better, they seem to not work with generator functions (using it alongside redux saga)."
+67495,Say you have a website and the majority of your users view it on a mobile browser. Can anyone tell me if using fetch over axios has any advantage? Is Axios a large enough library to matter with say a mobile connection?
+67496,If you're already using fetch there's no reason to switch to axios. The only thing it can do that fetch just plain can't is upload progress tracking. Everything else is basically a QoL addition.
+67497,"I love axios, but I found it super advantageous to wrap common calls, GET, POST, PUT, in isolated functions that return just the data from the calls.  It made it really easy when I wanted to migrate to another lib."
+67498,"I pretty much only use it so I can have the same structure for http requests on the front end and back end when using node. If I used another language server side I'd probably just use fetch.
+
+Axios is a fun word to say though, and I think people would start looking at me funny if I made any more Mean Girls references so maybe there's another reason to keep it around."
+67499,"I found axios didn't work on it ie11 (unfortunately I have to support it still) so I switched to fetch with the whatwg-fetch polyfill and it works great.
+
+Seems like a great library, but that was one downside I found with it."
+67500,"I like Axios...but mainly because Stephen Griders React course has you use it, so it's all I know for making http requests in React lol."
+67501,"I use axios for everything, which is amazing if you work a lot with Apis
+
+A good pattern to use is creating an axios instance with all your defaults set, and then indeed only exporting functions to re-use.
+
+If you have a standardized return format, you can also use interceptors to pre-format standardized responses.
+
+    // /utils/api.js
+    import Axios from 'axios'
+    
+    const axios = Axios.create({
+      baseURL: url,
+      crossDomain: true,
+      timeout: 200000,
+      withCredentials: true,
+      credentials: 'same-origin',
+      responseType: 'json'
+    })
+    
+    axios.interceptors.response.use(
+      async (response) => {
+        if (response.data.ERR) {
+          return Promise.reject(response.data.ERR)
+        }
+        return response.data.RSP
+      }, 
+      async (error) => Promise.reject(error))
+    )
+    
+    export const getAccount = 
+      (origId, acctId) => axios.get(`/orgs/${orgId}/accts/${acctId})
+        .then(json=> json.ACCT)
+    // the interceptor pre-formats your response. saves you tons of boilerplate.
+
+[An example](https://github.com/doxick/eve-maps/tree/master/client/app/utils/api) of how you can use this, including multiple axios instances for different baseUrls"
+67503,"We’re likely transitioning to just `fetch` and then `node-fetch` on the backend.
+
+We were talking about it for a while, and with the deprecation, it’s just a good time. A lot of our infrastructure is moving serverless now too to Cloudflare Workers, so having one `fetch` API across our front-end, back-end and serverless apps is going to be great."
+67504,We used ‘fetch’ and ‘node-fetch’ respectively and transitioned to ‘axios’ after a couple of years. You start building the same kind of wrappers that these libraries provide...
+67505,"Could you expand on what parts of `fetch` you had to wrap for your use-case? After having played with it for a bit, the only helper API methods I’m really missing are for authentication."
+67506,"We currently use a couple adapters:
+
+- does a request return 401? get a new token, save every request that comes by until the token is received, redo all those requests. the originating call will then be resolved with correct data (we handle this flow in 1 place instead of doing it for hundreds of requests)
+
+- certain URL / patters need to be handled differently (remove or add some headers)
+
+- track response time for each request
+
+etc"
+67507,"Also, for us at least, a non-200 status code should become an error. That's not something you get by default with native fetch."
+67508,There is an argument that non-200 status code responses shouldn’t be treated as an error because the fetch function executed correctly.
+67509,"This is probably true from the perspective of a low-level HTTP client, but I've tended to find that I usually end up writing a wrapper around fetch that throws these cases as exceptions, because that's the easiest way to deal with them in application code. And if I'm just going to use a homemade wrapper, I figure I may as well use a more solid library that handles these things plus other things by default."
+67510,I just use axios...
+67511,Which is also unmaintained last I heard
+67512,A while back I tried node-fetch and I was frustrated because its behavior didn’t match the browser implementation. Do you know if that’s still the case?
+67513,"As far as I know, it matches the browser spec as closely as it can. Things like cross-origin are ignored given the server-side context, and it also implements some niceties like Node.js stream support, but that's the big differences worth mentioning.
+
+https://github.com/node-fetch/node-fetch/blob/HEAD/LIMITS.md has a full list of the differences between it and the browser.
+
+There's chatter of bringing `window.fetch` to Node.js core too at https://github.com/nodejs/node/issues/19393 which is getting very positive feedback, so choosing anything else at this point with `fetch` slowly becoming ubiquitous seems almost like a misstep."
+67514,That would be nice if they do that. It would make the JavaScript ecosystem feel a bit more universal.
+67515,"[`got`](https://github.com/sindresorhus/got) has by far the most sane API.
+
+They are responding to support issues quickly.
+
+It is feature rich.
+
+No complaints."
+67592,"I like everything about it except for having to [manually specify the `responseType`](https://www.npmjs.com/package/got#json-mode).
+
+[`.extend()`](https://www.npmjs.com/package/got#gotextendoptions) looks like it can be used to ameliorate that. Never thrilled about more boilerplate though."
+67517,It would be insane not to do it manually. What do you mean?
+67518,`request` would auto-parse the body based off of the response content type. It was a feature I liked.
+67519,"For Node, is there any reason why we can't just use the native https and http agent modules? I think it's pretty complete, maintained by a fairly competent team, gives you the utility of any other http request dependency and is ""closer to the metal"" so to speak."
+67520,"That’s what we do, at $DAY_JOB, although our decision predates fetch happening.
+
+Do need to write some wrapping code to turn streams into promises to make it easier to use with the rest of your codebase, but it’s not _hard_ work"
+67521,"That's true. Actually on that note, what I will say is you also want to be careful doing this. Reason being one day, someone is going the bright idea to move all this code to some internal library and then some other developer is going to have the even brighter idea to integrate file uploads, authentication, session  handling and other various utils similar to external dependencies like fetch or got. The problem is, the code could be crafted by the most artisinal and refined developers in the world but as soon as they leave, that code becomes a legacy system that is critical to everything else. Then you get junior developers or developers that are on a schedule and are solving one niche case patching things here and there but overall to scared to change even a line of code and suddenly the whole thing turns into spaghetti with little to no documentation.
+
+Maybe this is an extreme example but it helps to outsource your problems to external dependencies. Just don't go crazy and start importing every single thing. I had a developer who once tried to import a React Modal and attempt to hack it into submission instead of well, building it from scratch. The only analogy I think of is imagine trying to re-tie a rope that's already tangled mess. Sometimes it's just better to cut the old knot loose and tie a new one."
+67785,Axios
+67523,I would recommend against using axios: https://www.reddit.com/r/javascript/comments/cp5qhm/askjs_the_sad_state_of_axios/
+67524,"This seems pretty obsolete as of now, they added some collaborators and a lot of issues and PRs have been resolved."
+67525,"Not really. The biggest pile of technical debt (`mergeConfig`) still exists:
+https://github.com/axios/axios/blob/master/lib/core/mergeConfig.js#L13-L73
+To this day there are PRs that have to deal with issues in this file and it [blocks for example retry-axios](https://github.com/JustinBeckwith/retry-axios/issues/90) from working correctly out of the box."
+67588,Gaxios
+67528,"Axios doesn’t have a stable API yet. For most developers in an enterprise environment, that’s a showstopper."
+67529,"...what?
+
+What kind of creative, crafty stuff are you doing to break Axios? Use it in production (in enterprise) currently - no issues."
+67530,"axios-retry broke after axios 0.19.0. It took months before axios was updated with a fix. When you’re trying to continuously deploy and your company doesn’t allow you to deploy and code that depends on vulnerable packages, that’s too long of a wait."
+67531,"That makes sense. We handle retries through our own custom code, which is why I’ve never run into that before.
+
+Good to know!"
+67532,"Ya, genuinely not trying to be difficult but axios is a pretty safe bet. I've never had a problem with it on any of my projects and despite its lack of support these days (which is true) I'm still using it on the F/E of a production build to handle some pretty modern JWT stuff. It's interceptors make that stuff easy to handle.
+
+That being said, going over this list, `make-fetch-happen` is now on my radar and that's simply too good of a name for me not to look into."
+67533,"Even if they don't claim for it to be stable, I have used axios in production before with 0 issues. Its extensible middleware pipeline is a perfect candidate for enterprise environments, because you can add middle-wares to do important tasks like passing auth headers, asynchronous context propagation, transaction tracing headers, logging params to external service, etc. without exposing the details of  that to your end-users.
+
+I built an internal http-client at an enterprise company using axios with the aforementioned functionality."
+67534,They did break their middleware API between 0.18.0 and 0.19.0.
+67535,Ok fair — didn’t know that.
+67536,"Same. He did clarify one of those extra-auto-magic middleware libraries broke, not base axios. My team builds that stuff in house, so I hadn’t run into any issues in prod either."
+67540,"For `fetch`, you might want to replace that
+
+    if (res.status !== 200) {
+    }
+
+with
+
+    if (!res.ok) {
+    }
+
+`res.ok` will be true if and only if the status code is greater than or equal to 200 and less than ~~400~~ 300.
+
+I'm pretty sure you know and just made a typo, but you'll also want to `await` that `res.json()`."
+67541,"Such an annoying API though. I get it, but all too often I write:
+
+```javascript
+(async function() {
+    const response = await (await fetch(""https://www.google.com"")).text();
+})();
+```"
+67542,"The intermediary value is useful though,
+
+    const res = await fetch('...')
+    // res.status
+    // res.ok
+    // res.headers
+
+Often, I'll look at the result of `ok` end either throw or return the result of `res.json()`"
+67543,"Huh, I had no idea.
+
+Thanks for the tip!"
+67544,You could use a promise chain so that you don’t have to nest those `await`s
+67545,"As in:
+
+```javascript
+fetch(""https://www.google.com"")
+    .then((response) => response.text())
+    .then((text) => text);
+```
+
+Or is there something clever that I'm missing here?"
+67546,"Yeah, but you probably don’t need the last `then` since it’s just returning the same value that it was passed."
+67547,`const rawText = await fetch(“http...”).then(res => res.text())`
+67548,"Not annoying at all. await fetch(url).then(res => res.test())
+
+It' necessary because obviously you don't always want to parse the response body, that would be a huge waste of time. You can implement a wrapper around it too."
+67549,The 80/20 is I want the response body though.
+67550,const text = await fetch(‘https://www.google.com’).then(res => res.text())
+67551,"never had a problem with \`node-fetch\`, been using it for years. If I need something node-fetch doesn't provide I just use the built in http or net modules."
+67552,"Personally I use `axios`, but a lot of people just use `node-fetch`."
+67553,[isomorphic fetch](https://www.npmjs.com/package/isomorphic-fetch)
+67554,"> last release
+>
+> 4 years ago"
+67555,"What has changed in HTTP since then?
+
+Mature technology doesn’t always need constant updates. Fetch is really just some boilerplate wrapped around XHR."
+67556,"Not *changes*, per se, but I would expect there to be more and more security holes discovered as code ages and our assumptions become less and less true, and kind of like water, code that's stagnant is more likely to be of lesser quality than code that's at the very least maintained."
+67557,I do get your point— still this package mostly wraps fetch and node-fetch primarily for server rendered pages like Next.js. Fetch is in the browser and node fetch is actively maintained.
+67558,"Its library contain something like
+```
+module.export = typeof window === “undefined” ? require(“node-fetch”) : window.fetch
+```
+
+What do you want to update there?)
+All updates should be in “node-fetch”"
+67559,"If you don't even bump your dependency library versions (i.e. `node-fetch`), it's going to get stuck behind in major versions.
+
+e.g. `node-fetch` is on v2.6, but in `isomorphic-fetch`, the version specified by `""node-fetch"": ""^1.0.1""` EXCLUDES any 2.0 version of `node-fetch`. Now *that's* horribly outdated.
+
+Yes, it's essentially a single line package, but if you wanna use and/or write a package, doing it this way is just begging for security holes."
+67560,I never understood the reason why this one was different from `node-fetch`.
+67561,"It will work in both browser + node environments, it uses node-fetch under the hood for node and the native fetch for browsers."
+67562,ELI5 for someone who really has only been using basic features of `request` (I think): can anyone explain what kind of feature differences make the listed alternatives range in library size from half a kb (`node-fetch`) to over 800kb (`urllib`)?
+67563,"I'll take a crack at this.
+
+**Request had a fairly hearty feature set^(1):**
+
+- Streaming
+- Promises & Async/Await
+- Forms
+- HTTP Authentication
+- Custom HTTP Headers
+- OAuth Signing
+- Proxies
+- Unix Domain Sockets
+- TLS/SSL Protocol
+- Support for HAR 1.2
+
+^(1) Per [this list](https://github.com/request/request#table-of-contents)
+
+**Odds are you were only using:**
+
+- Streaming
+- Promises & Async/Await
+- Custom HTTP Headers
+- TLS/SSL Protocol
+
+**`fetch` doesn't do^(2):**
+
+- Caching
+- Cookies
+- Retries on failure
+- Progress events
+- Custom defaults
+- Composable
+- Hooks
+
+^(2) Per [this chart](https://github.com/sindresorhus/got#comparison)
+
+If those are features that you want, then `fetch` probably wouldn't cut it for you and you would need to look for something more full-featured."
+67564,Thank you for the breakdown.
+67565,"I’ve grown to really like superagent. It’s supported promises for a long time. Only thing is that it throws any 400 or 500 responses as errors. Should they be? I don’t know, but it doesn’t bother me none."
+67566,"Success is generally regarded as `200 >= x < 400`, so that seems correct."
+67567,"If you want to handle 4xx/5xx responses in the same block as non-error responses, `axios` has a ```validateStatus``` option to allow you to control which status codes should/shouldn't be considered errors.  
+Tried to look up something similar for `superagent` but couldn't find anything in my 1' search"
+67568,"You can always just add the following to the request chain and handle the response status code yourself:
+
+`.ok(res => true)`"
+67569,"I think it's really a question of 'what level' the library should work on. If you're just interested in sending raw HTTP requests and responses, you probably should be using fetch.
+
+A higher level lib might have a better understanding of the actual meaning of certain HTTP responses, for example:
+
+* Provide auhtentication support
+* Retry automatically when receiving a Retry-After header on a 503 or 429.
+* Follow redirects transparently
+* Provide a cache and serve from cache
+
+That said, any exceptions thrown could still provide access to the response by providing a response property on the error object.
+
+It could be argued that a true HTTP client understands more about http than just plumbing request and response objects, but whether they _should_, really depends on design goals.
+
+I would really like to see a middleware-type ecosystem that adds opt-in functionality to fetch, so we can pick and choose which features we're interested in."
+67570,"I don't think they should be - it's an HTTP request library, receiving a 400/500 error code still means that the HTTP request was completed (request was sent, response received) so I don't think that's exceptional behaviour."
+67571,"axios is not a valid contender.
+
+Do you really want this in your http library?
+
+&#x200B;
+
+[https://github.com/axios/axios/blob/master/lib/core/mergeConfig.js#L13-L73](https://github.com/axios/axios/blob/master/lib/core/mergeConfig.js#L13-L73)"
+67572,"Author of `node-libcurl` here, didn't see your post before, what package you picked at the end?
+
+If not `node-libcurl`, what was the main factor against picking it? Anything I can do to improve it?"
+67573,"I ended up going with `needle` but I'm not thrilled with it. The API is too awkward with it simultaneously supporting callbacks, promises and streams.
+
+My concerns with `node-libcurl` were primarily related to `node-gyp`. But I never really gave it a genuine shot, so I'll do that and see if I have any good feedback for you."
+67574,"Thanks!
+
+Btw if you try to use the `curly` async API, there is currently a bug with `curly.get`, so for `GET` requests use just `curly(url, options)`. This has been fixed already but I'm holding a new release until the end of the week.
+
+The API is probably not the cleanest available, but the package tries to follow `libcurl` conventions when possible.
+
+There are currently prebuilt binaries for most platforms, so you should not have any need to compile the addon locally."
+67575,"I posted about a week ago that in the light of request becoming deprecated I have started building my own http client that is almost a clone of request as far the API goes, except that it supports promises out of the box and doesn't comprise on stream support.   
+It's still fairly new and I want to write a more comprehensive test suite before I mark it as v1.0.0 and I also would like community feedback but I think it is ready for people to try it out.  
+
+
+I am seeing a lot of things in this thread that people value that I am thinking might be good to add. An option to throw errors 400 and above statusCodes, maybe response type auto-detection? Currently I leave the response body as a Buffer unless explicitly passed a JSON option.   
+
+
+Anyways, for anybody who liked ""request"", I hope you check out my module, and give some feedback. Anyways here it is: [Beggar](https://www.npmjs.com/package/beggar)"
+67576,What's wrong with continuing using request?
+67577,"Well, for one thing, it's deprecated."
+67578,So? It works exactly like it did two weeks ago.
+67579,"I mean, if your Windows 7/IE11 configuration is working for you then by all means.
+
+At some point we'll get http2 though and then you're going to be in an unfavorable position where you either need to write your own HTTP client that conforms to `request`'s interface or gut it and write new code from scratch."
+67580,"Nothing is ‘wrong’ with continuing to use it currently. It’s now unmaintained though, so any changes to Node that break it, or any discovered vulnerabilities will never be fixed. Thinking about where to move is more of a long-term thought process - it’s not going to break overnight. 
+
+There are also quite a lot of outstanding bugs with request that will now never get fixed. These may not impact your use-case, but they’re good to keep in mind."
+67581,"I'm surprised to see that a lot of people use fetch. When I tried it, chrome kept caching some weird SSL errors that could only be solved by using xmlhttprequest. Honestly I didn't do too much debugging, but ever since my negative encounter, I've just kind of thought of fetch as not production ready yet. 
+
+Personally I use axios for backend stuff and xmlhttprequest (with a small wrapper I'll usually write custom for each project) for frontend, although when fetch becomes more stable, I'd love to move to that (and use it on frontend/backend so everything's uniform)."
+67582,"noob, everyone uses fetch"
+67583,"I used to use `axios` in node.js and in react projects, but I've been using `fetch` more and more, specifically `isomorphic-unfetch` for Next.js projects. Since some of your Next.js code will run on the front end or the back end depending on the context, the code has to work in both cases. `isomorphic-unfetch` uses `unfetch` when running in node and native `fetch` when running in the browser."
+67584,"[bent](https://www.npmjs.com/package/bent) looks great! Any reason not to use it? Small (1,5kb), functional, node and browser. Opinions?"
+67585,"The only thing I don't like about it is you can provide the arguments in any order. Which, to me, isn't something I want to encourage."
+67586,"Yeah, I can see how that could bother some people... Does it help with partial application?"
+67587,🌊Author of tiny-json-http here. We use it extensively and vanilla fetch for tht browser for the min possible payloads and coldstarts with lambda. Lmk if you have any questions!
+67589,"Did some simple tests at a couple apis that I use that responds with json. 
+
+On average (50 runs each at 3 different endpoints):
+
+node-fetch: 80.707ms (for const data = await fetch(...)  
+node-fetch: 85.985ms (total time including parsing data.res to json)  
+axios: 16.394ms (for await axios.get(url))
+
+As much as I hate to learn that axios is not maintained properly, I really cant afford a 5x increase in speed. 
+
+Would love to know what others have experienced regarding to speed/efficiency."
+67590,"Huh, wow. This was part of the reason I was considering [`node-libcurl`](https://www.npmjs.com/package/node-libcurl) since dropping out to C is probably worth the data marshaling cost."
+67594,A lot of “just ...” comments in this sub
+67596,"I’m leaning toward Axios for that standardization and packed feature potential. At the moment, bundle size doesn’t seem to be much of a problem."
+67597,"Axios is not been maintained for over a year or more :)
+There are tons of PR not merged and the author just disappeared"
+67598,isomorphic-unfetch
+67599,"* Are you concerned by the size of your js bundle? Fetch
+* Are your xhr requests simple enough that you do not need a dedicated library? Fetch
+* Do you need request cancellation (and wide browser support)? Not fetch.
+* Do you need to send http requests during server-side rendering? Not fetch."
+67600,"> Do you need request cancellation (and wide browser support)? Not fetch.
+
+Fetch does support request cancellation through [AbortController](https://developer.mozilla.org/en-US/docs/Web/API/AbortController)."
+67601,"Hence the ""wide browser support"" bit."
+67602,"Ah, sorry. It read like you were saying 'If you need request cancellation AND you need wide browser support' not 'If you need wide browser support of request cancellation'"
+67603,When is a bundle size too big? Honest question. I can’t really find a straight forward answer on that on the “Googles”. I’ve worked on one project where the bundle was 4 MB and didn’t notice any performance issue unless we tested Chrome in Slow 3G configuration.
+67604,">When is a bundle size too big?
+
+The googlers [advise](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/) aiming for 170 kB at the most. I don't think I've ever met this target :-)"
+67605,"If you wanna compare something to Axios, have a look at [Wretch](https://github.com/elbywan/wretch). It's a pretty nice wrapper around fetch that focuses on improving the development experience. It also comes in at only 2.8 Kb gzipped, which I believe is about one-tenth of Axios (which is around 30Kb somewhere, I think?)."
+67606,"Both of those has differences that you should look into. Figure out which one is better for your use case. I use both but for different reasons. I've been a fan of axios for a while, but recently used fetch for a project where my file size matters."
+67607,"I think axios is about 5kb when compressed. 14kb uncompressed and minified.
+I would personally never worry about the size of axios."
+67608,"I guess the argument is that you're gonna end up with 10 different libraries where you don't care about the size. Then you're at 140kb uncompressed (which is also code that your browser has to parse etc, so it's not just about download speeds). Add onto that React and your actual application code, and well. It's easy to end up with quite a bit bundle, and then you have to do some more obstructive solutions like code splitting, etc.
+
+That's all theoretical, of course, I've also never worried about including axios in my code."
+67609,Just fork it like Fomantic UI project did with Semantic and call it somethn glike Bestios. These things happen with open source projects that become too big for some people with no obligation to upkeep it.
+67610,Foxios?
+67611,"Soixa?
+Fixios?"
+67612,Maxios.
+67613,"Since it's a security issue, Hijaxios?"
+67615,General Grievios
+67616,You're a boldxios one
+67617,Not-Axios
+67618,Some good Scenarios there!
+67619,Haxios?
+67620,"Well Fomantic was a combination of ""fork"" + ""semantic"", was just trying to follow the pattern."
+67621,"Ah I see what you mean. I was just trying to come up with funny sounding alternatives, without regard to the semantic thing."
+67622,I would be happy to help maintain it. I use axios in a lot of different projects and love its api.
+67624,Talking about the fork.
+67625,"The worst part is, there is no number of downloads on npm that obligate you to maintain software. If people want it, they can pay for it. Otherwise, honestly, they can shove off."
+67627,"They don’t have to help. It’s free and they don’t have to accept any responsibility, at all. It even says it in their MIT license. The license is there for a reason."
+67629,"You’re not entitled to their time. Being considerate is acknowledging that they might not be able to fix anything and you have to look for alternatives. They don’t have to be considerate to the community as much as Picasso needs to be considerate to art critics. You don’t like it, move on.
+
+Edit: In other less polite words. Stop being an entitled whiny prick. They did something for free, now they don’t want to do it for free anymore. Grow up and accept some personal responsibilities, not everyone is here to fix all your problems for you. If you can’t accept that. Well, too bad. Maybe consider another career."
+67631,Can you see and enjoy Picasso’s artwork in its originally intended fashion? Yes. Sounds pretty open source to me.
+67633,"People regularly put Picasso’s artwork on other things (mugs, shirts, webpages, etc.), and make replicas without repercussions. They mix and remaster it in lots of different things. If you don’t like Picasso’s work, don’t use it in your things. Picasso doesn’t need to change the way he paints. It’s the perfect analogy. You have no idea what open source even means.
+
+The ignorance is ironic."
+67634,"No, the spirit of open source is that you are allowed to use their code, and make it your own. Apply your own extensions and fixes, and do whatever you want with it.
+
+Depending on the license, you can keep the changes private, or make them public. Free and open source, or even sell your improvements as an entirely new product. (again, depending on the license).
+
+I'm pretty sure that the entire open source industry would have a quick death if the definition changed to ""every shared piece of code is to be maintained for the rest of the developers life""."
+67635,"Lots of people offer to help without actually following up on it, or want to do things that don't need to be done. Coordinating groups of people and releases is still a sizeable amount of work (ask your manager/team lead) and at the end of the day, Axios isn't what pays their bills. This is a problem across open source: there's no funding model, so the whole ecosystem is built off donated time and burnout.
+
+I'd also point out, the spirit of open source is that the code is all available to you. If there's a fix you need, you can merge the code yourself on your fork."
+67637,"Well it's usually not a decisions made so much as a situation that arises. Nobody decided to stop maintaining it, it just steadily becomes something other than the top priority for anyone involved.
+
+Also once you start raising money, then there's all sorts of other admin work you need to take care of. Where does it go, by what service is it collected, how is it distributed. Also ratchets up the stress, cuz now you're responsible for people's livelihood."
+67639,"Sure, and then you run the risk of somebody showing up and publishing malicious packages under a vastly popular name. So you've got to vet them thoroughly, and there's another big task with high stakes.
+
+Also your scales are off. Happy pack is about 1/25th the downloads, and node/jquery/etc are all wayyyy larger. Not to mention, Node **was** forked after the community decided that the foundation wasn't keeping pace with standards and the community. Look up IO.js."
+67641,"You literally asked whey you're being downvoted, I'm explaining the reason why people think what you said is worthy of downvotes."
+67642,"Why do you have a responsibility to the community? Do the maintainers not have greater responsibilities to their families, careers, and personal organizations? I don't see anything about NPM that requires contributors forego their personal life's to maintain it."
+67643,r/ChoosingBeggars
+67644,Thanks for shedding light on fomantic ui for me! I have a project that has been out of dev for a bit but I always wondered why I wasn't getting semantic ui updates
+67645,Incontinentia Buttox
+67646,"Well done highlighting this in a nice, non confrontational way. I would have been much bitchier 😜"
+67647,"Amazon should be all over this, Axios is the library they abstract for Amplify"
+67648,I really wish this was the worst issue with Cognito JS libraries
+67649,Try using their hosted UI....FML
+67650,Question: what ways could the axios team do to monetize development while also keeping it open source? if it doesn't make money then i would assume it would be hard to keep developers constantly working on it outside of random contributors.
+67651,What usually happens is companies that use the product pay some people to work on it (or donate to the project).
+67652,eh.. yeah. that worked out so well for openssl.  It literally took a world wide disaster for them to get any corporate funding.
+67653,They could outsource official training and support.  Larger companies will shell out a frankly disturbing amount of cash to get it from the source. As long as the third party people are fully trained and have a direct line to the creators it should work out perfectly without too much of a requirement of the creator's time.
+67654,Do you know how do these open source projects handle conflicting requirements or featured from sponsors?
+67655,"Do you mean two separate sponsors asking for two conflicting requirements?  If so I'd imagine they'd either fork it and give both sponsors what they want, or possibly give the company with the request that's likely to be less popular a custom version while the main version goes with the other request.  Devs typically hate to do this  though (since you could start with two versions and eventually have 6, 12, 16, etc), so if there's any way to just pass in an optional switch and have that all be in one code base they'll certainly want to do that.
+
+There's usually a way to make that work in a single code base.  Developers will typically go very far out of their way to make it work, and even if it's something much more fundamental, like which platform you're running your code on, there are still options involving build processes.  I'd like to be more specific, but this is where I typically bow out and have a back end developer explain it since it'd be them doing the work and I don't want to misrepresent what they do or have it appear that I'd be the one making it happen."
+67656,Thanks for the good response!
+67657,"People have been asking this question for 30+ years. The ""if it doesn't pay the bills, no one will work on it"" argument has been done to death and while it's certainly a factor in the death of some projects, there are others that live for decades or longer without raising a dime.
+
+Not all monetary rewards come in the form of a paycheck. Being able to put ""maintained a project with a million+ downloads for multiple years"" on your resume answers a lot of questions. That's about the closest thing to compensation OSS can reliably offer. 
+
+Over the years, I've seen just as many commercial third-party dependencies fail on me as OSS third-party packages. It's why we get nervous about taking them on. Sometimes even paying a developer's not enough to get them to maintain a project. The promise of OSS is when that happens, other people can pick it up from them. That nobody's done this for Axios could have a bunch of contributing factors, but I don't know enough context to decide."
+67658,There is no amount of money that would help someone who just doesn't have the skills to be a maintainer in charge of a team. The long-term focus and management skills coupled with development skills? Very few people fit the bill. I'm not sure what the solution is. It's easy to say they should hand it over to a team but finding a team and managing the handover is also difficult.
+67659,"What's wrong with Fetch?
+
+I've been using Fetch in production for 3yrs with 0 issues."
+67660,"Same here. I don't get why people use axios in the frontend. In node with no fetch, I MIIIGHT understand, but even then request/request-promise is perfectly enough."
+67661,"Well fetch is not a replacement for Axios but for XHR.
+
+There are a few nice abstractions in a request library (like Axios) that you may not want to maintain yourself. Retries, timeouts, request/response interceptors, simplified API with shortcuts and streamlined error handling, etc."
+67662,"I use isomorphic fetch, which is an implementation of node-fetch and Github's polyfill. 
+
+https://www.npmjs.com/package/isomorphic-fetch"
+67663,"Oh, that's cool. Thank you!"
+67664,"I prefer axios because it treats all 400 class responses as errors, which is usually the behavior I want. With fetch I have to wrap each request in a handler to do that."
+67665,"if (!res.ok) { 
+        throw new Error('THAT RESPONSE IS BAD!') 
+    }
+
+https://developer.mozilla.org/en-US/docs/Web/API/Response/ok"
+67666,"It's more complicated than that. To get the convenience of Axios, you have to understand how `fetch` works and then deal yourself with the parsing and the promise handling around it.
+
+
+    // If the response is empty, response.json() will throw, so first make sure
+    // it's not empty by parsing the text.
+    const parseJsonResponse = response => response.text()
+      .then(text => (text ? JSON.parse(text) : {}));
+
+    // Fetch like jQuery ajax, Axios or other requests libs.
+    fetch(/* */)
+      .then(
+        rawResponse => parseJsonResponse(rawResponse)
+          // Any HTTP status gets resolved.
+          .then(response => response.ok
+            ? response
+            // So we manually reject status that are not ""ok"" (usually outside 200-299)
+            : Promise.reject(response)
+          ),
+        // Network error, etc.
+        rawError => parseJsonResponse(rawError)
+          .then(Promise.reject)
+      );
+
+
+This doesn't look trivial to me, and is the simplest snippet to get a similar behaviour that we're used to with Axios and jQuery's `ajax` for example.
+
+Some Stack Overflow questions that prove it's not trivial:
+
+- [Fetch: reject promise and catch the error if status is not OK?](https://stackoverflow.com/q/38235715/1218980)
+- [Fetch API error handling](https://stackoverflow.com/q/50330795/1218980)
+
+edit: code format"
+67667,"Well no, I'm sure it's not trivial when you don't understand promises and haven't even looked at a single page of Fetch documentation. I was going to write your code in a not insane way, but I got into it and I'm actually not even sure what you're trying to accomplish. 
+
+This is what most of my quick-n-dirty fetches look like and I guess what you're trying to do? I'm not really sure why you're trying to create new Promises from within a Promise or trying to parse JSON from text instead of using the json response parser...... 
+
+    fetch(/* */).then(res => {
+      if (!res.ok) {
+        throw new Error(res.message)
+      }
+
+      return res.json()
+    })
+    .then(json => console.log(json))
+    .catch(err => console.error(err))
+
+Edit: lol I looked at your links after I posted this code and this is almost identical to BOTH solutions you're saying proves it's not trivial. Wtf man. You know why all 3 of these things are exactly the same? **Because it's trivial.** 
+
+How did you pull that insane code out of your butt based on this? It's literally ""if not ok, throw error""... how is this not trivial? Why are you rejecting instead of throwing? Why are you resolving instead of returning? Why do you have a weird `JSON.parse(res.text())` instead of `res.json()`, you're not even testing for any different return types or anything? Did you even look at those the answers in those links or just see a long winded confused question and decide to link them? 
+
+You know what, don't answer. I'm just going to disable replies."
+67668,"I didn't meant to attack you, I'm just sharing my real-world experience here. I'm going to reply anyway for anyone else reading this, and I'm going to stick to the facts and won't judge you personally.
+
+> I'm not really sure why you're trying to create new Promises from within a Promise or trying to parse JSON from text
+
+There are really good reasons why I'm doing this and even with comments, you say you didn't get it. This just proves my point, it's not trivial. (the stack overflow questions are just to show that there are a lot of people confused with the `fetch` API, I didn't mean to imply the answers are right for every use-cases)
+
+Your simple code is missing a lot and is far from the convenience of a request libs.
+
+- it fails to parse successful requests with an empty response content,
+- it fails to parse JSON error messages (common with any API) which are different than network errors,
+- It fails if the error response is empty and you won't know what the cause of the failure is since you're only getting the JSON parse error.
+
+What my snippet does:
+
+- Parses all error types with a safety net, both HTTP errors' body and all other errors
+- [Parses empty requests](https://github.com/github/fetch/issues/268#issuecomment-176544728)
+
+Don't get me wrong, I'm not saying `fetch` shouldn't be used or whatnot, I use `fetch` on a daily basis and I used Axios, `jQuery.ajax` and even tinkered with raw XMLHttpRequests in the past. My code snippet is not perfect, it's missing a lot of features and edge cases, it's just a quick example. When dealing with third party APIs on huge frontend applications, the simple `if (response.ok)` becomes insufficient rather quickly.
+
+My point is: `fetch` is less trivial than a request lib and is really not a replacement for one, it's a replacement for XHR."
+67670,"GraphQL could return both data and errors in the same request, so it's not really a failure. Though a GraphQL server will definitely fail sometimes and will return other codes (400s, 500s) and I'd find it convenient if these were treated as failures. And yes, I'm using an abstraction for GraphQL, Apollo, since, again, implementing it myself is another non-trivial tasks and it would be dumb not to use the right tool for the job.
+
+I'm not doing anything deep, I just had to use all of these (Fetch, Axios, Apollo) while working on huge applications with a distributed team. All the examples I'm sharing are abstraction layers needed on top of Fetch to have a convenient and self-documenting request lib API. Which I think is relevant on a post about axios."
+67671,"Have you seen fetchival? It does exactly that. I've personally modernized the code and republished as esfetch, though there's no public documentation."
+67672,"which polyfill do you use, to make it work on IE?"
+67673,"The one maintained by GitHub.
+
+https://github.com/github/fetch"
+67674,I read that as “the one maintained on **my** GitHub”. I was thinking how in the fuck did you get the username GitHub 😂
+67675,"Exactly...I ran across fetchival, modernized the code & republished as esfetch. Unfortunately I never got around to documenting things, but it's <1k uncompressed. Depending on how frequently requests are used, it could _save_ bytes.
+
+Minimal wrappers around modern APIs are the way to go."
+67676,"I have been using wretch lately, also seems like a very smooth wrapper around fetch."
+67677,There's a few things axios does that still aren't supported by fetch. Mainly progress events and being able to cancel requests.
+67678,"You can abort requests. 
+
+https://developer.mozilla.org/en-US/docs/Web/API/AbortController/abort
+
+https://developers.google.com/web/updates/2017/09/abortable-fetch
+
+
+I have not used progress events in any of the projects I've been on in this time period.  That is a very narrow use case that basically centers around semi-big (>500kb) user uploads."
+67679,"I use progress to track uploading documents via Axios. I was using Fetch in my React project until I needed to support progress, at which point I bailed and switched to axios. Seems like a huge oversight in Fetch, and is a total show stopper for me."
+67680,What about downloads?
+67681,You can track download progress because the response.body is a ReadableStream. Here's a [tutorial](https://javascript.info/fetch-progress).
+67682,Streams API is not supported everywhere yet.
+67683,"It has about the same level of support as Fetch, and there's a polyfill. Nothing is supported everywhere."
+67684,Fork it. Fix it yourself. Share it with the open source world.
+67685,Just use [Ky](https://github.com/sindresorhus/ky)  - be happy
+67686,IE10? How’s that even still available? Haha my condolences
+67688,"It won't, not out of the box at least. Fetch needs an abstraction over it to be usable in any reasonably-sized project."
+67689,"Why is that?
+
+EDIT: Why would you downvote me for asking a question? I'm trying to learn something here."
+67690,"I don't know who's downvoting, but to follow up, I usually start with response handling so that the promise rejects on >=400's, and so that the response parsing methods are called automatically based on accept/content type header. Also setting some default headers, for example Authentication if applicable. Error tracking and analytics might go there as well. It's not much work, but I am yet not to write a wrapper 15 minutes into working with fetch."
+67691,"yep, I made the mistake of using fetch in a large project I'm doing and it's been nothing but regrets. Just use axios or fork it yourself if you are so worried about this."
+67692,Like one wrapper function for most cases
+67693,TIL fetch is vanilla js... I thought it was a library.
+67694,"Fetch is a vanilla JS function that (at least in my testing) isn't in Node.JS, thus you need something like axios or a fetch polyfill to support it in Node"
+67695,Is it not in Node because it’s marked as experimental on MDN?
+67696,"It's not in Node cause it's a web API, not an ES API. Just like `Window`, `DivHtmlElement` etc. isn't in Node."
+67697,"I see, gotta love those downvotes for asking a question  
+Reddit community going strong"
+67698,"Fetch is not JS, it's a DOM API, hence it's missing from Node."
+67699,You’re probably thinking of node-fetch.
+67700,">IE10? How’s that even still available?
+
+As it was the default browser in Win8 and WinSvr2012, it has a support life-cycle tied to those OSs. Win8.0 is already completely EOL (8.1 is supported, though came with IE11) but Svr2012 has extended support until 2023. Thankfully few use that for active browsing.
+
+I've only been released from having to support IE8 on some of our work in the last year-ish.  
+IE11 is still what a lot of our clients'^(\[†\]) users are stuck with.
+
+^(\[†\] companies in regulated industries, investment banks for the most part)"
+67701,"[sindresorhus/got](https://github.com/sindresorhus/got),  [sindresorhus/ky](https://github.com/sindresorhus/ky),  [sindresorhus/ky-universal](https://github.com/sindresorhus/ky-universal)"
+67702,"Just noticed this post because it's the top-voted post of the last 30 days.
+
+Coincidentally, I just today posted in /r/javascript about an AJAX library I've been writing, here:
+https://www.reddit.com/r/javascript/comments/cqa5xm/ive_been_writing_an_immutablestyle_ajax_library/
+
+The reason I started working on that library is that I've been a [contributor](https://github.com/axios/axios/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Acodeclown) to axios and experienced the current unstable state first-hand.
+
+I think there are a few concrete problems with axios:
+
+- lack of active PR reviewers and mergers, as discussed
+- testing setup which is fragile (I've fixed [one issue](https://github.com/axios/axios/pull/1475)), as also discussed
+- design decision of configuring everything via a huge nested object => causes reference and thus security hazards (should be [fixed](https://github.com/axios/axios/pull/1395) now) and is not easy to memorize
+- design decision, to continue on above bulletpoint, it used to be a feature that you could set global defaults and affect everything, causing [security hazards](https://github.com/axios/axios/issues/385)
+- design decision of fitting node and browser support into the same library => causes overly complex testing setup, and also as a principle I would not recommend using the same library in both environments in order to prevent accidental leakage of secrets to the client
+
+So yeah, that's why I wrote [yea](https://github.com/codeclown/yea) which could be an interesting alternative for axios and fetch etc. I've explained [here](https://github.com/codeclown/yea/blob/master/COMPARISON.md) my motivation about why not just use fetch."
+67703,Axios:  The jQuery of Async/Await.
+67704,I’m not sure what you mean by this comment. Did you confuse axios with bluebird?
+67705,"I think the point is that it's solving a problem that only exists in older browsers now, because fetch natively provides a pretty similar developer experience."
+67706,It didn't for the longest time. Cancellation is relatively recent.  No timeouts.
+67708,Yes and async await sits on top of the promises api... So your both right! YAY! 😜
+67709,"To be fair, async/await is promises+generators, so something that only supports promises is not quite equivalent.  It's like saying that promises and callbacks are basically the same thing."
+67711,We wait until Deno is production ready and use `fetch` everywhere
+67713,"[If you intend for it to be in the browser, yup](https://github.com/denoland/deno/issues/1547#issuecomment-455589870)"
+67714,Deno looks like it will be the cure to all JS ills... When v1 comes out I am going to drink a very special beer :)
+67715,"I think everyone should consider switching to [KY](https://www.npmjs.com/package/ky) at this point, unless they need to support upload progress. It's built on top of Fetch.
+
+The switch from axios was painless for us. Axios has been unusable for months due to numerous issues."
+67716,Thanks for bringing this to our attention
+67717,"I've been stuck on 0.18.x because 0.19.0 broke our configuration. We passed custom keys into the Axios config object, mainly to do stuff like logging and tracking number of retries. 0.19.0 removes unknown keys from the object. So I had to go back to 0.18.x."
+67718,I guess they're not...worthy :P
+67719,This is a huge problem
+67720,Fork it? Open source invented this solution for precisely this problem.
+67721,go fork yourself
+67722,What are some alternatives other than fetch?
+67723,Ky
+67724,[https://github.com/visionmedia/superagent/releases](https://github.com/visionmedia/superagent/releases)
+67725,Can we use this while building chrome extensions? i.e make chrome extension UI call pages asynchronously with async/await?
+67726,"Axios won’t do that for you because it’s not going to wrap the Chrome APIs in promises for you. The Chrome APIs like storage.local only support callbacks. There is a great library from Mozilla that will do what you’re looking for though. It will allow you to use async/await with the main Chrome APIs:
+
+[webextension-polyfill](https://www.npmjs.com/package/webextension-polyfill)"
+67727,Is that polyfill extension??

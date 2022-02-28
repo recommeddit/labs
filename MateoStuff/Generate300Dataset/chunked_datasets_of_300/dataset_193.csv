@@ -1,0 +1,841 @@
+idx,text
+63556,"I’ve personally switched to zebra as my full time package manager and it’s nice. I would say it can be a bit buggy, as it is still in beta but it’s way faster. I also feel like it isn’t the smoothest as I’ve tried sileo and for some reason when installing tweaks it feels so much smoother. If zebra could get that down it would be amazing."
+63557,"Personally fine with Sileo. Haven't had any real problems, and I really like the overall look in Sileo. Of course it's nice to have options such as Zebra, but I don't plan to switch tbh"
+63558,"While I do like Zebra and I do like Sileo you did point out a fact that does irk me a little.
+
+Sileo has a huge backing by a very senior and arguably more talented devs, including Kirb, CoolStar, Andy Wiik, and AppleBetas.
+
+Also to leave out the founder and the creator of most of the huge parts of Zebra, Wilson. Shame on you....
+
+This makes me not like this post more.
+
+Also on top of that Pwn20wnd has not contributed to Zebra at all... and is riding the coattails free and wild (see https://github.com/wstyres/Zebra/graphs/contributors)
+
+If you are going to compare repo managers please get your facts correct."
+63559,"I wish zebra had a setting to show all updates in the changes tab. There’s a tweak for Cydia and that’s the only feature I miss. 
+
+That and a dark zebra icon, I love the little animal one but it’s bright 🦓"
+63560,You can chose alternate icons on the home screen
+63561,I think he means a dark version of the og icon with the zebra. I thought the same thing when I was choosing the icon. Not a big deal at all but it would make it just that much better.
+63563,Thanks. I had not noticed this update.
+63564,"I’ve been playing around with Zebra and Sileo. There’s been a few situations where I couldn’t install something in Sileo, but it worked fine in Zebra. I like Zebra’s UI, but I like Sileo’s install sequence. Haven’t had any problems with either though"
+63565,Is there any kind of tweak compatibility indicator in this package manager?
+63566,I’m using it alongside Cydia. It’s not perfect as there’s a few small issues. I would say this is the Cydia successor instead of Sileo. I will admit the downloading menu in Sileo looks nicer than both Cydia and Zebra though
+63568,Add the repo in OP in Cydia. Install Zebra. ... Profit.
+63570,Huh never seen that before. What device are you on? Im assuming its not the first iPhone
+63572,"It’s really pretty good- if it they keep it clean and functional it’ll have a good future.
+
+At THIS moment it would be awesome to have an “import” function for sources..and I’ve found a few repo’s that seem to time out or do t work with Zebra."
+63573,It already does
+63574,"Ok how do I install? Just get repo and install?
+
+How do Sileo installed packages work? Telnet can be updates from whoever? No way linked to only Sileo?"
+63575,"The “Changes” tab is a bit glitchy, maybe not even functioning properly for me. It always shows everything it loaded for the first time."
+63576,"I still use Cydia simply because it still works well for me all these years, all the way back to iOS 4. I don't ignore the other package managers and their advantages, though, but I'll continue to use whatever works until it becomes outdated, or until the competition thoroughly convinces me to switch.
+
+Nevertheless, I'm interested in Zebra. Can I import my repos easily there? And are there things I have to be aware of when switching from Cydia?"
+63577,"Yes, it will pull the sources from both cydia and sileo, it’s in one of the panels on the home screen of zebra"
+63578,It does not tell me when I get a update on a tweak really
+63579,"sileo should be allowing JavaScript (as a toggle) soon iirc, so that should fix the issue of blocking ads"
+63580,I’m using Zebra almost full time now instead of Cydia. One con for Zebra is the lack of a user/expert filter for installed packages.
+63581,is it open source?
+63582,Yeah your right. I do have an attachment with Cydia. And whatever the case I won’t let go of Cydia. But I do keep sileo and would also keep zebra with it. Is it possible to keep all 3 of em though.
+63583,"Currently using cydia and would like to give Zebra a try but i can't seem to get past this conflict issue, any ideas guys?
+
+&#x200B;
+
+[http://tinypic.com/r/9928vd/9](http://tinypic.com/r/9928vd/9)"
+63584,"I’m currently loving Zebra and I use it as my main package manager now , unless there is an issue then I’ll go and use Sileo but overall best one so far!!"
+63585,Just switched to zebra and i love it it’s so damn fast. i just want a better looking home screen UI but for now it’s great
+63586,I installed like all my tweaks with to and then I Went to Cydia to add one thing out of insticent and said everything was corrupt
+63587,r/brandnewsentence
+63588,Make RockApp great again
+63589,"#[LockApps](http://cydia.saurik.com/package/com.modmyi.lockapps/) 
+
+*possible match*
+
+LockApps is a collection of apps that run on your lockscreen.
+
+ |  |
+--|---
+**Version** |2.0
+**Repository** | ModMyi (Archive)
+
+
+ >This year's jailbreakcon brought to you by, Tim Crook and team
+
+[Report a bug](https://www.reddit.com//message/compose?to=arx8x&subject=rJailbreakBot+Bug+Report) **|** [Request features](https://www.reddit.com//message/compose?to=arx8x&subject=rJailbreakBot+Feature+Request) **|** [Add a repository](https://www.reddit.com//message/compose?to=arx8x&subject=rJailbreakBot+Add+Repo)"
+63590,"Comparing iOS 3 to iOS 12
+
+Cydia = Zebra
+Icy = Sileo
+Rock = Lime"
+63591,Question is how to export Zebra sources to Sileo?
+63592,"Until they provide a better UI for the installation and repo adding process, Cydia is better
+
+It also crashes anytime I have the MacCiti ZodTTD Archive added"
+63593,"Yup, that’s my only annoyance now, it could be faster to access the package queue, but they said that will be fixed in a future update, so I’m patient."
+63594,What exactly would you change about the repo installation process?
+63595,Making it so the text being displayed is actually readable and doesn’t touch the top of the screen
+63596,This crash has been fixed in the latest 1.0~beta15 update.
+63597,I’m on chimera 1.0.8 on A12 so Cydia is broken for me. I tried Sileo and it doesn’t have the features that Cydia or zebra have like adding multiple sources at once or the scrubber to quickly scroll through packages. Plus there’s a built in dark mode making it the ultimate package manager. It seems far ahead of sileo not to mention the controversy with Sileo and BigBoss.
+63598,"Everytime I restore rootfs I add back all my repos, about 60 of them, to Sileo all at once.  Not sure why you don't have that feature."
+63599,"~~ It does have that ~~, misread the comment ignore me"
+63601,"Wish granted, click the cydia icon and tweak away!!"
+63602,"I would stick to the package manager that doesn't show ads, but nice try Zebra"
+63603,And what are the cons over Cydia and Sileo? Legit question
+63604,Most tweaks available for Cydia aren’t available for Zebra (yet).
+63605,"It's not. It doesn't even have basic features. It looks clean, yes, so does sileo, and I'd use Cydia over Sileo any day.
+
+That said, I have not tried the latest update, and I might do that now. I probably will still use Cydia because it's just so reliable and nostalgic."
+63606,What basic features is it missing?
+63607,I enjoyed zebra as there is sometimes the possibility of it finding updates that cydia misses But I still love Cydia people say it’s outdated but I use the flame tweak it to make it more modern
+63608,"Yes, Zebra is absolutely THE FUTURE and the best right now.
+
+u/_Pwn20wnd should use as stock package manager in his unc0ver next releases as example for upcoming A12 support and substitute"
+63609,I heard he will make it possible to switch between package managers and code substitutors.
+63610,Great !!!!!
+63611,How i export my repos from cydia to zebra?
+63612,You have option to do it inside Zebra ;)
+63613,"I'll look for it. Thanks. 
+
+Just installed and didn't found it yet."
+63614,"Look inside ""Community Repo"""
+63615,"Found it! 
+
+Thanks!"
+63616,Sileo>Zebra>Cydia A12
+63617,How does installling zebra work? Just add the above repo and install through cydia? Will my repos and packages port over?
+63618,"It works like installing any deb file,
+Yes.
+Also yes, remember it’s just a package manager for dpkg."
+63619,Got it running and it seems really clean. Is it a cydia replacement or supposed to be upside alongside?
+63620,Technically both as of now.
+63621,Sounds good thanks for the help!
+63622,Zebra is great... few little issues however.
+63623,"I’m with you. Uninstalled Sileo and Cydia after the last update,works perfectly."
+63624,Can you help me manage my time better and just tell me the best one?
+63625,"I'd just choose one from the list, but then I'd get it and it would sit on my shelf due to my poor time management.
+
+(oh look, I actually have the Covey book on my shelf and I haven't touched it in months)"
+63626,"Hi eisbaer,   
+I could not resist when I see your comments. Read Mr Covey Book. I've read it 10 times in 20 years. It has changed my life and might changes yours. Enjoy.   
+Mr. OTG"
+63627,"The most time effective method is checking out Brian Johnson's recaps (called ""philosopher's notes"").  
+
+If you are going to read one, I'd recommend Getting things done.
+
+GL friend"
+63628,"Just bought it on Amazon. Thank you, friend."
+63629,Nice! The GTD system is great. I hope you get a ton of benefits from it.
+63630,"Good list. I would also add the following book: ""**It's OK to Be the Boss: The Step-by-Step Guide to Becoming the Manager Your Employees Need**"" by Bruce Tulgan. I encouraged all new managers in the company to read this book. It contains a lot of practical advice and case studies."
+63631,Thanks I’m gonna read one of them
+63632,Awesome! I don't know your exact situation/challenges but if I had to give a blind recommendation to read just one book on productivity it would definitely be David Allen's *Getting Things Done (#18* on the full list)!
+63633,Check out Getting Results the Agile Way
+63634,"Hey efficientfalcon, great tip! This one appears on the long list at number 66 =)"
+63635,"Haha gotcha. It's my personal number one, so I assumed it it wasn't in the first few you didn't have it ;)"
+63636,"4, 5, 6, and Bonus GTD, arguably are the only productivity books up there, everything else is just general self help"
+63637,"Hey Physio\_Tool - that's a fair comment! I would say the key word there is ""arguably"". Personal productivity is such a broad topic that drawing the line is more art than science.
+
+&#x200B;
+
+I would argue that reading and implementing the lessons in *any* of the other books in that top 10 would give you a massive boost in productivity - especially when you extend the definition of productivity from independence (getting my own stuff done) to interdependence (working with other people to get stuff done).
+
+&#x200B;
+
+Thanks for your thoughts though! If you have anything you'd add to the list I'd love to know about it."
+63638,"Getting Things Done, by David Allen."
+63639,"Seconded, read it, go through the process and then read it again. Sounds stupid but the second read is critical. It should also be said it's an afternoon read. It's not a big time investment to get through the book."
+63640,"Thirded, I like to try and re-listen to GTD and GTD Fast (as audio books) once a year - usually spaced out so there's 6 months in between. I find them to be different enough that I learn different things and it certainly helps me stay on the wagon."
+63641,you read 300 pages in an afternoon?
+63642,It wouldn't seem that much after 700 pages he reads on morning commute.
+63643,Fair enough but if it takes three minutes to read a page it's a 13 hour read. Maybe afternoon was not realistic but I read it in one day and it's not all I did.
+63644,wasn't trying to be a smartass. guess im just a slow reader and wasn't sure if there is maybe a shorter version
+63645,I liked the 12 Week Year. It gives some great strategies on strategic planning how people get more done in 12 weeks than in 12 months. Great book.
+63646,7 habits of highly effective people
+63647,"I read a lot of blog posts, and books on the topic. Most book handle alternative ways of doing todo lists and working through them. That's personal and you need to find your balance.
+
+I learnt a lot from reading ""what most successful people so before breakfast"". The author comes back on her book, ""168 hours"" where she proposes to plan on a weekly basis and to factor in unplanned events (no need to read that one). She talks about how people manage sport, food, career, kids, family. What do you delegate? What should you invest in? 
+Also the audio version is very nice :)"
+63648,"Can I recommend two? :/
+
+1. Getting Things Done by David Allen
+
+WHY: It gives you a tactical, step-by-step system on how to actually manage your tasks and get s**t done day after day.
+
+PROS: It works. I've been using the system for years (pen and paper [wasn't great], then on the Things app [much better] and OmniFocus for the last few years [nice]).
+
+CONS: It's bloody complicated, and people struggle with 'falling off the GTD bandwagon.' I know it took me years to 'get' the system and finally condition it into a habit. This was during the early years, mind you, today you have a buffet of apps and courses to help you ease into the system.
+
+2. First Things First by Stephen Covey
+
+WHY: GTD helps you get things done, FTF helps you get the *right* stuff done. The metaphor is that you don't want to race up the ladder really well, only to find at the top that it was leaning up the wrong ladder all along.
+
+PROS: Helps you to understand the difference between what's important and what's urgent. Sometimes the big things aren't the most obvious things and you need to proactively work on them.
+
+CONS: Can get a little touchy feely if you're not into that whole mission statement stuff. But I'd say give it a chance to know yourself better.
+
+CONCLUSION: Read both, then work to *practice* them daily. A dash of implementation is worth more than a handful of theory."
+63649,"I enjoyed ""18 Minutes: Find Your Focus, Master Distraction, and Get the Right Things Done"" by Peter Bregman. It's not just about planning your day rationally, it's more about setting the priorities right. For the day, and for the whole life."
+63650,"One book that truly change my life was Time Warrior by Steve Chandler and there is a free audio version of it on Youtube. If you search youtube for it, you will find it. Great great read."
+63651,Thanks for this recommendation.
+63652,"Take ""Essentialism by Greg McKeown"" off the list, and put ""Less by Leo Babuta"" in its place.
+
+&#x200B;
+
+Essentialism is an ad for McKeown's Consulting business, and publishing the implementation details of his formula was not going to increase his client base. So he filled the book with with vague and confusing advice, padding each chapter with pointless sentences to lend the impression of substance through chapter size.
+
+&#x200B;
+
+Here is some of his bullshit:
+
+&#x200B;
+
+Simplify your life. Only read these essential books: the Bible, the Bhagavad Gita, the Koran, and the Book of Mormon. Totally great advice there. ::eyeroll::
+
+&#x200B;
+
+What is the definition of simplicity? Three chapters  and [this diagram](https://www.pinterest.com/pin/245446248426113695/?nic_v2=1a6eiZy7a). Well. That is IT. That diagram was the key that unlocked my KUNDALINI (Bhagavad Gita), procured my ticket to THE CELESTIAL KINGDOM (Book of Mormon), reserved MY SEAT AT THE RIGHT HAND OF THE FATHER (Bible), and made me FOREMOST AMONGST ALLAH'S CHOSEN (Koran). 
+
+&#x200B;
+
+Yep, all in all, a most pretentious and useless book."
+63653,"The 7 habits of highly effective people by Stephen R. Covey
+
+
+Not only does it talk about various forms of time management (and what is the best) it talks about everything else you need to know about personal change.
+
+Though the time management part comes somewhere in the middle of the book, the rest of the book should be read as it lays a very good foundation for it.
+
+In short: Its not really about managing time, but managing priorities.
+
+Highly recommend."
+63654,"This!
+
+In my startup, I get every member on my team to read this as required reading. It's *that* good (methinks).
+
+That said, the relevant part to your question (that you'll learn from the book) can be summed up by the **Eisenhower Matrix**. There's lots of articles about this concept (just Google it), but one article that explains this well is from James Clear (he write well and gets to the point quickly). 
+
+See: http://jamesclear.com/eisenhower-box
+
+This, if done correctly, is enough to help you with your time management issues but if you're inclined, you should still check out the book. Here's the [Amazon link](http://www.amazon.com/gp/product/1451639619/ref=s9_psimh_gw_p14_d2_i4?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-2&pf_rd_r=01EP9BSWT7R9K2FC6TY9&pf_rd_t=101&pf_rd_p=1688200382&pf_rd_i=507846)."
+63655,"Echoing the comments of both /u/rean2 and /u/chattymcgee.  
+
+7 Habits is great for top-down thinkers - define your personal mission, vision, and values; then make decisions about where to spend your time based on that.
+
+Getting Things Done is better for bottom-up thinkers - what are all the commitments you've made; what's the very next thing you can do to move each of them forward; and what tools/people/places are necessary to perform that action.  Once you have all of that written down, you can start to examine why (or if) these things are meaningful to you so you can prioritize."
+63656,Is it a time management problem? Or is it a motivation/interest problem? 99 out of 100 times it is the later.  And you'll never solve that regardless of how many productivity systems you try to implore.
+63657,"The Miracle Morning by Hal Elrod and Vision to Reality by Honoree Corder - Both great reads (perfect together) to setting time blocks and reaching goals.  I actually got to interview Hal Elrod on my podcast (He died for 6 minutes, was told he would never walk again.. then went on to break sales records and run a 52 mile marathon.) His energy is insane!"
+63658,"Getting Things Done by David Allen.  Very nuts and bolts, if that's what you are looking for."
+63659,"Do you mean not getting things done, or being late?"
+63660,Atomic Habits!
+63661,"THANK YOU! I listened to it in a day. While finally getting my house clean.  I've kept up with the cleaning for four days now too. Doesn't sound like much, but for me it's HUGE."
+63662,"Came back to thank you again. I've listened to this book four times and it's changed my life. When I start to backslide, I start the book over. So reading Atomic Habits has become one of my... yeah. Haha"
+63663,*Getting Things Done* by David Allen
+63664,{{ The Seven Habits of Highly Effective People }}
+63665,"Thanks for the suggestion! I have one reservation about this one, maybe someone can help me clear it up? It was recommended to us that my husband and I read The Seven Habits of Highly Effective Marriages. I was fully willing to give it a shot. Until it got to the part where it said *basically* said, and again I am summarizing, ""This book won't help you if your partner has a mental illness like schizophrenia or bipolar disorder. Your relationship probably cannot be saved."" Something like that. Well, I have bipolar 1/schizoaffective disorder. So I didn't care to read on after that. 
+
+Is the Seven Habits of Highly Effective People going to tell me it's only meant for people with ""normal"" brains? I don't mean to sound over sensitive but it was kind of a huge burn. I'd never been shit on by a self help book before"
+63666,"[**The Seven Habits of Highly Effective People: A Summary**](https://www.goodreads.com/book/show/19077468-the-seven-habits-of-highly-effective-people)
+
+^(By: Alex De La Plata | ? pages | Published: 2013 | Popular Shelves: leadership, english-writer, nonfiction, 2020-reads, misc | )[^(Search ""The Seven Habits of Highly Effective People"")](https://www.goodreads.com/search?q=The Seven Habits of Highly Effective People&search_type=books)
+
+
+
+^(This book has been suggested 1 time)
+
+***
+
+^(90705 books suggested | )^(Bug? DM me! | )[^(Source)](https://github.com/rodohanna/reddit-goodreads-bot)"
+63667,{{ Deep Work }} {{ Radical Candor }}
+63668,"[**Deep Work: Rules for Focused Success in a Distracted World**](https://www.goodreads.com/book/show/25744928-deep-work)
+
+^(By: Cal Newport | 296 pages | Published: 2016 | Popular Shelves: non-fiction, self-help, business, productivity, nonfiction | )[^(Search "" Deep Work "")](https://www.goodreads.com/search?q= Deep Work &search_type=books)
+
+>One of the most valuable skills in our economy is becoming increasingly rare. If you master this skill, you'll achieve extraordinary results.
+>
+>Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy. And yet, most people have lost the ability to go deep-spending their days instead in a frantic blur of e-mail and social media, not even realizing there's a better way.
+>
+>In Deep Work, author and professor Cal Newport flips the narrative on impact in a connected age. Instead of arguing distraction is bad, he instead celebrates the power of its opposite. Dividing this book into two parts, he first makes the case that in almost any profession, cultivating a deep work ethic will produce massive benefits. He then presents a rigorous training regimen, presented as a series of four ""rules,"" for transforming your mind and habits to support this skill.
+>
+>A mix of cultural criticism and actionable advice, Deep Work takes the reader on a journey through memorable stories-from Carl Jung building a stone tower in the woods to focus his mind, to a social media pioneer buying a round-trip business class ticket to Tokyo to write a book free from distraction in the air-and no-nonsense advice, such as the claim that most serious professionals should quit social media and that you should practice being bored. Deep Work is an indispensable guide to anyone seeking focused success in a distracted world.
+
+^(This book has been suggested 9 times)
+
+[**Radical Candor: Be a Kickass Boss Without Losing Your Humanity**](https://www.goodreads.com/book/show/29939161-radical-candor)
+
+^(By: Kim Malone Scott | 246 pages | Published: 2017 | Popular Shelves: business, leadership, non-fiction, management, nonfiction | )[^(Search "" Radical Candor "")](https://www.goodreads.com/search?q= Radical Candor &search_type=books)
+
+>From the time we learn to speak, we’re told that if you don’t have anything nice to say, don’t say anything at all. While this advice may work for everyday life, it is, as Kim Scott has seen, a disaster when adopted by managers.
+>
+>Scott earned her stripes as a highly successful manager at Google and then decamped to Apple, where she developed a class on optimal management. She has earned growing fame in recent years with her vital new approach to effective management, the “radical candor” method.
+>
+>Radical candor is the sweet spot between managers who are obnoxiously aggressive on one side and ruinously empathetic on the other. It’s about providing guidance, which involves a mix of praise as well as criticism—delivered to produce better results and help employees achieve.
+>
+>Great bosses have strong relationships with their employees, and Scott has identified three simple principles for building better relationships with your employees: make it personal, get (sh)it done, and understand why it matters.
+>
+>Radical Candor offers a guide to those bewildered or exhausted by management, written for bosses and those who manage bosses. Taken from years of the author’s experience, and distilled clearly giving actionable lessons to the reader; it shows managers how to be successful while retaining their humanity, finding meaning in their job, and creating an environment where people both love their work and their colleagues.
+
+^(This book has been suggested 2 times)
+
+***
+
+^(90695 books suggested | )^(Bug? DM me! | )[^(Source)](https://github.com/rodohanna/reddit-goodreads-bot)"
+63669,Can you tell me more about Radical Candor?
+63670,Is a pretty quick read about being more open and honest with communication from boss to employee. Being profession but more personal with employees to promote more productive feed back.
+63671,"{{Atomic Habits}} by James Clear was pretty helpful for me, and easy to apply, which is nice."
+63672,"[**Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones**](https://www.goodreads.com/book/show/40121378-atomic-habits)
+
+^(By: James Clear | ? pages | Published: 2018 | Popular Shelves: non-fiction, self-help, nonfiction, psychology, self-improvement | )[^(Search ""Atomic Habits"")](https://www.goodreads.com/search?q=Atomic Habits&search_type=books)
+
+>No matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.
+>
+>If you're having trouble changing your habits, the problem isn't you. The problem is your system. Bad habits repeat themselves again and again not because you don't want to change, but because you have the wrong system for change. You do not rise to the level of your goals. You fall to the level of your systems. Here, you'll get a proven system that can take you to new heights.
+>
+>Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible. Along the way, readers will be inspired and entertained with true stories from Olympic gold medalists, award-winning artists, business leaders, life-saving physicians, and star comedians who have used the science of small habits to master their craft and vault to the top of their field.
+>
+>Learn how to:
+>*  make time for new habits (even when life gets crazy);
+>*  overcome a lack of motivation and willpower;
+>*  design your environment to make success easier;
+>*  get back on track when you fall off course;
+>...and much more.
+>
+>Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal.
+
+^(This book has been suggested 28 times)
+
+***
+
+^(90778 books suggested | )^(Bug? DM me! | )[^(Source)](https://github.com/rodohanna/reddit-goodreads-bot)"
+63673,Watch some videos of Jordan Peterson. I find them very helpful
+63674,"Ah yes, Jordan Peterson. Also known as 'Gwyneth Paltrow for men""."
+63675,There are some rules he said which are good BASIC advice.
+63676,The basic rules work out fine; don’t import the ideology
+63677,This guy is amazing.
+63678,Getting Things Done by David Allen
+63679,{{Essentialism}}
+63680,"[**Essentialism: The Disciplined Pursuit of Less**](https://www.goodreads.com/book/show/18077875-essentialism)
+
+^(By: Greg McKeown | 260 pages | Published: 2011 | Popular Shelves: non-fiction, self-help, business, nonfiction, productivity | )[^(Search ""Essentialism"")](https://www.goodreads.com/search?q=Essentialism&search_type=books)
+
+>Have you ever found yourself stretched too thin?
+>Do you simultaneously feel overworked and underutilized?
+>Are you often busy but not productive?
+> Do you feel like your time is constantly being hijacked by other people’s agendas?
+>
+>If you answered yes to any of these, the way out is the Way of the EssentialistThe Way of the Essentialist isn’t about getting more done in less time. It’s about getting only the right things done.  It is not  a time management strategy, or a productivity technique. It is a systematic discipline for discerning what is absolutely essential, then eliminating everything that is not, so we can make the highest possible contribution towards the things that really matter.  
+>
+>By forcing us to apply a more selective criteria for what is Essential, the disciplined pursuit of less empowers us to reclaim control of our own choices about where to spend our precious time and energy – instead of giving others the implicit permission to choose for us.
+>
+>Essentialism is not one more thing – it’s a whole new way of doing everything. A must-read for any leader, manager, or individual who wants to learn who to do less, but better, in every area of their lives, Essentialism  is a movement whose time has come.
+
+^(This book has been suggested 2 times)
+
+***
+
+^(90753 books suggested | )^(Bug? DM me! | )[^(Source)](https://github.com/rodohanna/reddit-goodreads-bot)"
+63681,!remindme 24 hours
+63682,"I will be messaging you in 1 day on [**2021-04-10 00:40:59 UTC**](http://www.wolframalpha.com/input/?i=2021-04-10%2000:40:59%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/suggestmeabook/comments/m7e894/books_about_time_management_life_management/gtvl6ke/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fsuggestmeabook%2Fcomments%2Fm7e894%2Fbooks_about_time_management_life_management%2Fgtvl6ke%2F%5D%0A%0ARemindMe%21%202021-04-10%2000%3A40%3A59%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20m7e894)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|"
+63683,Getting Things Done. The Now Habit.
+63684,Got some of my coworkers on that GTD a couple of years ago. Huge improvements in productivity. One of my team members (who got a better job thanks to improved productivity) still regularly thanks me for it on Linkedin.
+63685,"Just a tip to anyone who is interested in getting thing done. I like the system, it's simple enough to be adapted to suit your own needs and can be adjusted to work over different media.  
+Don't get me wrong the system is solid the book however is well not that great. The book has some amount of fluff since the system is so simple it could be a pamphlet. I recommend the book if you want to get a really good idea of how to implement GTD or how each component fits together. Otherwise I recommend looking up a summary like [this one](http://lifedev.net/2007/02/gtd-cheatsheet-the-workflow/)."
+63686,Zen to Done by Leo Babauta is also a great & concise revision of Getting Things Done
+63687,Combine it with MyLifeOrganized software.
+63688,"With Gettings Things Done and the Omnifocus Mac/iOS apps, I've been significantly more productive. It takes some time getting used to, but once you realize that it's more flexible than it seems at first, it's worth it."
+63689,Howard Stern talks about this book on many occasions. I bought it and it really has stood up to his hype.
+63690,Author?
+63691,"David Allen, Getting Things Done, http://www.davidco.com/
+
+Due to my productive prowess due to this book I had time to find you the link and google it for you."
+63693,The Willpower Instinct by Kelly McGonigal. Less about organizational strategies and more about managing and being aware of your own willpower.
+63694,"I'm glad there's more people who have read this awesome book. It's really eyeopening and makes you aware of this concept of willpower that you thought you knew, but really didn't."
+63695,Biographies about Theodore Roosevelt.
+63696,"This is good one. 
+
+The book is about discipline and willpower."
+63697,Reading what he managed to do before he was 30 seriously put my ass in gear.
+63698,"The Power of Full Engagement. Not time management, energy management."
+63699,"The most important thing you can do to ensure efficient use of your time is engage in **self-reflection** simply because it allows you to analyze how you actually used your time. Once you consciously see how you use your time, you can figure out what habits you want to drop and what is using up most of your time, almost like doing a ""Six Sigma"" project on your life. 
+
+The tricky part is changing those habits and identifying how your **emotions and your subconscious drive your actions**. Two absolute must reads for this are:
+
+* Psycho Cybernetics - Maxwell Maltz (I found this title very off-putting but its a well-written, logical book with concrete examples. You will not regret giving it a chance)
+
+* Think and Grow Rich - Napolean Hill"
+63700,The Time of Your Life by Tony Robbins.  PDF about it [Here](http://www.tonyrobbins.com/pdfs/Workbook-Time-of-your-Life.pdf)
+63701,How To Become A Straight-A Student by Cal Newport.
+63702,Good one. Second this.
+63703,"The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change – Stephen. R. Covey
+
+Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time – Brian Tracy"
+63704,"Listened to the 7 habits audiobook a few years ago and really liked it, have a hard time picking it back up though"
+63705,Keep masterbation to a maximum 10 minutes. No marathon shit.
+63706,But the longer you go at it the better the ending is!
+63707,scoop that honey pot
+63708,I just started this last week.  Also cut alcohol consumption to one day a week.
+63709,Strange title for a book. Was it good?
+63710,maybe give nofap a shot
+63711,The 4-hour work week - Timothy Ferriss
+63712,This is only good if you don't take it literally. I feel like he gives extreme examples to prove concepts that you can work into your life.
+63713,The holy Qur'an
+63714,Saving for later.
+63715,“Get your shit together” by Bonnie Wright. Funny and insightful.
+63716,"Do you want us to recommend you books or answer your most important question...?
+
+For books:
+
+https://www.reddit.com/r/getdisciplined/comments/8g4c5b/discussion_what_books_do_you_recommend_for/"
+63717,Nobody can accurately answer your most important question better than yourself as you know your situation best.
+63718,"I would recommend two things.
+
+1) Getting things done by David Alan. This is great for managing and organising of your whole life. It also covers managing task priority. It should give you a nice way to optimize the use of your time. Making sure you always have something lined up to do at the appropriate time to do it.
+
+2)Use an unschedule rather than a schedule. (http://www.neilfiore.com/now-habit/ ) Map out your days by all the things you know you are going to have to do such as eat, wash, sleep pick up kids etc. And you'll be left with how much space you have for work, fun or whatever. Then just do the tasks you have to do and fill in how long they took after. 
+
+You don't know how much time is required. If you look at the planning fallacy even the best experts are way off in their predictions of how long things will take. Even people who specialise in studying the planning fallacy underestimated how many years their study would take.
+
+Use another metric to judge the quality of your work not how much time it takes to do it. You may want to assign yourself a total time goal for a project that you think anything more than that spent means your wasting time and adjust it as you continue accordingly as you know more about the project. You may feel it's more complex than before so increase the allowance, or that it's not a worthwhile project so cut it short."
+63719,"Did you know /r/Productivity has an official Discord server?
+Join our Discord [here](https://discord.gg/productivity) and continue the conversation with over 5,000 members!
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/productivity) if you have any questions or concerns.*"
+63720,Getting Things Done
+63721,"Atomic Habits, Deep Work, and Getting Things Done are three of the top ones that come to mind. You can also check out my own [Stop Wasting Time book](https://amzn.to/2WXd63X) on Amazon and my [Time Tips YouTube channel.](https://www.youtube.com/c/garlandcoulson)"
+63722,Atomic habits
+63723,"Less Time Management per se, but a phenomenal book on helping one get to the most important things in their day: Make Time by Jake Knapp and John Zeratsky"
+63724,"Seven habits of highly effective people by Stephen covey
+Getting things done by David Allen
+Maybe
+Eat that frog frog bei Brian Tracy
+
+Allen and Covey have other helpful books. Usually it is better to read them after their main work.
+for David Allen you can also start with the getting things done workbook."
+63725,Love Covey. I’ve read a good bit of him. I’ll have to pick up a book by Allen.
+63726,"GTD, building a second brain, eat that frog - they all go hand in hand I think."
+63727,Time management and productivity are different things.  Which is your focus now?
+63728,"Well yes, but time management is a prerequisite for productivity"
+63729,"No it isn't, first and foremost productivity is doing the most important task you can work on.  If you do that inefficiently  you can still be productive."
+63730,r/suggestmeabook
+63731,"I read Stephen Covey's book years ago and yes, would recommend it.  
+
+The Power of an Hour by Dave Lakhani.
+
+There's a website called Simpleology that can help with managing your time and priorities.
+
+Getting a handle on your schedule and priorities will probably go a long way to helping your stress and anxiety. 
+
+Figure out your ""why"" and write it down.  Keep it close at hand and refer to it whenever you feel yourself slipping.  Then take immediate action. 
+
+Oh, and Napolean Hill's ""Outwitting the Devil.""  I listened to this one on CD in my car and found it very entertaining and helpful!
+
+Best of luck and hang in there!"
+63732,"You can check The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It."
+63733,"> The Willpower Instinct
++1. That book has some of the best explanations (real, biological, evolutionary reasons) for why willpower and stress work the way they do, rather than just throwing around arbitrary methods of ""habit forming"" or books that are essentially motivational speaking/feel-good."
+63734,"If you're a procrastinator, like me, you're going to love *The Now Habit* (Fiore). It blew my mind. It will help you understand why you're procrastinating, and how to think and act to become more effective. No magic, just some tactics that really do work.
+
+If you're worrying too much, I recommend *How to Stop Worrying and Start Living* (Carnegie). It's amazing as well!
+
+*The 7 Habits of Highly Effective People* and *Getting Things Done* are good as well, so read those too, but I would start with *The Now Habit* if I were you. (You can never read too many great books!)"
+63735,"7 Habits is awesome. It deals with the fundamental underpinnings of why you're having trouble. So many other books try to fix the problem way out on the far branches. Covey strikes the root.
+
+Then read Getting Things Done. Its subtitle is ""The Art of Stress-Free Productivity"". That's exactly what it'll give you.
+
+But read 7 Habits first. 
+
+And right around the time you start reading 7 Habits, begin exercising. Seriously. It will make an enormous difference. Don't know what to do? Even a brisk 20 minute walk three times a week will do wonders. Push yourself, get a little winded, don't dog it, but don't kill yourself either. You'll be amazed how much it helps almost immediately. You'll feel like you found some new miracle drug that reduces anxiety while increasing energy, mental clarity, and confidence."
+63736,"Not trying to dis you but I found the 7 habits be totally pretentious and devoid of anything actionable.
+
+
+GTD was my go to book for productivity but as I matured in my time management I realized it was to much focused on efficiency and not on effectiveness which is very problematic.  Since then I have been slowly chipping away on my GTD habits....my new system is basically not GTD oriented as well, takes less upkeep and is a lot more focused on effectiveness instead of completing next actions.
+
+I guess what I am saying is GTD is better than nothing but it takes you to the wrong direction."
+63737,"Getting Things Done. It will help you, it helped me a lot."
+63738,"Constructive Living by David K. Reynolds. Also, if you want a great jumpstart on getting your ass in gear, I recently discovered Philosopher's Notes website and their video class Optimal Living. Huge, huge fan. For the price of a book, you can watch all 10 episodes."
+63739,Help by Oliver Burkeman. He uses a lot of really great science.
+63740,"I've found that systems help. It's not a book, but Cal Newport has written about scheduling everything including free time and how it has helped him feel less stressed. His blog is called Study Hacks.
+
+David Allen's book Getting Things Done has been recommended to me by a number of people.
+
+You also might want to try The Champion's Mind by Jim Afremow. He's a sports psychologist, but a lot of what he writes can apply to anyone.
+
+What have you tried so far to become more productive and nervous?"
+63741,Getting things done
+63742,7 Habits
+63743,"*The Power of Habit: Why We Do What We Do in Life and Business* is hands down the greatest book about habit forming that I've ever read. It includes a multiple of examples that are both relatable and inspiring, and concise explanation about why habit building works."
+63744,"*The Power of Habit*: A+++++
+
+I listened to the audiobook and couldn’t recommend it more"
+63745,Agree with both of you - this book is a classic!
+63746,"Some other books I can recommend myself, besides the ones mentioned below:
+
+* Willpower by John Tierney
+* Drive by Daniel Pink
+* Making Habits, Breaking Habits: Why We Do Things, Why We Don't, and How to Make Any Change Stick by Jeremy Dean
+* Making Good Habits, Breaking Bad Habits: 14 New Behaviors That Will Energize Your Life by Joyce Meyer
+* Mini Habits: Smaller Habits, Bigger Results by Stephen Guise"
+63747,The 5 second rule by Mel Ribbons
+63748,There's a great episode of Tom Bilyeus podcast featuring her.
+63749,A basic book on habit creation https://payhip.com/b/RqC4 “how to create habits that stick” Hope this helps
+63750,"""Atomic Habits"" one of the best books on habits I've ever read."
+63751,"Have you heard of /r/thexeffect yet? Exactly what you're talking about, other than it only taking three weeks, but you can extend this technique for as long as you want.  
+
+As far as my own personal goals go, I would like to get back into reading daily like I used to growing up (until about 14 or 15 years old when I started smoking weed, and had lots of online distractions to waste my time - Facebook, Reddit, Instagram etc). 
+
+I'd like to start reading every night for at least half an hour before bed. I think this will in turn, allow me to get better sleep by actually being tired when I go to sleep. Ill be in bed less, but better rested when I wake up. 
+
+I'm going to start marking it down every single day on my calendar when I achieve this, and monitor how much time I spend reading, to hopefully increase my time to an hour of daily reading. 
+
+Thanks for posting and asking for us to post our own goals.. definitely helps me stay honest with myself when I have to think about it and write it down, rather than just think about it and move on to the next Reddit post."
+63752,"Ooooh, I haven't. I have a feeling you just introduced me to some gold. Thank you."
+63753,"Here's a tip. Instead of reading for x hours, read x pages per session."
+63754,"Edit: My post assumes that you don't enjoy reading and/or are procrastinating about it. 
+
+The problem with procrastination is that thinking about achieving a product has a much higher pain response than completing a process. So reading X hours is probably much easier to think about than reading X pages as the latter is a product and not a process. 
+
+* Steel, Piers. ""The Nature of Procrastination: A Meta‐Analytic and Theoretical Review of Quintessential Self‐
+Regulatory Failure."" Psychological Bulletin 133, no. 1 (Jan 2007): 65‐94.
+*  ———. The Procrastination Equation. NY: Random House, 2010
+
+Here's some more information.
+
+>Process means, the flow of time and the habits and actions associated with that
+flow of time. As in, I'm going to spend 20 minutes
+working. Product is an outcome, for example, a homework assignment that you need to
+finish.
+
+>The product is what triggers the pain that
+causes you to procrastinate. Instead, you need to focus on the process
+or processes. The small chunks of time you need over
+days or even weeks to answer the questions or
+prepare for tests. Who cares whether you finish the homework
+or grasp the key concepts in any one session. The whole point instead, is that you
+calmly put forth your best effort for a short
+period."
+63755,I switch between both. Sometimes I'll read for half hour... other times 30 pages or whatever. I do LIKE reading.. I just allowed myself to become easily distracted over the years by other things which were more interactive and therefore more mentally stimulating.
+63756,I feel you.. It's easier to open Facebook and Reddit and waste a few hours than to spend an hour reading a good book. I remember the days when I read the whole Harry Potter series in just days. Need to get back into the habit of reading myself.
+63757,"I have been in a very similar situation. I got back into reading by listening to audiobooks. Once you are hooked on a particular series, finding motivation to read wont be hard. You can change over to regular books then, or you can stay with the audiobooks. 
+
+I personally prefer audiobooks for late-'reading', since you can close your eyes and turn of the light. 
+
+I recommend The Dresden Files by Jim Butcher. There are a lot of them and they are read by James Marster (whitehaired vampire from Buffy)
+If u have been watching Game Of Thrones, the audiobooks made for those are also really good. 
+Write me if you want more/different reccomendations..
+
+Also make an account on Goodreads, book reviews, database, forums, ratings, etc etc.. everything you might need is there."
+63758,"Enjoyed your post, thanks for the summary."
+63759,"So implementation intention is a good one. Willpower is a finate resource so making things simple and automatic are important when creating habits for the times when you have no energy motivation or willpower. 
+
+BJ Fogg from http://tinyhabits.com/ does this implementation intention thing by creating a cue in your daily life which acts as the trigger for when you start your new habit. For instance putting your running shoes by the front door when switch off the downstairs light before you go upstairs to bed. The cue or hook is something that you already do habitually at the same time that you want to create this new habit.
+
+Check it out. Powerful stuff.
+
+Lastly I will say that willpower is great but I think it still can not help to motivate you entirely when you feel that there is no strong purpose for doing what it is you are attempting."
+63760,"I'm familiar with BJ Fogg. His lectures online have helped me do 20-30 pull-ups everyday (I do them after I use the bathroom lol.) 
+
+And I agree completely. Figuring out what it is you want to commit your life too, that is where the real power is, but so far I haven't found a good way to articulate how one can discover their Life's Purpose. But I'm working on it. 
+
+The Artist's Way and The ONE Thing are books that have helped me, but personally, nothing has been more powerful than a responsibly conducted psychedelic experience."
+63761,"Could you expand on your responsibly conducted experience? I have been reading a lot of interesting information on that topic. I am stuck in such a terrible rut right now. My body is showing my stress in so many unpleasant ways. Thanks for such a well-written and succinct post. 
+
+I loved The Power of Habit. Also check out ""Mindless Eating"" if that is an area you want to work on. The tricks to setting up your environment to reduce the number of times you need to exert your will power is fascinating."
+63762,"Check this [out](http://individuationing.com/2016/02/21/how-to-dance-with-psychedelics/). Please let me know what questions you have, this is one of my favorite subjects to help with. 
+
+And I actually have that book but haven't read it. I'll check it out. Thank you!"
+63763,"I've tried mushrooms about 5 times or so, and each was a great experience (including one where it was a 'bad trip' for part of it). I've been offered Ayahuasca but was too afraid of it at the time. Do you mind if I ask what your own personal experience was? I've read about many scientists using LSD.. also read a lot about DMT... just wondering your own thoughts on the matter."
+63764,"I write down most of my trips so I can remember them and visit them later. 
+
+Here is my [LSD](http://individuationing.com/2015/01/17/i-finally-found-lsd/) experience, [DMT](http://individuationing.com/2012/10/21/dmt/) experience, and my recent [mushroom](http://individuationing.com/2015/04/27/81/)."
+63765,Greatly appreciated!
+63766,DMT... nothing else comes close.
+63767,What is DMT?
+63768,"Forget the full name, but it's essentially the drug your brain produces naturally when you dream. Dreams which are super crazy produce a lot, and also increase the probability you won't remember the dream."
+63769,I saw a decent tedx talk on finding your life purpose. Something with asking 5 questions or it only taking 5 minutes in the title. Not sure whether it works as I already know my life purpose but might give some info.
+63770,dunno why you would want to do that responsibly.
+63771,You'd rather do it irresponsibly? Or not at all?
+63772,"I'm not saying you should do it irresponsibly but I find placing an emphasis on ""responsible"" a bit clichéd. Plus irresponsible drug use seems to be a lot more fun I imagine. I don't think any rock star ever said ""watch me do this minimum effective dose line of coke"" at a great party."
+63773,"Thanks for the post! Reminds me of Charles Duhigg's work. If you're interested, his book The Power of Habit helped me stop biting my nails and become a more productive student.
+http://charlesduhigg.com/the-power-of-habit/"
+63774,"Good eye. That is one of the books I read for this. I just got his new book, its the 3rd on my queue."
+63775,Hey can you give me a list of books that you read?
+63776,"The ones I read for this article or just a general list? I read a lot of books so if general I'll give a top 10, but it'll help me if you shared what your interests are."
+63777,for this list ... but you can do both if u like :)
+63778,"For the article I read; 
+
+* Willpower: Rediscovering the Greatest Human Strength. 
+* The Power of Habit
+* Hooked by Nir Eyal 
+* Making Habits, Breaking Habits
+* The Willpower Instinct 
+
+As for a top 10, I'll do a top 5; 
+
+* Prometheus Rising 
+* The Artist's Way 
+* Cosmic Trigger 
+* The ONE Thing 
+* Man and His Symbols"
+63779,thanks looks great
+63780,"Nice to see the artists way get a mention! I always think it may be looked on as too flowery in the midst of such scientific and rigid writing in this area.  Always been a standby for me,  been wanting to reread lately. 
+
+Thanks for the recommends and the great write up!"
+63781,"I'm a newbie to psych, and i've found an obsession with control over ones mind. I'm trying to drive deep and challenge myself.... Prometheus looks extremely rewarding .. can you tell me more about what you  got from this book?"
+63782,"With no exaggeration, that book gave me the most durable and useful reality tunnel for understanding life. It's the bedrock of my personal philosophy. 
+
+It is my personal favorite psychology book, and my favorite philosophy book."
+63783,"Reading this book at the moment and have stopped drinking those silly energy drinks as a result. Seems like a small thing but I was powering through those every day, the book made me realise the routine I had and as a result was simple to change it. Great book"
+63784,"Thank you so much for this post. I'm going to use what I've read to get myself to change many bad habits I have. Mainly using drugs to relieve stress, which leads to sleep deprivation, then falling behind at work/ignoring my hobbies, and using drugs to try to make me feel better. Been getting progressively worse for 3+ years now, if I don't change soon I don't know what I'll do."
+63785,Please feel free to message me for specific help if you find habit change being harder than you thought. Thank you for reading.
+63786,Thank you for this post. I'm 21 yo and really starting to realize that the habits I have now are setting me up for the rest of my life. I feel like I know/want so bad to reform but it always stalls due to my lack of will power and self discipline. I want to change for the better
+63787,"I'm 24 and I've been trying to change my habits on/off since I was about 19. I have the image in my head of a better me, but I just can't keep myself motivated to keep on at things. I'm hoping this technique will help but just wanted to wish you good luck as well!"
+63788,"There have been recent studies that show that willpower is not depleted, in fact it's the opposite. People who practice willpower are able to do it more and more."
+63789,"Those statements are not mutually exclusive. Energy depletes but the more you train the more energy you get. Willpower is similar. You need to spend it and deplete it to get a bigger reserve.
+
+At least that is what some claim."
+63790,.... Willpower is not energy. At least not the energy that law was referring to.
+63791,They're making an analogy.
+63792,"No they're trying to use an analogy to prove something irrelevant. That's a logical fallacy. 
+
+Analogies should be used to describe situations, processes, items etc. Not prove something."
+63793,"It's not irrelevant, it demonstrates that your two statements are not mutually exclusive. They provided an example of another type of exertion that indeed depletes energy _in the short term_, yet grows in the long term with practice. It makes perfect sense to me that willpower would be similar.
+
+To clarify, are you saying that it's not depleted in the short term at all?"
+63794,"An analogy demonstrates nothing. 
+It's a logical fallacy to draw conclusions based on analogies. 
+
+I'm saying that's what the recent studies suggest."
+63795,"Nobody's drawing conclusions or trying to prove anything, we're basically saying that your initial statement was a little ambiguous. Thanks for finally clarifying.
+
+Any chance you could point me in the direction of the mentioned studies? Thanks :)"
+63796,"This is the first time anyone has mentioned ambiguity, and the condescending tone you used didn't escape my attention. 
+
+I fail to see what was ambiguous in;
+
+>There have been recent studies that show that willpower is not depleted, in fact it's the opposite. People who practice willpower are able to do it more and more. 
+ 
+If anything that's more information than the comment you claim is 'clarifying', which only says;
+
+>I'm saying that's what the recent studies suggest. 
+
+You want the studies? Google them. I'm not going to keep playing this petty game with you."
+63797,"I'm not playing any games, dude. Chill. Sorry if I pissed you off."
+63798,can you link those studies? or give a name?
+63799,Great post duDe. I'm removing a bad habit and implementing a good one so far. I'm trying to do nofap and implenting studying every single day for at least 1 hour.
+63800,"I am not a psychologist but from personal experience and observation I feel like willpower is being simplified. I think what we perceive as willpower is influenced by many different factors. 
+
+Personally I don't believe that it can be depleted. With a muscle you can reach physical exhaustion but I don't think that you can exhaust someone's willpower so much that he is unable to resist any temptation.
+
+I don't believe that it's a muscle. I don't think that willpower in one are can be improved with willpower exercises in another area.
+
+Also I think it's important to make a distinction between the will to act and the will to resist. The latter is much easier.
+
+But yeah creating habits is the key."
+63801,"We are a species confined by the models we make of the world. This is a simplified introduction to Willpower and the Willpower as a muscle is just a model, but it seems to be the model that most people behave according to. 
+
+But the fascinating research are the outliers. The people and examples where Willpower seems to be infinite. POJs, Endurance athletes, David Blaine (lol). 
+
+Do you have any book recommendations that explore Willpower as an infinite resource?"
+63802,"Tests like the marshmallow study would say otherwise, what are you basing your hypothesis on?"
+63803,"The problem with these habits books is that they don't give you any smart advice about how to do stuff. What is something smart you can do about sleep? About diet? 
+
+Sure they tell you about will power, putting in the effort to tracking your habits. Anyone can figure that out on their own. How about teach me something smart to do?"
+63804,"Well, they cant give you templates, everyone is different. Charles Duhigg book gave you a template, explanations and so on"
+63806,"I'm happy to hear my post helped. 
+
+Here's what I did for exercise (I work at a desk 8 hours a day.) 
+
+Everytime I go to the bathroom, I do 2 pull ups and 5 air squats. It adds up fast. 
+
+If you like reading, Tim Ferriss's 4 Hour Body really helped me."
+63807,What kind of habits affect metabolizing glucose and ketone?
+63808,"Getting enough sleep, eating a whole-food, plant dominate diet, and exercising."
+63809,"Some time ago I had some dental health issues and since i didnt want to go through it again, once it was over i decided i wanted to improve my dental hygiene habits, which were terrible (as well as the rest of my habits). The fear from having dental issues again kept me on track and one day I realised that i subsconciously felt uncomfortable whenever i didnt despite not actively remembering my goal of improving dentl health. I figured i would try to do the same with exercise and general hygiene, but i failed miserably :) i will definitely give it another try thanks to your post, for the moment i will stick to the 8 hour sleep and the 20 minute exercise. Currently i either sleep 5 hours or 12 and exercise none. I'll get back at you with the results :D"
+63810,"I too have an amazing  flossing habit after chipping a tooth and paying $2000 for a crown. 
+
+Good luck!"
+63811,"Thanks for posting!  
+
+I am 28y/o and I have depression and anxiety.  The meds I'm taking have happily eliminated the depression, but I still struggle with anxiety and fatigue.  
+
+I think I am trying to change too many habits at the same time.  I have successfully implemented the habit of beginning my day with a cup of green tea for the past ~16months.  Changes I would like to make are: going to sleep at a reasonable hour, getting 7 hours of sleep, waking early, and going for a walk early (because if I delay for too long it gets unbearably hot in my area, best time to be active is before 8am.)  
+
+I have a puzzle alarm app that helps me actually wake up and stay up, and I recently added a habit tracker app, though I find myself ignoring some of the alerts.  It's more of a virtual checklist to keep track of how well (or poorly) I do.  But it's been very difficult for me to go to sleep at a reasonable hour, throwing everything else off.  In addition, nearly every night I am tossing and turning, unable to get comfortable, and I have constant back pain.  Would a new mattress solve all of my problems?  I do need a new mattress, but I think that's too optimistic."
+63812,"I'd offer this, Once you make your green tea, go on a walk while you drink your tea. This is the first thing you do in the day. 
+
+The sleep thing can be a lot of things, but this is a good set of rules that will help. 
+
+**Only be in your bed when you are ready to sleep.** (Don't lay in it during the day or while you watch shows.) When we do this, we are teaching the brain that our bed is not for sleeping in. If you only get in bed when you are ready to sleep, you teach your brain to start revving down when you get in bed. 
+
+**Don't look at any screens the last hour of sleep.** The blue wavelength of our screens impairs your brains natural production of hormones that tell you its time to sleep. Brush your teeth, clean, prepare for the next day, whatever you do at night. No screens. 
+
+**Try to sleep in complete darkness and have no sound other then white noise like a fan or humidifier.** Our brains stay aware while we sleep. Studies show that even a blinking red light from a device can affect REM sleep. 
+
+There are more techniques that are helpful but these are 3 big ones. Its hard to really help over reddit but I hope I helped."
+63813,"Thanks for the advice!  I will try adding the walk to the tea routine in the morning for sure.  The ""only using the bed for sleep"" suggestion will be more of a challenge.  
+
+As for blue screen light, I use the Twilight app, and it's amazing.  I don't get eyestrain anymore.  I love it."
+63814,Do you know why Baskin Robbins only has 31 flavors? Because Chuck Norris doesn't like Fudge Ripple.
+63815,This is a great point. Thank you. Any book recommendations on this alternative view to Willpower?
+63816,"I want to set a goal of being more social, especially with women I find attractive. Any ideas on an implementation for that?"
+63817,"The implementation intention is easy. The courage to commit to it is more complicated. 
+
+We're afraid of rejection. But our fear of rejection is more powerful then actual rejection. 
+
+Ask a friend to be your ""sponsor"" aka someone to make fun of you if you bail. 
+
+Go to a mall or bar or park and ask the first 5 females you see who are around your age and ask them for their phone number. 
+
+Your face will be red, you'll stutter and stumble, and likely get no numbers. But, you'll have faced one of modern humans most base fear. Aaaaand, you'll be alive. 
+
+This is a good first step."
+63818,"Awesome thanks man. If I wanted to shoot for a lower goal to start, say approach 3 girls a day for the next two weeks, do you think that would help or should I set a bigger goal as you mentioned?"
+63819,"The best approach is one that you'll do. So yes, 3 is good. Good luck!"
+63820,I will start with improving my sleeping habits it won't be easy with my crazy schedule but if I lay it out on paper I can do it.
+63821,"The Power of Habit by Charles Duhigg is one that I really enjoyed. Basically explains how you can use the habit loop of cue, action, reward to change pretty much anything in your life. From there you can explore books like 7 Habits of Highly Effective People and others to pick the habits you want!"
+63822,"I keep coming across a book named ""Atomic Habits"" by James Clear. I need to pick it up; people keep recommending it."
+63823,"""The Power of Habit"" and ""Atomic Habits"" are both fantastic and I can vouch for them 100%"
+63824,"The War of Art by Steven Pressfield. Seems like it could really help you. But first let me tell you a thing about changing habits. Do not rely on external motivation. Sure, reading inspiring books or stories is awesome and may benefit alot on your person, but at the end of the day to really overcome your weakness you need to SLOWLY work on yourself everyday, and get gradually stronger. That's why i advise you to read the wonderful book i mentioned and at the same time slowly building good habits consistently... trust me this is the best advice you can get. DO NOT TRY TO GO ALL IN and to destroy every bad habits and at the same time adopt 999 new habits. Try to change something every week, like waking up 1 hour earlier and then the next week 2 hours earlier. Then the next week you also spend 30 minutes more working instead of procastinating. You got the idea. Good luck mate"
+63825,"The Seven Habits of Highly Effective People, by Stephen Covey"
+63826,This. Really changed the way I look at my own life and habits.
+63827,"This book really helped me, also read the teen one when I was a teen. Loved it also."
+63828,"I really liked [The Power of Habit](http://www.amazon.com/The-Power-Habit-What-Business/dp/081298160X) by Charles Duhigg.  It has some excellent case studies that look at businesses as well as individuals, and examine how habits work, how they get into your brain, and what techniques you can use to change them."
+63829,"I would suggest Mastery by George Leonard (not to be confused with a book of the same title by Robert Greene). It's not specifically about changing the types of habits you list, but for this:
+
+>and do more of the things I say I want to do
+
+It could help you stay with a goal or keep on a path that you want to stick with. It's by an aikido master, and espouses a worldview of perseverance, roughly by being more process-oriented and less goal-oriented. It has helped me immensely, and it's a pretty short and easy read so even if it's not what you're looking for, you won't lose too much time. Good luck! 
+
+http://www.goodreads.com/book/show/81940.Mastery
+
+Edit: added link"
+63830,"Alan Watts, The Way of Zen."
+63831,"Well, for me, it is not about changing bad habits. It is accepting bad habits as a part of you, and learning how to use your bad habits to your advantage. If you lose your devils, you might lose your angels too"
+63832,Not sure if it applies to you but Allen Carr's The Easy Way to Stop Smoking is probably the most effective quit smoking book ever made.  He even applied the same method to later books on losing weight and cutting alcohol.  Good Luck mate!
+63833,"Perhaps not quite what you're looking for, but I found *Musashi* by Eiji Yoshikawa to be very inspirational and legitimately life-changing."
+63834,Willpower by Baumeister. It's a comprehensive look at human willpower and self-control. Lots of advice based on scientific studies.
+63835,"For start, this may be the book you are looking for - [Your Brain at Work](https://www.goodreads.com/book/show/6899290-your-brain-at-work). I am no more procrastinating, at least not as much as I used to do. In this book author is basically serving you lot of science facts baked in stories. Which you can use to make those changes, and don't slip back to old habits (this won't be easy)."
+63836,"Dale Carnegie- *How to Win Friends and Influence People*    
+
+Built a monstrous self help empire from this book."
+63837,"Public Torrent Indexers specialized in audiobooks:
+
+* [AudioBook Bay](http://audiobookbay.me) (currently seems to be forwarding to [.nl](http://audiobookbay.nl/), [abbaudiobook.com](http://abbaudiobook.com/), [abbaudiobooks.com](http://abbaudiobooks.com/), [audiobookbayabb.com](http://audiobookbayabb.com))
+
+---
+
+There are always general public torrent indexers you can check out. See the Common Post Topics in the sidebar, e.g.
+
+https://www.reddit.com/r/torrents/comments/clctmd/updated_best_torrent_sites_list/
+
+https://www.reddit.com/r/torrents/comments/bjr5ih/whats_the_best_meta_torrent_search_engine_site/
+
+---
+
+There are also private torrent trackers specialized in that content. You'll want to search through /r/Trackers for more info on those.
+
+---
+
+Or if you're asking about general non-torrent download sources for that content then you'll want to search/ask in /r/DigitalPiracy, or /r/Piracy.
+
+---
+
+Related: 
+
+https://www.reddit.com/r/torrents/comments/afmwuq/best_audiobook_torrent_site/
+
+https://www.reddit.com/r/torrents/comments/a9sndk/am_i_missing_something/
+
+https://www.reddit.com/r/torrents/comments/8mjczu/does_anyone_know_a_good_site_for_audio_books/
+
+https://www.reddit.com/r/torrents/comments/73qff7/good_sites_for_audiobooks/
+
+https://www.reddit.com/r/torrents/comments/63afae/question_any_good_currentlyoperational_websites/
+
+https://www.reddit.com/r/torrents/comments/3ib475/good_audiobook_torrent_sites/"
+63839,I vouch for [http://audiobookbay.nl/](http://audiobookbay.nl/). Been using it for months and found every single audiobook I searched for.
+63858,Comment removed per rule #1
+63842,"I'm new to this sub, hope it's alright to ask whether or not it is a safe site? I mean, I have never ever had to make a user-account on a torrent site before, so it sort of scares me. 
+
+Thanks."
+63843,"> I have never ever had to make a user-account on a torrent site before
+
+You don't need an account (unless you want to create one). All torrents listed there have their torrent hash displayed. Treat torrent hashes like magnet links & copy/paste the hash into your torrent client to download the torrent."
+63844,Thank you for this information! Highly appreciated.
+63845,I have used this sites for a few years max and never had a problem. I agree it is quite weird for a torrent site to ask for account but I have personally never had any problems with it.
+63846,I got a quick and simple tutorial on how to add the hash link. Works wonders! Thank you.
+63847,Good ~~Bot~~ Mod
+63849,"So awesome, thanks!"
+63850,myanonymouse
+63853,"Hoopla ain't bad -- free w/library card, lots of stuff.  (Also many other library e-software...)"
+63854,"Just join your local library. If you are banned/ have a ton of overdues at your local, join some other library online. It's free. Also, if they don't have a book that you want, you can still generally request it, particularly during COVID-19, they are more likely to get a copy I would think. If you need any help just ask!
+
+source: am librarian."
+63855,"I am a librarian*
+
+Come on now."
+63856,Anything other than audiobookbay is news to me. I freaking love audiobooks while working or driving and hardbacks while sitting.
+63859,myanonamouse
+63860,I have been using annonymouse for a while and they have decent content and a good bonus system to keep ratios high.  It's a great private tracker as long as you follow the community rules.
+63861,"> myanonamouse
+ 
+thanks! just joined, seems good but yeah the rules does seem a bit strange. Like why the ban on the multiple accounts on an IP address?"
+63862,"That is normal for private trackers, you are not allowed to have multiple/duplicate accounts. Multiple accounts logging in from the same IP will look very suspicious obvs. Check out /r/Trackers for general questions about private trackers."
+63863,"If you're a new member, chat a bit in the global chat box and ask any questions you have there...you'd be surprised how many free points you get donated from other members just for being a polite member of the community :-). After a while of seeding lots of old members have more points than they would need and routinely 'gift' them to new members to help out.  Easy way to offset ratio costs."
+63864,"Thank you for that!  I'm new here, joined a hour or two ago, and still learning about how this site works, but I am enjoying it so far!"
+63865,"The site is up, try using [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) or a paid VPN (see /r/VPNTorrents). Note that ABB does not have stable uptime so sometimes it does go down.
+
+---
+
+Public Torrent Indexers specialized in audiobooks:
+
+* [AudioBook Bay](http://audiobookbay.me) (currently seems to be forwarding to [.nl](http://audiobookbay.nl/), [abbaudiobook.com](http://abbaudiobook.com/), [abbaudiobooks.com](http://abbaudiobooks.com/), [audiobookbayabb.com](http://audiobookbayabb.com))
+
+---
+
+There are always general public torrent indexers you can check out. See the Common Post Topics in the sidebar, e.g.
+
+https://www.reddit.com/r/torrents/comments/9jffp9/what_site_are_you_using_for_torrents/
+
+https://www.reddit.com/r/torrents/comments/971mp6/any_site_like_or_alternative_to_torrentproject/
+
+---
+
+There are also private torrent trackers specialized in that content. You'll want to search through /r/Trackers for more info on those.
+
+---
+
+Or if you're asking about general non-torrent download sources for that content then you'll want to search/ask in /r/DigitalPiracy, or /r/Piracy.
+
+---
+
+Related: 
+
+https://www.reddit.com/r/torrents/comments/a9sndk/am_i_missing_something/
+
+https://www.reddit.com/r/torrents/comments/8mjczu/does_anyone_know_a_good_site_for_audio_books/
+
+https://www.reddit.com/r/torrents/comments/73qff7/good_sites_for_audiobooks/
+
+https://www.reddit.com/r/torrents/comments/63afae/question_any_good_currentlyoperational_websites/
+
+https://www.reddit.com/r/torrents/comments/3ib475/good_audiobook_torrent_sites/"
+63866,"audiobookbay.nl is up, using it right now."
+63867,Second for myanonamouse.
+63868,">Myanonamouse
+
+is it specially for audiobooks?
+
+Damn it's invite only."
+63869,And ebooks!  it's my favorite!

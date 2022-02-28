@@ -1,0 +1,119 @@
+idx,query,text
+31583,best hotel to live in,"Yep perfect. That is an incredible hotel defiantly. And the resort is huge.
+
+The pools are incredible.
+
+Have you checked out UNIQUE Rooftop in that resort? In my opinion it does have one of the best views."
+47718,best state to visit in the United States,"North Carolina:
+
+Depends of if you prefer the Mountains or the Beach.
+
+Mountains:  Asheville is a great cool little town. Lots to do, local bars, very fun relaxed atmosphere.  You have skiing and snowboarding nearby, and lots of hiking trails.
+
+Beach:  Hatteras beach is great for fishing.  Outer Banks is a great commercialized beach.  For OBX, try to schedule around a certain time to see the wild horses running up and down the beach."
+27824,best breakfast foods,I even heard that compressed patties of potato have been fried since before the USA was ever colonised.
+62226,Best RPG game on PS4,Pretty spot and fair lil review. Kudos guy
+15628,best sunglasses for fashion,"Idk, i've been browsing all over online and in person and haven't seen many popovers. Is it cus we haven't quite hit summer yet?"
+4109,best online college,"Good, yes. Great, stellar, excellent... probably not. But it's far superior to a for-profit, online-only school."
+42498,best detective show,"Love crime dramas!
+
+Check these ones out (you've probably seen the top ones, but I'll list them anyways).
+
+Netflix:
+
+- Breaking Bad
+- When They See Us
+- Better Call Saul
+- Sherlock
+- Narcos
+- Peaky Blinders
+- Mindhunter
+- Delhi Crime
+- Narcos: Mexico
+- Broadchurch
+- Unbelievable
+- Ozark
+- American Vandal (parody)
+- The Sinner
+- Imposters (some comedy also but about con artists)
+- Seven Seconds
+- You
+- The Bodyguard
+
+
+
+Amazon Prime:
+
+- Line of Duty (extremely well made)
+- Dexter
+- Bosch
+- Psych (crime + comedy but one of my favorite shows ever)
+- The Missing
+- Sneaky Pete
+- Monk
+- Unforgotten
+
+
+
+HBO/HBO Max:
+
+- The Wire
+- The Sopranos
+- True Detective (mainly season 1)
+- The Night Of
+- Big Little Lies
+- Mare of Easttown
+- Luther
+- Sharp Objects
+- The Outsider
+
+
+Hulu:
+
+- Fargo
+- Hannibal
+- The Killing"
+13231,best gifts for mom,"When my daughter was that age, I spent the day basically nursing and not much else. I would have appreciated an e-reader loaded with books to give me something to do while I nursed. I was not the type of mom who could have gone several hours for a spa day at 3 months without missing my baby like mad."
+33049,best energy drink,it looks like all their stuff is sugar free. there is just something about sucralose that leaves a bad taste in my mouth.
+47389,best state to visit in the United States,I'm not even a Bostonian. I fucking hate the pats. I just thought the brit would like Boston. Merry Christmas to you too! Manning > Brady
+33195,best electric car,"Well, here's an example...
+
+[https://www.classicchevycentral.com/VehicleDetails/new-2020-Chevrolet-Bolt\_EV-5dr\_Wgn\_LT-Houston-TX/4637265203#close](https://www.classicchevycentral.com/VehicleDetails/new-2020-Chevrolet-Bolt_EV-5dr_Wgn_LT-Houston-TX/4637265203#close)
+
+$39k MSRP selling for $26k. Then you'll go into the dealership and visit 5 other dealerships and haggle for a week to get them to honor their advertised price, walk out several times, curse your salesman, pull your hair out, wish that dealerships would just DIE, and finally end up buying the car for something around $10k off."
+36756,best alcoholic drink,"Long Island Iced Teas! Sooooo much alcohol in them and you cab barely taste it. If you wanna get loose and Crazy, drink about 3 of them and you’ll be having a GREAT night!"
+26240,best politician,"Theodore Roosevelt. 
+
+Despite being staunchly imperialistic, he did a lot of great things for America as a politician, chiefly fighting political and corporate corruption. Even from his days as a police commissioner in the NYPD and stopping crooked/lazy cops. Under his tenure, unions received their first official recognition, and from there on strengthened union movements. His conservationist policies ensured huge amounts of America were protected even today for tourism. Internationally he brokered peace between Japan and Russia and got the Panama Canal built.
+
+His presidency was a huge list of domestic and international successes. And beyond that he was a very eloquent speaker and fitness enthusiast. A very good role model."
+60909,Best comedy show on Netflix,They develop the characters a bit more as the show goes on. Mostly they just keep pushing the characters into the extremes. But the first 2 seasons are fine if you understand that.
+39900,best Chrome extensions,"They're definitely looking out for you. When they include a picture in the email the only way your email client can load that picture is to request it from the server. 
+
+Any request made from your computer to their server has information such as the browser you're using (will most likely be something like ""Chrome"", ""Firefox"", ""Thunderbird"" etc.) as well as your IP, your preferred language etc..
+
+Imagine a picture URL was something like
+
+https://customer-email.domain.org/getPicture?customerId=1234&picture=logo.jpg
+
+The moment your email client tries to load that picture they (whoever owns `customer-email.domain.org`) will know that the customer with ID `1234` wants to load the picture `logo.png` and they'll serve the picture as if it was a normal picture. Obviously they also log all the information that is sent to them, so that they can use the statistics to see how many people opened, where they're from, what language they prefer and other kind of info of the user.
+
+Since your email client doesn't know whether the URL is a real normal picture (without any tracking) or whether the external site tracks and _then_ returns your picture, they tend to not load it unless you've requested it.
+
+From what I can see [gmail now loads all images through their own proxy](https://i.imgur.com/VlcXlI2.png) (`googleusercontent.com`) which at least protects you from sending all your info (such as IP, browser information etc.) since the request comes from Google and not you. Unfortunately the only way that `googleusercontent.com` can load the content of this image is to request it, meaning that from what I can see all gmail emails will automatically report their read information, assuming that the sender has set their email up to track those. The customer would still know that user `1234` requested this image.
+
+It's also why you should be wary of clicking the links in any spam emails you might receive. While you don't type in any of information on the site, they still track that _your_ email clicks on spam links and will 100% send you even more spam in the future. From what I can see with the way gmail currently does it, the spammer with a small hidden picture (`pixel.png`) would be able to see that you at least received it and opened it, though Google might request the picture the moment the email is received (rather than when you actually open it) and hence all the spam sender will see is that all gmail users opened their email the moment they sent them (which is useless as it's false)."
+45864,best trick or treating candy,Snickers and Reese's Peanut Butter Cups
+15600,best tree for the garden,Why hazelnut and why their hybrids?
+18464,best YouTube video,Are you playing you love games with me?
+59924,best perfume,Have you seen what Tibetan Mountain Temple goes for these days on eBay?  $150+. I bought my first bottle for $10.  I used half and went back to buy another bottle but it’d already been discontinued and the price had jumped to $35.  This in the space of 1 year.
+40920,best instrument to play,"Yes and no. While you can make sounds by just pushing on the keys, playing with proper technique (posture, lack of tension, force originating from one's arm rather than fingers, etc.) can be tricky for some people to grasp.
+
+In my opinion, the difficult part is handling all of the information being thrown your way. The notes (so many voices!), dynamics, rhythm, phrasing - sight reading some pieces still gives me a headache, and I've been playing for 14 years.
+
+That said, if your goal is to start making music as quickly as possible regardless of musical complexity, piano is about as easy as it gets. Plus it's great for learning theory!"
+28555,best breakfast foods,"Two eggs over easy, two pieces of toast with some shredded cheddar cheese and a squirt or two of sriacha. Super easy to make, not to mention fast, and pretty balanced and filling 😊"
+41121,best instrument to play,"Same goes for the beach, camping and any other outdoor activity..."
+6843,best iPhone,"I absolutely adored my six and I got it on release day, but my 11 is wonderful"
+27024,best board games,"Woohoo, **Space Base** in the top 100! I am surprised about **Dinosaur Island** being so high up though. The reviews I read seemed kind of meh, which is why I decided against getting it. Was I wrong to skip it?"
+3760,best college for research,"Couldn’t agree more. University rankings based on research tell you nothing about the undergraduate learning experience. And unfortunately, many students and families base their decision off of these rankings."

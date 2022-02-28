@@ -1,0 +1,135 @@
+"May be a little late to comment. It really comes down to personal preference. No one switch is better for gaming. Buy a switch tester and experiment. Also, check out /r/MechanicalKeyboards for keyboard/switch recommendations."
+"Hide your kids, hide your wife."
+Nice! That looks great 💜
+pop os
+So gift-wrap it.
+"The H236HL has impeccable image quality for the price (it'd be hard not to with a glossy IPS display) and reasonable color calibration, but it's not great for fast gaming. Due to high pixel response times, pixel overshoot and PWM backlighting, it exhibits wicked amounts of motion blur in fast-paced FPS like TF2. 
+
+It's also an Acer product, so the QC is sub-par. Mine already has 3-4 bright/dark spots. Not just stuck pixels, but what seems like actual irregularities in the backlight or polarising layer. Very hard to notice unless inspecting the monitor up-close however.
+
+Nonetheless, it's a good all-rounder for the typical asking price of 99 USD, but if you're into competitive CSGO/TF2, it's a no-go."
+"I think Sheraton is also consistently good. For whatever reason, Marriott never appealed to me though."
+Most interesting list on this thread ^
+"I simply expect that `response` contains the response.  Not a transformed version of it ***sometimes and not others*** depending on what external 3rd party servers happen to return at any given point in time for any number of possible reasons.
+
+The server is always sending text. **JSON is still just a text string.** As is XML.   `response` should just be the response... consistently.   HTTP servers don't send ""objects"", they send documents as text **strings** (which is what JSON is) and binary files.
+
+If you want it transformed to something else... i.e. an actual object, it should be in another variable or method.  Or at least make it optional.  The fact that the same variable is used for entirely different purposes and data types depending on external factors is just plain stupid to anybody who cares about their systems to work consistently and reliably.
+
+The way it works currently is unreliable by default without adding extra wrapper code to check what data type it is and writing conditional code to handle both cases.
+
+Assuming that all servers are always going to send back what the dev originally expected is ridiculously naive. And causes unexpected exceptions to be thrown in production simply due to what some external server happens to return that day.  If your code expects an object and gets a string, it's gunna fail.  If your code expects a string and get an object, it's gunna fail.
+
+Bizarre to me that I'm getting so many downvotes and that people think this is sensible default behaviour.  I guess these people must really really hate strictly typed languages if they think using the same variable name for totally different things and types is a good idea.. 
+
+It's retarded enough when functioning as intended, but as a bonus causes all sorts of other problems from related bugs due to this idiotic design decision:  https://github.com/axios/axios/issues?utf8=%E2%9C%93&q=response+object+string
+
+Given all these issues... what's the upside of using the same variable for two entirely different purposes and datatypes, as opposed to simply making it a method, or at least optional?"
+"> You're an introvert but have no problem with social settings and you have a small tight knit group of friends. Your career probably isn't satisfying, but you have enough personal interests/hobbies to keep yourself engaged.
+
+Do you know me? 😂"
+"I don’t. I do t doubt they’ll try but they can’t compete with Ford, gm, Toyota, and ram. Hell, the truck market is extremely brand loyal as the Japanese have discovered the hard way. Rivian is an entirely new brand with NO dealership network or name doesn’t stand a chance."
+"Ive heard some awful things about chevy chase, right from the mouths of some of his co stars such as will farrel and dan ackroyd. Apparently hes stubborn and all around an impossible guy. Hes a hard womanizer, once telling a female writer to give him a handjob backstage. He has even exchanged punches with Bill Murray backstage once. 
+
+Edit: Because I found no evidence of Chase being physical with a woman"
+"The way he was just so succulent and pink, he was asking for it."
+free
+"I wouldn't say that it's the ""best"", but Simple Calendar is nice if you don't need a lot of features.
+
+https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro&hl=en"
+Thanks for the suggestion.  It must be good if that many people are suggesting it.
+I think Xr will perform fine for regular usage till iOS 16 after that maybe it’s gonna be tough. If you aren’t really are a heavy user and just want it for usual phone stuff and some hours of social media and entertainment this phone is great.
+"I gotta be honest, that movie didn’t do it for me. It was way too out of left field and I just didn’t think it made for an enjoyable plot progression. That’s just my personal opinion though and I acknowledge that a lot of people loved it."
+"Because its a hot item right now both debate-wise and with the upcoming movie and scandal around the author's personal beliefs. So it is shown on the top of an old list on the front page.
+
+EDIT: They ranked it above *Dune*. That pisses me off royal."
+Brb getting myself a travel Hi-Point
+"> it seems like everything in New York is either in New York City, or a city called Upstate, NY
+
+Except for Long Island, then you just say your from the island... even though part of NYC is on it."
+"I just took Dutch lessons immediately upon arriving. That's probably one of the reasons I did so well. Can't say I experienced the whole ""getting paid less than Dutch people"" thing, but again, it might have been just because my job was in high demand at the time.
+
+It's interesting how completely different our experiences were. I miss Holland so much I cry sometimes, and I hated Germany. Different strokes for different folks I guess. :)"
+"Steve mould
+
+Exurb1a - really good 
+
+Mystiverse
+
+Matt parker
+
+Summoningsalt
+
+Pursuit of wonder
+
+Kurzegesagt - in a nutshell
+
+Real engineering
+
+Tierzoo
+
+Half as interesting
+
+Legaleagle
+
+Today I found out
+
+Nile blue
+
+Extra credits
+
+Epicurious (especially the ___ expert guesses which brand is more expensive)
+
+Practical engineering
+
+Ted-ed
+
+Simon clark
+
+MinuteEarth
+
+Beau miles
+
+Polygon *exclusively for Brian David Gilbert who is the most enigmatic man alive
+
+Atomic shrimp
+
+Doctor mike
+
+J1mmy (old school runescape)
+
+Settled (osrs again)
+
+Knowledge hub
+
+Life noggin
+
+Lockpickinglawyer
+
+Tibees
+
+Visualpolitik EN
+
+Anika rose
+
+Bill wurtz
+
+Casually explained
+
+Sam o'nella academy
+
+Chubbyemu
+
+Medlife crisis
+
+Simone giertz
+
+Welch labs
+
+Just a few good ones to be listed above..."
+"i honestly dont have a specific monitor in mind cos thats just not how i buy computer stuff. what i do is decide on a set of requirements or specs that i want and a strict maximum budget. then i stay patient while waiting for a good deal (new or used) to come by. i only ever buy parts when i get a good deal which is how i absolutely maximise my budget and it's worked well for me so far since i have the privilege of never needing anything urgently. for now, i'm waiting for any brand of used 27""/34"" ultrawide 1440p 144hz ips/va monitor under rm1100(roughly usd $267). i've seen quite a few listings for rm1200/rm1300 ($292/$316) so i'm sure ill get my chance soon. 
+
+i actually bought my current 1080p 144hz monitor new because the second hand price for these high refresh rate 1080p monitors are actually pretty high so i just got a new one bcos the price difference was negligible. QHD 144hz monitors on the other hand depreciate quite a bit compared to new so i'll be aiming for a used monitor for my next upgrade."
+"If you enjoy having sex wearing a thick condom and blurry glasses I highly recommend any matte screen protectors. I’ve bought icarez twice and also that brand that every iPad YouTube host is sponsored by. 
+
+As for me and my house we will party naked. I write on my iPad for 2-3 meeting hours a day. Then I type using magic keyboard for 3-4 hours and at night I photo edit or watch movies or play games. If I ONLY wrote on my iPad I’d 100% buy an older gen iPad pro and rock a screen muddier."

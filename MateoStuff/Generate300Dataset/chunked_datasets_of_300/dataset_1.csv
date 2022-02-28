@@ -1,0 +1,639 @@
+idx,text
+307,find has the option `-name` for that.
+308,"thanks, I've been piping to grep for too long :P"
+309,Don't tell me you've been `cat file | grep` *ing* all this time as well.
+310,"Nope, I know grep takes a filename but didn't bother to check whether find takes a grep"
+311,"Oh, find can take grep even further than that. For example, the following command will find all python files with the word show under a certain directory:
+
+    find /directory/ -name '*.py' -exec grep show \{\} \+
+
+This works on zsh, different shells might need different escaping"
+312,"Usually, I just structure my directories in a way that I'll know where to find things. But if I really need to search, I'll use find."
+313,fzf AND ripgrep
+314,Pipe ls or find through grep.
+315,combination of ripgrep and find
+316,ls /path/
+317,"Search would be okay but geez, sometimes a drag and drop would just make a hundred times faster. I like the CLI for some things but file management is not one of them."
+319,The find command.
+320,Have you been using [z](https://github.com/rupa/z)? Can't recommend it enough!
+321,Nemo and vifm
+322,"Dired. 
+
+Because it is included with Emacs :). Just kidding. Because it is completely keyboard driven."
+323,"Dired, because Emacs."
+324,"I use dired sometimes but do most operations with  orderless+consult+affe+embark. So slick, so easy, so fast."
+325,Dired ftw
+326,Primarily dired (emacs) but also pcmanfm and CLI when appropriate.
+327,"Dolphin, because plasma !
+For the development stuff I use treemacs inside emacs-doom ."
+328,"I actually like dolphin, it’s pretty nice."
+329,The split windows thing (where you press F3 and you can browse two different locations within the same window) is legit one of my favourite features and now I don't like using file browsers that don't have it.
+330,Midnight commander. You absolutely don't need mouse for this one.
+331,"nemo, as nautilus refused to remember settings per directory..."
+332,"Ranger, i'm just really used to the vim-like keybinds and it's really convenient to just have bookmarks or shortcuts to your mostly used folders, you can also assign scripts to keybinds so you can do pretty much everything with the files you selected with other CLI tools like ffmpeg or imagemagick.  
+
+The most common criticism of Ranger it's the speed since it's written in Python, but it really doesn't bother me, i guess it can become annoying if you are using it on folders with thousands of files on a hard drive or something.  
+
+I still have pcmanfm installed as a gui file manager but i barely use it.  
+
+Funnily enough i find the Linux File managers to be more usable than the windows one which didn't even have tabs i think? Maybe that changes with Windows 11."
+333,For windows there is file manager ++ or something like that
+334,"I notice on my work laptop, ranger has a ridiculous 2s startup time. So I resorted to lf, which is inspired by ranger and much faster"
+335,"Ever tried nnn? It's also partially inspired by ranger, but is written in C (lf is written in Go). It's also [way faster](https://github.com/jarun/nnn/wiki/Performance) than ranger. So fast, in fact, that it can list a directory [2 times faster than `ls`](https://github.com/jarun/nnn/wiki/Performance#nnn-vs-ls)."
+336,"I did try it, but couldn't figure out the preview window of folders and files. I didn't try very hard though. And also nnn is only configurable with envvars, and that is pretty tedious as well. Lf was the easier choice, but might check out nnn again soon!"
+337,"Mostly the terminal, but sometimes it's easier to use a graphic interface and then my goto is PCManFM"
+338,"I use pcmanfm-qt, because it's DE-independent and I don't use an specific DE.
+
+And, also, as a terminal file manager, I use ranger. Really powerful!"
+339,"I just use plain old pcmanfm.  I never got the hang of qt, but I think I need to start learning qt, maybe one day it will take over GTK."
+340,"Ranger in the terminal, Thunar if I'm moving a lot of files, like copying images from my camera."
+341,Nothing beats dired - one more reason to not leave emacs for anything.
+342,Ranger like in POWER RANGERS!!!
+343,dired
+344,Emacs dired-mode. And I use emacs for almost everything except browser and some graphical suites like gimp or ardour.
+345,GUI: Doublecmd CLI: mc
+346,"One file manager? What is this Windows? 
+
+Install 3, like you know you should. 
+
+I use Nautilus when I run on systems with reasonable ram because everything just works. I am also too terrified by the idea of deleting Nautilus from Gnome to even try it. 
+
+I use pcmanFM when I run on more limited systems. 
+
+And finally the terminal, because sometimes you need that.
+
+Very easy."
+347,"Totally, I like this!
+
+* nnn for navigating a tree to see details about files, basically an interactive ls because (I haven't learned it properly) 
+
+* terminal when I remember where everything is and I have to so simple operations
+
+* Thunar + catfish when I need more visual feedback of the files I'm working with, if I need to operate over many files that do not share a common name or when filenames contain special characters that need to be scaped by the terminal. Also for whenever I need drag and drop"
+348,"You can use dragon for the drag'n'drop functionality. So with  vifm+dragon you don't even need any kind of graphical file manager. Also, I think that catfish can be easily replaced by fzf."
+349,"I tried dragon in the past and forgot about it after a reinstall, but I'll try it again. And I've heard wonders about fzf, I used exclusively for vim but replaced it for the built-in file search functionality, I'm curious to learn to use it more generally. Thanks for the suggestions."
+350,Nemo. I like having a built-in terminal
+351,"Krusader almost exclusively. I am trying to make it work as close as possible to total commander, but I have a long ways to go."
+352,I had more luck getting Double Commander to be like TotalCommander. But I also had a very customized tcmd setup so my needs may be different than yours.
+353,"When some stupid program insists on using a GUI, pcmanfm.
+
+Otherwise, I just stick to the tried-and-true CLI methods."
+354,"KDE's `Dolphin` 'cause I like it, works fine for my needs and... Well... It's part of KDE.
+
+I heavily use `F3` and `F4` shortcuts/features and I like that way."
+355,"Dolphin mostly because of the feature which allows you to open a terminal panel in the folder you are in. I use it all the time to do quick operations on file or git commands.
+
+Also, being  part KDE, you can customize the toolbar and all that, which is a good thing."
+356,"Ranger. Its fast and has vim bindings
+
+Idgaf if its python, when the file and directory open in less than a few hundred milliseconds i consider it fast"
+357,"I use [broot](https://github.com/Canop/broot) for getting overviews of directories and the like. Everything else is [ripgrep](https://github.com/BurntSushi/ripgrep), \`rm\`, \`cp\`, etc."
+358,"Ranger is a beast, vim like commands"
+359,"Nemo. 
+
+Supports SMB/NFS/SFTP mounts with an addon, can split in half (F3) to easily compare, supports tabs, open folders as root, and even open my terminal to the folder I was currently in (You can set the default terminal that opens). 
+
+I've used it for years, never needed anything else."
+360,"1. Mostly terminal stuff for simple tasks. 
+2. Thunar for more common drag & drop operations. 
+3. Double Commander for more ""complex"" tasks."
+361,Emacs and dired
+366,Dired.
+363,Ranger but I wish there was something like it not written in python
+364,"There is [joshuto](https://github.com/kamiyaa/joshuto), written in Rust. Not sure if it is fully there yet.."
+365,"Nemo, Thunar and MC"
+367,The terminal.
+368,Using Nemo because it was the first one I got to work
+369,Nemo is basically Nautilus if it were good
+370,"I use cd, ls, find, cat, and rm"
+371,"I'm using ranger at the moment because I wanted something that was entirely keyboard based. I'm not sure how I feel about yet, but that's heavily related to the fact that I don't know all the hotkeys yet :P
+
+https://wiki.archlinux.org/title/ranger"
+372,"I use nnn to navigate and then use separate utilities (find, mv, cp, etc) for other functions."
+373,"For GUI : Dolphin, although it causes problems with android phones sometimes.
+
+For CLI : nnn"
+374,"SpaceFM, I never see *anyone* mention this great file manager. Otherwise just CLI shiet"
+375,Nnn
+376,"I'm currently using KDE Plasma, so Dolphin. When I was fiddling around with i3wm, I used ranger."
+377,"Dolphin for the GUI, nvim-tree from CLI."
+378,I use... the terminal.  I can't say I have any complaints lol.
+379,Dolphin because it comes with plasma. Honorable mention :  Thunar; Thunar has the best GUI bulk rename utility I've ever seen
+380,Went from dolphin to thunar to pcmanfm.. Just need something that I can get to work and not fancy
+381,ranger - because it's very easy to extend with Python.
+69400,yes
+383,I have ranger nnn and vifm installed but to be honest I mostly use Pcmanfm because when I don't need to do something that is easier through GUI I just navigate through ls and cd.
+385,fff - fucking fast file
+386,"I like pcmanfm in my GUI. For a TUI, ranger will do just fine."
+387,i use pcmanfm I like it alot.
+388,i use ls and cd
+389,"Dolphin, because I'm a monster that runs kde."
+390,"Pcmanfm-qt, it works for my minimal Wayland setup with hikari... it reminds me of the good old-days of LXDE. I prefer command line operation tbh."
+392,Was on Nautilus for over 10 years but shifted to dolphin recently
+393,"`cp`, `mkdir -p`, `rm -rf` and other shell commands (mostly). for lazy tasks, pcmanfm"
+394,"I got `vifm` and set it up when I switched to Arch, but nowadays I do almost all of my file management directly in the terminal."
+395,"```nnn``` evil keys by default and configurable by environment variables
+
+```xplr``` extensible by lua programming
+
+also there's always your interactive shell + aliases"
+396,"Thunar. Havent looked into terminal file managers and im looking for some to try, what are some good suggestions?"
+397,I don't think there's a single good one. Finder on Mac has columns. Ranger has them but is text-only.
+398,"Dolphin, but prefer mc/micro."
+399,"Dired within Emacs, and I'm in Emacs all the time anyway. I've tried most of the others mentioned here and I just prefer it. I'd rather use one thing, and if it lacks a feature I can just write a bit of elisp."
+400,Dolphin or sometimes just the terminal for moving/copying stuff.
+401,Thunar cause it's the default in archcraft
+402,"pcmanfm is great but its thumbnails were too inconsistent for me to keep it around. I moved to thunar recently and tbh it feels like pcmanfm but more plugin support and extra things I can opt in/out of as I need them. I don't really want to code my own config for a file manager, else I'll just open ranger or vifm"
+403,Thunar. It's lightweight and comes default with xfce. I'm not into terminal based file managers.
+404,A more keyboard/terminal oriented file manager would be… the terminal? I usually do everything in the terminal. It is hard to imagine a more convenient way.
+405,"Thunar, because I am on xfce. Btw, I use Void :)"
+406,Thunar ftw
+407,i use PCManFM cause it was the one that poped up in my mind first when setting up my install.
+408,ls and cd
+409,"For cli, mc is the gold standard."
+410,I mainly navigate via command line but if i use a file manager i use thunar or ranger. I also have nnn installed and i love that it has tabs but i never really use it.
+411,"ranger also has tabs. maybe you already knew that, but it took me over a year of use to find out, so"
+412,Mostly the CLI but sometimes I use pcmanfm for convenience. It's nice and light and does all I need.
+413,mostly midnight commander and sometimes caja because I'm on mate and it is lightweight enough and native for mate. Can filezilla be considered as file manager? :)
+414,"Depends on what I’m doing. If I’m just moving a few files or opening images Thunar is my favorite for various reasons, mostly the defaults related to my uses. Nothing important or features that cannot be used on others. 
+
+CLI for all else."
+415,"I mostly navigate in terminal using cd and ll (ls -lvh IIRC). Drag and drop files through dragon (with a convenient ddad alias because in arch it is ""dragon-drag-and-drop""). If I need some more power, I use ranger. It's quite handy with a plugin for mounting through udisksctl."
+416,"Thunar, because is easily customisable and get the job done"
+417,Vim and thunar.
+418,I currently use dolphin (kind of) but only for opening appimages. Every single other need you could have for a file manager is achieved faster with just the terminal.
+419,"ls with search tools like find, which, locate, fzf, grep, awk, sed"
+420,"I have Thunar since it's part of my xfce setup, but I only use it as an alternative for when I'm in a mouse-heavy workflow. However, I've found it to work pretty well using just the keyboard sometimes.  
+As my main file manager, I really like ""lf"". It's similar to Ranger and other terminal-based, miller column, vim-like, file managers, but it's more minimalist by default and was much faster than Ranger in my experience. It's deliberately lacking some features (like tabs) that can be handled better in other ways (I personally use i3 tabbed windows.) It's very customisable but the project wiki has lots of good documentation and easy tips to expand functionality, so I think it's good even for a beginner. Ranger and other more complex file managers confused me when I first tried them because they just covered too much ground, whereas lf starts more sane and simple, allowing you to build it up to your own preferences."
+421,ranger or nnn depending on moon phase/air pressure/having a finger resting on either's starting letter
+422,`pcmanfm` just because it is the smallest one in terms of dependencies and I don't need any fancy features.
+423,"I use just the terminal (with no file manager, unless you can call coreutils like cd, ls, cp, mv, ... as a file manager), and [dragon](https://github.com/mwh/dragon) for drag and drop action, for which opening a full file manager is too much lol"
+424,"When I use a terminal based file-manager, my go-to is ranger."
+425,pcmanfm still rocks.
+426,"When I do have a DE, I use whatever the DE offers. If not, it's ranger. With ranger, it's pretty simple. It does everything you'd typically need (file and image previews, easy search, plenty of customization for other things too)"
+427,"If using a full DE, whatever file manager comes with it.
+
+If using a WM, pcmanfm and ranger. Always good to have one GUI and one CLI just in case."
+428,Pcmanfm is my file manager of choice. Just works well and does not come with a ton of dependencies as many others do.
+429,"When I am not in a terminal I use nautilus. I have been using bspwm as my window manager for a couple years, though. Looking for recommendations if someone has any."
+430,Gnome files because it's there. I don't have a real reason ☺️
+431,"The terminal, and sometimes thunar."
+432,Also mainly use nautilus. Sometimes thunar for renaming.
+433,Dolphin cuz it's KDE's default and it's very feature rich
+434,"Thunar. It's what came with xfce when I first installed endeavour and I was too lazy to install anything else on my desktop's arch install. Pretty decent, nothing too fancy, but it gets the job done."
+435,"For me it's either dolphin or coreutils (cd, ls, find, etc.)."
+436,"Thunar + PCManFM
+
+I'll switch back to just Thunar once [this bug](https://gitlab.xfce.org/xfce/thunar/-/issues/451) gets resolved."
+437,LF cus I like it and I've got my config all set up.
+438,"I do most of my file management in the terminal, just cd-ing around. But it I want a visual of what I'm doing or moving a lot of different files around I use Thunar.
+
+I keep Ranger installed, but I can't figure it out well enough to make it more effective than just using the terminal by itself."
+439,ranger for the terminal (although I will probably switch to lf) pcmanfm for the gui
+440,"Dolphin..because it's default in KDE, and one of the most versatile graphical filemanagers out there, at least to my knowledge."
+441,"I'm using Vifm + dragon + ueberzug and I have ditched any graphical file-manager since dragon manage the drag'n'drop functionality. It's blazing fast and reliable. Going  CLI-only is good as well, zsh + fasd (jumping functionality) is ideal in this case."
+442,"mc because I've been using it and precursors for many, many years (xtree bitches). The last few years I also use ranger a good bit as well, it's fast and very customizable."
+443,"pcmanfm. It's familiar to me, easy to use, easy to use with ssh. I also use mc from time to time whenever I'm terminal heavy."
+444,LF. Looks like ranger but much better imo
+445,Dolphine or Nautilus
+446,I'm so happy with ranger though.
+447,We understand a single utility cannot be everyone's cup of tea. Respect that.
+449,"I started writing `nnn` because personally I found ranger's changing/shifting panes very confusing. The other compelling reason was it was running very slow on my Raspberry Pi. `nnn` performs extremely well both on the Pi and Termux.
+
+
+`nnn` also has the `du` and `navigate-as-you-type` modes.
+
+> i read your Readme on github
+
+Then you must have read the stats in https://github.com/jarun/nnn#performance. Did you notice the difference in resident memory usage?
+
+> ranger works well with vim and mutt.
+
+`nnn` works great on any DE. That's the goal - not to sacrifice the comfort of the DE and having the convenience of the terminal.
+
+> but ranger is not as loud as nnn
+
+I don't know about that but seeing your consistently negative/outright irrelevant replies on almost every thread in this post one would mistake your level of loudness as _trolling_. Probably you love ranger (and I am not competing, the goals are different) but so far I didn't read a single technical reason from you why you have to decry `nnn`."
+450,ranger is very slow
+452,"it's slow enough, and I enjoy tiny ultra responsive console things like nnn"
+453,Try it on Raspberry Pi or Termux with 50K files. And then try to sort them by size.
+454,constraint is the root of good things
+455,cd on exit isn't working for me with osx mohave/python 3.7
+456,"The functionality depends on your shell. Python is not related.
+
+I assume you have followed the instructions [here](https://github.com/jarun/nnn#cd-on-quit).
+
+Please raise a bug so we can take a look."
+457,"I made an issue on your GitHub. It didn't work with zsh or bash, and yes I used the appropriate scripts :-/"
+458,I have responded to your issue already and even closed it because there was no response from you.
+459,is it working on your windows machine?
+460,"In fact it works quite well on Cygwin, Linux subsystem for Windows 10, Raspberry Pi and Termux."
+461,Noice
+462,Danke! ;)
+463,This looks quite interesting. Probably going to start using it on my Pi since ranger has been a little slow on it.
+464,My use case exactly. And it performs very well. I have it on my Android device (Termux) too.
+465,How do you change nnn key bindins?
+466,You can't without re-compiling.
+467,That's a bit of a downer because I'm so used to ctrl-F/ctrl-B for forwards and backwards in vi.
+468,"If you take a look at `nnn` helpscreen you'ld probably understand why we removed the option to customize. Instead of spending time in feature development, we were spending more time on debugging user keybinds. :)"
+469,"Thanks for sharing, jarun/sablal. It's really appreciated that you write so much nice finished CLI tools"
+470,"Thank you!
+
+To be honest, there's a personal drive too. All my utilities strive to be thin and performant. I am a heavy cmdline user myself (thanks to my profession) and I prefer to spend the amount of time I am at the system as productively as possible."
+471,"Glad to see your efforts on improving `nnn`. I use it a lot, it's a godsend on RasPi-like SBCs. But I found also good usage for it on my main Linux PCs.
+
+For everybody pushing `ranger`: I use `mc` and `nnn`, each for different purposes. A test of `ranger` didn't give a good impression for me - too confusing, kind of in between `mc` and `nnn`, but not as good as either.
+
+You should try `nnn`, and also the other utilities /u/sablal wrote. He has a knack for writing useful and lean apps. `nnn` is less than 30kB for the binary, with a ton of features. In contrast, look at `Etcher`, which clocks in at 100MB as an AppImage (only available Linux option) and doesn't anything else besides writing an image to disk and verifying it.
+
+I am disgusted by this trend and wish there would be more like `nnn`, not like `Etcher`."
+472,Thank you for the appreciation. Personally I use `nnn` for all my workflows so I have to keep it well-maintained. ;) On my desktop I use Terminator which gives me the dual pane/multi-tab functionality.
+473,Looks good. Jarun's googler is a good project. Trying it out.
+73699,Thank you!
+475,"I tried it a few bit. Look nice but, we dont have multi tab/pane? I mean I love to navigate a bit from here and there from multi folder, and keep that tab to comeback later. ~~I'm now using tmux to maintain 2 pane for 2 nnn~~ (read README). Is nnn intended to do that way?
+
+Or my workflow is not sufficient? 
+
+copy, move, delete files is took much time compare to finder, but why would we have to do that instead just have a binding to remove the files, like cd xx && rm file?
+
+Sorry if I complain too much, I want to try something different than current finder (Mac). Moving from graphic to cli is touch, just curious why those simple task is not being in consideration.
+
+Edit: I want config NNN_DE_FILE_MANAGER for Osx, what should I fill in
+
+Thanks"
+476,"PS https://github.com/jarun/nnn/wiki/nnn-design-considerations and take a call if `nnn` suits your workflow and requirements.
+> copy, move, delete files is took much time compare to finder
+
+Update: `nnn` has keys to copy, paste and move now.
+
+I don't think so. The `nnn` way is to copy the file paths, press `!` and run `rm (ncp) -rvf` (refer to the readme for _ncp_). So you are pressing an extra `!`. The reasons why we prefer this is in the link above.
+
+> but why would we have to do that instead just have a binding to remove the files, like cd xx && rm file?
+
+Exactly! You can do it of your own volition. `nnn` supports as many scripts as you need.
+
+> I want config NNN_DE_FILE_MANAGER for Osx, what should I fill in
+
+Set it to whatever is your default file manager in OS X. But if you _really_ want to go with it, just try `nnn` solo for a day or two."
+477,"Never heard of it, but looks interesting. Why I didn't find it when I was looking for a good file manager? I went with ranger."
+478,"> Why I didn't find it when I was looking for a good file manager?
+
+It's much younger than `ranger`. Give it a try!"
+479,okay. but why? it costs time trying new apps.
+480,"lobby politics.
+today i read first time about nnn. had lunch and a coffee'fe. 
+maybe it's because i configured ranger to my needs. maybe because i didn't read everything. 
+maybe tomorrow. maybe"
+481,"Just another update. I took the plunge and installed MS Word / MS OneNote. The pressure sensitivity actually works great. They are useless for manipulating PDFs, however - Word ""converts"" the PDF via some online service... into a buggy mess. OneNote imports it OK, but can't export it right.
+
+So I still have no solution for how to use this tablet at all. :-("
+482,Try OpenBoard ([https://openboard.ch/index.en.html](https://openboard.ch/index.en.html)). It works really well: you can easily import/export pdfs and the pressure sensitivity is good.
+483,"Oh wow, thanks so much man. That does indeed do both of those. Bit of a weird interface but it's lightweight, responsive, and does everything I need, so I can get used to one or two quirks. Can't believe how long it took me to find a program to do this - I even asked Wacom support the other day and they had no idea - so thanks again for the help! Problem solved :-)"
+484,"Notabilty, which will also work on (and sync to) iOS devices, should You have any and choose to use it there, too."
+485,"Unfortunately, Notability [doesn't support](https://support.gingerlabs.com/hc/en-us/articles/205724867-Writing-with-Bluetooth-Styluses) pressure sensitivity, except with the Apple Pencil (there was some conflicting info on this, so, I bought and tried it, but it doesn't work)."
+486,"Oh You're absolutely right! I was even beta-testing their latest Mac version and didn't notice. But now that You pointed that out, I wrote the beta team and suggested they added proper support for Wacom devices."
+487,"Oh, wow, thank you very much! In that case, I'll keep an eye on Notability and hope that they do add that feature in the future."
+488,"(for reference, i'm using the old wacom intuos P S tablet) - I had the same question a few days ago, since I was trying to use goodnotes, but writing with a tablet plugged into my mac was godawful (I could barely write words at all, they would just show up as dots, but my tablet wrote fine in other apps like onenote.)
+
+However, I just realized that goodnotes updated their mac app like six days ago, and the writing is working just like other annotating apps now! plus, I noticed mine works with pressure sensitivity."
+489,"Thanks! That's some lucky timing...!
+
+They've updated the [page I linked in my OP](https://support.goodnotes.com/hc/en-us/articles/360000788955) also, but that seems to refer to iOS. I don't see anything in the patch notes for MacOS but I'll give it another shot when I have time, and update back here to confirm. Thanks again :-)"
+490,Hey! can I ask you something but not answer your question?  Why did you decide on WACOM and not a tablet? I am researching the best way to annotate in PDF and I came across WACOM. Do you think reading on the tablet doesn't make much difference?
+491,"Hi, I saw this post while googling for annotating pdfs with a Wacom Intuos S. My aim is the same as yours, making notes while reading papers and some scribbling with formulas/ideas. Did you eventually manage to make it work with a pdf viewer?"
+492,"Hi, sadly and somewhat ridiculously no, I gave up and got rid of the tablet.
+
+I tried [OpenBoard](https://openboard.ch/index.en.html) for a while but the UI was just too awkward to use efficiently.
+
+However, according to this [issue on GitHub](https://github.com/xournalpp/xournalpp/issues/2815#event-5064831912) for [Xournal++](https://xournalpp.github.io/), they may have fixed the problem  with pressure sensitivity, so that may be a good one for you to try now. Seemed like a decent app otherwise, when I tried it."
+493,"Thank you, that's sad indeed...I don't want to spend 500 on a samsung/apple tablet just to annotate papers!"
+494,Stupid question - why are you using the Wacom is you have an iPad?
+495,"* My university distributed Wacom tablets. I didn't seek it out
+
+* If I could use it to annotate PDFs I would slightly prefer it to the iPad for use during Zoom lectures, because I wouldn't have to juggle an additional screen, or deal with the various issues I've encountered with having to continually switch host back and forth to the iPad or problems with Airplay. I also wouldn't have to worry about accidentally marking up my primary lecture material on my iPad."
+496,"What sort of problems with airplay have you been having? (Not a skeptic, genuine question) as I've seen many others have a myriad of issues with iPads and zoom."
+497,"Actually so far it works OK with Zoom -- it seems like they have put special effort into making that work fairly well. My general worry with Airplay stems from it not working with anything that doesn't specifically support it, like Google meets."
+498,So you can't join the Google meet with your iPad and then present your screen from there?
+499,"You can do that -- that is my default setup for giving lectures. But I would slightly prefer, if possible, a solution that doesn't require me to log in to multiple zoom accounts and remember which hosting, make sure audio/video is on/off on the right one, etc. The whole thing seems kind of stupid and clunky. It would be nice to just have a stylus be able to mark up PDFs on my single screen share."
+500,Interesting 🤔 I've never had to log into multiple zoom accounts to get this done. Have you encountered problems before?
+501,"Sorry for maybe not being clear. I *could* just use my iPad alone logged into zoom, but then I don't have easy access to the zoom controls and students, chat window, email, etc, that I have on my Desktop and can easily monitor while lecturing, and where I can fast switch between applications. My paradigm is even more clunky if I try to just use the iPad alone, than logging both into my desktop and iPad."
+502,"I know you said you don't like there multiple screens but honestly it's so worth it.
+
+I lecture from my iPad and keep track of everything from my desktop.
+
+And Zoom let's one computer and one tablet log in with the same account. I usually start the meeting on my desktop then join with my iPad. Since I'm using the same Zoom account on both it automatically makes me a co-host when the iPad joins."
+503,"Oh no way, using a tablet alone, no way. My setup is to log into zoom on laptop first, then tablet-> screenshare. Haven't had any issues since March personally.. (Not with zoom... But dear God. My wifi, I taught at 08:00 and nearly every morning at ~07:45 the internet would die. (As well as other points in the day.) It was almost comedic after a while.)"
+504,Do you use an iPad? My searching has only yielded screensharing in the other direction (from desktop to iPad). How do you share your iPad screen to your desktop mac?
+505,"Can you export the PDF to OneNote? 
+One note is designed for pen functionality. It would be easier to use.
+
+Edit:
+That's what I do with my lecture.
+(The PDF contains 110 pages in total)"
+506,"Thanks for the advice! So far it works better than the other solutions I've tried -- for example the eraser works! (I'm not sure yet how well the import PDF works, I had to ""insert printout"", but it seemed to get the job done)"
+507,"There is full screen, but I can't find a presentation mode for OneNote. For your lectures does it still show the editing ribbon, etc, to your students?"
+508,"I typically do my lecture asynchronously.
+
+It looks like this view (OneNote screenshot)
+
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUgm9G2nZkgBfCzFucT32sL58JviP7Tpwxnw&usqp=CAU
+
+
+I typically minimize the tabs.
+
+If I have the time, on occasion, I crop the video with an editing software."
+509,"OK. Some software has a presentation mode (Powerpoint, Acrobat), that only shows the slides. I don't know if those modes ever work for asynchronous video production."
+510,I'll message you with some videos I made for asynchronous lecture
+511,I used Wacom and preview in Mac. If you open your pdf in preview your Wacom should be supported for markup.
+512,"It supports the minimum of using the pen as a mouse, which all applications support. But, for example, I can't use the buttons on the pen to erase or change color etc."
+513,"If you want full support, there’s the adobe suite, but nothing free comes to mind unfortunately. If you install the Wacom driver you should be able to set the hot buttons on the tablet to your preference though (such as color or stroke width) and that should work for most applications."
+514,"I have the driver, but all it does as far as I can tell is set the buttons to various possible keyboard or mouse inputs, so if the application requires a certain button to be pressed (in order to, for example, erase), then there is no way to set the hot buttons to get the pen to erase, for example."
+515,"I use a Wacom Intuos with Ubuntu\* to correct/grade student homework which is submitted as a pdf.
+
+&#x200B;
+
+I use xournal ([http://xournal.sourceforge.net/](http://xournal.sourceforge.net/)).  You can set one of the pen buttons to activate the eraser while your holding it.  
+
+There is xournal++ ([https://github.com/xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)) which might have the same features.
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+\*i originally had a problem with the intuos where half the tablet would be used and just weird screen behavior.  it took a long time to troubleshoot so i want to mention here in case anyone had the same problem and found their way here: the intuos can work with android phones and when plugged into a phone goes into 'android mode'.  when you plug an intuos into a computer using ubuntu, it might think it's a phone and go into android mode.  to switch out of android mode, hold the two outer buttons on the tablet until the indicator light on the tablet gets brighter (like 2 or 3 seconds)."
+516,"This is more for windows machines, but I've found that Microsoft applications do a good job with pen/annotation.
+
+Powerpoint is one example, but like you said it doesn't work for pdfs.
+
+For PDFs, I use the microsoft edge browser.  You open the pdf inside edge, you'll get a menu across the top that allows you to choose color and thickness of lines."
+517,"I'm having the same issue. The stylus works really well with the art software included, but it's not possible to open or import .pdf files in this software. Using the stylus with Mac preview seems laggy. I have an old version of Adobe Acrobat Professional, but it crashes whenever I try to change the pencil colour from red. The free Adobe program seems to just do signatures, not general markup. I just downloaded a trial of PDF Expert and it seems to work well."
+518,Someone in this thread suggested importing the PDF into OneNote. So far it is working better than the other solutions I've tried. I haven't tried PDF Expert.
+519,"We are using an OWL 360-view camera set up with Canvas conferences.  There are Wacom boards placed in some of the classrooms and I've tried using Microsoft Whiteboard with it and it's been the best option in my opinion; I have similar opinions as to what you've mentioned.  You can upload PDF's of slides, but it arranges them all on a grid so you have to zoom in to access any one slide that you want to annotate.  That's the frustrating part of MS Whiteboard."
+520,OneNote. And just use microsoft class notebook. You are welcome.
+521,Have you tried GoodNotes?
+522,I have the same question.
+523,"Be aware of my other reply to the post where i write about xournal++.
+
+New website of them
+https://xournalpp.github.io/"
+524,"It's built into Preview, it's just called 'Manage Signature' - in signature mode, you can write freehand on the trackpad."
+525,"That may work well for, well, signing things, but not for marking up an entire PDF. Especially since it requires I use the trackpad, as apposed to my drawing tablet. Doing things maths with that wouldn’t be feasible."
+526,Have you tried Kami? My kid’s math teacher is using it for virtual learning. She posts pdf worksheets that the kids can modify and submit back to her. The interface looks like it has the typical annotation tools. Maybe it would work for you?
+527,GoodNotes.
+528,"Did you hear of xournal++ ?
+Its free software and avaiable also for MacOS
+
+https://xournalpp.github.io/
+
+Thats the new site, so for more information you could use their github page as described in the link:)
+
+I want to mention, that i use xournal++ with two graphic tables (one from XP Pen and one Wacom) with Windows and with GNU/Linux it works just great. But i never tried xournal++ with MacOS. Simply because i dont have a Mac yet :)"
+529,"I just took a look at it (I wanna try *everything free* before shelling out cash just for school).
+
+It looks promising, but there are some obvious issues. I *have* to run it via terminal, because MacOS requires apps request permissions to access things like the desktop, and even after granting full disk access, it doesn't know what to do with itself.
+
+It *can* markup PDFs, and can also export (yes!). It is a decent bit laggy when using my drawing tablet, which is annoying, but I think I can manage.
+
+Thank you for the suggestion!
+
+\[Edit\]
+
+If I move the file to my `~/Public` folder, and don't run it as root, drawing is *much* better. I'll just have to see if I can fix the folder access issue, haha."
+530,"Thanks for the information:)
+As i mentioned, unfortunately i can not test xournal++ with MacOS.
+
+Your idea with running it without root looks promising. Did you think to give feedback on their github page (issues)? Maybe they can make the app better with your input:)
+
+Thanks again and have fun working with this app!"
+531,"Notability.. one time purchase unlike good notes. With good notes, you have to pay when their next version comes out"
+532,"After trying a free options, I decided to try this one since it was cheap. It works wonderfully! Thanks for the suggestion."
+533,Glad I could help!
+534,Drawboard PDF
+535,"I use the app Microsoft Office Lens to scan paper notes my professor gives me and convert the PDF into a word doc. I then type up additional notes digitally. I know this isn’t quite what you’re looking for, but They have a bunch of options so you might want to take a look to see if something will work for you."
+536,"If it's a Mac, PDF Expert"
+537,"If you are on Windows, try PDF XChange Editor. Free version has quite a lot of editing features. I absolutely love it!
+For android - xodo pdf"
+538,"Only on Reddit one stumbles upon gems like this (at least it seems like it, I'm installing it now)"
+539,"First of all: Yes. The Adobe Reader is terrible for your use-case. The software itself is so bloated and unresponsive that I don't even install it on my systems anymore after a fresh install.
+
+The good news is, though:
+You have several choices, depending on your budget and the amount of features you want to use.
+
+---
+My personal preference:
+[PDF Annotator](https://www.pdfannotator.com/en/) is the ""swiss army knife"": many features, highly customizable, but the license is quite expensive for normal end-users: 70€ (normal price) or 40€ for student (discount) licenses. Back when I went to university, I bought that software with the student discount and not once regretted it. It truly is some great piece of software, if you want or need a lot of features. Besides the pen-input itself (for highlighting/annotations), it has some nifty features like adding blank pages as a work-sheet for you to draw on, rotating single pages or merging/adding/removing single pages or whole documents. I've been regularly using PDF annotator to just merge several PDF documents into one file because it's so handy in that regard.
+
+BUT - there's two potential downsides to that software:
+
+1) With a heavy amount of features also comes some ""bloat"": Compared to other light-weight applications (like Sumatra or Foxit Reader), PDF Annotator feels quite ""slow"". Due to this I'm only using it when I know that I'll need to annotate (or otherwise edit) something in a PDF. If I only want to read stuff, the ""faster"" PDF apps are my go-to.
+
+2) You need to be aware about their pricing model before you buy. I was quite upset when I was faced with their price-model for major upgrades (e.g. when there's big version changes, jumping from v5 to v6). 
+I bought PDF Annotator Version 4 back in 2013, upgraded it once to version 5 (for free during the first 2 years if you have the ""upgrade assurance"") and have been using it since. 
+BUT: If I wanted to upgrade to the newest Version now (v7), I'd have to shell out another 50€, which honestly sucks. The ""Upgrade Assurance"" for 'free' upgrades makes it a bit cheaper (17,50€ per year), but it's still... not ideal.
+
+I totally get that developing niche-software is expensive, but that's a lot of money for a software upgrade and in some cases almost prohibitively expensive for some students.
+
+---
+[Xodo](https://www.xodo.com/) PDF is more light-weight and also free for personal use. If you don't need a lot of features, Xodo should be alright for working with a stylus.
+
+[Drawboard PDF](https://www.drawboard.com/) emphasizes the workflow with a pen/stylus within PDF files. It was a one-time purchase once, but recently they went with a ""PRO"" subscription model (24,99€/year) on top of that. Haven't used the pro features before, so I can't really give a recommendation for those, but it's definitely on the cheaper end of ""feature rich"" PDF-annotation-software.
+
+---
+
+If you need more than a simple PDF editor, you might want to take a look at the feature-set of [Qiqqa](http://www.qiqqa.com/About/Features) (open source). It's a research/reference manager similar to Mendeley/Zotero, but has an inbuilt pdf viewer with editing/annotation capabilities. 
+
+I don't know how solid the pen-support in that software is (especially compared to Drawboard/PDF Annotator) but you might want to give it a try if you can use the additional features of that software. There's some [additional user-reviews for it on AlternativeTo](https://alternativeto.net/software/qiqqa/).
+
+---
+
+So yeah, that's my list. I've been trying to stay as ""paperless"" as possible for 10 years now and those are the PDF applications that I'd take a closer look at now. Sadly, most of the other PDF applications are geared towards businesses (and they show in their pricing that they really don't care or bother with ""normal"" end-users)."
+540,"That's pretty in-depth 
+
+Going to try the free one first and see if it is good enough"
+541,"Update
+
+Xodo doesn't work
+
+It just locks when pressing the pen and when lifting the pen it keep drawing"
+542,"What system/device are you using? That sounds like the screen doesn't detect your pen lift-off in time (which sometimes happened to me when palm rejection wasn't working properly on my windows tablet, basically forcing me to do a restart).
+
+Since you wrote, I got curious and also gave Xodo another go using a Wacom One with Windows 10: Both the highlight-marker and the colored pens worked flawless for me.
+
+After that I also tried out the pencil annotation function with [Foxit Reader](https://en.wikipedia.org/wiki/Foxit_Software#Foxit_Reader) (the free version), which worked fine, but I don't really dig their pen-implementation. Seems a tad too basic and clunky for my taste. (It basically shows you the line with a slight delay while you're drawing, then re-draws it completely when you lift off the pen. It works, but feels ""off"".)"
+543,"Have you tried using Microsoft Edge? I know it sounds nuts, but their PDF reader is solid."
+544,You mean the internet browser?
+545,"Yeah, they have a bunch of annotation tools. I work in the PDF industry, I find it pretty impressive what they give for free."
+546,"Have you taken a look at One Note from Microsoft? You can give your students the unfilled pdf and then use One Note to write on it, streaming or recording your session."
+547,"Any good pdf reader will have annotation tools. I use PDF X-Change, it works for me. You can probably find a good pdf reader app that allows annotations, for free"
+548,"It depenc a bit on what you are looking for if you just want to annotate PDF's you want something different then when you want to take meeting notes or lecture notes. (IMHO)
+
+[OneNote](https://www.microsoft.com/store/apps/9wzdncrfhvjl) (Free)
+
+A full on notebook replacement:
+
++ + Cross device/ Platform sync
++ + Optimized for the New Surface Pen
++ + Endless page good when the Notes get longer and not just fill in on the PDF
+-  - Highlighting dose not stay on text
+- - Exporting is more difficult since the page dose not stay with standard sizes
+
+[Drawboard PDF](https://www.microsoft.com/store/apps/9wzdncrfhwqt) ($9.99 right now on sell for $6.99)
+
+A perfect PDF annotation App.
+
+
++ + Highlighting stays on the text
++ + Pages stay in the size of the original document
++ - Not very many non PDF features
++ - Not very good for organizing documents and keeping them in one place
+
+[Xodo PDF Reader & Editor](https://www.microsoft.com/store/apps/9wzdncrdjxp4) (Free)
+
+I can not say much about this one since I have not used it yet.
+
+
+I personally use OneNote to keep my Notes organized, school, work, life. I have Notebooks for everything. Each Semester I make a new notebook for school, each Client has their own notebook, and big projects in life have their own notebook too. (Yes I have a Notebook dedicated to my 2 year old)
+
+I use Drawboard for reading long PDF's and highlighting. I tried using it for note taking in class but I always run out of space. I don't use it for meeting notes either since I sometimes have pictures or web links in them and I find OneNote more useful for that."
+549,Xodo is awesome. I use it at work. It's really powerful for a free app.
+550,I just got my new Pen and will test it now.
+551,"Drawboard PDF is still the best. OneNote is nice for note-taking and it's free, but it gets messy when you try to save the pdf again. Of course, you can always use Fill & Sign on Adobe Acrobat to annotate PDFs for free."
+552,"Xodo is fine but quirky and good for simple stuff, I use it 95% of the time and it's free, so no reason not to try. Drawboard offers more features but is a little more complicated.  Fuck using Onenote for PDFs unless you're particularly masochistic. 
+
+They all have different UI's and they are all a pain in the ass for casual use.  The disparate UI issue is an MS problem from 3.1 so no change their."
+553,"While I have heard others also speak highly of importing and working on PDFs within OneNote, I completely am in agreement with your sentiment on this point!"
+554,"You can use OneNote for PDFs, the key is keeping the sections short. If it's under 20-30 pages it'll work great. I usually break textbooks or handouts into chunks."
+555,I use Drawboard PDF
+556,Still can't open two PDFs side by side
+557,"I don't use wacom for taking notes.
+
+This is just a idea. How about getting those virtual keyboard with handwriting input. And using your wacom to write on that."
+558,"I do use my Wacom One for taking notes.
+
+I was too lazy to investigate apps, so I use rather Illustrator CS6 (good for pasting photos and instant tracing too) or our best and worst enemy, Paint. It fits me
+
+Wacom One is intended on everything you can do with a pen and more. It's all about the software you are comfortable with using & tweaked settings. You do you"
+559,"Thanks. I went with evernote, there is a small learning curve but i'm overall very satisfied with the quality of my notes :). Way better than my paper notes."
+560,"> Any tips guys? Maybe a better software than evernote? Or maybe Wacom one is not intended for what i'm using it for?
+
+Just to make sure, we're talking about this [Wacom One](https://www.wacom.com/en-de/products/pen-displays/wacom-one) with a screen, right? Even if you had the ""One by Wacom"", the previous device that was only a graphic tablet, you'd be perfectly fine - it would just take a bit longer to get a good handwriting down without a screen.
+
+First of all: Your writing will get better the more you're accustomed to writing on a ""slippery"" screen. The beginning looks always messy, but once you've got your hand/eyes-coordination down, it'll work just as fine (or even better) than on dead trees.
+
+Regarding your software choice:
+
+- I gave Evernote a try years ago (I've been using digital handwriting programs since 2010) and was underwhelmed by the amount of features that Evernote had back then. The price they were asking for was too high for the little convenience that Evernote offered
+- If you're using Windows 10, you might have [Microsoft OneNote](https://www.onenote.com) already installed. Currently the different versions of OneNote are [kinda messy in terms of feature-parity](https://support.microsoft.com/en-us/office/what-s-the-difference-between-the-onenote-versions-a624e692-b78b-4c09-b07f-46181958118f?ui=en-US&rs=en-US&ad=US), but if you're on Windows, just make sure to download the [OneNote 2016 Desktop Installer](https://www.onenote.com/download). There's also a OneNote app that you can get from the Microsoft store, but that one doesn't have the same back-up features that the ""desktop""-version offers. You can use both in conjunction, but I heavily recommend setting up the ""desktop""-version first, just to make sure that you have local backups of your notes in case the ""sync""-feature shits the bed.
+- There's also a Microsoft ""garage""-project in development that's called [Journal](https://www.microsoft.com/de-de/p/journal-a-microsoft-garage-project/9n318r854rhh?activetab=pivot:overviewtab). It focuses on digital pen input and has some neat additional ""ink-first"" features like pen gestures.
+
+If you need to write on PDFs and make annotations, I've written down [some recommendations in a previous comment here](https://www.reddit.com/r/wacom/comments/fiinft/looking_for_a_pdf_reader_that_allows_you_to_write/fkjaznc/). Don't even try to print PDFs into OneNote and write on top of them. It's a recipe for disaster and messed up notes. If you need to write on PDFs, think about a good folder structure, throw your folder-layout into the cloud and use whatever PDF-editing program suits your needs best."
+561,"[Okular](https://okular.kde.org/download/) and [Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader) have pretty good Annotations for Documents.
+
+For a complete hand-drawing software (which also supports PDFs) I recommend [Xournal++](https://github.com/xournalpp/xournalpp)
+
+Then again, there is [Calibre](https://calibre-ebook.com/). It is specialized for electronic documents. You might find an annotation plugin for it. It is worth to check out that one, too."
+562,why not adobe ?
+563,Can adobe do epub as well?
+564,this one does [Adobe Digital Edition](https://www.adobe.com/solutions/ebook/digital-editions.html)
+565,"Off the top of my head - Adobe Digital Editions, OneNote and Evernote can do this.  
+  
+All three open PDF & ePub, have syncing and support annotations."
+566,"I just tried OneNote. It didn't want to open my ePub file, and the PDF file had to be printed to it and turned into a glorified screenshot. So I could draw on it but couldn't select or search text.
+
+Evernote can embed the PDFs, but I can't seem to use the drawing tool directly on the pdf. All of my drawings end up outside of it.
+
+Haven't tried Digital Editions with the drawing tablet yet."
+567,"Need an addon to import epubs. Sorry.  
+   http://www.onenotegem.com/a/documents/onenote-batch//2019/1122/872.html"
+568,You can use the app named xodo pdf editor it’s quite good and has a ton of features also free
+569,"I use the medium size for annotation and mark-up of pdfs. I also write notes with it. I tried the small at first and it is definitely not suitable for handwriting on such a large screen: you have to form tiny letters on the tablet that will be magnified hugely on the screen. Medium is the best bet but keep in mind that depending on your normal writing size, the medium may be too small for your screen. Make sure you can return the tablet for the large version if that is the case."
+570,"if just writing, most tablets will do fine. An Intuos Pro might be overkill but are a very comfy size.
+
+Whats your budget, the smaller intuos bt tablets are cheap and good for non pro art."
+571,"Hmm. Budget is around $150 to $200.
+What size do you suggest for 27"" iMac? I think I'll neee a medium to large tablet."
+572,"its not really necessary to have a tablet close to the size of your screen. The [Intuos M](https://us-store.wacom.com/Catalog/Pen-Tablets/wacom-intuos/wacom-intuos-m-bt#/undefined1) sounds like in your range.
+
+The intuos Pros start at $380, so youd have to find a used one if you want one of those for under $200."
+573,"I would suggest a Medium. I use a Small, but I'm not using it for annotation, just for running the UI and some photo editing. For annotations and notes, a Small might not be big enough to provide room for handwriting.
+
+Don't worry about resolution because the Wacom tablet resolution exceeds the resolution of the display.
+
+Measure your desk to make sure you have room for it in a convenient place. The Large size is truly large...I have no room for it."
+574,Use [cyberghost](https://7proxiesdeep.com/more-information/cyberghost-vpn-trial/) since it has no logs and they don't keep any of your data.  It's also pretty fast so your downloads go quick.  Another good one with no logs is [ExpressVPN](https://7proxiesdeep.com/more-information/express/) but it's more expensive
+575,"Anything without logging: cyberghost, zenmate, expressvpn, mullvad, windscribe.  Cyberghost is also pretty fast so it's what I use, but haven't tested them all"
+576,I use Nord and honestly I love it. It’s been almost a year now and I haven’t received any more pesky emails from my internet provider about torrenting. And the speed is great. It also has a killswitch feature like most vpn. I recommend it.
+577,What anti virus do you use? If you have a vpn does that stop intruders or make you more susceptible?
+578,"To be honest I just run a simple anti virus that came with my laptop. As for does it make me more susceptible or not? I’m not sure. I’m sure if you googled it some more you’d find out. I’d like to think the worse thing that could happen is possibly downloading a virus via torrents. But I’ve been doing this a while and have yet to encounter anything on my end. Maybe it’s just luck, or maybe I’m using the right tactics. Either way, Nord is a good vpn that gets too much hate."
+579,"Bullet proof leak protection is a feature of air vpn.
+
+It's 100% safe and no way it will leak because it utilizes automatic firewall rules of windows firewall but don't use a third party firewall with it it needs the windows firewall. 
+
+Ivacy is somewhat safe too
+
+Pia's network lock failed me sometime sadly
+
+Cyberghost got a great combo of network lock + app Guardian"
+580,"Yes, the leak protection of AirVPN's client (""Eddie"") is pretty sophisticated and no provider can touch Air in this matter. Air is ideal for torrenting IMO.
+
+OT:
+
+However, speeds turned out to be a bit disappointing for me; especially the servers in Sweden are painfully slow.
+
+Mullvad yields far better speeds for me, so i am having a hard time making a decision between Air and the Mole. Currently i use both.."
+581,">However, speeds turned out to be a bit disappointing for me; especially the servers in Sweden are painfully slow.
+
+on air vpn ? they Guarantee 4mbps per user and there are tons of people using 270 MB \+ 1 guy even uses "" 379.75 Mbit / sec ""
+
+[https://airvpn.org/status/](https://airvpn.org/status/)
+
+Theres only 2 servers near or above 90% usage the one where the guy with 379 Mb is and another one with not so much speed.
+
+you sure it wasnt an issue on your end ? i allways maxed my connection air vpn
+
+Air is freaking awesome if i didnt buy Ivacy Lifetime for like 20 euro i would certainly go for them."
+582,"You are right of course. Generally i can max out my 200/20 line with Air, the servers in Sweden are the only ones that go a bit out of line compared to the others. On a bad day i can barely squeeze 30 - 40 MBit out of them. It's a bit weird, i know, and i am certainly complaining on a very high level. Maybe there is a bad routing from Uppsala / Sweden to my place, who knows..."
+583,"Try their Norway or Netherland servers, might be better routing from there."
+584,They guarantee 4mbps last time I checked.
+585,Yes your right but to be honest I was never limited by that I exceeded it allways and was limited by my connection / hardware
+586,"Yep, AirVPN is pretty good."
+587,Nord and express I have good experience with them .
+588,You need to bind your torrent client to your VPN server to eliminate chance of exposure using any VPN provider.
+589,How do you do this?
+590,It is a little different for each Torrent client.  Just google your client name along with IP bind.  You should get lots of links to choose from.
+591,"Got Nord a few months back, was recommended to me as a good app for Android but I mostly use it on my desktop. I got my CC details leaked and now am extremely paranoid so I'm using an Internet kill switch, which means you can only access the Internet when using the VPN. I think it can be applied to torrenting as well"
+592,">I'm using an Internet kill switch, which means you can only access the Internet when using the VPN. I think it can be applied to torrenting as well
+
+just saying a vpn will not safe you vs cc Leaking.
+
+the server it was saved on failed then ."
+598,"I’ll be honest, I bought a vpn and used it for a few months. Then I got into seedboxes. They’re not that much more, and you’ll get much higher ratios.  Mine even came with a vpn that gave me up to 3 simultaneous vpn connections."
+594,How does seedbox work? Why does it come with vpn? How much?
+595,"You torrent on the box itself, and just download the files via ftp, ssh, http to your home box. Ultraseedbox is a decent provider for around $13 USD."
+596,deleted  ^^^^^^^^^^^^^^^^0.3817  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/15966)
+597,use tixati to torrent... you can force it to only use your vpn connection... built in kill switch right into the program..
+599,"I'm pretty new to VPN, still shopping around for options. I hope someone can answer this question, Is it safe to use other devices in the household without vpn while torrenting with vpn on the main computer?"
+600,"You should check out NrdVPN & PureVPN. I've tried both, and they're really good. [NrdVPN](https://twitter.com/shutflcers/status/999276342515400704) has the best reviews on the web, but [PureVPN](https://twitter.com/shutflcers/status/999276305572139009) has an amazing promotion going on now - $29 for a 1-year subscription."
+601,You need a VPN app with a Kill Switch feature. It basically prevents your PC from connecting to the Internet when VPN connection drops and automatically enables the connection again when VPN connection is established. There are several VPN providers with this feature that you can choose from. They are all listed in [this article](https://cryptmode.com/stop-torrenting-protect-data-leaks-when-vpn-disconnects-best-vpn-with-kill-switch-to-auto-shutdown-internet/).
+602,"I decided to go with ExpressVPN, Thanks everyone!"
+603,"Many of the suggested vpn's on here are pretty good, but I still used this [nord deal](https://www.morecyberdeals.com/NordVPN/) for torrenting and have found it to be flawless for the past few months."
+604,"[NordVPN](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=60707&url_id=902) is the best VPN now, really. It has the best speeds and most stable connections. Torguard isn't my favourite, it disconnected me from the server quite a lot"
+605,"Honestly NordVPN is still king for me, great discounts pretty much all year and very fast."
+606,"Agrh Nord are terrible shill much?
+
+Very basic interface, and terrible p2p speeds.
+
+when you click click to the ""fastest server"" they connect you to a 1mbs a sec server, i have a 330 mbs line!
+
+Cost cutting low quality service"
+607,"don't know what this other dude is talking about, i've been using nord for a year now and never had an issue"
+73736,[removed]
+613,Sponsored comment. Just check the comments of this user.
+610,[Fastest VPN](https://go.fastestvpn.com/affiliate/pap?a_aid=611b8885dae14) is the best VPN in 2021. I used it for ageeeees now to hide my ip and fpr tprrenting. It never let me or my friends down
+611,Affiliate link -_-
+612,"[NordVPN](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=60707&url_id=902) is your best bet right now. Torguard used to be ok, but it's just going down with the years, really. With Nord I have wayyy higher speeds and better connections. 
+
+I mainly use it for Netflix, movies, torrenting, gaming and basically for everything and everywhere. They have [an offer going right now](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=60707&url_id=902), too."
+615,"How much do you get paid to do this shit, man? Perfectly normal account up until a few months ago. Then suddenly your whole account does *nothing* but recommend that shitty VPN and link to shady promo websites. You comment on a month old thread (the thread itself has 9 upvotes) and yet within 3 days your astroturf bullshit has double that many. And that's always the story. Someone asks for a VPN rec, and every stupid comment linking to some borderline malware site recommending Nord is always highly upvoted, and their whole recent account history is just doing that same thing over and over and over. Are these just stupid bots on stolen accounts? It's so god damn annoying."

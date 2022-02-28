@@ -1,0 +1,726 @@
+idx,text
+72823,Thanks man. No VM.
+72824,"If your reason is to learn I'd say go with http://www.linuxfromscratch.org/ However if you are looking for a system to use, start with Ubuntu then when you get used to it, move to Arch."
+72825,It's better to learn the basics before jumping into LFS. Unless the goal is for the newbie to only retain 1% of what he did.
+72826,"The guy knows about programming, he is not your regular newbie I guess."
+72827,"Or just go straight to Arch. That's what I recommend.
+
+Ubuntu is wasted time, you won't learn much with that."
+72828,"Why not?  You'll learn basic cli, UNIX file hierarchy, and basic package management.  It's a good intro to linux"
+72829,"> basic cli
+
+Only if you volunteer to do so, Ubuntu tries really hard for you not to have to touch the CLI.
+
+If, due to hardware-specific trouble or such, there's workarounds that need CLI in their documentation, it's given as a copy-and-paste magical recipe, not explaining what the commands do.
+
+> UNIX file hierarchy
+
+Doubt the average Ubuntu user knows anything about what's above their ~/. The lucky few know there exists something other than their home at all.
+
+> and basic package management. 
+
+Ubuntu app store™. As didactic as Google Play.
+
+> It's a good intro to linux
+
+As good as using Android, but I'd say Android does give a better overall experience..."
+72830,"Hmm it may be different now but I learned all these things through Ubuntu.  I could have avoided then, but I went out of my way to learn them and it worked for me *shrugs*"
+72831,">  I went out of my way
+
+My point exactly. It's not natural, you have to go out of your way to learn with that distribution."
+72832,"OP seems to be willing to learn, and its not like the distro is actively trying to prevent you from learning"
+72833,"Let's put it this way: There's better distros for learning.
+
+I suggest Arch, to be specific."
+72834,"I agree completely.  However, in practice many people quit because it's too hard.  Ubuntu eases you into it instead of forcing you to swim or sink."
+72835,"> However, in practice many people quit because it's too hard.
+
+If they find Arch impossible, THEN, they can try Debian, Fedora, OpenSUSE and the like.
+
+But I don't think it's anywhere near that hard. Hell, even I can run Arch :P."
+72836,"Hi! Not sure about the programming part, but I'd say that the most newbie-friendly Linux distro is Ubuntu. But I also really like elemantary OS - you might want to check it out."
+72837,"Sorry I am complete new in this, but what is distro? I know Ubuntu, can I run Ubuntu with my Windows like Dual OS? 
+And what is Elementary OS?"
+72838,"They are all different linux distributions, you can run (nearly) every Linux distribution alongside windows.
+
+[Here are the FAQ from /r/linux](http://www.reddit.com/r/linux/wiki/faq)"
+72839,"Lets say that Linux is a general name for the OS family. I'm not sure, but there doesn't seems to be a ""pure Linux"". There are tons of OSs (called distros, or distributives) based on Linux. That how you get Ubuntu, Linux Mint, Fedora and other distros. So, think of them like Windows XP, 7, 8 etc. Ubuntu is really popular and is easy to get into for the beginners. Elementary OS is actually based on Ubuntu. It mostly has better visuals."
+72840,"And yes - you can dualboot Win and, say, Ubuntu. It's not that hard. Check http://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/ and http://itsfoss.com/enable-double-click-in-elementary-os/"
+72841,"I'd recommend Xubuntu, it's Ubuntu but with a more Windows-like interface."
+72842,"Ubuntu 14.04 LTS is good, but most all colleges use MS Windows to teach C++ and Java programming. The senior could be pulling your leg!  If you have plenty of room on your hard drive, read up on Ubuntu and then install it. Beware that when using Firefox in Windows it's 32 bit and may offer you the 32 bit iso even if you have a 64 bit processor. IF you have a 64 bit processor, get the 64 bit iso. 4 gb of ram is ok, 8 or 16 gigs of ram is better if you are going to compile programs - but that also depends on your hardware. Use the Ubuntu iso to create a bootable usb flash drive (stick) boot it up, do not install just to test and check it out first. Search and read about UEFI or EFI (if you have it, ck your BIOS) on the ubuntu site.  Good luck!"
+72843,"actually, I went to clarkson and they actually made us learn linux first semester first class in the c++ course. plus linux is made for coding, so, that senior knew exactly what he was talking about most likely =P"
+72844,Which version they taught you? I mean which destro?
+72845,"well, the lab had a bunch of variants. from gentoo to red had to ubuntu. I started with ubuntu because it is the easiest distribution to transfer to from anything else, particularly if you use Kubuntu- which is a bit windows-like in theme. The installer basically holds your hand, and helps you make the right decisions. 
+
+If you really want to get into linux, definately install arch linux, though. But, I would start by installing ubuntu or something and just get used to working in a command line. Once you  are comfortable there, try an arch linux install. As said, it is really complicated your first time, and you are going to want to do it on a computer that you probably arent otherwise using. That being said, I really love linux, so if you ever have any questions, I can try to help you out =)"
+72846,"People are just confusing me to install Ubuntu or Arch.
+They say that Arch is very much complicated and its better for you if you start from Arch. 
+And some say like you need to learn Ubuntu first before jumping into more complicated part."
+72847,"its personal preference in the end, really. But once you get used to arch, its a bit more powerful, and you learn a lot more"
+72848,I recommend you download Virtualbox and an Ubuntu 14.04 LTS ISO and create a virtual machine you install Ubuntu on. This is a much safer approach if you're unsure what you are doing.
+72849,something that has many preinstalled packages (working out-of-the-box) like mint and ubuntu.
+72850,"virtualbox is probably the way to go as jr_ray says below:
+
+Here is a guide I wrote showing how to install Mint in a virtual machine. Latest version of Mint is now 17.
+
+http://www.everydaylinuxuser.com/2014/05/how-to-install-linux-mint-as-virtual.html"
+72851,"Sounds like your the Dev side of DevOps. I'm going to save you having to go buy a mac or run Linux as your base OS.
+
+First go download [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
+
+Next grab the latest version of [Vagrant](https://www.vagrantup.com/downloads.html)
+
+Install both and sign up for a free account on [Vagrant Cloud](https://vagrantcloud.com)
+
+Grab yourself cygwin/mysysgit or similar. You are going to need git eventually and you need an openssh client. Install one of those.
+
+Start > Run > cmd
+
+    cd %userprofile% #This should drop you into your home directory.
+
+    mkdir $dirName 
+
+This can be anything you want. I call mine vProj.
+
+    vagrant init hashicorp/precise64 
+
+This is going to create a file called Vagrantfile in the directory you are in when you call the command. This file is what Vagrant is going to use to build a box.
+
+    vagrant up
+
+Vagrant is now going to go out to the internet and download an Ubuntu 12.04 LTS 64 bit vagrant box and use vBox to provision it.
+
+    vagrant ssh
+
+You are now in your very own Ubuntu 12.04 Virtual Box. :) You don't like it? vagrant destroy will get rid of it. vagrant up again will rebuild it. vagrant halt stops it. Their are plenty of base boxes on the vagrant cloud. Companies like puppet even put their own boxes online for devs to use. The beauty is that you didn't have to open vBox one time. You didn't have to play with the network settings or setup some weird bridge. Vagrant does it all for you. You can, of course, open vBox and run it as normal but really you don't need to.
+
+As for books. 
+
+[Linux in a Nutshell](http://www.amazon.com/Linux-Nutshell-Ellen-Siever/dp/0596154488)
+
+[Vagrant Up and Running](http://www.amazon.com/Vagrant-Up-Running-Mitchell-Hashimoto/dp/1449335837/ref=sr_1_1?s=books&ie=UTF8&qid=1404246252&sr=1-1&keywords=vagrant+up+and+running)"
+72852,"I kinda disagree with putting fedora into Advanced section. It has it's issues, but I think it should be more for brave beginners like I once was myself :).   
+I'd put it along with openSUSE Tumbleweed in a Comfortable category or maybe make an Intermediate category? They're good distros with sane defaults but require some stuff to be done like installing codecs and maybe troubleshoot some issues, so not building from scratch like Arch or Gentoo but as easy like Manjaro or Ubuntu.  
+That said, great list! I hope it will be expanded in the future"
+72853,"If I add a category between Comfortable and Advanced, Fedora would definitely go in there. It almost went into Comfortable, but the community resources and development focus as a RHEL upstream made me reconsider.
+
+I'm not too familiar with Tumbleweed despite using Leap for a server, I'll check it out
+
+Thanks for the kind words :]"
+72854,"I used Tumbleweed for a while. It's nice, I really like zypper's syntax and that you have a snapshot tool so with btrfs you can easily make a snapshot before update and roll it back if things go south. You have however the hassle of installing codecs but that's similar to leap, and there's also the debate whether you should use zypper up or dup for updates."
+72855,Agreed about fedora. It was my first distro and it's still the one I fall back on the most. Feels like home
+72856,"FUTURE PLANS FOR POSTS/REVISIONS:
+- write more about each distro - maybe a first impressions of each one, or a review for each
+- pen a little about the overlap that currently exists between all the distros
+- make revisions to this list to add more categories such as `small installs`, maybe make a tagged gallery of distros on a separate page. `Windows-like UI`, `Mac-like UI`, etc."
+72857,"Hey, Peeves22, just a quick heads-up:  
+**seperate** is actually spelled **separate**. You can remember it by **-par- in the middle**.  
+Have a nice day!
+
+^^^^The ^^^^parent ^^^^commenter ^^^^can ^^^^reply ^^^^with ^^^^'delete' ^^^^to ^^^^delete ^^^^this ^^^^comment."
+72858,That's what I get for copy-pasting the comment
+72859,"Suggestion for another Advanced distro: Linux From Scratch.  You better know what you're doing in Linux to be able to install a whole new system from source.  Fortunately they've got a (nearly) step-by-step book to take you through the whole process.  Any troubleshooting, of course, is on the person installing it."
+72860,"Parabola looks interesting, they look like they use an Arch base, presumably with some changes to get rid of blobs."
+72861,"Suggestion: don't put
+
+> NOTE: For this first post, I will not be mentioning DEs (Desktop Environments) such as MATE or GNOME. I'm aiming to keep this list as lean as possible, and I'm personally someone who dislikes OSes asking the end user to choose a DE to install. I would rather a specific DE be chosen and optimized for a given Distro (outside of bare installs like Arch). 
+
+in a code block. It means I have to scroll horizontally."
+72862,"Ah, my bad! Was just trying to do a codeblock similar to discord's triple backtick
+
+I'll use a quote in the future"
+72863,I wonder where Qubes or NixOS fall in these lists. 🤔
+72864,"In my personal notes, I have `Privacy` and `Server/Deployment` categories/tags
+
+Those would fit Qubes and NixOS respectively :)"
+72866,"I've said it before, but I believe that Ubuntu is not the king of noob-friendly distros anymore. It feels like it's transitioned into the most versatile distro in terms of being fit to do almost anything, and having guides for all those things. In comparison, Linux Lite/Linux Mint are much more focused on the new user experience, so Ubuntu isn't really in the same category as them.
+
+Antergos and Manjaro are in Comfortable because they are up and ready quickly and provide a great fresh install experience.
+
+As for the flavors of Ubuntu, I would put them all in the same category (Comfortable), but I definitely think some are easier to use than others. For example, the non-Gnome3 flavors of Ubuntu are friendlier than Gnome just because of the pre-existing knowledge someone coming from windows would have."
+72867,"Which version would you say is most secure and safe? Also, which has the most devs and is most constantly updated?"
+72868,"Fedora:
+
+\-cutting edge packages
+
+\-optimal release cycle
+
+\-preference for foss software by default
+
+\-contributing upstream
+
+\-contributing to many parts of the GNU/Linux world
+
+\-vanilla packages
+
+\-Minimal install and personalized install and other desktops available as images
+
+\-copr (although I don't use it)
+
+\-dnf (and the thing where you ask for something that  isn't installed and it offers to install it)
+
+\-preference for wayland, pipewire, etc etc 
+
+\-selinux (I actually don't care but it's there)
+
+\-btrfs as default (but consider it's just a default!)
+
+\-probably a lot of other stuff I'm forgetting"
+72869,"Your distro preference is very good. He explained his reasons very well, congratulations!"
+72870,"There is no such thing as ""the best distro"". There may be good or bad choices for a certain use case but since use cases and personal preferences can vary widely, the ideal distro is different depending on the person and what they want to do.
+
+Example: I use Void, Linux Mint, Debian and Ubuntu Server. None of them are better than the other ones imo (okay, Ubuntu is worse but I have no favorite among the others).
+- Void on my laptops because they have limited resources.
+- Mint on my main PC and most other devices I happen to use because it has a nice user experience ootb so I don’t have to spend time on setting up everything.
+- Debian and Ubuntu Server on my servers (switching away from Ubuntu soon)."
+72871,"I fully agree with you! That was what I wanted to say, but I expressed myself poorly. Thank you, for schooling things for other readers"
+72872,"I was going to say, I've had much better luck with Debian servers than Ubuntu, speaking over five years of experience.
+
+I do have Ubuntu servers that work fine, though."
+72873,"No such thing as ""the best distro"".   
+Only ""the best distro for YOU"".  
+
+
+I like Linux Mint but I use 5.11.3 kernel. 
+
+Find a distro you like, and then customize it to YOUR liking."
+72874,Good !!
+72875,Just gonna leave [this](https://distrochooser.de/?l=2) here.
+72876,">I know what 'systemd' is and wish to avoid that.
+
+lel"
+72877,I avoided systemd for the longest time; it's not so horrid at all. You *do* have to make sure that when you Google how to do something that you take that into account.
+72878,Dammit! It says Arch. Am I really that kind of person?
+72879,What do you mean /that/ kinda person? Haha
+72880,I got Arch and Void at 80% and LFS was in the 70s.
+72881,The Arch Wiki will teach you a lot. Running it in a VM for a while will make it easy for you to learn by reading through the Arch Wiki as you install and configure the VM in parallel to your existing machine.
+72882,That excluded OpenSUSE because I said I wanted to install programs myself during installation. I just installed OpenSUSE and I have the choice of what got installed.
+72883,"The OpenSUSE installer installs and configures the programs for you, does it not?"
+72884,"Well yeah, but unlike Ubuntu flavors I actually get to choose what I want installed. That question doesn't leave much middle ground between braindead distros like Ubuntu and do it all yourself distros like Arch."
+72886,"openSUSE Rule #42 ""All developers are lazy""
+
+Rule #42.5 ""All good developers are VERY lazy"""
+72887,Linux From Scratch
+72888,"You are saying that you want to learn to run, maintain and modify the distro as deeply as you can.
+
+Now, for new users I wouldn't normally say this but: ArchLinux. It's fantastic because it's purely a ""DYI"" distro. By setting everything up yourself you'll learn so much.
+
+If you try Arch, the best reading material is the arch wiki. It's brilliant."
+72889,Mint Linux works well enough for me. I switched to it from Ubuntu ~3 years ago.
+72890,"I use linux mint, it's very close to ubuntu, and it's fairly easy to use"
+72891,Slackware...since '97 for me...once you go Slack...you know the rest
+72892,install gentoo
+72898,Manjaro
+72894,"I would personally recommend [MX-16](https://distrowatch.com/table.php?distribution=mx), which is a polished distro based on Debian stable. It's more user-friendly out of box compared to standard Debian, and comes with a bunch of handy tools that make life easier.
+
+But if you want to really mess around with the guts of Linux, you may enjoy Arch Linux, which is installed entirely via the terminal. There are also 'easy' versions of Arch that come with a really friendly graphical installer, like Manjaro and Antergos.
+
+Also, be sure to check out /r/FindMeADistro :)"
+72895,"> Some distributions offer faster updates, which can affect system stability. 
+
+Yes: more up-to-date software is more stable."
+72896,openSUSE Tumbleweed would be my advice :)
+72897,I only have least favorites: Ubuntu (flakey) CentOS7 (buggy)
+72899,"Thank you for your input all. Before posting I had my eye on Arch Linux and after looking at all suggestions and reasoning I think for now I will go this way. 
+
+Linux from Scratch may be a little too far for me and my time restraints although I would have liked too. But the Arch Wiki does look good and a lot of people seem to use and rate. So this for the moment is my choice."
+72900,"Arch, simply because it has the best wiki *by far* and it is a good learning experience. Well, if you want to really get into the details, try Gentoo. For everything else than a learning experience I'd had said Debian."
+72901,"FreeBSD would be my suggestion. I also like the PC-BSD spin of FreeBSD. For Linux, Debian."
+72902,Why are so many people looking at Kali?
+72903,wants to become hacker. Kali linux is popular in south asian countries
+72904,"I really don't see why Kali is seen as ""the hacker distro"" it's just debian with some preinstalled stuff
+
+&#x200B;
+
+EDIT: wording"
+72905,"Became? It's been the ""hacker distro"" ever since it was called Backtrack.
+
+Also it was never meant to be more than a bootable hacking toolbox."
+72906,Parrot now is where it is at.
+72907,"You're right, i edited my comment to make the wording a bit better : \^ )"
+72908,">Backtrack
+
+Damn bro, Backtrack = memoriesss!!"
+72909,The zsh config is nice lol
+72910,"1. Watch Mr.Robot
+2. Install Kali
+3. You're officially a h4x0r"
+72911,It's marketed as hackers distro. It also get boost after the release of Mr Robot
+72912,"Even still the preinstalled stuff is in meta packages lol, 10 minutes of default debian with i3-wm and 10 lines in terminal its the same thing."
+72913,"Yes, but that works out of the box. You boot it and that's all. 
+
+Since sometimes it is used to crack WiFi passwords, you need an Internet connection to download packages from Debian."
+72914,"It's meant to be live distro you run from USB when needed for job, not something you install as daily driver."
+72915,It also has a few kernel and firmware patches to exploit hardware capabilities better.
+72916,Kali is not a distro that you install and use as your OS. It's meant to be loaded in VM or from USB stick to do your dirty things and wiping it as soon as it's not needed.
+72917,"Just use MX Linux, tweak it installing you programs, MX Snapshot, and that’s it"
+72918,"No, the point is that one does *not* want to install the OS. It's better in some cases to have a clean new system."
+72919,"You have to realize that a lot of those people don't even know that much about this sort of thing. It's fun as a newbie to just install it to feel cool for a bit, realize you're way in over your head, then drop it.
+
+That's usually how it goes."
+72920,"Yeah, you gotta start somewhere. This attitude of ""lol I can just do this another way, why do I need this premade"" is so annoying when it comes to Linux."
+72921,"Well some people did point out the IP sniffing out of the box without internet being preconfig which I suppose is a solid reasoning. I just feel like  again a few lines in terminal thatt can be achieved but for some even my self included, you gotta start somewhere. I was ""wrong"". I'm not super versed in Kali. I do use Debian mostly. Have touched Kali. but as others posted its probably some script kiddies in Asia who watched MR Robot."
+72922,"It is installed by newbies who don't even know what packages are. Lot of my friends installed it to become a hacker, then spent two days trying to get mp3s to play."
+72923,Please don't mention my past shame. Me from years ago is very sensitive.
+72924,"Did Elliot use Kali? 
+
+I wonder what distro Tyrell used"
+72926,"Huh, it’s been a while since I watched the show, but idk why but I thought he was using fedora lmao"
+72927,">it's just debian with some preinstalled stuff
+
+To be fair, that is an accurate description of like half of distros out there."
+72928,Yeeeep
+72929,"Definitively, but some are original by doing their own Software/Desktop/Toolbox and improve overall Linux experience (Like SparkyLinux, Mint and MX respectively)"
+72930,It is maintained by Offensive Security which is responsible for the most renowned certs in the field. That gives it the boost in popularity.
+72931,I love when people ask “whether Whonix or Kali is more secure” LOL
+72932,"even worse, ""im trying to run my steam games but they're not working, can someone help? (im using kali as my main distro btw)"""
+72933,"Or people complaining ""I run Kali and nothing works, I think I have been hacked"" in the KDE bugtracker"
+72934,"“I can’t run Among Us or Word on this Linux thing, I think it’a hacked” real situation"
+72935,wait people are actually like this?
+72936,Yes. Trackers see a lot of issues like these
+72937,"Can't blame them if course materials and institutes suggest to install (offensive security's) Kali Linux .
+
+There less knowledge about getting basics of linux first, but it's all marketing here. People/friends I know who work at SOC positions can't even trouble shoot basics ( I mean really basic stuff) when it comes to linux."
+72938,Yes but did they hack the Gibson or did they just have to go Pooooo?
+72939,"You hack one of those Gibsons man, some heavy metal. But you gotta find those backdoors first! ;)"
+72940,its recommended for use in the security field and also some script kiddies like to play with it
+72941,What more would you want from a hacker distro?
+72942,"Yeah, I've seen a lot of linux tutorials where the guy is using kali and he's from vietnam/china/cambodia"
+72943,Script kiddies...
+72944,/r/masterhacker
+72945,"Just based on the posts on this sub, probably people getting told off for using it as a regular desktop and then going to the Kali site to try and fix a problem they wouldn't be having if they used the distro appropriately."
+72946,"They'll really hate the official documentation then:
+
+> Kali is a Linux distribution specifically geared towards professional penetration testers and security specialists, and given its unique nature, it is NOT a recommended distribution if you’re unfamiliar with Linux or are looking for a general-purpose Linux desktop
+
+https://www.kali.org/docs/introduction/should-i-use-kali-linux/"
+72947,"Just like everyone has said, to play hacker, specially after Mr Robot aired.
+
+If someone is serious, I prefer Parrot by a mile. Nice experience overall and more actually useful features unique to it. Cool fookin logo too, mate."
+72948,Wannabe hackers
+72949,Skiddies.
+72950,I'd say that networkchuck made alot of popularity for it.
+72951,Arch is probably so high because the documentation is so damn good. Never ever used Arch but I’m always on that site!
+72952,The wiki is really good. I use it all the time!
+72953,"I think you're missing RedHat which is easily the first one: #3,075"
+72954,"I dunno, seems like a really niche distro /s"
+72955,"People using RedHat probably now where to look to solve their problems, so they don't necessarily show up in such rankings, imo."
+72956,"I don't know what exactly you are talking about, all corporate environment uses Red Hat because it is pretty much the only company offering support (and in case you are wondering, it's not about answering the phone when the secretary can't play Solitaire anymore, it is about fast security patches delivery and support in complex configurations)."
+72957,"Understanding what I was talking about might be a bit difficult, because I now realize I missed your point ;-)"
+72958,You mean shitty Fedora?
+72959,"First off, Fedora is glorious. Second RHEL is its own thing."
+72960,"for the BSDs
+
+freebsd 25543
+openbsd 182,317 
+netbsd 67,442 
+dragonflybsd 645,458"
+72961,I'm very surprised NetBSD is that high up.
+72962,what's the difference between FreeBSD and OpenBsd?
+72963,"This list feels off because arch has such amazing documentation, I started using the arch docs before I was ever able to install arch."
+72964,"Does this ranking takes into account subdomains as well? If so, surely arch is that high because of the wiki"
+72965,What a meaningless statistic... Lol
+72966,"Fedora would need to take getfedora.org into account, so it is likely much higher.."
+72967,where would it be placed?
+72968,"Above manjaro/deepin for sure, going by subreddit subs its even with debian."
+72969,"Does anyone understand why the huge discrepancy between MX’s ranking here vs. on distrowatch? I understand both methodologies are very flawed, but I would’ve thought those biases would go more or less in the same direction."
+72970,"Distrowatch is _not_ a measure of popularity. I blogged about it explaining why. https://popey.com/blog/2021/01/distrowatch-is-not-a-measure-of-popularity/
+
+In short it's two things. 1) Because they count internal links, so they publish an article about a distro, or there's a new distro release, that links to the page, the numbers go up. 2) Being at the top of the list means you get clicked, and that (stupidly) counts to push you up. You're at the top? You're staying there."
+72971,either MxLinux pays distrowatch. Or use bots to increse traffic in distrowatch.
+72973,"I'm pretty sure they don't even have that much legit clicks every day, every month, every year. There must be bots involved or some shady business done under the table. 
+
+Imagine Redstar OS being #1 on their list, would you still think it's legit?
+
+Let me guess... https://mxlinux.org/donate/"
+72975,"It's no conspiracy, they do that to increase the traffic, to be more popular, get more donations, a larger userbase... Nobody EVER talk about MX Linux, nobody even seems to use it, yet they are atop of the chart all year long.
+
+I said Redstar just like I could have said Hannah Montana Linux."
+72976,Plenty of people talk about MX Linux... just on their official forums (which seem quite busy) and not here.
+72977,don't trust everything someone says
+72978,"Never heard of MXLinux, but they seem like clowns.
+
+""Proudly anti-fascist ""antiX Magic"" in an environment suitable for old and new computers.""
+
+😂"
+72979,geez imagine just having a non political description of your distro instead.....
+72980,Does the code prevent fascists from running it?
+72981,I am a fascist and I use MX just to stick it to the devs.  *laughs in Mussolini*
+72982,"At first I thought [alexa.com](https://alexa.com) was a fake site because I couldn't get to it, but then I realized it's blocked in my /etc/hosts file thanks to the Hosts File Project.
+
+\############################
+
+\# The Hosts File Project [http://hostsfile.mine.nu](http://hostsfile.mine.nu)"
+72983,i would love to see void linux on that list one day
+72984,What's so great about it? Genuine question
+72985,"first i must say this is my second hopping on voidlinux and i'm 90% certain that i won't leave it. after my first use for around 5-6 months i hopped again to debian and arch, used arch for a while but got tired of it. i am on my second run with void and this is where i ended up after my 1.5 years of linux journey.
+
+for once, it ships with runit, a snappy and resource efficient init system. \*\*this was not the main selling point for me\*\* as i didn't know much about init systems back then but as i use it more i see it is better in some ways compared to systemd. it is simple and it really is just an init system, does whatever it promises only. it is still easy to manage and audit services too. boot time is like \~10 sec after bios sequence ends on my 12-yo craptop. (i don't want to discuss the ""philosophy"" behind runit so i won't answer a question regarding that, cuz i don't care about it :D i'd still use systemd if i need, i love runit, though it is not a big deal)
+
+i love rolling release. you just keep up to date and that's it. no hassling with point upgrades and stuff (i know it is not totally ideal for server side but you get the point). the thing is, \*void promises reliability while being up to date.\* it does not drop packages as soon as they arrive like arch, but it doesn't stay late too long. very upstream, not bleeding edge, rolling and reliable packages. package auditing is pretty good in my experience. (remark: stable does not mean reliable, void isn't stable as it is a rolling release, but it is reliable and sturdy. two concepts that many confuse.) \*\*updating your packages and system is still in your responsibility, no one can promise ""no breakage"". use at your own risk.\*\* luckily i never had a breakage. even when i installed with 2019 isos in 2020, after a system update it worked just fine. thus, you don't see an ISO update every now and then like arch. is simply isn't necessary all the time.
+
+xbps package manager, it is more robust than pacman for example, as it doesn't just yeet or slam packages without auditing, xbps takes more responsibility to keep system from breaking. that means you can do partial updates. (this section might be controversial so i am sorry about it in advance.)
+
+[xbps-src source packages collection.](https://github.com/void-linux/void-packages) some packages that can't be [redistributed](https://docs.voidlinux.org/xbps/repositories/restricted.html) can be installed from source using xbps-src. it is like aur, but carefully audited by developers, not users and that doesn't allow any out of date or orphaned packages. also it is cleaner, you just pull a folder from github and all compilation happens in that folder. it doesn't mess with your host system environment.
+
+[variety of architectures.](https://voidlinux.org/download/) you can install it on x86 (both 32 and 64 bit) and many arm platforms, including rpi.
+
+variety of software. you have bunch of native packages, xbps-src and flatpak support.
+
+void is pretty light and barebones if you use base image to install. base iso contains only \~120 packages and you also have desktop options too with xfce, cinnamon and so on. installation takes no time at all, there is an ncurses installer that goes straightforward and it handles system configuration really well. (especially desktop isos are installed in 2-3 minutes as you install local packages from iso. base package needs network connection.)
+
+musl is also an option if you don't want to use glibc or gnu coreutils. it gets even lighter with musl. 
+
+you can check [this post](https://www.reddit.com/r/voidlinux/comments/mjvxax/void_compared_to_other_distros/) to see a comparison between arch and void, it gives an idea.
+
+[https://voidlinux.org/](https://voidlinux.org/)"
+72986,I think the big thing with it is they do not use system d but that's about all I know of it.
+72987,This is deeply flawed because no self respecting privacy conscious Linux user would add a tracking extension like Alexa to their browser.
+72988,"I use Arch because I like KISS and rolling release, but sometimes updates are broken without using AUR. Just the official repos.
+
+I have thought on installing Tumbleweed (OpenSuse rolling release). Can somebody give me any feedback of that?"
+72990,"Thank you. Very useful to me, since I use Nvidia cards."
+72991,I've been using TW for about 2 years now and didnt have any major issues. And if something breaks for some reason you can always roll back pretty easily thanks to btrfs and snapper.
+72992,"You could just install Arch on btrfs though. I'm not saying that TW is a bad choice, but it seemed less stable than Arch to me, which is obviously entirely anecdotal. Also, the OBS is not nearly as useful as the AUR."
+72993,"You're right there are definately more packages in the AUR then there are in OBS. Dont know about stability though, afaik all TW packages are at least tested in openqa before release and i've never encountered any installation breaking updates. But i've never used Arch so i can't really compare them."
+72995,"I have just installed openSUSE Tumbleweed 2 days ago, here are some tips:
+
+I recommend downloading and booting from a NET (network installation) iso which you do not carry KDE, Gnome, Xfce, other excessive stuff, and etc. on contrary to DVD and live CD isos that contain whatever you may or may not need to install, so that you can install base openSUSE without all the bundle/suit software packages.
+
+BEWARE: before going through the last step of the installation where there is a page with contents that are going to be installed, click on the “**details**” button at the bottom of the left blue panel then to *include/exclude whichever packages you want installed*, so you do not end up with installing all the default packages.
+
+Additionally, on the same page I mentioned above, you will see on the content table, inside the hardware related settings header a clickable text which will open a page where it will automatically detect and configure the kernel for any hardware attached to your PC including your motherboard :) Make sure you have your hardware such as mouse, graphics tablet, etc. connected to your PC beforehand to let openSUSE be helping you optimizing your computer at its best :)
+
+Having completed the installation process, you will be redirected to boot into openSUSE where you will be greeted with a pretty welcome screen. You can navigate on this welcome screen and pave the way you learn from there-in-after. Have a good journeyy! ;)"
+72996,All installation media (except for MicroOS and Kubic) offer the same options. The NET iso is just the smallest download.
+72997,"Yes, and I meant that by downloading NET installer, one doesn’t download unnecessary packages in the first place."
+72999,"Official releases when updated store the older version in /var/cache/pacman/pkg and can simply be downgraded by running pacman -U on the previous version. AUR releases can be managed with software like 'pamac' which also allows downgrades.
+
+Regardless, this is why most people only update once in a bluemoon, and if they do like to play that game its smart to keep a USB drive with Arch on it so you can chroot, or just make a simple img backup with something like clonezilla."
+73001,wow a lot of people use arch
+73002,That's because it's awesome.
+73003,It is the best distro so that explains it  😎
+73005,"Why arch is so high? I bet most of that people is for the Wiki(including me, Devuan user)"
+73006,"Some major Caveats:
+
+\- The Arch Wiki is a great reference for users of any distro. Even when I was on Ubuntu, I referred to the Arch Wiki almost as much as I referred to Ubuntu (or Debian) documentation. This is true (for me) to a lesser extent with the Gentoo Wiki as well.
+
+\- Some Distros (like Arch or Manjaro) have their community resources and communities centralized under one domain. Others (like Ubuntu) have different domains, for different pieces of the community (a domain for the main site, a domain for the forum, a domain for askUbuntu). This will heavily skew the numbers.
+
+&#x200B;
+
+\-"
+73007,Where is slackware dot com
+73008,"it is ranked #700,000+."
+73009,tried them all but I'll always stick with MX
+73010,this is the right answer...
+73011,Arch is life son
+73012,I'm using an XPS will Dell-installed Ubuntu. Am I on the list?
+73013,Elementary?
+73014,"Have been an Arch/Debian person since forever. Arch for personal and Debian for family (dad's desktop) because of the stability.
+
+Lately, I have made the switch to Manjaro, as it works well with all my Arch habits."
+73016,Manjaro's fantastic. Think I'm going to switch back to it on my next build.
+73017,"Pop, elementary, and Solus.
+
+Top 3 💪"
+73018,Feren OS is the best one i ever used
+73019,"I’m an Opensuse supremacist, can’t think of many things that it doesn’t do extremely well."
+73020,"Where is RedHat, Android and ChromeOS. This statistics is meaningless"
+73021,"technically RedHat, Android, ChromeOS isn't average desktop distro. So, I didn't include those."
+73022,">desktop distro
+
+Ok. Makes sense"
+73023,This is a solid list. Remove Ubuntu and I think thatall of these distros are amazing in their own way.
+73024,What's wrong with Ubuntu?
+73025,What do you guys think about kodachi as a security distro? Based on my web search it's kinda mixed. Topics on reddit for security distro is pretty outdated. And parrot sec reddit community hasn't posted over a year. I guess the first rule of Parrot Sec. is that you don't talk about it.
+73026,I use the Linux kernel version 5.4 and GNOME 3.28.
+73027,"RHEL in production, CentOS in dev.
+
+Why?
+
+Then your company can pay for RHEL to offload some liability. The software is certified for certain hardware too. Enterprise apps are built and certified for RHEL.
+
+It makes corporate types happy.
+
+Why CentOS in dev? It's RHEL without the licensing. If you have enough cash, just get RHEL so external vendors don't complain when testing products and try to blame CentOS."
+73028,Great points.  What do you do if you have Mgmt that fears even the chance of differences between dev and prod?  How do you convince them it's OK to use CentOS and RHEL?
+73029,"Tell them that CentOS is compiled from the same sources as RHEL.
+
+If they don't like it, buy more RHEL licenses."
+73030,show them the screen from dmesg where it shows that cent os is really redhat.
+73031,">Then your company can pay for RHEL to offload some liability. 
+
+Like what?
+
+How does Red Hat assume liability and for what exactly?"
+73032,"They ""assume liability"" in exactly the same way that Microsoft ""assumes liability"" for Windows; they promise absolutely nothing, but will try to help you fix any problems that arise.
+
+Suits tend to find this comforting for some strange reason."
+73033,">They ""assume liability"" in exactly the same way that Microsoft ""assumes liability"" for Windows; they promise absolutely nothing, but will try to help you fix any problems that arise.
+
+Neither one promise to help you fix any problems.
+
+What they do is offer indemnity usually limited to your purchase price.
+
+If you get sued for patent infringement and lose they will refund the money you paid for their software.
+
+>Suits tend to find this comforting for some strange reason.
+
+Any corporation is like a septic tank. The really big pieces of shit rise to the top."
+73034,Red Hat will fix packages or applications in the standard release if they're not working with certified products.
+73036,"or if you really have some money to toss around there's always oracle's ""offering"" (http://www.oracle.com/us/technologies/linux/index.html)"
+73037,"I administer this extensively.  It's really just RHEL.  Oracle diddles their own packages, and runs a subscription channel similar to RHN, but I have yet to notice a significant difference. 
+
+Pointlessly expensive?  check.  However, if you're supporting clustered RAC/Oracle environments, it forces Oracle to deal with their messy broken crap rather than try to pawn it off on ""your OS vendor."""
+73038,The one the sysadmin knows the best.
+73039,"Sure you need a sysadmin that knows their stuff, but a sysadmin skilled only in bad practices is useless."
+73040,"> Which distro is the best depends largely on what software you will be running on your Linux installation.
+
+This statement goes a long way to determining which distro to choose.
+
+It's would be almost impossibly for me to advise without this knowledge but I can tell what we use and why.
+
+Debian was chosen as our distro of choice for servers for a number of reasons:
+
+* Nearly all the software we run is in house developed, so Redhat's support for the most part would be useless.
+
+* Debian has an package management system which is IMO is much nicer to work with than Redhat or similar. We host our own local repository and often add patches distributed packages to suite our needs.
+
+* We have a really tight SLA for critical issues which Redhat etc... would never come close to meeting
+
+* Debian is stable, ok it might not be the most up to date distro but problems are few and far between.
+
+* Developers like to run Ubuntu on their workstations (although we don't restrict them). Porting updated packages from Ubuntu to Debian is relatively easy.
+
+* The money we save by using Debian means we can hire good sysadmins that really know their stuff who don't need to rely on support from someone else
+
+
+I have rely on support from a alot of 3rd party companies as part of my job as a result I spend far too much time on the phone getting them to fix things. Stuff that should take 5min to fix will take days + lots of jumping through hoops. In my experience the community support I get from Debian is far far better than any commercial support I've had to deal with.
+
+
+All that said then it's always down to the needs of the business. What ever you choose then do so wisely."
+73041,"Did you think about using LTS versions of Ubuntu instead of Debian stable? If yes, how do they compare in your opinion? Pros, cons, ..."
+73042,"Not Gentoo.
+
+(We run Gentoo.)"
+73044,"Not certified on particular hardware, software vendors don't test extensively on it, software isn't certified for it in general and the support and engineering isn't as good as RHEL."
+73045,"What does this mean ""certified""?  I'm not sure what you mean?
+
+Do you run stable or unstable?  On what platform?"
+73046,What I mean is that software and hardware can go through extensive testing and receive a tick of approval guaranteeing it will work.
+73047,Anything that makes it into the stable portage tree has been extensively tested.
+73048,"Yeah, but not by (for example) hardware vendors and software vendors such as VMware. This is what enterprise operating systems need.
+
+* Certified Hardware: 
+https://hardware.redhat.com/index.cgi
+
+* Certified Software: 
+https://www.redhat.com/wapps/partnerlocator/web/home.html"
+73049,"I suppose... I mean, it really depends on what you are looking for.  I have always considered certifications to be more of a ""Hey management"" thing, not something that mattered to me.  I roll out changes on test boxes and then when I am sure, roll out to the rest."
+73050,"I agree it is something to appease management.
+
+However say I'm running software by... Vendor X. Something breaks. I call them up because we have a support agreement... 
+
+Me: ""Oh Hai, your software is broken""
+
+Vendor: ""Are you running it on a certified platform?"" 
+
+Me: ""No"" 
+
+Vendor: ""K, you're on your own.""
+
+Me: ಠ_ಠ"
+73051,"Yeah... someday vendors will understand.  
+
+Yeah no probably not.  
+
+:(
+
+I guess sometimes you just have to dot your i's and cross your t's."
+73052,"http://linuxinstall.net/cto-briefs/
+
+A significant cost/risk they fail to consider is rolling upgrades vs. re-install updates."
+73053,"As far as I'm concerned, Ubuntu or Debian > CentOS > RHEL would be my choices. Mainly because Debian has an enormous package repository.
+
+They are all good choices and quite stable. Ubuntu offers support services, though I've never had to call. This may ease management's fears of being up a creek without a paddle. No software vendor is required to help you unless you have a support agreement, which you **will** pay for in some way. There are many free ways of getting support though (Ex. IRC)."
+73054,Fedora releases get security patches for 12-18 months before you're forced to upgrade. Avoid.
+73055,"Fedora releases turn into the base for RHEL every 3-5 years.  If you'd like to shape the next RHEL, working on Fedora and ensuring it works with your hardware is one of the easiest ways.
+
+As malcontent suggested below, ""debian for the servers, ubuntu for the desktops.""  The same principle applies here except the fresher distribution is used as the base of the stable and not derived from the development tree of the stable (I know there is more too it than that)."
+73056,Avoid Fedora. It's like a beta for future RHEL software. This means it can be unpredictable~.
+73057,"debian for the servers, ubuntu for the desktops."
+73058,"Simple. RHEL is absolutely the only sensible choice. You could contemplate SLES, but outside of the HPC world, RHEL is almost always a better choice. I believe Canonical are offering support for Ubuntu these days, but I wouldn't touch it with a 10 foot barge pole. They simply don't have the engineering resources to back it up. Red Hat and SUSE do."
+73059,"I would say that you probably need to learn the ups and downs of a ""Rolling Release"" and a monolithic release.
+
+Determine whether you would rather deal with *essentially* a reinstall every development cycle and do patches or whether you would rather keep to a rolling release where you do your own rollouts when you feel the installed tree is stable.  
+
+Find out from IT if anyone has strong knowledge of any distro -- thats going to be a big help post install.  Every distro is ever so different (usually in insidious ways) and having even just one local person with good knowledge can save a lot of time and hassle."
+73060,"RHEL... because the need your business/money as much as they need the community, and work for both."
+73061,RHEL undoubtedly. Just check their hardware and software compatibility matrix and you'll understand why.
+73062,"Why don't you ask [Scotty](http://en.wikipedia.org/wiki/Montgomery_Scott)
+?"
+73063,"I recommend Ubuntu for both server and desktop. Choose the appropriate edition. You can pay for enterprise support if you want, otherwise the community around Ubuntu is very good."
+73064,"Hire a team of 5-10 strong linux developers. This should help you in basing your in-house distro on an external distro like debian,gentoo,arch etc.. This holds more water when you have your own package manager and custom deployment mechanisms. This should help you in the long term as well."
+73065,Slackware.
+73067,I've said my peace.
+73069,"Then consider my input useless. 
+
+I've said my peace."
+73070,[Peace?](http://www.usingenglish.com/forum/ask-teacher/12654-i-said-my-peace-piece.html)
+73071,Yup. I've said mine.
+73072,"Arch, all packages are new when installed."
+73073,Its been the most stable distro for me. It just works. Also after Pacman/ yay I can't use apt anymore.
+73074,Same reason lol. Package management in debian based distros is such a clusterfuck. Pacman is superior to apt imo.
+73075,"As someone that seems to always bounce back to debian based distros, how so? I couldn't get the hang of it quick enough last time I tried it and ended up breaking everything almost immediately"
+73076,"My take is pretty subjective but I couldn't get the hang of ppas. I think they're all over the place and I can't really wrap my head on how they work. In contrast with arch based distros, I understand that most of the packages not included in the community repo is available in the aur. If ever I need something, I'll just go there, clone the package that I need, and build it on my system. It's also quite easier for me to track packages outside of the community repo with pacman.
+
+From what I recall, I only broke something when I upgraded my kernel. But yeah, Ubuntu and other related distros are more stable compared to even the most stable arch based distro which is Manjaro. If you have an old laptop, maybe you could install manjaro there and just mess around with pacman until you get comfortable with it. And even if you don't like pacman, there are also software managers in manjaro iirc"
+73077,"""Pretty subjective""? Yeah, you don't have a clue about what you're talking about, but you feel that you are here with in the Arch and Manjaro turf and any fanboyism of this kind is automatically accepted."
+73078,"A few reasons:
+
+1. AUR
+2. Steam out of the box.
+3. Most stable version of KDE I have ever used.  And thats a big win since KDE is my favorite DE.
+4. I don't have to install Arch linux."
+73079,"\#4. Installing Arch as a new-ish Linux user actually helps you understand the way Linux is structured, btw. So I'd advise to give it a shot **in a VM**."
+73080,Oh I have. I've installed Gentoo and Arch in the past.
+73082,What's the difference between maintaining Arch and Manjaro?
+73084,"What part of that is system maintenance? 
+You get a sane DE with literally 1 command on Arch.
+Preinstalled software can be viewed as bloat, as most users won't use 50%+ of the provided packages. 
+Managing drivers, kernels, packages from CLI or UI is just a matter of taste and arguably CLI is faster. 
+Sorry do disappoint, but you'd have to read wiki every now and then on any distro.
+Once again, what of the above is system maintenance?"
+73086,"Usually the one I'm using right now. Which is manjaro atm and I'm loving it, steam working out of the box was a huge win after the last linux foray a year ago with ubuntu."
+73087,To be honest most Distros I've used Steam worked right out of the box.
+73088,I agree with you on Steam. Lutris also worked much better for me than on my previous Linux Mint 20 installation.
+73089,"Why Manjaro is my (current) favorite distro? 
+
+Its like... well, I prefer to call for Pizza Delivery rather than make my own Pizza."
+73090,"Back in the day, Canonical called Ubuntu ""Linux for human beings.""  
+
+
+These days, Manjaro is, in terms of ease of installation, welcoming community and stability, and suitability for new users, the new Ubuntu. It allows the AUR for the rest of us."
+73091,"Completely agree! I'm net to Linux, but I was making attempts several times already. Have been spending some time with Ubuntu (since it's always advertised as the best place to start), Fedora and a few days ago decided to give Manjaro a try and I was very pleasantly surprised how easy everything was, TLP and powertop included, switching flatpak and snap on is extremely easy and even stuff like manjaro vaapi package available as one installation, including multiple drivers you need, make it so easy to use it. Manjaro's UX for me is way ahead Ubuntu's and after couple of days of testing I set up monthly contribution on their website. Love it!"
+73092,"I've only been using Manjaro for about a year now. I first installed Manjaro Gnome version on my MacBook Air (2011) as Apple quit supporting it. I then got ehe PineBook Pro which came pre-loaded with Manjaro KDE. Liking the KDE version better than Gnome, I replaced it on the MBA. 
+Last week, I have replaced Mint 20 with Manjaro KDE after experiencing several annoying issues, not to mention a lot of crap laying around in the filesystem, that suggested it was time to reload. I am running the trsting branch on my daily driver and PineBook Pro, and stable on the MacBook Air. The ability to switch between stable/testing/unstable was a big selling feature. The hardware enablement and newer kernel support than what is offered by Mint / Ubuntu, was also an influential factor. Aside from that, I'm really liking what the KDE team has accomplished over the past 7-8 years."
+73093,"Although I've migrated to Arch(btw), Manjaro is the distro I'd recommend to any friend or acquaintance. 
+
+Reason? It just works out of the box and has almost everything one would ever need. Their themes look great without the need to tinker(especially the Gnome one). Manjaro's store is amazing and makes AURs easy to use (I don't use snaps)."
+73094,Why did you migrate to Arch?
+73095,"Easy install, working out of the box, software management and the comunity."
+73096,"It's worked mostly out of the box for me. I had a problem with no DisplayPort sound coming out of my Radeon 5700 XT, that traced back to the 5.9.15-1 kernel. Upgrading to 5.10.1 solved that problem."
+73097,"solid and stable, clean looking, at least the kde and flawless, no bugs just runs smooth. without a doubt it is the best distro right now"
+73098,whats that task manager in the i3 screen?
+73099,i think bpytop
+73100,"Full disclosure: I don't use Manjaro as my primary Linux distribution any more. I got a new (used) laptop and Manjaro doesn't run that great on it for some reason. I don't feel like taking the time to figure out why. I tried Solus and it's running surprisingly well so I'm going to stick with that for a while.
+
+All that being said, I do still run Manjaro on my desktop PC (when I'm not gaming) and it runs great there! I like how it looks out of the box, there isn't a lot of junk that I need to remove once I first install it, and it's stable enough that I've never really had issues with it. For most people getting into Linux, it's my favorite distro to recommend as well! Much love for Manjaro!"
+73101,Which distro are you using on your new (used) laptop?
+73102,"Dell Latitude E7470.. I think that is the one I was talking about. It's been a while. At this point, I don't remember what wasn't working that great on it. I'm actually not using Solus on it any more either. Went with Pop_OS and have been really happy with it on the laptop."
+73103,"Having tried many distributions over the years, Manjaro is the first distro that I could honestly say is worthy of daily, primary use. It’s super stable and performative with coding, gaming, music production (Reaper, Bitwig). It’s beautifully customisable. The only thing I wish it had is Mac OS hotkeys as I’m so accustomed to Mac shortcuts. I understand this is a Linux issue and not specifically Manjaro."
+73105,"If you go into System Settings > Keyboard > custom, you can apply a Mac OS profile for hotkeys but even after a reboot it doesn’t make a difference."
+73106,"Manjaro has been my linux distro for the past 2 years. Its stable, works out of the box and has an awesome community.
+
+I had to use Windows 10 for the last 20 days due to some project work that had specific requirements, and here's what happened:
+
+1. Sluggish OS, regularly needed ""cleaning"" software
+2. Desktop would not load on initial login. Had to switch user and then login again.
+3. Got random ads from Microsoft for ""Edge"", when I was using Edge.
+4. Battery life was a bit better, but it would soft shutdown to preserve battery - not good when work is running in the background.
+5. Received Updates that killed my system. Had to completely reset Windows 10, affecting time on work.
+
+Manjaro? Works like a charm. I use xfce now, but in the past I used GNOME and KDE. I love GNOME more than KDE (just my view) because it was so simple and out of the way. Now Im using Xfce, and its so fast, and never does the crap that Windows did in 20 days. My only wish is that battery life would be better on linux.
+
+Kudos to the Manjaro team for something so awesome!"
+73107,Which laptop are you using?
+73108,"I have found damn near every Linux distro clunky, even Ubuntu. I am quite comfortable with Linux, administering 300 or so as my day job. Obviously the server space is a bit different. Anyway..
+
+Been looking for an alternative to Windows for a while and Manjaro started popping up quite a bit. So, just over month and a half ago I split my system partition and dual booted Manjaro. Basically played around for about 2 days, and man was I surprised at how refined and polished and functional it looks, feels and is.
+
+Aftee the 2 day stint, I bought a new NVME drive, loaded up Manjaro, and now use it exclusively.
+
+I could easily recommend Manjaro as a replacement to Windows and probably even Mac.
+
+Been a breeze with KDE Plasma and I keep exploring and learning. Currently even running Machine Learning on my system along with Lutris and Steam.
+
+Only weired behaviour is with games, specifically when Proton or Wine is involved.
+
+I do believe that Manjaro is a damn good argument for why game devs should give Linux some love.
+
+Very happy. For a moment I was ""missing"" Windows because of work setups, but quickly found out that my dumb ass misconfigured VPN and RDP bits and bobs and as soon as I fixed the settings, everything worked flawlessly.
+
+Kudos to Manjaro, and I hope we can get it more mainstream."
+73109,It met or surpassed my expectations in every category. The only reasons I went back to Windows 10 was native hardware support and slightly improved Radeon performance. If I ever have the desire I can very easily switch back or dual boot.
+73110,"i admin cent for a living, and i've used fedora since redhat released it.  frankly i was bored with fedora and just wanted to try an arch based distro.  i've dual booted this machine for years, i WORK in linux and game in windows.  more and more games are working in manjaro.  I'm usually not a fan of rolling distro's but manjaro is pretty careful and timeshift really is a lifesaver."
+73111,"I've installed it 3 times this year and had problems every time. Seems there are cases where it doesn't ""just work"" which takes me back to the Linux experience of the '90s."
+73113,Which reminds me of the other reason that I don't use Manjaro. There's a high proportion of arrogant twats on the subreddit.
+73114,AUR and up to date native packages...
+73115,"I'm very, very new to Linux. My experiences with it (i.e. Linux as a platform) so far are some Knoppix and Kali Linux, both as live versions to restore/save files from friends’ bricked PCs that they didn’t back up.
+
+I installed Manjaro on a former Windows machine that, under Windows, wouldn’t even shut down and restart properly anymore. Updates would fail, because the laptop crashed on trying to shut down. Manjaro revived that thing and it’s working beautifully. I find myself enjoying it a lot, even as a newbie. Whenever something doesn’t work (right away), you will usually find a solution or you can ask the community for help. Since it’s based on Arch, there’s also a ton of documentations and a nice wiki.
+
+One question I couldn’t really find an answer to yet, however: What are the real differences between Manjaro and Arch? I asked two Arch users from a chat I often visit and their answer was … not helpful, to put it mildly."
+73116,Pacman and because it's pretty stable.
+73117,"I've had a wonderful experience with Manjaro. I was a long time Linux Mint user and migrated over to Manjaro and honestly never looked back. Everything works perfectly, AUR has almost everything anyone would need.  I got steam, retroarch, lutris working perfectly. Only downside I found was the office apps. They are not the best but they get the job done."
+73118,"Rolling release with no PPA's. I always have the latest version of my software from one repository. My install has been rock solid stable from the start. Version updates in Ubuntu and Mint were a lot of work. 
+
+No interest in switching to anything else, and the Arch ecosystem is definitely my home indefinitely."
+73119,"My laziness to install anything else, actually...
+
+Manjaro is working tirelessly on my machine since 2014 where I installed it just to test :D"
+73120,it's just arch with a streamlined installation to me.
+73121,"It runs really well on my laptop. Keeps the fans quiet. A rather minimal install of Arch is faster and snappier, but seems to heat up my laptop and get the fans going. I guess Manjaro comes with some sort of power management already installed, but since I've got no clue as to what exactly, and I'm too lazy to look it up, I just keep using Manjaro.
+
+Since the two things I most value in a laptop is it being quiet and the keyboard being good, I'm all set!"
+73122,"According to the article, I downgraded.
+
+FML."
+73123,"It just works, and I also love the teal accent color."
+73124,"initially the preinstalled backgrounds, I'm not kidding, but then just felt comfortable with Manjaro and I stopped distro-hopping"
+73125,"Stable distribution. It receives updates really fast and never encountered any issues with it. Pacman/pamac is great. Easy integration with the AUR is a big plus. I quickly left all Debian based distro's after I started to use Manjaro, a new world opened up. It's my main distro together with openSUSE for months now."
+73126,"Because it is based on Arch, it is a lovely user friendly distro. However, the administration of their forum is terrible, you will get banned just because you ask a question and ask them WHY."
+73127,KDE connect
+73128,"Well, Manjaro is my retro-gaming distro of choice. It's the only distro where I could install Need for Speed 2, a game from 1997. 
+
+Linux is the same everywhere, more or less (the same kernel and applications), the difference is the community behind every distro, and the Manjaro folks are the best. It's a real pleasure to have something broken and work it out on the forum with them."
+73129,"Have tested many kde distro, but no one has given me the stability I was looking for. All kde distros had some kind of serious error. Have used linux for over 20 years. My conclusion is clear, Manjaro xfce I landed on. Their kde distro, on the other hand, was a mess that most kde desktop I have each gone in. KDE was a more stable desktop environment at the time, like the gnome 2 series. mate has never been able to take over the gnome 2 series that should never have been phased out."
+73130,"Manjaro is not good for beginners... It is a good distro, great in fact, but not the best for new users...
+
+There is no ""best"" distro, but I would highly recommend one with a more stable release schedule, better stability, and ""simpler"" to understand for new users I would recommend Linux Mint or PopOS, followed by Ubuntu or any of it's variants and spins."
+73131,"Try the [distro selection page](http://www.reddit.com/r/linux4noobs/wiki/distro_selection) in our wiki! 
+
+Try [this search](https://www.reddit.com/r/linux4noobs/search?q=flair%3A'distro'&sort=new&restrict_sr=on) for more information on this topic.
+
+**✻** Smokey says: take regular backups, try stuff in a VM, and understand every command *before* you press Enter! :)
+
+^Comments, ^questions ^or ^suggestions ^regarding ^this ^autoresponse? ^Please ^send ^them ^[here](https://www.reddit.com/message/compose/?to=Pi31415926&subject=autoresponse+tweaks+-+linux4noobs+-+distro+selection).
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/linux4noobs) if you have any questions or concerns.*"
+73132,Ubuntu is easy to learn or Mint in my opinion
+73133,Mint crashed for me so idk
+73134,"Best depends on the consumer. Maybe you mean least effort for someone transitioning from \_\_\_\_?  Does the OP want rolling release, server like, etc? I've never seen someone that used Manjaro long term and liked it. -Most of us switched to Arch and are happy there."
+73135,"If I understood correctly its more about the desktop and help files of the Distro than the actual distro itself.
+
+ Of course it should be one .iso File, burn it to a USB stick with rufus (from windows, dont know equivalent in Linux yet), start it, install it, ready. Not something where you have to pick everything yourself.
+
+I liked Linux Mint but it just crahed two times and I had to solve it with a reboot. I recommend the KDE desktop, its the most similar to Windows, beautiful and includes some useful tools and the ability to theme and change everything really well.
+
+Atm I use MXLinux, before tried Mint and manjaro but manjaro has a divided reputation. It is based on Debian (the origin distro of many) and is pretty popular, without a company behind it. The KDE version is pretty new and there is only one type, but its the newest supporting new hardware."
+73136,"I must say just try arch and from there you will see transition to other distro very fast and easy.
+
+https://wiki.archlinux.org/title/Installation_guide
+
+https://csdietz.github.io/arch-beginner-guide/"
+73137,Some people just want to watch the world burn...
+73138,"There is no best. I can suggest three, you pick the one you like.
+
+Ubuntu, Mint, or PopOS."
+73139,"I like [Zorin OS](https://zorinos.com), a Ubuntu derivative. Simple, stable and quick."
+73140,"Debian.
+
+I would advise anything even remotely like a rolling release be avoided for beginners. This includes Arch and Manjaro. Terrible beginner distributions."
+73272,Mint
+73142,Just give Ubuntu a try
+73143,pop os

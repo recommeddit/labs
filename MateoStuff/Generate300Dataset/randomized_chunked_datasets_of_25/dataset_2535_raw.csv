@@ -1,0 +1,90 @@
+Paper like is what I put on my 12.9! Just got it. Feels amazing
+"Having plenty of counterspace is a part of this as well though, if you have a small kitchen, consider investing in a couple of taller, sturdy tables to prepare food on. It will make your life much easier. Also get a large cutting board. Once you've found a board you think is big enough, get one a little bit bigger, it really makes cutting/cooking much more enjoyable."
+"I'd just choose one from the list, but then I'd get it and it would sit on my shelf due to my poor time management.
+
+(oh look, I actually have the Covey book on my shelf and I haven't touched it in months)"
+"Thanks. Is this along the lines of what you do?
+
+```
+fetch(url)
+  .then(response => {
+    if (!response.ok) {
+      throw new Error(res.status);
+    }
+
+    if (response.status >= 200 && response.status < 300) {
+      return response.json();
+    }
+  })
+  .then(data => {
+    // Work with JSON data.
+    // ...
+  })
+  .catch(error => {
+    // Handle both connection errors and 4XX/5XX statuses.
+    // ...
+  });
+```
+
+I am trying to understand: how would this different from
+
+```
+axios(url)
+  .then(response => {
+    // Handle 2XX responses.
+    // ...
+  })
+  .catch(error => {
+    // Handle 4XX and 5XX responses.
+    // ...
+  });
+```
+
+because with
+
+```
+if (!res.ok) {
+  throw new Error(res.status)
+}
+```
+
+it seems that any non-ok statuses would trigger the `.catch()` handler. And if so, how would one distinguish between a 4XX/5XX status error and a connection error while in the `.catch()` handler?"
+"Have you ever noticed how people arguing things ""ought to be up to the states"" are only ever making that argument about things they don't want to happen but look like they're going to anyway?"
+AMAZING show!!!!!
+[https://github.com/visionmedia/superagent/releases](https://github.com/visionmedia/superagent/releases)
+Performance is above average
+">felt like it shot itself in the foot in too many ways
+
+This is exactly how I felt as well. Literally everything great that the game does is ruined somehow sooner or later. Bosses are epic as fuck but fighting them is awful. (especially >!leviathan in chapter 8, it looked so fucking epic but all I did was hold down the attack button.!<) The world is beautiful but boring. The story is interesting but half of it is missing... I was so frustrated by the time I was done with the game because it had so much potential."
+Well it’s turn based so you aren’t gonna be needing to rapidly hit a bunch of mapped keys like an mmo or something. I never played it on controller just pc but I think the fact that it is turn based means it would work well even if a controller has less buttons than a keyboard.
+"There's also an amazing antique car museum as you're heading to Little Rock from Fort Smith. They've got a couple of Elvis cars and stuff.
+
+It's kinda cool how if you drive from NW Arkansas to SE Arkansas it goes from all mountain with trees to hilly with farmland everywhere, then it just flattens out into trees everywhere. Just everywhere."
+Take online classes at an accredited college.  Don't do only online college.
+"L-Hotel in Paris
+
+[https://www.l-hotel.com/](https://www.l-hotel.com/)
+
+&#x200B;
+
+Amazing service, unique rooms, private swimming pool that you can book. very old historic property and a Micheline star restaurant with amazing food. I will never forget my stay there."
+"As a person with teeth, I recommend them. In all seriousness, after I started using it I felt like I hadn't brushed properly in my entire life. It's a night and day difference for me and I'll never use a regular brush again."
+very
+"I never suggested he was doing doctorate or post-doc level work just that it was non introductory. Your bar for what is the minimum requirement for statistical rigor is insanely high. You don’t need a PhD or even a masters to do modeling especially if you’ve been working with models for years. The suggestion that only doctorates with 10 years of experience can be trusted to do mathematical modeling would preclude most of the people who do things like financial modeling. I work in biotech on a small r&d team and there’s plenty of relying on masters and undergrads to do a lot of the mathematical work. It’s refined as a team and everyone’s input is taken seriously. I say this with the best of intentions, but I think opening up on who has valid input or who could be trusted to do mathematical work would serve you well in your life especially if you do research. I’m often shocked by what random bits of highly relevant knowledge people from diverse backgrounds have. 
+
+To your point about election data. There is lack of election data, particularly for the presidency (1 data point every four years). 538 uses polls though which has a lot more data points and historical track records. But being successful in an environment of low information I think shows a lot of statistical intuition even if they lack formal training. 
+
+And he does make statistics interesting. Which, to get back to the original comment, was why Silver’s book was suggested, not because it was full of mathematics and deep explanations of esoteric subjects."
+Brooklyn99!!!
+it's like costco but lazier.
+Im doing fine with a Ryzen 3600 + RX 580 8gb. I haven't found a single game I can't stream yet.
+;)
+"As a dude half the age of my dad, this is also what I want."
+I fourth the motion. The list can get fucked. The motion is passed.
+"> It didn't have the feel of an electric car it felt like an every day gas car and i was very impressed. 
+
+The Mirai is basically an electric car but without a large battery. It should drive like most EVs."
+"Also their prominences are higher than most stuff out west.
+
+The western peaks are craggier but the east coast peaks make you walk vertically nearly as much."
+Yes your right but to be honest I was never limited by that I exceeded it allways and was limited by my connection / hardware

@@ -1,0 +1,651 @@
+idx,text
+4512,"I agree with you, but just to point out what OP said: 
+
+>I don't like to use VIM or Notepad++ because they're ugly
+
+He/she is looking for alternates to it"
+4513,"Has the OP explored the Notepad++'s Style Configurator (not sure why I'm attempting to convert the OP at this point, but...)?
+
+[Imgur](http://i.imgur.com/wI1vLGI.jpg)"
+4514,"I, for one, will work harder to actually read the entire (some/most/any) OP comment before posting a response."
+4515,"TextPad is pretty nice. It's macros are a bit more straightforward than Notepad++ I've found. It seems to be stuck in time, but I think that's a good thin :)"
+4516,"I like ActiveState's KomodoEdit. The main reason is it has similar or identical features and behavior and look and feel on Linux and Windows and Mac. I can switch OS's and have at least a text editor with the same look and feel, function keys, macros, ... Yes, people will say the same about emacs or vim or similar, but if you're looking for alternatives..."
+4517,"Emacs can be rather beautiful.
+
+Seriously, as this is about **free** software: Have you tried the ST clone [Lime Text](http://www.limetext.org) or - if you like ribbons - [BowPad](http://stefanstools.sourceforge.net/BowPad.html)?"
+4518,I've never heard of Lime Text but it looks almost exactly like what i'm looking for. I'm being told to use Sublime Text but technically it's not a free product. Sure evaluation is indefinite but that's not free. Thanks a ton!
+4519,Adobe's free and open source [Brackets](http://brackets.io/) looks pretty neat.
+4520,Isn't that only HTML/CSS?
+4521,"Brackets is what I use on a daily, and I quite like it. Works for any language really."
+4522,"Damn, you're right. I'll see myself out."
+4523,I always use Notepad++ and Sublime Text but Sublime Text is best off al editors.
+4524,"<sarcasm>Yeah, it's way more important to have a pretty editor than a functional one.</sarcasm>"
+4525,why not both?
+4526,"Because you don't stare at your screen while quickly typing plaintext, usually."
+4527,I do. I'm almost always looking at the screen.
+4528,"What are you looking at, then?"
+4529,"Various things. My whiskey, preferably. I don't need to adore the window decorations all the time."
+4530,"Fuck having an aesthetically pleasing environment that you enjoy producing things in, right? Peasants."
+4531,"I'm a coder, not a designer. Emacs on full-screen (with no visible GUI elements) is *quite* pleasing with a decent theme."
+4532,If you want a good slim editor with good package control try [Sublime Text](http://www.sublimetext.com/). If you want an IDE with really good Java and C++ support try [Eclipse](http://eclipse.org/) out.
+4533,"If you're a Windows user, I really like [PSPad](http://www.pspad.com/)"
+4534,"Vim personally. Simple, but has everything I need. I've looked into other options, but personally none provide anything that would make me want to stay. Emacs seemed promising, but I quickly learned that it would be a challenge because I was born deformed (I only have 10 fingers)."
+4535,"Vim (more precisely neovim) and Emacs are my weapon of choice.
+
+Basically, I'm using neovim for coding and Emacs for administrative tasks. It's a weird mix that I organically grew into."
+4536,"id pick vim as an editor on emacs as well, it doesn’t have a very good one"
+4537,"You should enable toe input, then you have upto 20 digits to input with...though still short of the required 9,999,999 digits required."
+4538,"VSCoders (looking at you, u/CalcProgrammer1 and u/pnutjam), have you tried [VSCodium](https://vscodium.com/)?
+
+From what I understand it's exactly the same, but without the 'Microsoft customization' (whatever that means). I'm not a FLOSS/FOSS purist, so it doesn't really matter that much to me - just wondering how it compares to the 'official' product. A few of my Windows-only friends swear by VSCode, so I might give that a shot :)"
+4539,Thanks for the VSCodium link!
+4540,VSCodium takes Microsoft telemetry out of VSCode so the app doesn’t phone home — if you care about privacy.  Otherwise it tries to be the same as VSCode.
+4541,Wonder if VSCodium has arm64 builds.  I have official VSCode on my PC Ubuntu install (which is on an external SSD so I can swap it between my machines) but I wanted a good code editor for my Nintendo Switch (running L4T Ubuntu 18.04) and VSCode wasn't distributed for arm64.
+4542,According to the release notes for VSCodium 1.32.0 ([https://github.com/VSCodium/vscodium/releases](https://github.com/VSCodium/vscodium/releases)) they did some work with arm64 - you might be in luck :)
+4543,"Doesn't look like the repositories have ARM builds, but I can try to build it from source when I have time."
+4544,"> The ARM architecture is not currently supported but is being worked on. 
+
+[https://github.com/VSCodium/vscodium#supported-os](https://github.com/VSCodium/vscodium#supported-os)"
+4545,"Telemetry is super easy to disable in the official Microsoft package, and first thing I do when I install it.
+
+* File -> Preferences -> Settings
+* Type `telemetry` into search box
+* Uncheck `Enable Telemetry` and `Enable Crash Reporter`
+* Restart"
+4546,Microsoft's binary still has other tricks up its sleeve
+4547,"I suspect so, but haven't seen evidence of it myself. 
+
+Will have to take a peek over at VSCodium repo someday to see exactly all what it is they are removing from it.  Simply disabling telemetry is enough for me, and that is more for performance reasons than privacy concerns."
+4548,"https://github.com/Microsoft/vscode/issues/45978  
+https://github.com/Microsoft/vscode/issues/49159
+
+Atleast ffmpeg and electron binaries are downloaded by Microsofts binary"
+4549,"Seems Microsoft's entry into the open-source world is a bit misguided, and not really true to the most basic open-source principles of who they are trying to target. I have seen many similar exchanges on GitHub with the dotnet project, and apparently it is not isolated to that team.
+
+Willful ignorance is really the only explanation, as surely they are able to understand that people might think many of their practices are a bit shady.  They are undoubtedly intelligent and talented devs, just don't care about their customers privacy rights apparently. 
+
+Hmm, making me do some reconsidering as far as simply disabling telemetry now. Will probably be using the VSCodium build scripts to do myself, if nothing else, just out of principle."
+4550,But VS Code is also open source. What's the point of this?
+4551,"VSCode is not open source. It's based on an open source project, but builds from Microsoft have telemetry and other non-open components."
+4552,"In terminal: Vi/Vim
+
+GUI: Sublime Text"
+4553,"I personally use vs code with vs-vim (I think it's called). It's surprisingly good!
+
+However I recall the available vim packages for sublime were mediocre or way too much of a hassle to install"
+4554,Try atom I find it most reliable and it has amazing plugins to help you with anything.
+4555,"Super versatile, easy to use and I love the git integration."
+4556,the git integration is a lot of time saving. Makes my gitting better personaly :)
+4557,"My most used editors:
+
+nano - Simple command line editor, preinstalled on most distros, non-standard key bindings but they're listed on screen.  Good for basic editing, but it is limited in what all it can do.
+
+micro - A command line editor that tries to be an improvement of nano.  Uses familiar Windows style keybindings for the most part.  On screen prompt for accessing keybindings and help.  Good mouse support for a text-mode program.  Good balance of features and ease of use.
+
+vim - I've never wanted to sit down and relearn everything I know about editors to be able to operate vim effectively.  It is powerful, but it has its own keybindings and command conventions and I'd say it's not easy to use for that reason.  I know enough to do basic edits when a system only has vim (or vi) but that's about it.
+
+gedit - I haven't really liked gedit since the transition from GNOME 2 to 3.  Old gedit (forked as pluma in mate) is pretty good but the new gedit UI is weird and unnecessarily dumbed down.  The search function using the up and down keys breaks convention shared by a lot of other editors, where enter keeps searching.
+
+VSCode - I've been using this a lot at work and it is available on Linux as well.  Seems to do a great job at finding symbols in files even across a large project.  I mainly do C and C++ though.  Git integration, built in file compare mode, good search features, and familiar keybinds (for the most part, but you can rebind easily as well).  Fluid UI with nice themes.  Downside - it's based on Electron and eats resources.
+
+Notepad++ (Windows only) - Another good editor, familiar keybindings, good multiline editing, good search features.  I use this one at work a lot too.  It works in Wine on Linux too."
+4558,">Good for basic editing, but it is limited in what all it can do.
+
+Nano should not be underestimated. The editor offers much more than just the functions displayed in the lower bar.
+
+https://www.nano-editor.org/dist/latest/cheatsheet.html
+
+https://www.nano-editor.org/dist/latest/nano.html"
+4559,"Finally, someone who gets it."
+4560,"To be honest, I also assumed for a while that nano only has the functions mentioned in the bar. Only after reading the documentation ( originally because of the .nanorc file ) I realized that the editor is more powerful."
+4561,Now I <3 nano more. Thanks...
+4562,"I have a place in my heart for nano since it reminds me of pine, but I haven't used it in a long time since I got used to vim."
+4563,"Nano never gets the love. I'm always using nano, or VSCode for anything more."
+4564,"> Notepad++ (Windows only) - Another good editor, familiar keybindings, good multiline editing, good search features. I use this one at work a lot too. It works in Wine on Linux too.
+
+There's also [NotepadQQ](https://notepadqq.com/s/), which is enough like Notepad++ that it's almost a direct port."
+4565,"Fwiw, Kate also seems to have a similar layout and function set to notepad++. I haven't exactly a/b compared them, but they're both very rich in features and fairly easy to figure out"
+4566,"> Notepad++ (Windows only)
+
+Fun fact, Notepad++ embeds the FOSS Scintilla editing component. In other words, SCiTE on Linux is basically the same thing. There are some UI differences but the editing, folding, coloring, etc. are all the same."
+4567,"Emacs via Spacemacs. It's not a small thing, but I use it for several things, so that's fine."
+4568,"I chose vi to learn as an editor because of it's pervasive default availability in the \*NIX world, so I use it as my primary editor on everything, even Window$."
+4569,Thank you.  Taking the time to learn powerful tools that are available on almost ever nix distro by default is invaluable.  This point seems to be very hard to drive home with the new generation of linux users.
+4570,Vim
+4571,I love VIM. I use it for coding web applications front and back.
+4599,Emacs.
+4573,I use vim since most of the time I am in terminal. I wanna try emacs soon tho
+4574,"Kate, because it works well for simple text editing (which is what I do)."
+4575,"Emacs, I've used emacsen since 1982, since around 1987 mostly GNU Emacs.
+
+Compared to e.g. vi/vim it's ""mode free"" regarding input versus control. That is, you are all the time in ""insert mode"" and perform the commands with Ctrl-keys. The basic Ctrl-keys are the same as the default editing keys in bash. It is easily programmed using emacs lisp, where the original Multics emacs I used was programmed in MacLisp (has nothing with Mac to do), and it has several types of macros, that is recording your key strikes to repeat the same thing over and over, and a macro can be compiled to a lisp function.
+
+It can be used in ""server mode"" which implies that you only need to have one instance of the editor running despite you open it from the command line in different terminal windows.
+
+Regarding python, I consider it not ideal, as by default a program line, due to python's white space syntax is not unambiguous, will be reindented when it's ambiguous when pressing TAB. Therefore I've hacked both the python mode somewhat as well as my style of python programming, by introducing a [""safe"" block structure, like this](https://imgur.com/Xv2UyvJ). Regarding the other editor Geany, you mentioned, I don't know it at all, and regarding vim, I only know that I don't like it, I basically know only one command, how to exit the editor."
+4576,">The basic Ctrl-keys are the same as the default editing keys in bash. 
+
+Actually, it's the other way round - bash uses emacs keys by default."
+4577,"> Actually, it's the other way round - bash uses emacs keys by default.
+
+Yes, of course I understand this, but i was communicating with someone (the OP) likely more used to bash than emacs, as emacs wasn't even on the list of editors."
+4578,I have shit in my current .emacs file older than anyone born after 1996 👴
+4579,"Regarding my .emacs file I just found that it has been in the same shape since the early 90's.
+
+;; .emacs for UNIX environment!  
+;; Author: Roland Orre, SANS, NADA, KTH  
+`    (if (file-exists-p ""~/.myemacs.el"")`    
+`        (if (or (not (file-exists-p ""~/.myemacs.elc""))`    
+`          (file-newer-than-file-p ""~/.myemacs.el"" ""~/.myemacs.elc"")) `    
+`        (byte-compile-file ""~/.myemacs.el""))) `    
+
+`(cond ((file-exists-p ""~/.myemacs.elc"")`    
+`        (load ""~/.myemacs.elc""))`    
+`       ((file-exists-p ""~/.myemacs.el"")`    
+`        (load ""~/.myemacs.el"")))`
+
+PS. please help me someone, the lines are still collapsed despite I use ""`"" as start end and use four blanks at the en of each line..."
+4580,Vim or if you want gui I personally recommend KATE.
+4581,"* Pluma
+* Nano"
+4582,"Vim or Geany. Both can be installed on Linux at home and at work behind our corporate firewall, which causes problems getting plugins for nearly everything else."
+4583,I use Nano and Geany.
+4584,Spacemacs. Basically emacs with vim flavor. It still blows me with minimal configuration yet seamless experience
+4585,"I go for VS Code now because it is free and can be used across, Windows, Mac and Linux platforms.
+
+Normally for Windows only, notepad++ is the best, but VSCode wins due to it's ubiquity"
+4586,"sublime
+
+* fastest gui editor ive ever used
+* so simple and clean and intuitive to use 
+* good looking out of the box
+* shitload of packages to extend functionality that are dead simple to get and manage
+* absolutely love [elevate to root on save](https://giant.gfycat.com/MistyNarrowGoral.webm) that I had to do nothing to get, it just works, out of the box..."
+4587,"It seems that I might be among the  last of the joe users, but it is the only editor I use in shell.
+
+For the actual development I use jetbrains IDE.  I am used to phpstorm, so pycharm might not be the best IDE for python (or it may be), but the UI is the same as phpstorm so switching between is really easy (it is a bit of memory hog (java), but these days that is not even close to being an issue."
+4588,"vi, or vscode... Yeah, I know, but vscode is pretty nice if your going to bother with a gui."
+4589,I use nano a lot. Also vim.
+4590,"It may not be in the ballpark you are looking for, but I purchased a lifetime license for Ultraedit maybe 15 years ago. Back then it was Windows only, but that is where I wrote most of my scripts from. These days, the license is cross platform. 
+
+I know there are many tools listed here that are more in line with the linux way, but the feature set, and ease of use is pretty outstanding and I still use it to this day. The key features that I really like are:
+
+1. Code folding
+2. Bookmarking
+3. Column mode (including sum columns)
+4. Easily recordable macros"
+4591,"I mostly use sublime text for anything that I'm planning to spend more than a couple minutes on, and nano in the terminal for quick stuff."
+4592,"Lots of qtcreator these days, even for non-qt projects.
+
+geany for most problems.
+
+busybox vi for everything else."
+4594,"Technically, you don't even need to buy a license if you don't have any problems with the Nag screen, because the trial version runs forever. In fact, the Nag-Screen is so quite simple implemented that you can deactivate it quite easily (no I won't give you any instructions)."
+4596,">It's a one-off payment licence, so you don't ever need to purchase it again once you have it, unless of course you lose your licence for it.
+
+If you want to stay with the current version, yes. If you want to upgrade to version 4 sometime (I assume that version 4 will be released one day) then you have to pay again.
+
+https://www.sublimetext.com/sales_faq
+
+>It's well worth paying for.
+
+I wouldn't disagree here. Therefore I didn't give any instructions how to deactivate the Nag-Screen.
+
+>The message for getting a licence only pops up when you open Sublime Text and when you go to save things.
+
+I have received the Nag screen only at irregular intervals when saving."
+4597,"Vim when I'm mostly in the terminal, gedit elsewhere."
+4598,I use [Micro](https://micro-editor.github.io/) or [Sublime Text](https://www.sublimetext.com/)
+4600,I use neovim for everything. It's basically vim but with better default settings and it feels faster (could be placebo though).
+4601,Mostly Vim. Started out due to availability and working a lot through SSH on servers but eventually I got faster with it than with regular editors.
+4602,"Notepadqq and Qownnotes
+
+&#x200B;
+
+Notepadqq for anything complicated with markup.
+
+&#x200B;
+
+Qownnotes for general notes that syncs to my nextcloud and to my phone"
+4603,"You seem to have an affinity for editors with the letter 'q' in their name XD
+
+Notepadqq is the cross-platform version of Notepad++ isn't it? I loved N++ but switched to Geany for a more consistent experience between Windows and Linux. I hear good things about Nqq though :)"
+4604,"yeh, its pretty much notepad++ very little to differentiate it"
+4605,Gui: leafpad Cli: nano
+4606,"Kakoune.
+
+Vim-like, just with a more usable design philosophy, better discoverability and interactivity."
+4607,"If you know vim, just stick with it.  It's about as difficult to learn as emacs and it's just not worth it to duplicate the effort.  And, it's installed everywhere."
+4608,Vim and gedit for me.
+4609,"`emacs` usually. I don't spend enough time in a Linux editor to keep `vi` paged in. While `emacs` is not exactly intuitive, it's a lot easier to find out things like the right `M-x command`. Also a few of the keystrokes are implemented by default in MacOS, which I use quite a bit (although I think there is a way to switch to `vi` keystrokes)."
+4610,"Vim ,and if yoimu fancy new shiny  tools, atom"
+4611,microsoft powerpoint
+4612,"I recently started using Atom and I'm really liking it so far. Project tree structure, multiple panes, git interface. Its also cross platform so I can use it in linux and windows. I mostly used Kate and Gedit in the past."
+4613,"You asking Linux users what kind of text editor. Oh man. Let's a war star. 
+The best editor is the one you'd like. Plain and simple"
+4614,"I don't use what you use, but here goes for my experience.
+
+I love Vim's modal and verb-object way better than anything else. I want that everywhere I can. That said…
+
+* For big projects and frameworks a good IDE that supports vim plugins would feel a mistake to ignore. With a lot of work, snippets and macros one could sort of replicate the workflow, but that would be a whole part of your life dedicated to it for a long time. I use PHPStorm for Symfony, so where you have jinja2 I have twig and where you have Python I have PHP, and trust me it's bloody awesome when I create a controller, a template and whatnot and the right use statements are included on the go. Hard to beat really.
+* When project-awareness is not warranted. Vim. But Spacemacs has qualities and defects of Vim with the best Vim emulation possible. Plus discoverability. Plus excellent defaults. Plus more or less standardized plugins ([layers](http://spacemacs.org/layers/LAYERS.html)), sometimes making it WAY easier to get stuff up and running than spending the right amount of time and testing to find the right Vim plugin for you and the right way to install + configure it. With Spacemacs you put the name of the layer (eg ""yaml"") in the right place in the main dotfile (easy peasy), you reload and bam you're good to go with the community's preferred solution. I find that building an emacs config from the ground up is a tedious whole enterprise in and of itself, while building your favourite things on top of Spacemacs is fun.
+
+If you feel like giving Spacemacs a go,  as a Vim fan with a terminal-multiplexer addiction (I love byobu to death), I'll suggest configuring your setup to use it as a daemon early on, so that once the daemon is started (ie at the init of the OS) you can start new instances way faster, and all communicating with one another. In terminal mode if you like ( ""-nw"").
+
+&#x200B;
+
+All that said, whenever I can I still use Vim (Neovim actually), because the more lightweight the better, always."
+4615,"Personally I prefer Atom. I like the fact that you can transform it from a simple text editor to an IDE. Also I am not a big fan of command line apps in general, like vim. I find them a bit complicated to use."
+4616,"I personally use vim for text editing, Atom sometimes, and Leafpad for an equivalent of notepad.exe"
+4617,I've been using neovim lately and it's pretty great
+4618,"If it's something small (one file, configuration files, etc), then vim or Sublime Text. If it's a larger project, I'll use VSCode. It has pretty good features out of the box (autocomplete, finding function definitions/usages), and as someone who generally uses git from the command line, I actually find myself using the git integration. It's also not too much of a memory hog and is generally pretty responsive. I used Sublime Text for a while, but it's kind of annoying because any kind of useful features you'd like from an IDE require 3rd party plugins, which can often break or slow down the editor."
+4619,"9 times out of 10, it's either in Eclipse or IntelliJ."
+4620,Either Vim or Emacs. There's no in between.
+4621,"I’m all about VIM now I used to use nano because it was very simple but since VIM has syntax highlighting and other more advanced features, I made the switch."
+4622,"I like both that your using.
+
+&#x200B;
+
+My webpages that I edit, I do use Geany.
+
+&#x200B;
+
+My main go to text editor right now is micro. [https://micro-editor.github.io/](https://micro-editor.github.io/)
+
+&#x200B;
+
+I like all text editors. My favorite GUI text editor is Pluma with all the plugins. My dearest CLI text editor has always been ne(nice editor). [http://ne.di.unimi.it/](http://ne.di.unimi.it/)
+
+&#x200B;
+
+To me there is no text editor war. What every works for you, that's the one you should be using."
+4623,"Vim
+
+Nano
+
+VS Codium (not ""code"" !!!)
+
+Atom
+
+Gedit
+
+Notepadqq
+
+
+I use all of them depending on the task"
+4624,"I'm using Atom for GUI, Nano for the console work."
+4625,Was using atom. Transitioned to vim recently as I needed a command line only editor for something anyway and ended up liking it. Oh and nano I guess for like config files and simple stuff.
+4626,"If I'm SSH'ing into a box and just editing config files or the like, then I use nano.  If I'm in a GUI doing development work, then I like Scite."
+4627,vim + vim plugins
+4628,Nano is flawless and efficient. Vim is powerful but has a learning curve. Sublime is user-friendly and colorful.
+4629,"Cli: nano, vim
+
+Gui: sublime, geany"
+4630,"+1 for Vim
+And tmux"
+4631,"I really like atom for GUI work... depends where you're doing your development though I suppose. I usually set up some sort of sftp and use the ftp built into atom and work directly off the server from my computer. 
+
+&#x200B;
+
+As far as CLI, I'm a nano fan."
+4632,"* IDE: Eclipse
+* GUI text editor: Featherpad
+* CLI: nano"
+4633,Codeblocks
+4634,VSCodium (VS Code without telemetry garbage) and micro for quick edits.
+4635,V I M <3
+4636,Vim for the win xD
+4638,"shh... you'll start a debate! 
+
+You should try them out and decide for yourself which suits your needs best. Many of the most popular ones are free, and those that arent offer free trials. 
+
+https://insights.stackoverflow.com/survey/2017#technology-most-popular-developer-environments-by-occupation"
+4639,Visual Studio Code is nice
+4640,"Vs code + vim plugin + your own vimrc file.
+It's nice looking, fast, you can use a bunch of plugins and edit code just like on vim"
+4641,i use vim. but i also  **enjoy sublimetext 3** (i can actually recommend it really strongly: https://www.sublimetext.com/ go check it out if you haven't heard of it. It's free for evaluation but support the devs if you enjoy it as much as i do)
+4642,"I really enjoy atom because it looks pretty fancy, has some nice features and basically plugins for everything you could ever imagine \^\^.
+
+If you are only coding on windows i heard visual studio code is pretty nice if you want some more ide like features.
+
+Or if you want to be the most 1337 haxxor in existence you could go gui-less with something like emacs or vim. From my experience it takes sum time to learn all the shortcuts and stuff but if you mastered it you are probably faster and more efficient.
+
+Happy coding \^\^
+
+Edit: no one told me you had to escape those: ""\^""   xD"
+4643,Visual Studio Code is cross platform and open source. You are probably mixing it up with Visual Studio. Vs Code is basically just a faster Atom
+4644,Huh that's nice i didn't know that and no I'm not mixing them up ^^. I just took a look at vs Code and it seems pretty cool but atom just looks better (visually) in my opinion. What makes it so much better than atom tho?
+4645,"Intellisense, excellent Git integration, task runner, Node.JS debugger. 
+And performance wise, it's way way faster."
+4646,"Sound pretty cool i will try it out, thanks :D"
+4647,"Thank you guys for the suggestions, I will check out all these suggestions."
+4648,"On Windows I use [Notepad++](https://notepad-plus-plus.org/). This works for day-to-day text editing and automatically has syntax highlighting for Python (which is mostly what I program in).
+
+On Linux, I just use gedit, which seems to come standard with just about every distro, even the light ones.
+
+On a Macbook I use [Atom](https://atom.io/). Atom supports all platforms so I might even give a try on my windows and linux boxes."
+4649,gedit because what more could you need other than a notepad with syntax highlighting and tabs?
+4650,"Well, keybindings?"
+39348,No thanks
+4652,"Depends what you mean with ""similar features"". MS maintains [a list](https://microsoft.github.io/language-server-protocol/implementors/tools/) of editors that support LSP and it has several open source editors on it like kate or atom. (On a completely unrelated note...WTF is [MS paint IDE](https://ms-paint-i.de/). At the moment trying to figure out if satire or meant serious)"
+4653,"I have no IDE-A...... Sorry, can't help it."
+4654,"MS Paint IDE is a little bit of both, satire and serious"
+4655,"VSCode is more than a simple text editor, it's an IDE (Integrated Development Environment).
+
+I personally use VSCodium which is a fully open source fork of VSCode minus Microsoft telemetry and tracking 
+
+There's text editor like Notepad++ which can do the job, depending on your feature requirements.
+
+You should specify which operating system you are using and which features you need so we can suggest some that fits your needs :)"
+4656,"My os is linux and by features I mean extensions, code completion, intelli sense, etc. Classical IDE stuff"
+4658,"Atom has been aquired by Microsoft, so it's out.
+
+ The two options I see that may fit are Geany (really lightweight in comparaison to vscode), or VSCodium"
+4659,"Vim and Neovim are the best long-term, especially with advanced plugins such as coc.nvim that replicate the VSCode features."
+4660,https://github.com/cdr/code-server
+4661,Atom is another choice.
+4662,"Vim, Emacs, Atom, Sublime Text can pretty much all do what VS Code can do if you want them to. Atom and Sublime are pretty close ootb?"
+4663,"Honestly it will be region and sometimes store specific. 
+
+When I was in NC Lowes had better lumber but here in NoVA HD has better lumber. 
+
+I buy a lot of other items at lowes due to pricematch/10% off but HD has better thinset (glue for tiles) in their Flexbond. 
+
+So for me I shop at both depending on what I need and price point. I would say Lowes wins out more than HD. But HD has some items better."
+4664,"This is exactly right--the stores of both chains are incredibly inconsistent in customer service.  Go to which ever has better service.  
+
+
+I prefer the paint and tile at Lowes, and the lighting and plants at HD.  
+
+
+Also a shout out for local supply stores.  Some are very expensive, but if you hunt around you can usually find a couple that will beat anything at the big box or online.  Especially for plumbing, tile, etc. It's definitely worth making a few calls just to check prices."
+4665,"Here they both have a pretty good selection of pine lumber, but have pretty much nothing for harder woods.  Menards, on the other hand, has some selection of walnut and oak, but oh my god, trying to find some normal old 2x12s or something is impossible."
+4666,"You have no idea how much I'm dreading moving away and having to find a place to match these guys in terms of selection and quality.
+
+https://www.owlhardwood.com/"
+4668,I stop in just to browse.
+4669,I had to go out to the big covered outdoor lumber yard to find normal lumber
+4670,I'm surprised you have trouble finding 2x12s. The Menards around me are a lumber yard with a side of home improvement store.
+4671,"Home depot is more of a contractors store and Lowe's is more for your average home owner. They have more stylish options where home depot typically carries more construction grade items. When it comes to appliances I can't say much. I havent ever bought either from one of those two stores. 
+
+This may be just in my area."
+4672,It's like this here in Cleveland. Lowe's feels more like the yuppie store. Better prices available at Home Depot if you aren't as picky about style.
+4673,Lowes market pitch when they entered was to be family/women friendly so makes sense.
+4674,"I do a lot of work for a large vendor that sells to both Home Depot and Lowes. They tell me that Home Depot is specifically designed for contractors while Lowes is more designed for DIYers. The layout of the store is indicative of that, usually."
+4675,"I've been saying this exact statement for years whenever this conversation comes up. Lowes seems more homeowner friendly, more stylish options. HD seems more contractor friendly."
+4676,"I've bought multiple appliances from lowes, because they have a price match plus 10 percent off deal. 
+
+Each time, I've found the appliance priced lower somewhere else and done the price match. 
+
+Then, when I go to the front to pay, I usually have a HD 10% coupon that they will match as well. (you can get these from setting up your move with the post office). 
+
+I end up with my appliance for price match plus 20% off."
+4677,"Just for reference, Home Depot offers the same ""meet-and-beat"" price matching."
+4678,And honors Lowes 20% off coupons.
+4679,How do you get Lowe's 20% off coupons?
+4680,I go with sears outkets for appliances. Usually brand new stuff that gets returned and can't be sold as new. Saves 50% but sometimes you have to wait for the one you want
+4681,"Seconding this. Get the warranty, and you're saved. They replace the item for it's original value of the first sale. picked up an $1800 fridge for $1200 which included the 3 year warranty."
+4682,Watch out for the gas dryers haha!
+4683,"Gotta love deals.  I got a brand new fridge from Lowes, regular $2600 for $1350 during the president's day sale.  You can buy a 10% off coupon on eBay for a couple bucks - that saved me $150 right there."
+4684,"Just so everyone knows, that fridge *[probably] really never sold for $2600.00.  That could be the MSRP, that is always high.  It probably retailed for $1500.00 - $1900.00.  Not saying you didn't get a good deal, because you did, but they always like to make it look better than it really is. 
+
+* I apologize for upsetting the Lowes fan boy."
+4685,They were clearancing it out to make room for newer models. I went to three other shops and they couldn't come anywhere close to the $1500 so it definitely wasn't retailing for that low. One of them had it listed at $2200.
+4686,"Lowes still had it originally listed 20% higher than the next most expensive place you found. So again, great deal you got but for anyone reading don't assume 40% off is really 40% off."
+4687,Yes that is fair!  I was just pointing out that it definitely didn't retail in the 1500-1800 range like was suggested.
+4688,Don't pay for the coupons.  You can generate your own code with a spreadsheet
+4689,Hardly worth $1.50 to figure that out though.  At least for me.
+4690,"We have been buying a lot of coupons because I thought the code generators stopped working.
+
+It has definitely still been worth it but
+
+Do you have more info you can share about that spreadsheet?"
+4691,"Yeah, those coupons stopped working months ago."
+4692,I need to buy a large appliance (range) from Lowe's. Can you PM the spreadsheet please?
+69694,How?
+4694,"Looks for a place called Appliance Smart.
+
+Same part numbers as everyone else at MUCH lower prices.  We got our new set of kitchen appliances for 40% less than everyone else's sale prices.  No need to wait for holiday sales either.  Oh and free shipping and removal of the old appliances.
+
+BTW: replacing the 20 year old electric appliances cut our electric bill in HALF!  Yes, over the same months..."
+4695,"Now that Sears is basically out of business, where do you recommend?"
+4696,"When Home Depot delivered my dishwasher, they didn't even want to take it out of the box for me.  When Lowes delivered my refrigerator, they unboxed it, peeled off all the protective plastic, and hooked up the water supply line."
+4697,"> peeled off all the protective plastic
+
+But....that's the best part!!!"
+4698,I'm with you.  I think I would hiss at someone if they even got close to peeling off my plastic wrapping that I paid for that is for me to enjoy! :P
+4699,"I've got to agree with you. ""Upset"" is not the right word, but I sure do like peeling the thin plastic film off of new things."
+4700,"Yup, Lowes delivery guys rock. They moved my old stove out to the garage and were extremely thankful I offered them a cold bottle of water."
+4701,"I had the opposite experience. Lowe's delivered a gas grill, barely wanted to take it off the truck. Home Depot delivered a full set of new kitchen appliances and were willing to not only take them out, but also do the full water/drain/gas hookups even though I hadn't paid for them. One difference may be that Lowe's delivered in a Lowe's truck, but HD subcontracted out the delivery."
+4702,You paid for it.
+4703,"To be fair, basic hookup like water and electrical are usually included with the delivery. More complicated appliances like dishwashers or appliances with gas hookups are usually charged extra.
+
+For Lowes, you need to contact the specific store and make an appointment for a subcontractor for another ~$70 or whatever they charge.  
+Whereas with Home Depot, you can checkout online and tack on installation with a $20 checkbox.
+
+When I bought my Bosch dishwasher from Lowes, they gave me a generic power cord instead of the proper one I paid for & I had to run around to get an electrical fitting on top of that."
+4704,"I didn't pay the extra $30 for a water line, was just going to ""install"" the fridge myself after they delivered.  Lowes' delivery guys said they had an extra, and insisted on installing it for me.  They did an awesome job and were very careful and clean in my new house!"
+4705,We were told Lowes no longer does this. We tried when we bought some power tools this weekend.
+4706,Interesting. Looks like they updated their price match policy may 1.
+4707,I been using lowes 10% off but never heard of HD 10% off.  I prefer HD because it's near me and they always have plent of staffs and busier for a reason. While all lowes around here always dead on any given day. I do purchased few big buck stuff whenever there's 10-20 from lowes. And sometimes it's not really off since it's same price eles where after coupon
+4708,So are you saying that lowes does a match and then beats it by 10%...? I just talked with them on the phone a few hours ago and got them to match a HD price and they didn't do the additional 10% drop. Will need to call them back if that's the case!
+4709,"Lowes and Home Depot are literally across the street from each other where we live.  I usually opt for HD simply because I like orange more than blue, but I've been going to lowes more often lately for no apparent reason.  I now realize that I might be a little odd."
+4710,I think prices at HD are a bit cheaper.
+4711,"Home depot for rough materials, Lowes for finish work."
+4712,Lots of other great advice to shop where the service is good and you get the prices and products you like BUT as a general rule this works.
+4713,This exactly
+4715,"My HD has 2 guys I avoid like the plague, because they are so good. For more complicated projects these two usually have better ideas and when I need something they walk me right to it. I avoid them at first so I can wander around the store without feeling like I'm insulting them after I get everything I need. I want to wander without carrying everything"
+4716,"The Lowes' in my area have absolutely awful customer service. I've had to make so many complaints. To me it seems like they don't pay shit, due to how much the employees don't give a crap."
+4717,"Home Depot near me is typically cheaper than Lowe's on like products.  I used to go to Lowe's all the time but they got rid of their rental truck and they have no tool rentals in case I need something specific.  Home Depot has tool rental and truck rental.
+
+I called the Lowe's GM about the truck.  He stated it wasn't profitable and I explained to him that it was a value added service.  They shouldn't be looking to profit on it, but at most break even.  The idea that they have the truck would encourage me to purchase from them.  I then said to him that if I wanted to get a large order I would have to pay their exorbitant $80 delivery fee.  He responded snarky and said ""It's $79"".  Definitely no reason to shop at Lowe's now."
+4718,Their fee is out of control. HD charges 75 bucks but my local lumber yard only charges 40 bucks.
+4719,"I know HD is a flat fee, so if you buy 10 pallets of pavers it will be the same fee as if it were 2. It's a good deal for bulk product but not so much otherwise."
+4720,"Whoever has what I need, in the best quality, for the cheapest price.  Blanket buying is stupid.  Doing research and getting the best appliance for the money is the smart route to take."
+4721,"This. I use Lowe's, Home Depot, & Menard's all regularly for different things and different sales. Lowe's site to store really sucks in my area, but you can buy those coupons on Ebay & get some major savings on big purchases."
+4722,All things being equal the it can be convenient to use one place to get a 5% contractors discount if you're going to be doing a bunch of stuff.  Not sure if that applies to appliances though.
+4723,"I appreciate the benefits of always knowing where I bought something,  in case I have a problem.   I  shop to assure the price is fair,  and then I buy from my preferred seller.   Cars, appliances, tools,   it's easier knowing that I definitely bought from the one place,  and my volume of business makes me a known and valuable customer,  so I get better service and support."
+4724,"Generally I prefer Home Depot. The one near me is better organized than it's corresponding Lowe's, plus they carry Makita and Milwaukee. Lowe's carries Bosch though so I go there sometimes for tools. I like Kobalt as a store brand better than Husky, so that's a point for Lowe's."
+4725,"If you're looking for appliances, don't write off Best Buy, HH Gregg (a lot of stores went out of business and had crazy like 90% off discounts, not sure if those are still going), Sears (as long as you don't care about service since they're going out).
+
+I would do research on what I want and who does it best to get the best product and then shop around to see where I can get the best deal. Leverage coupons, sales, memberships, all of it. We got a Lowe's credit card for the 5% off always thing (pay it off always) and sometimes they do bigger things too!"
+4726,"HH Gregg still has the sales, but unless you're lucky and have one that they keep restocking, they're pretty bare."
+4727,I think this is the last week for the one closest to me.
+4728,Best buy has been solid for me the last few years on appliances.  Went with  scratch and dent and got 50% off on a fridge and delivered free. They unboxed and wheeled it in to its space for me too.
+4729,"Home Depot.
+
+It is 5 minutes away vs 25."
+4730,Pretty much this (though more like 10 and 20).  Also HD is MUCH easier to get in and out of.  The area where the Lowes is ALWAYS has shitty traffic so it ends up taking even longer than that.
+4731,"HD nearly all day long. I only have HD and Menards near me. HD is closer drive. There used to be a Lowe's but they closed down (and it was a 20 minute drive, now the closest is nearly 45 minutes)
+
+HD seems to have more knowledgable people near me that actually go out of their way to ask if you need help, but aren't annoying about it. The Menards near me it's difficult to find even one associate without walking halfway across the store.
+
+I bought studs from Menards one time and nearly every one was warped in the store. I sorted through at least 30 before setting on just 10. The 10 I got home had warped just laying flat on the floor after a few days.
+
+I still have studs from HD from months ago that are just fine that have been through the late winter and humidity of the spring, A/C, etc. Sad part is there's a Menards Distro center on the other side of town, so shouldn't have any excuses for poor products or out of stock stuff (which is rampant at this Menards)
+
+The screws from Menards suck, HD has those ""SPAX"" self pilot screws (WITH the bit!), those things I can buzz into the wood all day without drilling pilots. Very nice."
+4732,"The president of Menards is also a real piece of shit, so I avoid shopping there. Luckily, there's **always** a Home Depot or Lowe's directly across the street."
+4733,"The HD CEO is just as bad as the Menard's guy, so it's a crapshoot"
+4734,"Menards does profit sharing with their employees, so I've always liked them a little more for that."
+4735,"HD does profit sharing as well, albeit not fantastic unless you're a department head or higher."
+4736,"i usually just go to Lowes because it is closer to me and easier to get to.  
+I don't really have a particular favorite. They are both very close in prices and both offer similar products. I will usually price match if it's something I can't get online and/or is a high ticket item.  
+We bought our stove and microwave through Lowes and the process was fine, except they gave us the wrong model when they brought it up. Simple return process but we found out before we left the store.  Lowes does have more of a selection on the floor than Home Depot does, at least the stores I go to.  
+Home Depot has a great online order and pick up in store system. It's a lot easier than doing it at Lowes. But this is just my experience at the ones near me.  
+Personally, I wouldn't just pick one and stick with that store. Both may excel in certain areas and you can benefit from going to both. Also, for smaller things, check out Amazon. I was able to get a lot of stuff for our renovation through Amazon at a much cheaper price than the big box stores."
+4737,"If I'm just going to grab some supplies, I almost always go to HD.  I just know the store setup better and feel like i can get in and out faster.  This is store specific, but I also think my local HD's ""pros"" are better than the Lowes across the street.
+
+If I'm making a major purchase, like an appliance, I'll take time and shop both."
+4738,I go to both.  Lowes has some things that I prefer while Home Depot has some other things I prefer.
+4739,"I prefer HD because I know the store layout well and the checkout line moves fast.
+
+My local Lowes is tricky to find stuff, and often related items won't be where you expect to find them. For example, a garbage disposal was in one aisle and the power cord was in a separate section of ""accessories."" 
+
+I'm sure if I spent more time at Lowes that would change, but I know the brands HD carries (like Cree LED bulbs, which I like) and HD is easier to get to, despite them being near each other."
+4740,"Menards. 3 words, 11% rebate."
+4741,"(*)Rebate in the form of a Menard's ""gift card"".  
+
+Since you mentioned them, I'll pass this 4th-hand info along: My wife worked at one of the others and pretty much to a man the electrical contractors who came to her store told her (and anybody who asked) to NEVER EVER buy electrical equipment from Menards. Something about being cheaply made and shoddy and failing way too soon and in some cases being outright dangerous."
+4742,"Hmm, good to know. Yeah the catch is its a gift card for Menards but they have so many other home items is not just lumber and kitchen sinks. If they had a real grocery section, we'd shop there exclusively, probably. Thanks for the heads up though."
+4743,"Don't forget Menards. There has been times I was needing something that I could not find at Lowes or Home Depot, but Menards carried it."
+4744,Menards!
+4745,Can I pick menards?
+4746,Lowe's. Home Depot always restocks items onto the shelves that have previously been sold and are missing parts.
+4747,"Last time I bought a washer I looked at reviews for a top rated one then price shopped. At the time Lowe's was the best price, but I felt no loyalty to them."
+4748,"I was a manager for Home Depot some time ago. I still go to the one I worked the longest at. Not many employees left from when I worked there but it's nice to connect.
+
+It depends on what I need and what the current policies are. For locks my local HD is charging to rekey while Lowes is not, so I buy locks at Lowes. Lowes decided they won't cut PT plywood so I buy that at Home Depot. I went to buy a washing machine on short notice, HD went to order only so I couldn't lock one up same day. I drove down the street and bought one at lowes.
+
+In general Lowes is cleaner and more organized. They carry less sku's and have lower staffing to customer ratio. If you know what you want and they have it you'll get in and out Lowes faster than HD. Every once in a while I walk out of Lowes because they don't carry basic things you'd expect them to. For example they don't have Uni-strut, 
+
+HD carries more stuff and has more staff so tend to be better for specialty items."
+4749,"Both. Lowe's has more interior trim, and typically better plumbing accessories. HD has better tools (Milwaukee, their house brand husky, etc ) and better rough carpentry materials. They're both about the same distance from my house, so I go to both depending on my needs. 
+
+Local farm store for fasteners. They put the big box bins to shame."
+4750,"I like the Depot better as an in-person store but god save you if you have to order something from them. They fucked pretty hard with me when I tried to get molding delivered. Couldn't order a certain molding from any other Depot or get it shipped in from a national Depot warehouse. And I had to call *them* to find out when they were going to deliver. I was bouncing around their phones like a pinball trying to get to the delivery department. Finally got 'em 3 calls later. Called again 4 PM day of, and only THEN did they tell me 6-8 PM. So I said fuck it, drove there and killed the order in person. My name was first on their delivery whiteboard, so presumably I'd be the day's first delivery. Between 6 and 8 PM. And I was the closest to the store.
+
+Lowe's out-and-out told me the day and time of my delivery at order. And they came right on time.
+
+Uncle is a vet and he gets a discount through Lowe's, but not the Depot. So if you're a military supporter you know where to go.
+
+Also, Lowe's has a 10% mover's coupon if you change your address thru usps.com."
+4751,"Both are great when you just need to run pick up a few things for what ever the issue of the day is. You'll find most home improvement projects cost less than $50 and an hour or two...and the box stores are fine for that. If you have a serious project where you're going to drop some $$, do your research. 
+
+
+And what ever you do, don't ask the associates for help with how to do your project. They might be able to help you with a part or tool, but they won't be able to tell you that you have to dig a ditch at least 18 inches in order to bury a outdoor power line."
+4752,"In my case, there is a lowes and HD a block away from each other.  I have been shopping at the 2 for over 10 years and I do quite a bit of home improvement projects.
+
+I have primarily gone to HD because their customer service is hands down way way better than the lowes.  This could simply be a management issue at this particular lowes but over the years I have pretty much done all my shopping at home depot.  Every now and then I don't find exactly what I am looking for and head over to lowes to check and its a ghost town both in customers and customer service.  It is a nightmare trying to get any help there.  so every year home depot gets a couple thousand from me on average and lowes gets my bad reviews."
+4753,"Contractor suppliers. Both home despot and lows sells cheap knock off everything. I buy a plastic electrical box and my nice professional greenlee knockout took makes the box explode. Drill bits are 1/10th the quality and the same price as my professional supplier. Stainless hardware at my supplier is 1/5 (!) the cost of home despot. 
+
+The only exception is 2x4's. Locally anyways the contractors suppliers won't let you cherry pick the best wood, they just bring you the load."
+4754,"In Canada, we have Rona, HD, and Lowes. Lowes just bought out Rona not too long ago and has been making Rona blow HD out of the water. Their customer service and products are amazing now. The lumber selection is Grade 2 or better at the same price as HD Grade 3. And Lowes and Rona have more than 2 carts with steering wheels. HD, Get you shit together."
+4756,"Exactly. No one likes ""that"" side of the bridge."
+4757,"It is a toss-up for me. One is as bad, or good, as the other. And since both of my local stores are within a mile of each other I can go from one to the other."
+4758,"Home Depot.  
+Each time that I find myself in a Lowe's, I feel that my questions are either not answered correctly, or it requires the person that I asked to ask someone else.  
+At HD, the employees consistently know where everything I need is and how to help."
+4759,"Home depot allows dogs so I usually went there, although for really quick trips Lowes was a little closer so I'd go there sometimes. I sold my house and moved now I only go to HD since there isn't a Lowes nearby."
+4760,"Home depot, it's closer and the employees are nicer."
+4761,"Depends on the store. Of the three nearby hd's, one is incredible for staff knowledge and availability, the other two are a complete disaster. Lowes has some nicer finish options, but their store network isn't laid out as conveniently for me. I also find their staff sort of suck in the nearby locations.  Hd seems to hire retired tradesmen and lowes seems to hire high school students."
+4762,Yeah so explore the various stores!  We have 2 HD nearby and I love the staff in one and in the other all I get is crap. I got an employee giving me shit for asking him to move out of my way so I can get to the register.
+4763,"Both of mine share a parking lot so I usually comparison shop for every big purchase.  
+https://www.google.com/maps/@45.5041514,-122.9585914,17.97z"
+4764,"Lowe's for the 5% discount if you use their credit card. 
+
+I do think HD has a much superior tooling selection, as well as flooring."
+4765,"For more builder materials, usually HD.  For more appliances, usually Lowes.  But depends on day and sale and I still check out Sears or other stores as well."
+4766,"Where I live we have the 3rd option of Menards. It was around for decades before the other 2 and is still a great big box store. It's main difference is all bulk/large items are kept in the yard. So you pay for it and drive your vehicle back to load it up. This has 2 benefits. 1) you handle your items only once (not including unloading at your destination of course) 2) you can actually pay for items and pick them up when ever. I bought 70 bundles of shingles, 4 rolls of felt and some nails last weekend and l haven't picked them up yet and won't until it's time to do my roof. 
+
+Plus where I live they are all within 3 blocks of each other. Kind of cool to have so many choices."
+4767,"Guys, don't forget about your local Ace Hardware for smaller stuff."
+4768,"If both are the same distance, spend a day going to both and talking with the staff/managers. If one seems to have more knowledgeable or friendly people, go there. The product quality is about the same."
+4769,"Costco for appliances. They automatically add years to manufacturers warranty and their return policy generally is fantastic. Plus they carry models the manufacturer designates for Costco that usually have the higher end feature set for lower prices. 
+As far as hardware store, outside of choosing one over another because they carry different items, I choose on a store by store basis. Im three years deep into home ownership and I found that I the HD or Lowe's stores take on the personality of the GM. One Home Depot might have their shit together and hire employees that care and are helpful, might have great clearances prices and good stock while simultaneously another HD down the road is a compete shitshow. Same applies to Lowes.  Good luck. Oh and avoid their Credit Cards or at least avoid their inflated APR on their cards."
+4770,the each have their use and I have never shopped at one soley...
+4771,"I always go with lowes. HQ is in my home state, and lowes fired my mother-in-law. I also only shop at Harris teeter, academy, harbor freight, staples because they fired her as well"
+4772,"I have thought this for a while and actually just verbalized it for the first time to a friend last night; Lowes is to The Home Depot what Target is to Walmart. I shop at both of them regularly and even though Lowes is slightly more expensive, I would much rather shop there than The Home Depot. The only thing I do not like about Lowes is how they setup their hand tools in the front of the store but you have to walk through a maze to get in and out of that section. I'm sure they are doing this to prevent theft but it's a little overkill for me."
+4773,Lowes. For some reason Home Depot layouts just don't make any sense to me and it takes twice as long to find anything.
+4774,"I use the Home Depot app, it tells you exactly in the store (aisle and shelf location) where each item is, and makes my trips there very efficient (read ""I don't buy extra stuff).  I do like Lowes also too"
+4775,"If you can't tell your wife exactly which bay the fitting you forgot to pick up/broke during your repairs, then you have not done enough Home Improvement projects yet."
+4776,How do I get one of these wife things?
+4777,Look them up in the HD app.
+4778,Find a girl with similar hobbies as you and work from there.
+4779,"Well, my boyfriend found me :P  he's the gopher and i am the one under the house running the plumbing."
+4780,Wish my wife knew how to run plumbing!
+4781,"I can't find *anything* in HD's electrical department without staring for 20 minutes, and I *used to work* there.
+
+But I sent someone who knows absolutely nothing about anything and who can barely use a computer an email with a link to a shallow-work electrical box on HD's website and they were able to find it immediately.
+
+The system works."
+4782,Mobile site also shows bay as well.
+4784,"Yeah, sometimes it's wrong though and I'll spend twice as long looking thinking ""I must be staring right at it"""
+4785,Interesting. TIL
+4786,"In all seriousness, it's actually immensely helpful when you cant find an orange shirt.  It'll tell you the aisle and bay within the aisle it's located.  Definitely helped me out once or twice finding an oddball item the wife wanted."
+4787,In my neck of the woods they started labeling the bay number on the floor in paint and the shelf number with stickers. It's almost as good as having turn by turn gps inside the store.
+4788,"At our HD there's absolutely no cell signal whatsoever. I end up looking up everything on the app and texting it to myself or my wife before heading in. Otherwise it's a clown fiesta.
+
+The app is seriously great."
+4789,"They like to have 5 different areas for the same category.
+
+Need a washer for your hose and sink, that's in two separate places..... Absurd. 
+
+Lowe's has it all in one spot. Lowe's price matches, Home Depot says they don't, not worth the fight to call corporate or show the manager their own site, which they don't want to look at cause it proves them wrong"
+5455,Menards
+4793,"Lowes.  Because I know where everything is. It never fails, when I go to Home Depot, I leave pissed off because I couldn't find what i was looking for."
+4794,"Lowe's is almost always cheaper for the same or equivalent,  so I go there"
+4795,"Lowes.
+
+Because it's closer to my house, which makes it nice when I need to make like 4 trips in one day.
+
+I've also had really good experiences with customer service at my local Lowe's."
+4796,I thought I was the only one who did this.
+4797,Menards.
+4798,"It's varies by store. Some have good people, good managers, etc. Some don't. One isn't better than the other across the board. Try out each and decide for yourself which of your local stores you want to shop at."
+4799,"As others have mentioned, it varies from place to place... but I prefer HD for my raw materials (lumber, adhesives, fasteners, electrical supplies, etc.) and Lowes for my ""finishing touches"" (lighting, fixtures, appliances, etc.)."
+4800,"We have both, one across from the other. The Lowe's is smaller then a typical one and not arranged like most Lowe's. 
+
+
+Every time I have walked in there (over a dozen times) they don't have what I need. Infuriating. I went in there in the dead of winter to buy a zone control. I needed three zones but I could get by with one. They literally do not carry any in the store. Single zone included. You've got to be kidding me. Depot had singles in stock. Talked to a employee, called around and found me a store which had them in stock. Verified and had them hold it for me. 
+
+I won't go into that Lowe's anymore. As others said thought - depends greatly upon the store."
+4801,It depends 100% on the physical location.  Some are great some are terrible.  Where I live now it's Lowes.  When I lived 20 miles South it was the local Home Depot.
+4802,"I prefer Lowes on tools and outdoor material, Home Depot on paint and lumber."
+4803,"In my town I have a Lowes directly across the street from a Home Depot.  I usually go to one, until for what ever reason, it pisses me off and then I go to the other, and I continue this cycle.  If both have ticked me off at the same time, I'll then go to Menards.  I don't really care for Menards, they seem overpriced..."
+4804,"I bought a fixer-upper 18 months ago and we've done a ton of remodeling, so I feel like I'm required to answer this question. As stated, each individual store can vary considerably. The lowers closest to my house sucks for customer service, but the one 10 miles away is stellar. Lowe's tends to be cleaner and better laid out. However, Home Depot has a lot more options, especially online. I was very particular about the finishes I put in my house and was searching for a very specific ""look"" for each item. I was pretty disappointed with the selection at Lowe's in general. Home Depot fit the bill and had way more options for almost everything we needed (vanity, ceiling fans, etc).  
+
+Home Depot is farthest from me, so if I need a generic bolt, doorknob, etc and I need it quick I go to Lowes. If it's anything else I tend to go to Home Depot or order from Home Depot online."
+4805,One thing to consider is checking out Best Buy as well.  I got a nice kitchen aide dishwarsher there on a Black Friday.  They matched HD's Black Friday price AND had a free delivery and installation deal of their own going on.  It ended up being nearly half regular price of everything.
+4806,It is very locally dependent and it depends on the specific part I need.
+4807,"They are a venn diagram with about 98% overlap. The non-overlapping stuff is pretty random and arbitrary as far as I can tell. So, personally, I check Lowe's first because they're a bit closer. Occasionally I need to go to HD to get something only they have."
+4808,"I have to agree with the crowd here. 
+
+If I want to buy something: lowes
+
+If I want to build something: HD"
+4809,"a general rule of thumb for me (and there will always be exceptions) is that I use HD for materials, and Lowe's for more finished products."
+4810,"I usually go to Home Depot, because it is much, much, much more conveniently located for me.
+
+But if it is for something small or something that I need advice or have questions regarding, I go to our local Ace Hardware. It's just a couple blocks away so I can walk our dog there and she can visit with the dogs that ""live"" in the store.  The staff, even the young highschool kids, are all 10X more knowledgeable than anyone I have encountered at home depot or Lowes, and as such have helped me work through some issues, mostly plumbing problems related to our old house. 
+
+It is really beneficial being a local neighborhood shop, as they see customers who mostly have the same era and style of homes, so their knowledge is quite applicable usually.
+
+I say go to whichever is more convenient for you or has a better deal, and then start going to your local hardware store for as much as you can. Big orange and big blue don't really appreciate your dollars like an Ace Hardware or other franchise/local operation will."
+4811,Home Depot is 1.5 miles from my house.  Lowe's has to have something really special to get me to drive across town.
+4812,I've found that Lowes staff know a lot less than Home Depot. When I say know less I mean something as general as knowing where something in the store is. Pricing there the same. Products Like Home Depot better. I used to prefer Lowes simple because it's closer to my house. Now I drive a bit further because I'd rather buy from Home Depot.
+4813,"Not sure if they still do this or not, but both used to have ""additional 10% off"" sales if purchased with their credit cards. When I bought by home 16 years ago, we would buy our renovation supplies based on who was offering that at the time. Came in handy for the plumbing, drywall, flooring, etc."
+4814,"Home Depot is from Mars, Lowe's is from Venus."
+4815,"I hate them both and prefer McLendons (nw chain), but I think Lowe's has disappointed me more than HD. I have left there empty handed so many times and felt deceived other times. 
+
+HD also sucks because (at least where I'm at) the stores are poorly managed and they change their suppliers too often. 
+
+Both places have great deals sometimes, especially on clearance appliances."
+4816,"My experience with Lowes last year upon closing was a nightmare. Same as you OP we needed a washer dryer and fridge on day one. 
+
+Ordered online and didn't receive word on anything for weeks until I called the local store myself. Took several different managers just to find the order and at that time I was informed that I wasn't contacted because they were still ""waiting on the washer.""
+
+Anyways, it was the wrong unit and long story and several deliveries later and I got sense of it all. 
+
+In the end there was absolutely *zero* benefit to opening up a Lowe's line of credit as the 0% APR in house financing is no better than what you could get opening up a line with your current bank. At the end of the Lowes term it goes up to 24%! 
+
+That said I ended up transferring the balance to a Bank Of America card anyways so I'm just trying to save you the trouble. 
+
+Open a credit card and shop at whichever store you want."
+4817,Home depot. 1.5 miles from my home. I can go there and back super fast.
+4818,"Here is a helpful site for Washer/Dryers
+http://thesweethome.com/reviews/the-best-washer-and-dryer/
+
+HD for building materials and Lowes for gardening stuff. Also look for sales on stuff like Duraflame logs and Bounty Towels. These two products will be on sale between the two stores multiple times a year.
+
+Finally good luck on the new home and all Chimney Repairmen are crooks."
+4819,"Lowes for plumbing as its far superior,  HD for everything else.  Really though unless I am doing some big plumbing jobs I got to whoever is closer."
+4820,"The people at my local HD are generally more knowledgeable and friendly. The product quality and selection at Lowes is better than HD.
+
+Solution? Go talk to the folks at HD with questions, have them tell me what I need, then go buy it at Lowes."
+4821,"Definitely get all your appliances from Sears and Sears Outlet stores. You can save a ton of money buying scratch and dent stuff, plus a lot of the stuff will come with factory warranties.
+
+As far as Home Depot vs. Lowe's I go to Lowe's because the CEO of Home Depot is a huge douchebag. The CEO of Lowe's might also be a douchebag, I don't know, but I know for a fact the Home Depot guy is a sexist, bigot, etc."
+4822,"Depends on what I'm buying. My Lowe's usually has better dimensional lumber like 2x4s... I don't have to search to find one. And I like kobalt over husky. But I like Ridgid power tools and that's a home Depot thing. My home Depot also has better stocked and organized electrical and plumbing departments. Home Depot has a hobby lumber department with oak boards and such, but my Lowe's doesn't. The paint is comparable at both. So it's a toss up and depends on what I'm buying. 
+
+But I use true value for nuts and bolts... So much better than either"
