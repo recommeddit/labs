@@ -1,0 +1,27 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: absa-pod
+  namespace: recommeddit
+spec:
+  containers:
+  - name: absa-pod
+    image: mehir123/torch:latest
+    command: ["sh", "-c", "sleep infinity"]
+    resources:
+      limits:
+        memory: 12Gi
+        cpu: 2
+        nvidia.com/gpu: 1
+        ephemeral-storage: 5Gi    
+      requests:
+        memory: 12Gi
+        cpu: 2
+        nvidia.com/gpu: 1
+        ephemeral-storage: 5Gi    
+    volumeMounts:
+    - mountPath: /tempstore
+      name: tempstore
+  volumes:
+    - name: tempstore
+      emptyDir: {}
