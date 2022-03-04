@@ -4,6 +4,15 @@ metadata:
   name: absa-pod
   namespace: recommeddit
 spec:
+  affinity:
+     nodeAffinity:
+       requiredDuringSchedulingIgnoredDuringExecution:
+         nodeSelectorTerms:
+         - matchExpressions:
+           - key: gpu-type
+             operator: In
+             values:
+             - 1080Ti
   containers:
   - name: absa-pod
     image: mehir123/pyabsa:latest

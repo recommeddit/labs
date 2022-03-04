@@ -1,5 +1,10 @@
 import json, random, argparse
 from os import listdir, system
+import spacy
+nlp = spacy.load('en_core_web_sm', disable=['tok2vec','tagger','parser', 'ner', 'attribute_ruler', 'lemmatizer'])
+
+""" GLOBALS """
+MAX_SEQ_LENGTH = 85 
 
 def json_to_terms(j):
     """
@@ -11,7 +16,11 @@ def json_to_terms(j):
         arr = comment['rvarr']
         sentence = []
         entities = []  # (position, entity, sentiment)
+        tokens = 0
         for pos, token in enumerate(arr):
+            tokens += sum(1 for tok in nlp(token['tk']))
+            if tokens > MAX_SEQ_LENGTH:
+                break
             token['tk'] = token['tk'].replace('$T$', ' ').replace('\n', '. ')
             sentence.append(token['tk'])
             if 'aspect' in token and 'sentiment' in token:
