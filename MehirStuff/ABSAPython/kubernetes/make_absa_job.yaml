@@ -6,7 +6,7 @@ metadata:
 spec:
   containers:
   - name: absa-pod
-    image: mehir123/torch:latest
+    image: mehir123/pyabsa:latest
     command: ["sh", "-c", "sleep infinity"]
     resources:
       limits:

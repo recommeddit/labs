@@ -148,14 +148,6 @@ class ABSADataset(Dataset):
             left_len = np.sum(left_indices != 0)
             aspect_len = np.sum(aspect_indices != 0)
             aspect_boundary = np.asarray([left_len, left_len + aspect_len - 1], dtype=np.int64)
-            # OUR FIX
-            if polarity == 'Positive':
-                polarity = 1
-            elif polarity == 'Negative':
-                polarity = -1
-            elif polarity == 'Neutral':
-                polarity = 0
-            #END OUR FIX
             polarity = int(polarity) + 1
 
             text_len = np.sum(text_indices != 0)

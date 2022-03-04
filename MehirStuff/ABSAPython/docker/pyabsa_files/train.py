@@ -253,8 +253,8 @@ def main():
             'test': './datasets/semeval14/Laptops_Test_Gold.xml.seg'
         },
         'custom': {
-            'train': './datasets/custom/train.txt',
-            'test': './datasets/custom/test.txt'
+            'train': './datasets/custom/train.raw',
+            'test': './datasets/custom/test.raw'
         }
     }
     input_colses = {

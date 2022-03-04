@@ -1,6 +1,5 @@
 import json, random, argparse
 from os import listdir, system
-from os.path import isfile, join
 
 def json_to_terms(j):
     """
@@ -52,14 +51,17 @@ def main():
     """
     # Options
     parser = argparse.ArgumentParser(description='Converts PyAbsa .json data into .raw format')
-    parser.add_argument('--files', default='./rawDataFiles', type=str, help='Directory with _only_ json files (default rawDataFiles)')
-    parser.add_argument('--trainprop', default=0.1, type=float, help='Proportion of train data (default 0.1)')
+    parser.add_argument('--files', default='rawDataFiles/', type=str, help='Directory with _only_ json files (default rawDataFiles)')
+    parser.add_argument('--trainprop', default=0.9, type=float, help='Proportion of train data (default 0.1)')
     parser.add_argument('--trainfile', default='./docker/pyabsa_files/datasets/custom/train.raw', type=str, help='Location to output training data (default cleanDataFiles/train.raw')
     parser.add_argument('--testfile', default='./docker/pyabsa_files/datasets/custom/test.raw', type=str, help='Location to output testing data (default cleanDataFiles/test.raw')
     args = parser.parse_args()
 
     # Get all json files
-    all_files = [f for f in listdir(args.files) if isfile(join(args.files, f))]
+    all_files = [''.join([args.files, f])for f in listdir(args.files)]
+    print('Fetching files from:', args.files)
+    print('Saving files to', args.trainfile, 'and', args.testfile)
+    print('Number of files to stitch:', len(all_files))
 
     # Compile all terms
     all_terms = []
@@ -67,15 +69,21 @@ def main():
         j = load_json(f)
         terms = json_to_terms(j)
         all_terms.extend(terms)
+
+    print('Number of input terms:', len(all_terms))
+    print('Train ratio:', args.trainprop)
     
     # Print and distribute into different files
     random.shuffle(all_terms)
-    print_terms(terms[len(terms) // args.trainprop:], args.trainfile)
-    print_terms(terms[:len(terms) // args.trainprop], args.testfile)
+    print_terms(all_terms[:round(len(all_terms) * args.trainprop)], args.trainfile)
+    print_terms(all_terms[round(len(all_terms) * args.trainprop):], args.testfile)
 
+    print('Building dependency graphs...')
     # Build dependency graphs
-    system(f'python ./docker/pyabsa_files/dependency_graph.py --dataset {args.trainfile}')
-    system(f'python ./docker/pyabsa_files/dependency_graph.py --dataset {args.testfile}')
+    system(f'python3 ./docker/pyabsa_files/dependency_graph.py --dataset {args.trainfile}')
+    system(f'python3 ./docker/pyabsa_files/dependency_graph.py --dataset {args.testfile}')
+
+    print('Finished!')
 
 if __name__ == '__main__':
     main()
