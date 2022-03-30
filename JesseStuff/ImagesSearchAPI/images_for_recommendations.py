@@ -64,7 +64,6 @@ def get_images(query,recommendations):
             images_results = results['images_results']
             first_image=images_results[1]
             print(first_image['thumbnail'])
-            print(first_image['title'])
             x=x+1
     
 
