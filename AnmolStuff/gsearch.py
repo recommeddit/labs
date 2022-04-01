@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-from __future__ import print_function
 from serpapi import GoogleSearch
 from config import config
 import json, urllib, re
@@ -51,14 +50,30 @@ def process_results(query_string, results):
         link    : type = str, the search result that trusts this candidate
     """
     words = query_string.split(' ')
+
+    if 'knowledge_graph' in results.keys():
+        if 'description' in results['knowledge_graph'].keys():
+            count = 0
+            for word in words:
+                if word in result['knowledge_graph']['title'] or word in result['knowledge_graph']['description'].lower():
+                    count += 1
+            if count == len(words):
+                src = results['knowledge_graph']['source']['link']
+                if 'header_images' in results['knowledge_graph'].keys():
+                    return (True, [src, results['knowledge_graph']['header_images']['image']])
+                elif 'image' in results['knowledge_graph'].keys():
+                    return (True, [src, results['knowledge_graph']['image']])
+
     for web_result in results['organic_results']:
         count = 0
         for word in words:
             if word in ' '.join(web_result['about_this_result']['keywords']).lower() or word in web_result['title'].lower() or word in web_result['snippet'].lower():
                 count += 1
         if count == len(words):
-            print(web_result['link'])
-            return (True, web_result['link'])
+            img = ''
+            if 'thumbnail' in web_result.keys():
+                img = web_result['thumbnail']
+            return (True, [web_result['link'], img])
     return (False, None)
 
 def clean_string(s):
@@ -73,7 +88,7 @@ def clean_string(s):
     s = re.sub('["!#$%*]', '', s) # remove bad chars
     return s
 
-def gkg_query(query_string, threshold=1, print_results=False):
+def gkg_query(query_string, threshold=1):
     """
     Use Google's Knowledge Graph Search API call and analyze the results to check
     if the output is reasonable for our search query
@@ -98,14 +113,10 @@ def gkg_query(query_string, threshold=1, print_results=False):
 
     # query KG
     url = 'https://kgsearch.googleapis.com/v1/entities:search' + '?' + urllib.parse.urlencode(params)
-    if print_results:
-        print(url, end="\n\n")
     response = json.loads(urllib.request.urlopen(url).read())
 
     # process results
     query_string = clean_string(query_string)
-    if print_results:
-        print(response)
     for result in response['itemListElement']:
         if result['resultScore'] < 1:
             continue
@@ -118,21 +129,27 @@ def gkg_query(query_string, threshold=1, print_results=False):
             except:
                 return (False, None)
         if word_count >= len(query_string.split()) - threshold:
-            if print_results:
-                print(f"Query of `{query_string}` found TRUE by the following search result:\n")
-                print(result)
-            return (True, )
+            urls = []
+            if 'url' in result['result']['detailedDescription'].keys():
+                urls.append(result['result']['detailedDescription']['url'])
+            if 'image' in result['result'].keys() and 'contentUrl' in result['result']['image'].keys():
+                urls.append(result['result']['image']['contentUrl'])
+            return (True, urls)
     return (False, None)
 
-if __name__ == '__main__':
-    query_string = 'vscode ide'
-    print('Query:', query_string, end='\n\n\n\n')
+def search(query_string):
+    try:
+        results = gkg_query(query_string)
+        if not results[0]:
+            results = with_serp(query_string)
+            if not results[0]:
+                return (False, ['',''])
+            else:
+                return results
+        else:
+            return results
+    except:
+        return (False, ['',''])
 
-    res1 = gkg_query(query_string, threshold=1, print_results=True)
-    res2 = False #with_serp(query_string)
-    if res1:
-        print("SUCCESS 1")
-    elif res2[0]:
-        print("SUCCESS 2")
-    else:
-        print("FAILURE")
+if __name__ == '__main__':
+    print(search('visual studio ide'))
