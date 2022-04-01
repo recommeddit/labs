@@ -1,12 +1,18 @@
 import nltk
+import numpy as np
 from sentence_splitter import SentenceSplitter, split_text_into_sentences
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 analyzer = SentimentIntensityAnalyzer()
-#nltk.download('vader_lexicon')
+nltk.download('vader_lexicon')
 
 def average(lst):
 	return sum(lst)/len(lst)
+
+def sigmoid(x):
+	z = np.exp(-x)
+	sig = 1/(1+z)
+	return sig
 
 def get_sentiment_scores(comment):
 	avg_sentiments = {}
@@ -31,9 +37,11 @@ def get_sentiment_scores(comment):
 
 	return avg_sentiments
 
-#def calc_ranks(sentiments):
-
-
+def calc_points(comment, upvotes):
+	sa_scores = get_sentiment_scores(comment)
+	arg = (2*sa_scores['pos'] + 1*sa_scores['neu'] - 3*sa_scores['neg'])*upvotes
+	points = sigmoid(arg)
+	return points
 
 if __name__ == "__main__":
 	comment = "TL;DR In large part I think school rankings are very course-grained. In the US, at least, the top 10-20 schools generally or in a particular category probably belong there, and the top 100 schools probably belong in that range, too. But the differences between the 2nd and the 5th or the 32nd and the 47th are not likely of any significance, at least not as measured by the rankings."
