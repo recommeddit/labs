@@ -14,9 +14,6 @@ def sigmoid(x):
 	return sig
 
 def get_sentiment_scores(sentences):
-	"""
-	pass in comment.sentences
-	"""
 	avg_sentiments = {}
 	pos_scores = []
 	neu_scores = []
@@ -38,8 +35,11 @@ def get_sentiment_scores(sentences):
 
 	return avg_sentiments
 
-def calc_points(comment, upvotes):
-	sa_scores = get_sentiment_scores(comment)
+def calc_points(sentences, upvotes):
+	"""
+	pass in comment.sentences
+	"""
+	sa_scores = get_sentiment_scores(sentences)
 	arg = (2*sa_scores['pos'] + 1*sa_scores['neu'] - 3*sa_scores['neg'])*upvotes
 	points = sigmoid(arg)
 	return points
