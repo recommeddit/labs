@@ -10,7 +10,7 @@ async def get_query_results(string_query):
         #for value in doc_ref.values():
             #entities_list = [d['entity'] for d in value]
             #return(entities_list)
-            #these lines above would return the actual entities fromm query in a list format if needed 
+            #these lines above would return the actual entities from query in a list format if needed 
     else: 
         return None
         
