@@ -41,7 +41,7 @@ async def get_entity(string_name):
 
 
 
-def merge_entity(string_name, validCategories = [],invalidCategories = [],description = '', imageUrl = ''):
+async def merge_entity(string_name, validCategories = [],invalidCategories = [],description = '', imageUrl = ''):
     docs = db.collection('entities').where("name","==",string_name).get()
     for doc in docs:
         ref = doc.to_dict()
