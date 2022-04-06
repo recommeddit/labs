@@ -55,6 +55,8 @@ def merge_entity(string_name, validCategories = [],invalidCategories = [],descri
     else:
         db.collection('entities').add({'name':string_name,'validCategories':validCategories,'invalidCategories':invalidCategories,'description':description,'imageUrl':imageUrl})
 
+#merges new data with specific existing entity in database
+#if it doesn’t exist, the function create its
 
 
 
