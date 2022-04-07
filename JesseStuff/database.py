@@ -62,7 +62,7 @@ async def store_query_to_cache(string_query, string_category, string_googleResul
         entity_names = recs['entity']
         entity_list = [entity_names]
         for ent in entity_list:
-            merge_entity(ent,'','','','')    #first merges entities in recommendations so we can get the path from each document to store in query document
+            merge_entity(ent,'','','','')    #merges the entities from recommendations so we can get the path from each new document to store in query document
         else:
             entities_ref = db.collection('entities').where("name", "==", entity_names).get()
             for doc in entities_ref:
