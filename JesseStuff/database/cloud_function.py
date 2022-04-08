@@ -30,7 +30,7 @@ for doc in queries_doc:
     doc_id = doc.id
     doc_ref = db.collection('queries').document(doc_id).get({'googleResults'}).to_dict()
     for value in doc_ref.values(): 
-        if value == google_results: #checks if the google_results (list of reddit urls) are the same as the current results.
+        if value == google_results: #need to configure search.py function here 
             db.collection('queries').document(doc_id).update({'lastValidated':datetime.datetime.now(tz=datetime.timezone.utc)}) #date.time gets updated if same results
         else:
             db.collection('queries').document(doc_id).delete() #query document is deleted if different results
