@@ -57,6 +57,10 @@ async def merge_entity(string_name, validCategories = [],invalidCategories = [],
 #merges new data with specific existing entity in database
 #if it doesn’t exist, the function create its
 
+
+
+#this function assumes recommendations with be a list of dictionaries contatining the entities with the key 'entity'
+#example --> [{'entity':'test','score':2},{'entity':'test2','score':4}]
 async def store_query_to_cache(string_query, string_category, string_googleResults,recommendations):
     for recs in recommendations:              
         entity_names = recs['entity']
@@ -69,5 +73,6 @@ async def store_query_to_cache(string_query, string_category, string_googleResul
                 idd = doc.id 
                 ref = db.collection('entities').document(idd)
                 recs['entity'] = ref       #lines 67-72 are what convert the entity string to the path of each entity document
-    db.collection('queries').add({'name':string_query,'string category':string_category, 'googleResults':string_googleResults,'lastValidated':datetime.datetime.now(tz=datetime.timezone.utc),'entities':recommendations})
+   db.collection('queries').add({'name':string_query,'string category':string_category, 'googleResults':string_googleResults,'lastValidated':datetime.datetime.now(tz=datetime.timezone.utc),'entities':recommendations})
+
 #problem I need to fix is that it will still store a query even if another document that has the same query name already exists
