@@ -61,18 +61,24 @@ async def merge_entity(string_name, validCategories = [],invalidCategories = [],
 
 #this function assumes recommendations with be a list of dictionaries contatining the entities with the key 'entity'
 #example --> [{'entity':'test','score':2},{'entity':'test2','score':4}]
-async def store_query_to_cache(string_query, string_category, string_googleResults,recommendations):
-    for recs in recommendations:              
-        entity_names = recs['entity']
-        entity_list = [entity_names]
-        for ent in entity_list:
-            merge_entity(ent,'','','','')    #merges the entities from recommendations so we can get the path from each new document to store in query document
-        else:
-            entities_ref = db.collection('entities').where("name", "==", entity_names).get()
-            for doc in entities_ref:
-                idd = doc.id 
-                ref = db.collection('entities').document(idd)
-                recs['entity'] = ref       #lines 67-72 are what convert the entity string to the path of each entity document
-    db.collection('queries').add({'name':string_query,'string category':string_category, 'googleResults':string_googleResults,'lastValidated':datetime.datetime.now(tz=datetime.timezone.utc),'entities':recommendations})
+def store_query_to_cache(string_query, string_category, string_googleResults,recommendations):
+    check_query_exist = db.collection('queries').where('name','==',string_query).get()
+    for doc in check_query_exist: #first checks to see if any documents exist with same string_query
+        ref = doc.to_dict()
+        x = len(ref.keys())
+        if x>0:
+            break
+    else:
+        for recs in recommendations:              
+            entity_names = recs['entity']
+            entity_list = [entity_names]
+            for ent in entity_list:
+                merge_entity(ent,'','','','')    #merges the entities from recommendations so we can get the path from each new document to store in query document
+            else:
+                entities_ref = db.collection('entities').where("name", "==", entity_names).get()
+                for doc in entities_ref:
+                    idd = doc.id 
+                    ref = db.collection('entities').document(idd)
+                    recs['entity'] = ref       #lines 67-72 are what convert the entity string to the path of each entity document
+        db.collection('queries').add({'name':string_query,'string category':string_category, 'googleResults':string_googleResults,'lastValidated':datetime.datetime.now(tz=datetime.timezone.utc),'entities':recommendations})
 
-#problem I need to fix is that it will still store a query even if another document that has the same query name already exists
