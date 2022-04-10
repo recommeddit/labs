@@ -52,6 +52,3 @@ def calc_points(comment, upvotes):
 	score = adjust_upvotes(upvotes)
 	points = (2*sa_scores['pos'] + 1*sa_scores['neu'] - 3*sa_scores['neg'])*score
 	return points
-
-if __name__ == "__main__":
-	print(adjust_upvotes(30547))
