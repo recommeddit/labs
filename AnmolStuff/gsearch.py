@@ -132,8 +132,12 @@ def gkg_query(query_string, threshold=1):
             urls = []
             if 'url' in result['result']['detailedDescription'].keys():
                 urls.append(result['result']['detailedDescription']['url'])
+            else:
+                urls.append('')
             if 'image' in result['result'].keys() and 'contentUrl' in result['result']['image'].keys():
                 urls.append(result['result']['image']['contentUrl'])
+            else:
+                urls.append('')
             return (True, urls)
     return (False, None)
 
