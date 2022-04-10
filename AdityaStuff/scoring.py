@@ -1,18 +1,24 @@
 import nltk
-import numpy as np
-from sentence_splitter import SentenceSplitter, split_text_into_sentences
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
+import re
 
 analyzer = SentimentIntensityAnalyzer()
-nltk.download('vader_lexicon')
+#nltk.download('vader_lexicon')
 
 def average(lst):
 	return sum(lst)/len(lst)
 
-def sigmoid(x):
-	z = np.exp(-x)
-	sig = 1/(1+z)
-	return sig
+def adjust_upvotes(upvotes):
+	if upvotes > 0 and upvotes <= 100:
+		score = upvotes
+	elif upvotes > 100 and upvotes <= 1000:
+		score = 100 + (upvotes - 100)*0.25
+	elif upvotes > 1000 and upvotes <= 10000:
+		score = 100 + (900*0.25) + (upvotes - 1000)*0.1
+	elif upvotes > 10000:
+		score = 100 + (900*0.25) + (9000*0.1) + (upvotes - 10000)*0.01
+
+	return score
 
 def get_sentiment_scores(comment):
 	avg_sentiments = {}
@@ -20,7 +26,8 @@ def get_sentiment_scores(comment):
 	neu_scores = []
 	neg_scores = []
 
-	sentences = split_text_into_sentences(comment, language='en')
+	sentences = re.split('(?<=[\.\?\!])\s*', comment)
+
 	for sentence in sentences:
 		sentiment_dict = analyzer.polarity_scores(sentence)
 		pos = sentiment_dict['pos']
@@ -38,7 +45,10 @@ def get_sentiment_scores(comment):
 	return avg_sentiments
 
 def calc_points(comment, upvotes):
+	"""
+	pass in comment.sentences
+	"""
 	sa_scores = get_sentiment_scores(comment)
-	arg = (2*sa_scores['pos'] + 1*sa_scores['neu'] - 3*sa_scores['neg'])*upvotes
-	points = sigmoid(arg)
+	score = adjust_upvotes(upvotes)
+	points = (2*sa_scores['pos'] + 1*sa_scores['neu'] - 3*sa_scores['neg'])*score
 	return points
