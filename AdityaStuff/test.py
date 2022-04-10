@@ -14,7 +14,6 @@ upvotes = np.random.randint(100, size=len(df))
 for i in range(len(df)):
     comment = df.loc[i, 'comments']
     scores = scoring.calc_points(comment, upvotes[i])
-    #print(scores)
     sentiment_scores.append(scores)
 
 print(time.time()-start)
@@ -25,5 +24,6 @@ print(time.time()-start)
 #     writer = csv.DictWriter(csvfile, fieldnames=titles)
 #     writer.writeheader()
 #     writer.writerows(sentiment_scores)
+
 
 
