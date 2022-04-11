@@ -1,0 +1,5198 @@
+{
+    "1": [
+        {
+            "rvid": 1,
+            "rvarr": [
+                {
+                    "tkid": "R1_0",
+                    "tk": "Each"
+                },
+                {
+                    "tkid": "R1_1",
+                    "tk": "year"
+                },
+                {
+                    "tkid": "R1_2",
+                    "tk": "my"
+                },
+                {
+                    "tkid": "R1_3",
+                    "tk": "mother"
+                },
+                {
+                    "tkid": "R1_4",
+                    "tk": "gets"
+                },
+                {
+                    "tkid": "R1_5",
+                    "tk": "me"
+                },
+                {
+                    "tkid": "R1_6",
+                    "tk": "an"
+                },
+                {
+                    "tkid": "R1_7",
+                    "tk": "empty"
+                },
+                {
+                    "tkid": "R1_8",
+                    "tk": "photo"
+                },
+                {
+                    "tkid": "R1_9",
+                    "tk": "album"
+                },
+                {
+                    "tkid": "R1_10",
+                    "tk": "and"
+                },
+                {
+                    "tkid": "R1_11",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R1_12",
+                    "tk": "next"
+                },
+                {
+                    "tkid": "R1_13",
+                    "tk": "year"
+                },
+                {
+                    "tkid": "R1_14",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R1_15",
+                    "tk": "give"
+                },
+                {
+                    "tkid": "R1_16",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R1_17",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R1_18",
+                    "tk": "her"
+                },
+                {
+                    "tkid": "R1_19",
+                    "tk": "full"
+                },
+                {
+                    "tkid": "R1_20",
+                    "tk": "of"
+                },
+                {
+                    "tkid": "R1_21",
+                    "tk": "pictures"
+                },
+                {
+                    "tkid": "R1_22",
+                    "tk": "of"
+                },
+                {
+                    "tkid": "R1_23",
+                    "tk": "her"
+                },
+                {
+                    "tkid": "R1_24",
+                    "tk": "children"
+                },
+                {
+                    "tkid": "R1_25",
+                    "tk": "and"
+                },
+                {
+                    "tkid": "R1_26",
+                    "tk": "grandchildren"
+                },
+                {
+                    "tkid": "R1_27",
+                    "tk": "."
+                }
+            ],
+            "Overall": "Pos"
+        },
+        {
+            "rvid": 2,
+            "rvarr": [
+                {
+                    "tkid": "R2_0",
+                    "tk": "Elecom smooth",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R2_1",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R2_2",
+                    "tk": "is"
+                },
+                {
+                    "tkid": "R2_3",
+                    "tk": "what"
+                },
+                {
+                    "tkid": "R2_4",
+                    "tk": "i"
+                },
+                {
+                    "tkid": "R2_5",
+                    "tk": "landed"
+                },
+                {
+                    "tkid": "R2_6",
+                    "tk": "on"
+                },
+                {
+                    "tkid": "R2_7",
+                    "tk": "and"
+                },
+                {
+                    "tkid": "R2_8",
+                    "tk": "its"
+                },
+                {
+                    "tkid": "R2_9",
+                    "tk": "great"
+                },
+                {
+                    "tkid": "R2_10",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R2_11",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R2_12",
+                    "tk": "hardly"
+                },
+                {
+                    "tkid": "R2_13",
+                    "tk": "notice"
+                },
+                {
+                    "tkid": "R2_14",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R2_15",
+                    "tk": "distortion"
+                },
+                {
+                    "tkid": "R2_16",
+                    "tk": "and"
+                },
+                {
+                    "tkid": "R2_17",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R2_18",
+                    "tk": "texture"
+                },
+                {
+                    "tkid": "R2_19",
+                    "tk": "is"
+                },
+                {
+                    "tkid": "R2_20",
+                    "tk": "perfect"
+                },
+                {
+                    "tkid": "R2_21",
+                    "tk": "in"
+                },
+                {
+                    "tkid": "R2_22",
+                    "tk": "my"
+                },
+                {
+                    "tkid": "R2_23",
+                    "tk": "opinion"
+                },
+                {
+                    "tkid": "R2_24",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R2_25",
+                    "tk": "Its"
+                },
+                {
+                    "tkid": "R2_26",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R2_27",
+                    "tk": "bitch"
+                },
+                {
+                    "tkid": "R2_28",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R2_29",
+                    "tk": "install"
+                },
+                {
+                    "tkid": "R2_30",
+                    "tk": "but"
+                },
+                {
+                    "tkid": "R2_31",
+                    "tk": "i"
+                },
+                {
+                    "tkid": "R2_32",
+                    "tk": "found"
+                },
+                {
+                    "tkid": "R2_33",
+                    "tk": "an"
+                },
+                {
+                    "tkid": "R2_34",
+                    "tk": "easy"
+                },
+                {
+                    "tkid": "R2_35",
+                    "tk": "work"
+                },
+                {
+                    "tkid": "R2_36",
+                    "tk": "around"
+                },
+                {
+                    "tkid": "R2_37",
+                    "tk": "if"
+                },
+                {
+                    "tkid": "R2_38",
+                    "tk": "you"
+                },
+                {
+                    "tkid": "R2_39",
+                    "tk": "are"
+                },
+                {
+                    "tkid": "R2_40",
+                    "tk": "interested"
+                },
+                {
+                    "tkid": "R2_41",
+                    "tk": "ill"
+                },
+                {
+                    "tkid": "R2_42",
+                    "tk": "share"
+                },
+                {
+                    "tkid": "R2_43",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R2_44",
+                    "tk": "."
+                }
+            ],
+            "Overall": "Pos"
+        },
+        {
+            "rvid": 3,
+            "rvarr": [
+                {
+                    "tkid": "R3_0",
+                    "tk": "Verizon",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R3_1",
+                    "tk": ">"
+                },
+                {
+                    "tkid": "R3_2",
+                    "tk": "T - Mobile",
+                    "aspect": true,
+                    "sentiment": "Neu"
+                },
+                {
+                    "tkid": "R3_3",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R3_4",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R3_5",
+                    "tk": ">"
+                },
+                {
+                    "tkid": "R3_6",
+                    "tk": "AT & T",
+                    "aspect": true,
+                    "sentiment": "Neg"
+                },
+                {
+                    "tkid": "R3_7",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R3_8",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R3_9",
+                    "tk": "> ("
+                },
+                {
+                    "tkid": "R3_10",
+                    "tk": "Sprint",
+                    "aspect": true,
+                    "sentiment": "Neg"
+                },
+                {
+                    "tkid": "R3_11",
+                    "tk": "when"
+                },
+                {
+                    "tkid": "R3_12",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R3_13",
+                    "tk": "was"
+                },
+                {
+                    "tkid": "R3_14",
+                    "tk": "around"
+                },
+                {
+                    "tkid": "R3_15",
+                    "tk": ")"
+                },
+                {
+                    "tkid": "R3_16",
+                    "tk": "for"
+                },
+                {
+                    "tkid": "R3_17",
+                    "tk": "me"
+                },
+                {
+                    "tkid": "R3_18",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R3_19",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R3_20",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R3_21",
+                    "tk": "ve"
+                },
+                {
+                    "tkid": "R3_22",
+                    "tk": "had"
+                },
+                {
+                    "tkid": "R3_23",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R3_24",
+                    "tk": "Verizon",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R3_25",
+                    "tk": "signal"
+                },
+                {
+                    "tkid": "R3_26",
+                    "tk": "in"
+                },
+                {
+                    "tkid": "R3_27",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R3_28",
+                    "tk": "middle"
+                },
+                {
+                    "tkid": "R3_29",
+                    "tk": "of"
+                },
+                {
+                    "tkid": "R3_30",
+                    "tk": "nowhere"
+                },
+                {
+                    "tkid": "R3_31",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R3_32",
+                    "tk": "But"
+                },
+                {
+                    "tkid": "R3_33",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R3_34",
+                    "tk": "T - Mobile",
+                    "aspect": true,
+                    "sentiment": "Neg"
+                },
+                {
+                    "tkid": "R3_35",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R3_36",
+                    "tk": "was"
+                },
+                {
+                    "tkid": "R3_37",
+                    "tk": "100"
+                },
+                {
+                    "tkid": "R3_38",
+                    "tk": "%"
+                },
+                {
+                    "tkid": "R3_39",
+                    "tk": "nonexistent"
+                },
+                {
+                    "tkid": "R3_40",
+                    "tk": "on"
+                },
+                {
+                    "tkid": "R3_41",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R3_42",
+                    "tk": "Oregon"
+                },
+                {
+                    "tkid": "R3_43",
+                    "tk": "coast"
+                },
+                {
+                    "tkid": "R3_44",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R3_45",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R3_46",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R3_47",
+                    "tk": "ve"
+                },
+                {
+                    "tkid": "R3_48",
+                    "tk": "never"
+                },
+                {
+                    "tkid": "R3_49",
+                    "tk": "had"
+                },
+                {
+                    "tkid": "R3_50",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R3_51",
+                    "tk": "situation"
+                },
+                {
+                    "tkid": "R3_52",
+                    "tk": "except"
+                },
+                {
+                    "tkid": "R3_53",
+                    "tk": "then"
+                },
+                {
+                    "tkid": "R3_54",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R3_55",
+                    "tk": "when"
+                },
+                {
+                    "tkid": "R3_56",
+                    "tk": "there"
+                },
+                {
+                    "tkid": "R3_57",
+                    "tk": "is"
+                },
+                {
+                    "tkid": "R3_58",
+                    "tk": "absolutely"
+                },
+                {
+                    "tkid": "R3_59",
+                    "tk": "zero"
+                },
+                {
+                    "tkid": "R3_60",
+                    "tk": "signal"
+                },
+                {
+                    "tkid": "R3_61",
+                    "tk": "instead"
+                },
+                {
+                    "tkid": "R3_62",
+                    "tk": "of"
+                },
+                {
+                    "tkid": "R3_63",
+                    "tk": "just"
+                },
+                {
+                    "tkid": "R3_64",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R3_65",
+                    "tk": "bad"
+                },
+                {
+                    "tkid": "R3_66",
+                    "tk": "one"
+                },
+                {
+                    "tkid": "R3_67",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R3_68",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R3_69",
+                    "tk": "s"
+                },
+                {
+                    "tkid": "R3_70",
+                    "tk": "hard"
+                },
+                {
+                    "tkid": "R3_71",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R3_72",
+                    "tk": "get"
+                },
+                {
+                    "tkid": "R3_73",
+                    "tk": "."
+                }
+            ],
+            "Overall": "Neu"
+        },
+        {
+            "rvid": 4,
+            "rvarr": [
+                {
+                    "tkid": "R4_0",
+                    "tk": "Reddit"
+                },
+                {
+                    "tkid": "R4_1",
+                    "tk": "clich"
+                },
+                {
+                    "tkid": "R4_2",
+                    "tk": "é"
+                },
+                {
+                    "tkid": "R4_3",
+                    "tk": "noticed"
+                },
+                {
+                    "tkid": "R4_4",
+                    "tk": ":"
+                },
+                {
+                    "tkid": "R4_5",
+                    "tk": "This"
+                },
+                {
+                    "tkid": "R4_6",
+                    "tk": "Phrase"
+                },
+                {
+                    "tkid": "R4_7",
+                    "tk": "noticed"
+                },
+                {
+                    "tkid": "R4_8",
+                    "tk": ":"
+                },
+                {
+                    "tkid": "R4_9",
+                    "tk": "1220"
+                },
+                {
+                    "tkid": "R4_10",
+                    "tk": "times"
+                },
+                {
+                    "tkid": "R4_11",
+                    "tk": "."
+                }
+            ],
+            "Overall": "Neu"
+        },
+        {
+            "rvid": 5,
+            "rvarr": [
+                {
+                    "tkid": "R5_0",
+                    "tk": "Moscow Mule",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R5_1",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R5_2",
+                    "tk": ":"
+                },
+                {
+                    "tkid": "R5_3",
+                    "tk": "2"
+                },
+                {
+                    "tkid": "R5_4",
+                    "tk": "parts"
+                },
+                {
+                    "tkid": "R5_5",
+                    "tk": "vodka"
+                },
+                {
+                    "tkid": "R5_6",
+                    "tk": "1"
+                },
+                {
+                    "tkid": "R5_7",
+                    "tk": "part"
+                },
+                {
+                    "tkid": "R5_8",
+                    "tk": "lime"
+                },
+                {
+                    "tkid": "R5_9",
+                    "tk": "juice"
+                },
+                {
+                    "tkid": "R5_10",
+                    "tk": "3"
+                },
+                {
+                    "tkid": "R5_11",
+                    "tk": "parts"
+                },
+                {
+                    "tkid": "R5_12",
+                    "tk": "ginger"
+                },
+                {
+                    "tkid": "R5_13",
+                    "tk": "beer"
+                },
+                {
+                    "tkid": "R5_14",
+                    "tk": "or"
+                },
+                {
+                    "tkid": "R5_15",
+                    "tk": "ginger"
+                },
+                {
+                    "tkid": "R5_16",
+                    "tk": "ale"
+                },
+                {
+                    "tkid": "R5_17",
+                    "tk": "("
+                },
+                {
+                    "tkid": "R5_18",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R5_19",
+                    "tk": "choose"
+                },
+                {
+                    "tkid": "R5_20",
+                    "tk": "vernors"
+                },
+                {
+                    "tkid": "R5_21",
+                    "tk": ")"
+                },
+                {
+                    "tkid": "R5_22",
+                    "tk": "Serve"
+                },
+                {
+                    "tkid": "R5_23",
+                    "tk": "in"
+                },
+                {
+                    "tkid": "R5_24",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R5_25",
+                    "tk": "copper"
+                },
+                {
+                    "tkid": "R5_26",
+                    "tk": "mug"
+                },
+                {
+                    "tkid": "R5_27",
+                    "tk": "if"
+                },
+                {
+                    "tkid": "R5_28",
+                    "tk": "you"
+                },
+                {
+                    "tkid": "R5_29",
+                    "tk": "can"
+                },
+                {
+                    "tkid": "R5_30",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R5_31",
+                    "tk": "but"
+                },
+                {
+                    "tkid": "R5_32",
+                    "tk": "they"
+                },
+                {
+                    "tkid": "R5_33",
+                    "tk": "are"
+                },
+                {
+                    "tkid": "R5_34",
+                    "tk": "rare"
+                },
+                {
+                    "tkid": "R5_35",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R5_36",
+                    "tk": "come"
+                },
+                {
+                    "tkid": "R5_37",
+                    "tk": "by"
+                },
+                {
+                    "tkid": "R5_38",
+                    "tk": "as"
+                },
+                {
+                    "tkid": "R5_39",
+                    "tk": "there"
+                },
+                {
+                    "tkid": "R5_40",
+                    "tk": "are"
+                },
+                {
+                    "tkid": "R5_41",
+                    "tk": "some"
+                },
+                {
+                    "tkid": "R5_42",
+                    "tk": "state"
+                },
+                {
+                    "tkid": "R5_43",
+                    "tk": "laws"
+                },
+                {
+                    "tkid": "R5_44",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R5_45",
+                    "tk": "prevent"
+                },
+                {
+                    "tkid": "R5_46",
+                    "tk": "/"
+                },
+                {
+                    "tkid": "R5_47",
+                    "tk": "limit"
+                },
+                {
+                    "tkid": "R5_48",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R5_49",
+                    "tk": "sale"
+                },
+                {
+                    "tkid": "R5_50",
+                    "tk": "and"
+                },
+                {
+                    "tkid": "R5_51",
+                    "tk": "purchase"
+                },
+                {
+                    "tkid": "R5_52",
+                    "tk": "of"
+                },
+                {
+                    "tkid": "R5_53",
+                    "tk": "copper"
+                },
+                {
+                    "tkid": "R5_54",
+                    "tk": "mugs"
+                },
+                {
+                    "tkid": "R5_55",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R5_56",
+                    "tk": "Edit"
+                },
+                {
+                    "tkid": "R5_57",
+                    "tk": ":"
+                },
+                {
+                    "tkid": "R5_58",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R5_59",
+                    "tk": "should"
+                },
+                {
+                    "tkid": "R5_60",
+                    "tk": "actually"
+                },
+                {
+                    "tkid": "R5_61",
+                    "tk": "point"
+                },
+                {
+                    "tkid": "R5_62",
+                    "tk": "out"
+                },
+                {
+                    "tkid": "R5_63",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R5_64",
+                    "tk": "this"
+                },
+                {
+                    "tkid": "R5_65",
+                    "tk": "is"
+                },
+                {
+                    "tkid": "R5_66",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R5_67",
+                    "tk": "drink"
+                },
+                {
+                    "tkid": "R5_68",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R5_69",
+                    "tk": "made"
+                },
+                {
+                    "tkid": "R5_70",
+                    "tk": "vodka"
+                },
+                {
+                    "tkid": "R5_71",
+                    "tk": "popular"
+                },
+                {
+                    "tkid": "R5_72",
+                    "tk": "in"
+                },
+                {
+                    "tkid": "R5_73",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R5_74",
+                    "tk": "USA"
+                },
+                {
+                    "tkid": "R5_75",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R5_76",
+                    "tk": "Back"
+                },
+                {
+                    "tkid": "R5_77",
+                    "tk": "in"
+                },
+                {
+                    "tkid": "R5_78",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R5_79",
+                    "tk": "day"
+                },
+                {
+                    "tkid": "R5_80",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R5_81",
+                    "tk": "vodka"
+                },
+                {
+                    "tkid": "R5_82",
+                    "tk": "had"
+                },
+                {
+                    "tkid": "R5_83",
+                    "tk": "never"
+                },
+                {
+                    "tkid": "R5_84",
+                    "tk": "been"
+                },
+                {
+                    "tkid": "R5_85",
+                    "tk": "popular"
+                },
+                {
+                    "tkid": "R5_86",
+                    "tk": "in"
+                },
+                {
+                    "tkid": "R5_87",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R5_88",
+                    "tk": "United"
+                },
+                {
+                    "tkid": "R5_89",
+                    "tk": "States"
+                },
+                {
+                    "tkid": "R5_90",
+                    "tk": "until"
+                },
+                {
+                    "tkid": "R5_91",
+                    "tk": "Smirnoff"
+                },
+                {
+                    "tkid": "R5_92",
+                    "tk": "began"
+                },
+                {
+                    "tkid": "R5_93",
+                    "tk": "marketing"
+                },
+                {
+                    "tkid": "R5_94",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R5_95",
+                    "tk": "this"
+                },
+                {
+                    "tkid": "R5_96",
+                    "tk": "drink"
+                },
+                {
+                    "tkid": "R5_97",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R5_98",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R5_99",
+                    "tk": "businessman"
+                },
+                {
+                    "tkid": "R5_100",
+                    "tk": "in"
+                },
+                {
+                    "tkid": "R5_101",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R5_102",
+                    "tk": "1950s"
+                },
+                {
+                    "tkid": "R5_103",
+                    "tk": "("
+                },
+                {
+                    "tkid": "R5_104",
+                    "tk": "think"
+                },
+                {
+                    "tkid": "R5_105",
+                    "tk": "Don"
+                },
+                {
+                    "tkid": "R5_106",
+                    "tk": "Draper"
+                },
+                {
+                    "tkid": "R5_107",
+                    "tk": ")."
+                },
+                {
+                    "tkid": "R5_108",
+                    "tk": "Although"
+                },
+                {
+                    "tkid": "R5_109",
+                    "tk": "vodka"
+                },
+                {
+                    "tkid": "R5_110",
+                    "tk": "really"
+                },
+                {
+                    "tkid": "R5_111",
+                    "tk": "took"
+                },
+                {
+                    "tkid": "R5_112",
+                    "tk": "off"
+                },
+                {
+                    "tkid": "R5_113",
+                    "tk": "once"
+                },
+                {
+                    "tkid": "R5_114",
+                    "tk": "more"
+                },
+                {
+                    "tkid": "R5_115",
+                    "tk": "brands"
+                },
+                {
+                    "tkid": "R5_116",
+                    "tk": "began"
+                },
+                {
+                    "tkid": "R5_117",
+                    "tk": "making"
+                },
+                {
+                    "tkid": "R5_118",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R5_119",
+                    "tk": "liquor"
+                },
+                {
+                    "tkid": "R5_120",
+                    "tk": "as"
+                },
+                {
+                    "tkid": "R5_121",
+                    "tk": "well"
+                },
+                {
+                    "tkid": "R5_122",
+                    "tk": "as"
+                },
+                {
+                    "tkid": "R5_123",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R5_124",
+                    "tk": "rise"
+                },
+                {
+                    "tkid": "R5_125",
+                    "tk": "in"
+                },
+                {
+                    "tkid": "R5_126",
+                    "tk": "martinis"
+                },
+                {
+                    "tkid": "R5_127",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R5_128",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R5_129",
+                    "tk": "was"
+                },
+                {
+                    "tkid": "R5_130",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R5_131",
+                    "tk": "Moscow"
+                },
+                {
+                    "tkid": "R5_132",
+                    "tk": "Mule"
+                },
+                {
+                    "tkid": "R5_133",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R5_134",
+                    "tk": "first"
+                },
+                {
+                    "tkid": "R5_135",
+                    "tk": "put"
+                },
+                {
+                    "tkid": "R5_136",
+                    "tk": "vodka"
+                },
+                {
+                    "tkid": "R5_137",
+                    "tk": "on"
+                },
+                {
+                    "tkid": "R5_138",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R5_139",
+                    "tk": "map"
+                },
+                {
+                    "tkid": "R5_140",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R5_141",
+                    "tk": "You"
+                },
+                {
+                    "tkid": "R5_142",
+                    "tk": "can"
+                },
+                {
+                    "tkid": "R5_143",
+                    "tk": "find"
+                },
+                {
+                    "tkid": "R5_144",
+                    "tk": "out"
+                },
+                {
+                    "tkid": "R5_145",
+                    "tk": "more"
+                },
+                {
+                    "tkid": "R5_146",
+                    "tk": "about"
+                },
+                {
+                    "tkid": "R5_147",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R5_148",
+                    "tk": "history"
+                },
+                {
+                    "tkid": "R5_149",
+                    "tk": "of"
+                },
+                {
+                    "tkid": "R5_150",
+                    "tk": "vodka"
+                },
+                {
+                    "tkid": "R5_151",
+                    "tk": "here"
+                },
+                {
+                    "tkid": "R5_152",
+                    "tk": ":"
+                },
+                {
+                    "tkid": "R5_153",
+                    "tk": "http"
+                },
+                {
+                    "tkid": "R5_154",
+                    "tk": "://"
+                },
+                {
+                    "tkid": "R5_155",
+                    "tk": "www"
+                },
+                {
+                    "tkid": "R5_156",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R5_157",
+                    "tk": "tastings"
+                },
+                {
+                    "tkid": "R5_158",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R5_159",
+                    "tk": "com"
+                },
+                {
+                    "tkid": "R5_160",
+                    "tk": "/"
+                },
+                {
+                    "tkid": "R5_161",
+                    "tk": "spirits"
+                },
+                {
+                    "tkid": "R5_162",
+                    "tk": "/"
+                },
+                {
+                    "tkid": "R5_163",
+                    "tk": "vodka"
+                },
+                {
+                    "tkid": "R5_164",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R5_165",
+                    "tk": "html"
+                },
+                {
+                    "tkid": "R5_166",
+                    "tk": "And"
+                },
+                {
+                    "tkid": "R5_167",
+                    "tk": "here"
+                },
+                {
+                    "tkid": "R5_168",
+                    "tk": "is"
+                },
+                {
+                    "tkid": "R5_169",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R5_170",
+                    "tk": "Smirnoff"
+                },
+                {
+                    "tkid": "R5_171",
+                    "tk": "Moscow"
+                },
+                {
+                    "tkid": "R5_172",
+                    "tk": "Mule"
+                },
+                {
+                    "tkid": "R5_173",
+                    "tk": "ad"
+                },
+                {
+                    "tkid": "R5_174",
+                    "tk": "with"
+                },
+                {
+                    "tkid": "R5_175",
+                    "tk": "["
+                },
+                {
+                    "tkid": "R5_176",
+                    "tk": "Woody"
+                },
+                {
+                    "tkid": "R5_177",
+                    "tk": "Allen"
+                },
+                {
+                    "tkid": "R5_178",
+                    "tk": ".]("
+                },
+                {
+                    "tkid": "R5_179",
+                    "tk": "http"
+                },
+                {
+                    "tkid": "R5_180",
+                    "tk": "://"
+                },
+                {
+                    "tkid": "R5_181",
+                    "tk": "cf"
+                },
+                {
+                    "tkid": "R5_182",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R5_183",
+                    "tk": "badassdigest"
+                },
+                {
+                    "tkid": "R5_184",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R5_185",
+                    "tk": "com"
+                },
+                {
+                    "tkid": "R5_186",
+                    "tk": "/"
+                },
+                {
+                    "tkid": "R5_187",
+                    "tk": "_uploads"
+                },
+                {
+                    "tkid": "R5_188",
+                    "tk": "/"
+                },
+                {
+                    "tkid": "R5_189",
+                    "tk": "images"
+                },
+                {
+                    "tkid": "R5_190",
+                    "tk": "/"
+                },
+                {
+                    "tkid": "R5_191",
+                    "tk": "Woody"
+                },
+                {
+                    "tkid": "R5_192",
+                    "tk": "%"
+                },
+                {
+                    "tkid": "R5_193",
+                    "tk": "20Allen"
+                },
+                {
+                    "tkid": "R5_194",
+                    "tk": "%"
+                },
+                {
+                    "tkid": "R5_195",
+                    "tk": "20Smirnoff"
+                },
+                {
+                    "tkid": "R5_196",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R5_197",
+                    "tk": "jpg"
+                },
+                {
+                    "tkid": "R5_198",
+                    "tk": ")"
+                }
+            ],
+            "Overall": "Pos"
+        },
+        {
+            "rvid": 6,
+            "rvarr": [
+                {
+                    "tkid": "R6_0",
+                    "tk": "This"
+                },
+                {
+                    "tkid": "R6_1",
+                    "tk": "would"
+                },
+                {
+                    "tkid": "R6_2",
+                    "tk": "have"
+                },
+                {
+                    "tkid": "R6_3",
+                    "tk": "been"
+                },
+                {
+                    "tkid": "R6_4",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R6_5",
+                    "tk": "great"
+                },
+                {
+                    "tkid": "R6_6",
+                    "tk": "r"
+                },
+                {
+                    "tkid": "R6_7",
+                    "tk": "/"
+                },
+                {
+                    "tkid": "R6_8",
+                    "tk": "askreddit"
+                },
+                {
+                    "tkid": "R6_9",
+                    "tk": "question"
+                }
+            ],
+            "Overall": "Neu"
+        },
+        {
+            "rvid": 7,
+            "rvarr": [
+                {
+                    "tkid": "R7_0",
+                    "tk": "Rank"
+                },
+                {
+                    "tkid": "R7_1",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_2",
+                    "tk": "Player"
+                },
+                {
+                    "tkid": "R7_3",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_4",
+                    "tk": "My"
+                },
+                {
+                    "tkid": "R7_5",
+                    "tk": "Rank"
+                },
+                {
+                    "tkid": "R7_6",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_7",
+                    "tk": "Difference"
+                },
+                {
+                    "tkid": "R7_8",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_9",
+                    "tk": "Player"
+                },
+                {
+                    "tkid": "R7_10",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R7_11",
+                    "tk": "had"
+                },
+                {
+                    "tkid": "R7_12",
+                    "tk": "here"
+                },
+                {
+                    "tkid": "R7_13",
+                    "tk": "---- | ---- | ---- | ---- | ----"
+                },
+                {
+                    "tkid": "R7_14",
+                    "tk": "20"
+                },
+                {
+                    "tkid": "R7_15",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_16",
+                    "tk": "Fred"
+                },
+                {
+                    "tkid": "R7_17",
+                    "tk": "Warner"
+                },
+                {
+                    "tkid": "R7_18",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_19",
+                    "tk": "24"
+                },
+                {
+                    "tkid": "R7_20",
+                    "tk": "| -"
+                },
+                {
+                    "tkid": "R7_21",
+                    "tk": "4"
+                },
+                {
+                    "tkid": "R7_22",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_23",
+                    "tk": "Garrett"
+                },
+                {
+                    "tkid": "R7_24",
+                    "tk": "Bolles"
+                },
+                {
+                    "tkid": "R7_25",
+                    "tk": "19"
+                },
+                {
+                    "tkid": "R7_26",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_27",
+                    "tk": "Trent"
+                },
+                {
+                    "tkid": "R7_28",
+                    "tk": "Williams"
+                },
+                {
+                    "tkid": "R7_29",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_30",
+                    "tk": "12"
+                },
+                {
+                    "tkid": "R7_31",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_32",
+                    "tk": "7"
+                },
+                {
+                    "tkid": "R7_33",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_34",
+                    "tk": "Joey"
+                },
+                {
+                    "tkid": "R7_35",
+                    "tk": "Bosa"
+                },
+                {
+                    "tkid": "R7_36",
+                    "tk": "18"
+                },
+                {
+                    "tkid": "R7_37",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_38",
+                    "tk": "Dalvin"
+                },
+                {
+                    "tkid": "R7_39",
+                    "tk": "Cook"
+                },
+                {
+                    "tkid": "R7_40",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_41",
+                    "tk": "23"
+                },
+                {
+                    "tkid": "R7_42",
+                    "tk": "| -"
+                },
+                {
+                    "tkid": "R7_43",
+                    "tk": "5"
+                },
+                {
+                    "tkid": "R7_44",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_45",
+                    "tk": "Myles"
+                },
+                {
+                    "tkid": "R7_46",
+                    "tk": "Garrett"
+                },
+                {
+                    "tkid": "R7_47",
+                    "tk": "17"
+                },
+                {
+                    "tkid": "R7_48",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_49",
+                    "tk": "DeAndre"
+                },
+                {
+                    "tkid": "R7_50",
+                    "tk": "Hopkins"
+                },
+                {
+                    "tkid": "R7_51",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_52",
+                    "tk": "30"
+                },
+                {
+                    "tkid": "R7_53",
+                    "tk": "| -"
+                },
+                {
+                    "tkid": "R7_54",
+                    "tk": "13"
+                },
+                {
+                    "tkid": "R7_55",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_56",
+                    "tk": "Stefon"
+                },
+                {
+                    "tkid": "R7_57",
+                    "tk": "Diggs"
+                },
+                {
+                    "tkid": "R7_58",
+                    "tk": "16"
+                },
+                {
+                    "tkid": "R7_59",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_60",
+                    "tk": "Deshaun"
+                },
+                {
+                    "tkid": "R7_61",
+                    "tk": "Watson"
+                },
+                {
+                    "tkid": "R7_62",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_63",
+                    "tk": "3"
+                },
+                {
+                    "tkid": "R7_64",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_65",
+                    "tk": "13"
+                },
+                {
+                    "tkid": "R7_66",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_67",
+                    "tk": "Quenton"
+                },
+                {
+                    "tkid": "R7_68",
+                    "tk": "Nelson"
+                },
+                {
+                    "tkid": "R7_69",
+                    "tk": "15"
+                },
+                {
+                    "tkid": "R7_70",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_71",
+                    "tk": "Jessie"
+                },
+                {
+                    "tkid": "R7_72",
+                    "tk": "Bates"
+                },
+                {
+                    "tkid": "R7_73",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_74",
+                    "tk": "15"
+                },
+                {
+                    "tkid": "R7_75",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_76",
+                    "tk": "0"
+                },
+                {
+                    "tkid": "R7_77",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_78",
+                    "tk": "nailed"
+                },
+                {
+                    "tkid": "R7_79",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R7_80",
+                    "tk": "14"
+                },
+                {
+                    "tkid": "R7_81",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_82",
+                    "tk": "Xavien"
+                },
+                {
+                    "tkid": "R7_83",
+                    "tk": "Howard"
+                },
+                {
+                    "tkid": "R7_84",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_85",
+                    "tk": "14"
+                },
+                {
+                    "tkid": "R7_86",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_87",
+                    "tk": "0"
+                },
+                {
+                    "tkid": "R7_88",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_89",
+                    "tk": "nailed"
+                },
+                {
+                    "tkid": "R7_90",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R7_91",
+                    "tk": "13"
+                },
+                {
+                    "tkid": "R7_92",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_93",
+                    "tk": "David"
+                },
+                {
+                    "tkid": "R7_94",
+                    "tk": "Bakhtiari"
+                },
+                {
+                    "tkid": "R7_95",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_96",
+                    "tk": "22"
+                },
+                {
+                    "tkid": "R7_97",
+                    "tk": "| -"
+                },
+                {
+                    "tkid": "R7_98",
+                    "tk": "9"
+                },
+                {
+                    "tkid": "R7_99",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_100",
+                    "tk": "Khalil"
+                },
+                {
+                    "tkid": "R7_101",
+                    "tk": "Mack"
+                },
+                {
+                    "tkid": "R7_102",
+                    "tk": "12"
+                },
+                {
+                    "tkid": "R7_103",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_104",
+                    "tk": "Josh"
+                },
+                {
+                    "tkid": "R7_105",
+                    "tk": "Allen"
+                },
+                {
+                    "tkid": "R7_106",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_107",
+                    "tk": "11"
+                },
+                {
+                    "tkid": "R7_108",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_109",
+                    "tk": "1"
+                },
+                {
+                    "tkid": "R7_110",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_111",
+                    "tk": "Trent"
+                },
+                {
+                    "tkid": "R7_112",
+                    "tk": "Williams"
+                },
+                {
+                    "tkid": "R7_113",
+                    "tk": "11"
+                },
+                {
+                    "tkid": "R7_114",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_115",
+                    "tk": "Jaire"
+                },
+                {
+                    "tkid": "R7_116",
+                    "tk": "Alexander"
+                },
+                {
+                    "tkid": "R7_117",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_118",
+                    "tk": "7"
+                },
+                {
+                    "tkid": "R7_119",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_120",
+                    "tk": "4"
+                },
+                {
+                    "tkid": "R7_121",
+                    "tk": "|"
+                },
+                {
+                    "tkid": "R7_122",
+                    "tk": "Josh"
+                },
+                {
+                    "tkid": "R7_123",
+                    "tk": "Allen"
+                },
+                {
+                    "tkid": "R7_124",
+                    "tk": "ask"
+                },
+                {
+                    "tkid": "R7_125",
+                    "tk": "away"
+                }
+            ],
+            "Overall": "Neu"
+        },
+        {
+            "rvid": 8,
+            "rvarr": [
+                {
+                    "tkid": "R8_0",
+                    "tk": "For"
+                },
+                {
+                    "tkid": "R8_1",
+                    "tk": "me"
+                },
+                {
+                    "tkid": "R8_2",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R8_3",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R8_4",
+                    "tk": "s"
+                },
+                {
+                    "tkid": "R8_5",
+                    "tk": "about"
+                },
+                {
+                    "tkid": "R8_6",
+                    "tk": "handling"
+                },
+                {
+                    "tkid": "R8_7",
+                    "tk": "feel"
+                },
+                {
+                    "tkid": "R8_8",
+                    "tk": "and"
+                },
+                {
+                    "tkid": "R8_9",
+                    "tk": "performance"
+                },
+                {
+                    "tkid": "R8_10",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R8_11",
+                    "tk": "but"
+                },
+                {
+                    "tkid": "R8_12",
+                    "tk": "refinement"
+                },
+                {
+                    "tkid": "R8_13",
+                    "tk": "is"
+                },
+                {
+                    "tkid": "R8_14",
+                    "tk": "key"
+                },
+                {
+                    "tkid": "R8_15",
+                    "tk": "at"
+                },
+                {
+                    "tkid": "R8_16",
+                    "tk": "any"
+                },
+                {
+                    "tkid": "R8_17",
+                    "tk": "price"
+                },
+                {
+                    "tkid": "R8_18",
+                    "tk": "point"
+                },
+                {
+                    "tkid": "R8_19",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R8_20",
+                    "tk": "Shaking"
+                },
+                {
+                    "tkid": "R8_21",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R8_22",
+                    "tk": "vibration"
+                },
+                {
+                    "tkid": "R8_23",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R8_24",
+                    "tk": "noise"
+                },
+                {
+                    "tkid": "R8_25",
+                    "tk": "those"
+                },
+                {
+                    "tkid": "R8_26",
+                    "tk": "are"
+                },
+                {
+                    "tkid": "R8_27",
+                    "tk": "all"
+                },
+                {
+                    "tkid": "R8_28",
+                    "tk": "unacceptable"
+                },
+                {
+                    "tkid": "R8_29",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R8_30",
+                    "tk": "BEVs",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R8_31",
+                    "tk": "provide"
+                },
+                {
+                    "tkid": "R8_32",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R8_33",
+                    "tk": "best"
+                },
+                {
+                    "tkid": "R8_34",
+                    "tk": "of"
+                },
+                {
+                    "tkid": "R8_35",
+                    "tk": "both"
+                },
+                {
+                    "tkid": "R8_36",
+                    "tk": "worlds"
+                },
+                {
+                    "tkid": "R8_37",
+                    "tk": "for"
+                },
+                {
+                    "tkid": "R8_38",
+                    "tk": "me"
+                },
+                {
+                    "tkid": "R8_39",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R8_40",
+                    "tk": "none"
+                },
+                {
+                    "tkid": "R8_41",
+                    "tk": "of"
+                },
+                {
+                    "tkid": "R8_42",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R8_43",
+                    "tk": "unpleasant"
+                },
+                {
+                    "tkid": "R8_44",
+                    "tk": "noise"
+                },
+                {
+                    "tkid": "R8_45",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R8_46",
+                    "tk": "vibration"
+                },
+                {
+                    "tkid": "R8_47",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R8_48",
+                    "tk": "smells"
+                },
+                {
+                    "tkid": "R8_49",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R8_50",
+                    "tk": "but"
+                },
+                {
+                    "tkid": "R8_51",
+                    "tk": "all"
+                },
+                {
+                    "tkid": "R8_52",
+                    "tk": "of"
+                },
+                {
+                    "tkid": "R8_53",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R8_54",
+                    "tk": "power"
+                },
+                {
+                    "tkid": "R8_55",
+                    "tk": "and"
+                },
+                {
+                    "tkid": "R8_56",
+                    "tk": "sporty"
+                },
+                {
+                    "tkid": "R8_57",
+                    "tk": "handling"
+                },
+                {
+                    "tkid": "R8_58",
+                    "tk": "."
+                }
+            ],
+            "Overall": "Pos"
+        },
+        {
+            "rvid": 9,
+            "rvarr": [
+                {
+                    "tkid": "R9_0",
+                    "tk": "Creed",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R9_1",
+                    "tk": "all"
+                },
+                {
+                    "tkid": "R9_2",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R9_3",
+                    "tk": "way"
+                },
+                {
+                    "tkid": "R9_4",
+                    "tk": "!"
+                }
+            ],
+            "Overall": "Pos"
+        },
+        {
+            "rvid": 10,
+            "rvarr": [
+                {
+                    "tkid": "R10_0",
+                    "tk": "They"
+                },
+                {
+                    "tkid": "R10_1",
+                    "tk": "integrate"
+                },
+                {
+                    "tkid": "R10_2",
+                    "tk": "with"
+                },
+                {
+                    "tkid": "R10_3",
+                    "tk": "another"
+                },
+                {
+                    "tkid": "R10_4",
+                    "tk": "product"
+                },
+                {
+                    "tkid": "R10_5",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R10_6",
+                    "tk": "do"
+                },
+                {
+                    "tkid": "R10_7",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R10_8",
+                    "tk": "banking"
+                },
+                {
+                    "tkid": "R10_9",
+                    "tk": "pulling"
+                },
+                {
+                    "tkid": "R10_10",
+                    "tk": "in"
+                },
+                {
+                    "tkid": "R10_11",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R10_12",
+                    "tk": "So"
+                },
+                {
+                    "tkid": "R10_13",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R10_14",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R10_15",
+                    "tk": "s"
+                },
+                {
+                    "tkid": "R10_16",
+                    "tk": "an"
+                },
+                {
+                    "tkid": "R10_17",
+                    "tk": "ongoing"
+                },
+                {
+                    "tkid": "R10_18",
+                    "tk": "cost"
+                },
+                {
+                    "tkid": "R10_19",
+                    "tk": "for"
+                },
+                {
+                    "tkid": "R10_20",
+                    "tk": "them"
+                },
+                {
+                    "tkid": "R10_21",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R10_22",
+                    "tk": "pay"
+                },
+                {
+                    "tkid": "R10_23",
+                    "tk": "for"
+                },
+                {
+                    "tkid": "R10_24",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R10_25",
+                    "tk": "service"
+                },
+                {
+                    "tkid": "R10_26",
+                    "tk": "("
+                },
+                {
+                    "tkid": "R10_27",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R10_28",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R10_29",
+                    "tk": "s"
+                },
+                {
+                    "tkid": "R10_30",
+                    "tk": "also"
+                },
+                {
+                    "tkid": "R10_31",
+                    "tk": "probably"
+                },
+                {
+                    "tkid": "R10_32",
+                    "tk": "setup"
+                },
+                {
+                    "tkid": "R10_33",
+                    "tk": "per"
+                },
+                {
+                    "tkid": "R10_34",
+                    "tk": "user"
+                },
+                {
+                    "tkid": "R10_35",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R10_36",
+                    "tk": "so"
+                },
+                {
+                    "tkid": "R10_37",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R10_38",
+                    "tk": "more"
+                },
+                {
+                    "tkid": "R10_39",
+                    "tk": "users"
+                },
+                {
+                    "tkid": "R10_40",
+                    "tk": "they"
+                },
+                {
+                    "tkid": "R10_41",
+                    "tk": "have"
+                },
+                {
+                    "tkid": "R10_42",
+                    "tk": "using"
+                },
+                {
+                    "tkid": "R10_43",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R10_44",
+                    "tk": "auto"
+                },
+                {
+                    "tkid": "R10_45",
+                    "tk": "-"
+                },
+                {
+                    "tkid": "R10_46",
+                    "tk": "import"
+                },
+                {
+                    "tkid": "R10_47",
+                    "tk": "feature"
+                },
+                {
+                    "tkid": "R10_48",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R10_49",
+                    "tk": "more"
+                },
+                {
+                    "tkid": "R10_50",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R10_51",
+                    "tk": "costs"
+                },
+                {
+                    "tkid": "R10_52",
+                    "tk": "them"
+                },
+                {
+                    "tkid": "R10_53",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R10_54",
+                    "tk": "So"
+                },
+                {
+                    "tkid": "R10_55",
+                    "tk": "part"
+                },
+                {
+                    "tkid": "R10_56",
+                    "tk": "of"
+                },
+                {
+                    "tkid": "R10_57",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R10_58",
+                    "tk": "monthly"
+                },
+                {
+                    "tkid": "R10_59",
+                    "tk": "fee"
+                },
+                {
+                    "tkid": "R10_60",
+                    "tk": "goes"
+                },
+                {
+                    "tkid": "R10_61",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R10_62",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R10_63",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R10_64",
+                    "tk": "But"
+                },
+                {
+                    "tkid": "R10_65",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R10_66",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R10_67",
+                    "tk": "s"
+                },
+                {
+                    "tkid": "R10_68",
+                    "tk": "also"
+                },
+                {
+                    "tkid": "R10_69",
+                    "tk": "all"
+                },
+                {
+                    "tkid": "R10_70",
+                    "tk": "hosted"
+                },
+                {
+                    "tkid": "R10_71",
+                    "tk": "by"
+                },
+                {
+                    "tkid": "R10_72",
+                    "tk": "them"
+                },
+                {
+                    "tkid": "R10_73",
+                    "tk": "so"
+                },
+                {
+                    "tkid": "R10_74",
+                    "tk": "they"
+                },
+                {
+                    "tkid": "R10_75",
+                    "tk": "have"
+                },
+                {
+                    "tkid": "R10_76",
+                    "tk": "ongoing"
+                },
+                {
+                    "tkid": "R10_77",
+                    "tk": "server"
+                },
+                {
+                    "tkid": "R10_78",
+                    "tk": "costs"
+                },
+                {
+                    "tkid": "R10_79",
+                    "tk": "and"
+                },
+                {
+                    "tkid": "R10_80",
+                    "tk": "all"
+                },
+                {
+                    "tkid": "R10_81",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R10_82",
+                    "tk": "fun"
+                },
+                {
+                    "tkid": "R10_83",
+                    "tk": "stuff"
+                },
+                {
+                    "tkid": "R10_84",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R10_85",
+                    "tk": "deal"
+                },
+                {
+                    "tkid": "R10_86",
+                    "tk": "with"
+                },
+                {
+                    "tkid": "R10_87",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R10_88",
+                    "tk": "On"
+                },
+                {
+                    "tkid": "R10_89",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R10_90",
+                    "tk": "plus"
+                },
+                {
+                    "tkid": "R10_91",
+                    "tk": "side"
+                },
+                {
+                    "tkid": "R10_92",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R10_93",
+                    "tk": "they"
+                },
+                {
+                    "tkid": "R10_94",
+                    "tk": "control"
+                },
+                {
+                    "tkid": "R10_95",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R10_96",
+                    "tk": "platform"
+                },
+                {
+                    "tkid": "R10_97",
+                    "tk": "now"
+                },
+                {
+                    "tkid": "R10_98",
+                    "tk": "so"
+                },
+                {
+                    "tkid": "R10_99",
+                    "tk": "they"
+                },
+                {
+                    "tkid": "R10_100",
+                    "tk": "don"
+                },
+                {
+                    "tkid": "R10_101",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R10_102",
+                    "tk": "t"
+                },
+                {
+                    "tkid": "R10_103",
+                    "tk": "have"
+                },
+                {
+                    "tkid": "R10_104",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R10_105",
+                    "tk": "live"
+                },
+                {
+                    "tkid": "R10_106",
+                    "tk": "within"
+                },
+                {
+                    "tkid": "R10_107",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R10_108",
+                    "tk": "rules"
+                },
+                {
+                    "tkid": "R10_109",
+                    "tk": "of"
+                },
+                {
+                    "tkid": "R10_110",
+                    "tk": "Dropbox"
+                },
+                {
+                    "tkid": "R10_111",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R10_112",
+                    "tk": "As"
+                },
+                {
+                    "tkid": "R10_113",
+                    "tk": "an"
+                },
+                {
+                    "tkid": "R10_114",
+                    "tk": "app"
+                },
+                {
+                    "tkid": "R10_115",
+                    "tk": "developer"
+                },
+                {
+                    "tkid": "R10_116",
+                    "tk": "who"
+                },
+                {
+                    "tkid": "R10_117",
+                    "tk": "has"
+                },
+                {
+                    "tkid": "R10_118",
+                    "tk": "worked"
+                },
+                {
+                    "tkid": "R10_119",
+                    "tk": "on"
+                },
+                {
+                    "tkid": "R10_120",
+                    "tk": "rather"
+                },
+                {
+                    "tkid": "R10_121",
+                    "tk": "complicated"
+                },
+                {
+                    "tkid": "R10_122",
+                    "tk": "Dropbox"
+                },
+                {
+                    "tkid": "R10_123",
+                    "tk": "sync"
+                },
+                {
+                    "tkid": "R10_124",
+                    "tk": "solutions"
+                },
+                {
+                    "tkid": "R10_125",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R10_126",
+                    "tk": "can"
+                },
+                {
+                    "tkid": "R10_127",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R10_128",
+                    "tk": "t"
+                },
+                {
+                    "tkid": "R10_129",
+                    "tk": "even"
+                },
+                {
+                    "tkid": "R10_130",
+                    "tk": "begin"
+                },
+                {
+                    "tkid": "R10_131",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R10_132",
+                    "tk": "explain"
+                },
+                {
+                    "tkid": "R10_133",
+                    "tk": "how"
+                },
+                {
+                    "tkid": "R10_134",
+                    "tk": "awesome"
+                },
+                {
+                    "tkid": "R10_135",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R10_136",
+                    "tk": "is"
+                },
+                {
+                    "tkid": "R10_137",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R10_138",
+                    "tk": "own"
+                },
+                {
+                    "tkid": "R10_139",
+                    "tk": "and"
+                },
+                {
+                    "tkid": "R10_140",
+                    "tk": "control"
+                },
+                {
+                    "tkid": "R10_141",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R10_142",
+                    "tk": "entire"
+                },
+                {
+                    "tkid": "R10_143",
+                    "tk": "stack"
+                },
+                {
+                    "tkid": "R10_144",
+                    "tk": "for"
+                },
+                {
+                    "tkid": "R10_145",
+                    "tk": "sync"
+                },
+                {
+                    "tkid": "R10_146",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R10_147",
+                    "tk": "It"
+                },
+                {
+                    "tkid": "R10_148",
+                    "tk": "makes"
+                },
+                {
+                    "tkid": "R10_149",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R10_150",
+                    "tk": "huge"
+                },
+                {
+                    "tkid": "R10_151",
+                    "tk": "difference"
+                },
+                {
+                    "tkid": "R10_152",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R10_153",
+                    "tk": "reliability"
+                },
+                {
+                    "tkid": "R10_154",
+                    "tk": "and"
+                },
+                {
+                    "tkid": "R10_155",
+                    "tk": "features"
+                },
+                {
+                    "tkid": "R10_156",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R10_157",
+                    "tk": "You"
+                },
+                {
+                    "tkid": "R10_158",
+                    "tk": "spend"
+                },
+                {
+                    "tkid": "R10_159",
+                    "tk": "less"
+                },
+                {
+                    "tkid": "R10_160",
+                    "tk": "time"
+                },
+                {
+                    "tkid": "R10_161",
+                    "tk": "trying"
+                },
+                {
+                    "tkid": "R10_162",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R10_163",
+                    "tk": "hack"
+                },
+                {
+                    "tkid": "R10_164",
+                    "tk": "around"
+                },
+                {
+                    "tkid": "R10_165",
+                    "tk": "problems"
+                },
+                {
+                    "tkid": "R10_166",
+                    "tk": "and"
+                },
+                {
+                    "tkid": "R10_167",
+                    "tk": "more"
+                },
+                {
+                    "tkid": "R10_168",
+                    "tk": "time"
+                },
+                {
+                    "tkid": "R10_169",
+                    "tk": "making"
+                },
+                {
+                    "tkid": "R10_170",
+                    "tk": "better"
+                },
+                {
+                    "tkid": "R10_171",
+                    "tk": "features"
+                },
+                {
+                    "tkid": "R10_172",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R10_173",
+                    "tk": "My"
+                },
+                {
+                    "tkid": "R10_174",
+                    "tk": "only"
+                },
+                {
+                    "tkid": "R10_175",
+                    "tk": "major"
+                },
+                {
+                    "tkid": "R10_176",
+                    "tk": "complaint"
+                },
+                {
+                    "tkid": "R10_177",
+                    "tk": "with"
+                },
+                {
+                    "tkid": "R10_178",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R10_179",
+                    "tk": "new"
+                },
+                {
+                    "tkid": "R10_180",
+                    "tk": "YNAB"
+                },
+                {
+                    "tkid": "R10_181",
+                    "tk": "service"
+                },
+                {
+                    "tkid": "R10_182",
+                    "tk": "is"
+                },
+                {
+                    "tkid": "R10_183",
+                    "tk": "they"
+                },
+                {
+                    "tkid": "R10_184",
+                    "tk": "don"
+                },
+                {
+                    "tkid": "R10_185",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R10_186",
+                    "tk": "t"
+                },
+                {
+                    "tkid": "R10_187",
+                    "tk": "encrypt"
+                },
+                {
+                    "tkid": "R10_188",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R10_189",
+                    "tk": "data"
+                },
+                {
+                    "tkid": "R10_190",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R10_191",
+                    "tk": "store"
+                },
+                {
+                    "tkid": "R10_192",
+                    "tk": "there"
+                },
+                {
+                    "tkid": "R10_193",
+                    "tk": "with"
+                },
+                {
+                    "tkid": "R10_194",
+                    "tk": "my"
+                },
+                {
+                    "tkid": "R10_195",
+                    "tk": "own"
+                },
+                {
+                    "tkid": "R10_196",
+                    "tk": "keys"
+                },
+                {
+                    "tkid": "R10_197",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R10_198",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R10_199",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R10_200",
+                    "tk": "d"
+                },
+                {
+                    "tkid": "R10_201",
+                    "tk": "much"
+                },
+                {
+                    "tkid": "R10_202",
+                    "tk": "rather"
+                },
+                {
+                    "tkid": "R10_203",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R10_204",
+                    "tk": "only"
+                },
+                {
+                    "tkid": "R10_205",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R10_206",
+                    "tk": "have"
+                },
+                {
+                    "tkid": "R10_207",
+                    "tk": "access"
+                },
+                {
+                    "tkid": "R10_208",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R10_209",
+                    "tk": "my"
+                },
+                {
+                    "tkid": "R10_210",
+                    "tk": "data"
+                },
+                {
+                    "tkid": "R10_211",
+                    "tk": "stored"
+                },
+                {
+                    "tkid": "R10_212",
+                    "tk": "there"
+                },
+                {
+                    "tkid": "R10_213",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R10_214",
+                    "tk": "Instead"
+                },
+                {
+                    "tkid": "R10_215",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R10_216",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R10_217",
+                    "tk": "s"
+                },
+                {
+                    "tkid": "R10_218",
+                    "tk": "encrypted"
+                },
+                {
+                    "tkid": "R10_219",
+                    "tk": "on"
+                },
+                {
+                    "tkid": "R10_220",
+                    "tk": "disk"
+                },
+                {
+                    "tkid": "R10_221",
+                    "tk": "by"
+                },
+                {
+                    "tkid": "R10_222",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R10_223",
+                    "tk": "shared"
+                },
+                {
+                    "tkid": "R10_224",
+                    "tk": "key"
+                },
+                {
+                    "tkid": "R10_225",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R10_226",
+                    "tk": "per"
+                },
+                {
+                    "tkid": "R10_227",
+                    "tk": "their"
+                },
+                {
+                    "tkid": "R10_228",
+                    "tk": "privacy"
+                },
+                {
+                    "tkid": "R10_229",
+                    "tk": "policy"
+                },
+                {
+                    "tkid": "R10_230",
+                    "tk": "or"
+                },
+                {
+                    "tkid": "R10_231",
+                    "tk": "security"
+                },
+                {
+                    "tkid": "R10_232",
+                    "tk": "docs"
+                },
+                {
+                    "tkid": "R10_233",
+                    "tk": "only"
+                },
+                {
+                    "tkid": "R10_234",
+                    "tk": "certain"
+                },
+                {
+                    "tkid": "R10_235",
+                    "tk": "people"
+                },
+                {
+                    "tkid": "R10_236",
+                    "tk": "at"
+                },
+                {
+                    "tkid": "R10_237",
+                    "tk": "YNAB"
+                },
+                {
+                    "tkid": "R10_238",
+                    "tk": "have"
+                },
+                {
+                    "tkid": "R10_239",
+                    "tk": "access"
+                },
+                {
+                    "tkid": "R10_240",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R10_241",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R10_242",
+                    "tk": "But"
+                },
+                {
+                    "tkid": "R10_243",
+                    "tk": "either"
+                },
+                {
+                    "tkid": "R10_244",
+                    "tk": "way"
+                },
+                {
+                    "tkid": "R10_245",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R10_246",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R10_247",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R10_248",
+                    "tk": "d"
+                },
+                {
+                    "tkid": "R10_249",
+                    "tk": "rather"
+                },
+                {
+                    "tkid": "R10_250",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R10_251",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R10_252",
+                    "tk": "keys"
+                },
+                {
+                    "tkid": "R10_253",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R10_254",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R10_255",
+                    "tk": "kingdom"
+                },
+                {
+                    "tkid": "R10_256",
+                    "tk": "be"
+                },
+                {
+                    "tkid": "R10_257",
+                    "tk": "held"
+                },
+                {
+                    "tkid": "R10_258",
+                    "tk": "by"
+                },
+                {
+                    "tkid": "R10_259",
+                    "tk": "me"
+                },
+                {
+                    "tkid": "R10_260",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R10_261",
+                    "tk": "and"
+                },
+                {
+                    "tkid": "R10_262",
+                    "tk": "not"
+                },
+                {
+                    "tkid": "R10_263",
+                    "tk": "someone"
+                },
+                {
+                    "tkid": "R10_264",
+                    "tk": "else"
+                },
+                {
+                    "tkid": "R10_265",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R10_266",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R10_267",
+                    "tk": "have"
+                },
+                {
+                    "tkid": "R10_268",
+                    "tk": "no"
+                },
+                {
+                    "tkid": "R10_269",
+                    "tk": "qualms"
+                },
+                {
+                    "tkid": "R10_270",
+                    "tk": "with"
+                },
+                {
+                    "tkid": "R10_271",
+                    "tk": "cloud"
+                },
+                {
+                    "tkid": "R10_272",
+                    "tk": "syncing"
+                },
+                {
+                    "tkid": "R10_273",
+                    "tk": "when"
+                },
+                {
+                    "tkid": "R10_274",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R10_275",
+                    "tk": "comes"
+                },
+                {
+                    "tkid": "R10_276",
+                    "tk": "down"
+                },
+                {
+                    "tkid": "R10_277",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R10_278",
+                    "tk": "me"
+                },
+                {
+                    "tkid": "R10_279",
+                    "tk": "controlling"
+                },
+                {
+                    "tkid": "R10_280",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R10_281",
+                    "tk": "encryption"
+                },
+                {
+                    "tkid": "R10_282",
+                    "tk": "keys"
+                },
+                {
+                    "tkid": "R10_283",
+                    "tk": "."
+                }
+            ],
+            "Overall": ""
+        },
+        {
+            "rvid": 11,
+            "rvarr": [
+                {
+                    "tkid": "R11_0",
+                    "tk": "Ok"
+                },
+                {
+                    "tkid": "R11_1",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R11_2",
+                    "tk": "but"
+                },
+                {
+                    "tkid": "R11_3",
+                    "tk": "why"
+                },
+                {
+                    "tkid": "R11_4",
+                    "tk": "didn"
+                },
+                {
+                    "tkid": "R11_5",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R11_6",
+                    "tk": "t"
+                },
+                {
+                    "tkid": "R11_7",
+                    "tk": "you"
+                },
+                {
+                    "tkid": "R11_8",
+                    "tk": "go"
+                },
+                {
+                    "tkid": "R11_9",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R11_10",
+                    "tk": "an"
+                },
+                {
+                    "tkid": "R11_11",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R11_12",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R11_13",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R11_14",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R11_15",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R11_16",
+                    "tk": "online program from a good school",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R11_17",
+                    "tk": "?"
+                },
+                {
+                    "tkid": "R11_18",
+                    "tk": "There"
+                },
+                {
+                    "tkid": "R11_19",
+                    "tk": "are"
+                },
+                {
+                    "tkid": "R11_20",
+                    "tk": "plenty"
+                },
+                {
+                    "tkid": "R11_21",
+                    "tk": "of"
+                },
+                {
+                    "tkid": "R11_22",
+                    "tk": "options"
+                },
+                {
+                    "tkid": "R11_23",
+                    "tk": "."
+                }
+            ],
+            "Overall": "Pos"
+        },
+        {
+            "rvid": 12,
+            "rvarr": [
+                {
+                    "tkid": "R12_0",
+                    "tk": "Please"
+                },
+                {
+                    "tkid": "R12_1",
+                    "tk": "describe"
+                },
+                {
+                    "tkid": "R12_2",
+                    "tk": "!"
+                }
+            ],
+            "Overall": "Neu"
+        },
+        {
+            "rvid": 13,
+            "rvarr": [
+                {
+                    "tkid": "R13_0",
+                    "tk": "Yeah"
+                },
+                {
+                    "tkid": "R13_1",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R13_2",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R13_3",
+                    "tk": "short"
+                },
+                {
+                    "tkid": "R13_4",
+                    "tk": "stories"
+                },
+                {
+                    "tkid": "R13_5",
+                    "tk": "are"
+                },
+                {
+                    "tkid": "R13_6",
+                    "tk": "included"
+                },
+                {
+                    "tkid": "R13_7",
+                    "tk": "in"
+                },
+                {
+                    "tkid": "R13_8",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R13_9",
+                    "tk": "audiobooks"
+                },
+                {
+                    "tkid": "R13_10",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R13_11",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R13_12",
+                    "tk": "recommend"
+                },
+                {
+                    "tkid": "R13_13",
+                    "tk": "them"
+                },
+                {
+                    "tkid": "R13_14",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R13_15",
+                    "tk": "he"
+                },
+                {
+                    "tkid": "R13_16",
+                    "tk": "reads"
+                },
+                {
+                    "tkid": "R13_17",
+                    "tk": "them"
+                },
+                {
+                    "tkid": "R13_18",
+                    "tk": "so"
+                },
+                {
+                    "tkid": "R13_19",
+                    "tk": "so"
+                },
+                {
+                    "tkid": "R13_20",
+                    "tk": "well"
+                },
+                {
+                    "tkid": "R13_21",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R13_22",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R13_23",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R13_24",
+                    "tk": "ll"
+                },
+                {
+                    "tkid": "R13_25",
+                    "tk": "absolutely"
+                },
+                {
+                    "tkid": "R13_26",
+                    "tk": "check"
+                },
+                {
+                    "tkid": "R13_27",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R13_28",
+                    "tk": "out"
+                },
+                {
+                    "tkid": "R13_29",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R13_30",
+                    "tk": "thank"
+                },
+                {
+                    "tkid": "R13_31",
+                    "tk": "you"
+                },
+                {
+                    "tkid": "R13_32",
+                    "tk": "!"
+                }
+            ],
+            "Overall": "Neu"
+        },
+        {
+            "rvid": 14,
+            "rvarr": [
+                {
+                    "tkid": "R14_0",
+                    "tk": "**"
+                },
+                {
+                    "tkid": "R14_1",
+                    "tk": "Metal"
+                },
+                {
+                    "tkid": "R14_2",
+                    "tk": "**\n\n["
+                },
+                {
+                    "tkid": "R14_3",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R14_4",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R14_5",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R14_6",
+                    "tk": "Crushed - Parkway Drive",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R14_7",
+                    "tk": "]("
+                },
+                {
+                    "tkid": "R14_8",
+                    "tk": "https"
+                },
+                {
+                    "tkid": "R14_9",
+                    "tk": "://"
+                },
+                {
+                    "tkid": "R14_10",
+                    "tk": "m"
+                },
+                {
+                    "tkid": "R14_11",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R14_12",
+                    "tk": "youtube"
+                },
+                {
+                    "tkid": "R14_13",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R14_14",
+                    "tk": "com"
+                },
+                {
+                    "tkid": "R14_15",
+                    "tk": "/"
+                },
+                {
+                    "tkid": "R14_16",
+                    "tk": "watch"
+                },
+                {
+                    "tkid": "R14_17",
+                    "tk": "?"
+                },
+                {
+                    "tkid": "R14_18",
+                    "tk": "v"
+                },
+                {
+                    "tkid": "R14_19",
+                    "tk": "="
+                },
+                {
+                    "tkid": "R14_20",
+                    "tk": "9m4685liWb0"
+                },
+                {
+                    "tkid": "R14_21",
+                    "tk": ")"
+                }
+            ],
+            "Overall": "Pos"
+        },
+        {
+            "rvid": 15,
+            "rvarr": [
+                {
+                    "tkid": "R15_0",
+                    "tk": "Listen"
+                },
+                {
+                    "tkid": "R15_1",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R15_2",
+                    "tk": "this"
+                },
+                {
+                    "tkid": "R15_3",
+                    "tk": "man"
+                },
+                {
+                    "tkid": "R15_4",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R15_5",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R15_6",
+                    "tk": "also"
+                },
+                {
+                    "tkid": "R15_7",
+                    "tk": "have"
+                },
+                {
+                    "tkid": "R15_8",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R15_9",
+                    "tk": "4"
+                },
+                {
+                    "tkid": "R15_10",
+                    "tk": "year"
+                },
+                {
+                    "tkid": "R15_11",
+                    "tk": "old"
+                },
+                {
+                    "tkid": "R15_12",
+                    "tk": "$"
+                },
+                {
+                    "tkid": "R15_13",
+                    "tk": "400"
+                },
+                {
+                    "tkid": "R15_14",
+                    "tk": "gift"
+                },
+                {
+                    "tkid": "R15_15",
+                    "tk": "certificate"
+                },
+                {
+                    "tkid": "R15_16",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R15_17",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R15_18",
+                    "tk": "spa"
+                },
+                {
+                    "tkid": "R15_19",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R15_20",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R15_21",
+                    "tk": "work"
+                },
+                {
+                    "tkid": "R15_22",
+                    "tk": "60"
+                },
+                {
+                    "tkid": "R15_23",
+                    "tk": "hours"
+                },
+                {
+                    "tkid": "R15_24",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R15_25",
+                    "tk": "week"
+                },
+                {
+                    "tkid": "R15_26",
+                    "tk": "and"
+                },
+                {
+                    "tkid": "R15_27",
+                    "tk": "have"
+                },
+                {
+                    "tkid": "R15_28",
+                    "tk": "three"
+                },
+                {
+                    "tkid": "R15_29",
+                    "tk": "kids"
+                },
+                {
+                    "tkid": "R15_30",
+                    "tk": "under"
+                },
+                {
+                    "tkid": "R15_31",
+                    "tk": "six"
+                },
+                {
+                    "tkid": "R15_32",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R15_33",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R15_34",
+                    "tk": "just"
+                },
+                {
+                    "tkid": "R15_35",
+                    "tk": "don"
+                },
+                {
+                    "tkid": "R15_36",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R15_37",
+                    "tk": "t"
+                },
+                {
+                    "tkid": "R15_38",
+                    "tk": "have"
+                },
+                {
+                    "tkid": "R15_39",
+                    "tk": "time"
+                },
+                {
+                    "tkid": "R15_40",
+                    "tk": "."
+                }
+            ],
+            "Overall": "Neu"
+        },
+        {
+            "rvid": 16,
+            "rvarr": [
+                {
+                    "tkid": "R16_0",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R16_1",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R16_2",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R16_3",
+                    "tk": "Painkiller - Judas priest",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R16_4",
+                    "tk": "or"
+                },
+                {
+                    "tkid": "R16_5",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R16_6",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R16_7",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R16_8",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R16_9",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R16_10",
+                    "tk": "Never gonna get it - Akon",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                }
+            ],
+            "Overall": "Pos"
+        },
+        {
+            "rvid": 17,
+            "rvarr": [
+                {
+                    "tkid": "R17_0",
+                    "tk": "Y"
+                },
+                {
+                    "tkid": "R17_1",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R17_2",
+                    "tk": "aaarrghh"
+                },
+                {
+                    "tkid": "R17_3",
+                    "tk": "!"
+                }
+            ],
+            "Overall": "Neu"
+        },
+        {
+            "rvid": 18,
+            "rvarr": [
+                {
+                    "tkid": "R18_0",
+                    "tk": "What"
+                },
+                {
+                    "tkid": "R18_1",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R18_2",
+                    "tk": "You"
+                },
+                {
+                    "tkid": "R18_3",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R18_4",
+                    "tk": "Gonna"
+                },
+                {
+                    "tkid": "R18_5",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R18_6",
+                    "tk": "Do"
+                },
+                {
+                    "tkid": "R18_7",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R18_8",
+                    "tk": "Mate"
+                },
+                {
+                    "tkid": "R18_9",
+                    "tk": "?"
+                }
+            ],
+            "Overall": "Neu"
+        },
+        {
+            "rvid": 19,
+            "rvarr": [
+                {
+                    "tkid": "R19_0",
+                    "tk": "Because"
+                },
+                {
+                    "tkid": "R19_1",
+                    "tk": "Prada",
+                    "aspect": true,
+                    "sentiment": "Neg"
+                },
+                {
+                    "tkid": "R19_2",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R19_3",
+                    "tk": "Ray Ban",
+                    "aspect": true,
+                    "sentiment": "Neg"
+                },
+                {
+                    "tkid": "R19_4",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R19_5",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R19_6",
+                    "tk": "Tiffany",
+                    "aspect": true,
+                    "sentiment": "Neg"
+                },
+                {
+                    "tkid": "R19_7",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R19_8",
+                    "tk": "etc"
+                },
+                {
+                    "tkid": "R19_9",
+                    "tk": "they"
+                },
+                {
+                    "tkid": "R19_10",
+                    "tk": "are"
+                },
+                {
+                    "tkid": "R19_11",
+                    "tk": "all"
+                },
+                {
+                    "tkid": "R19_12",
+                    "tk": "owned"
+                },
+                {
+                    "tkid": "R19_13",
+                    "tk": "by"
+                },
+                {
+                    "tkid": "R19_14",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R19_15",
+                    "tk": "monopolistic"
+                },
+                {
+                    "tkid": "R19_16",
+                    "tk": "firm"
+                },
+                {
+                    "tkid": "R19_17",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R19_18",
+                    "tk": "pushes"
+                },
+                {
+                    "tkid": "R19_19",
+                    "tk": "prices"
+                },
+                {
+                    "tkid": "R19_20",
+                    "tk": "up"
+                },
+                {
+                    "tkid": "R19_21",
+                    "tk": "500"
+                },
+                {
+                    "tkid": "R19_22",
+                    "tk": "%."
+                },
+                {
+                    "tkid": "R19_23",
+                    "tk": "Your"
+                },
+                {
+                    "tkid": "R19_24",
+                    "tk": "sunglasses"
+                },
+                {
+                    "tkid": "R19_25",
+                    "tk": "are"
+                },
+                {
+                    "tkid": "R19_26",
+                    "tk": "probably"
+                },
+                {
+                    "tkid": "R19_27",
+                    "tk": "worth"
+                },
+                {
+                    "tkid": "R19_28",
+                    "tk": "about"
+                },
+                {
+                    "tkid": "R19_29",
+                    "tk": "$"
+                },
+                {
+                    "tkid": "R19_30",
+                    "tk": "40"
+                },
+                {
+                    "tkid": "R19_31",
+                    "tk": "."
+                }
+            ],
+            "Overall": "Neg"
+        },
+        {
+            "rvid": 20,
+            "rvarr": [
+                {
+                    "tkid": "R20_0",
+                    "tk": "WTF"
+                }
+            ],
+            "Overall": "Neu"
+        },
+        {
+            "rvid": 21,
+            "rvarr": [
+                {
+                    "tkid": "R21_0",
+                    "tk": "Its"
+                },
+                {
+                    "tkid": "R21_1",
+                    "tk": "obviously"
+                },
+                {
+                    "tkid": "R21_2",
+                    "tk": "Pokemon Channel",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R21_3",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R21_4",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R21_5",
+                    "tk": "since"
+                },
+                {
+                    "tkid": "R21_6",
+                    "tk": "its"
+                },
+                {
+                    "tkid": "R21_7",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R21_8",
+                    "tk": "only"
+                },
+                {
+                    "tkid": "R21_9",
+                    "tk": "Pokemon"
+                },
+                {
+                    "tkid": "R21_10",
+                    "tk": "game"
+                },
+                {
+                    "tkid": "R21_11",
+                    "tk": "where"
+                },
+                {
+                    "tkid": "R21_12",
+                    "tk": "you"
+                },
+                {
+                    "tkid": "R21_13",
+                    "tk": "run"
+                },
+                {
+                    "tkid": "R21_14",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R21_15",
+                    "tk": "TV"
+                },
+                {
+                    "tkid": "R21_16",
+                    "tk": "network"
+                },
+                {
+                    "tkid": "R21_17",
+                    "tk": "."
+                }
+            ],
+            "Overall": "Pos"
+        },
+        {
+            "rvid": 22,
+            "rvarr": [
+                {
+                    "tkid": "R22_0",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R22_1",
+                    "tk": "love"
+                },
+                {
+                    "tkid": "R22_2",
+                    "tk": "Brad",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R22_3",
+                    "tk": "but"
+                },
+                {
+                    "tkid": "R22_4",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R22_5",
+                    "tk": "editing"
+                },
+                {
+                    "tkid": "R22_6",
+                    "tk": "really"
+                },
+                {
+                    "tkid": "R22_7",
+                    "tk": "does"
+                },
+                {
+                    "tkid": "R22_8",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R22_9",
+                    "tk": "for"
+                },
+                {
+                    "tkid": "R22_10",
+                    "tk": "me"
+                },
+                {
+                    "tkid": "R22_11",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R22_12",
+                    "tk": "Hunzie",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R22_13",
+                    "tk": "needs"
+                },
+                {
+                    "tkid": "R22_14",
+                    "tk": "more"
+                },
+                {
+                    "tkid": "R22_15",
+                    "tk": "appreciation"
+                },
+                {
+                    "tkid": "R22_16",
+                    "tk": "."
+                }
+            ],
+            "Overall": "Pos"
+        },
+        {
+            "rvid": 23,
+            "rvarr": [
+                {
+                    "tkid": "R23_0",
+                    "tk": "1"
+                },
+                {
+                    "tkid": "R23_1",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R23_2",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R23_3",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R23_4",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R23_5",
+                    "tk": "Logan ’ s Run",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R23_6",
+                    "tk": "-"
+                },
+                {
+                    "tkid": "R23_7",
+                    "tk": "William"
+                },
+                {
+                    "tkid": "R23_8",
+                    "tk": "F"
+                },
+                {
+                    "tkid": "R23_9",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R23_10",
+                    "tk": "Nolan"
+                },
+                {
+                    "tkid": "R23_11",
+                    "tk": "/"
+                },
+                {
+                    "tkid": "R23_12",
+                    "tk": "George"
+                },
+                {
+                    "tkid": "R23_13",
+                    "tk": "Clayton"
+                },
+                {
+                    "tkid": "R23_14",
+                    "tk": "Johnson"
+                },
+                {
+                    "tkid": "R23_15",
+                    "tk": "2"
+                },
+                {
+                    "tkid": "R23_16",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R23_17",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R23_18",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R23_19",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R23_20",
+                    "tk": "Galaxy ’ s Edge",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R23_21",
+                    "tk": "("
+                },
+                {
+                    "tkid": "R23_22",
+                    "tk": "series"
+                },
+                {
+                    "tkid": "R23_23",
+                    "tk": ") -"
+                },
+                {
+                    "tkid": "R23_24",
+                    "tk": "Jason"
+                },
+                {
+                    "tkid": "R23_25",
+                    "tk": "Anspach"
+                },
+                {
+                    "tkid": "R23_26",
+                    "tk": "/"
+                },
+                {
+                    "tkid": "R23_27",
+                    "tk": "Nick"
+                },
+                {
+                    "tkid": "R23_28",
+                    "tk": "Cole"
+                },
+                {
+                    "tkid": "R23_29",
+                    "tk": "3"
+                },
+                {
+                    "tkid": "R23_30",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R23_31",
+                    "tk": "The Expanse",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R23_32",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R23_33",
+                    "tk": "("
+                },
+                {
+                    "tkid": "R23_34",
+                    "tk": "series"
+                },
+                {
+                    "tkid": "R23_35",
+                    "tk": ") -"
+                },
+                {
+                    "tkid": "R23_36",
+                    "tk": "James"
+                },
+                {
+                    "tkid": "R23_37",
+                    "tk": "SA"
+                },
+                {
+                    "tkid": "R23_38",
+                    "tk": "Corey"
+                }
+            ],
+            "Overall": "Pos"
+        },
+        {
+            "rvid": 24,
+            "rvarr": [
+                {
+                    "tkid": "R24_0",
+                    "tk": "Breakfast smoothies",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R24_1",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R24_2",
+                    "tk": "offer"
+                },
+                {
+                    "tkid": "R24_3",
+                    "tk": "lots"
+                },
+                {
+                    "tkid": "R24_4",
+                    "tk": "of"
+                },
+                {
+                    "tkid": "R24_5",
+                    "tk": "variety"
+                },
+                {
+                    "tkid": "R24_6",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R24_7",
+                    "tk": "are"
+                },
+                {
+                    "tkid": "R24_8",
+                    "tk": "healthy"
+                },
+                {
+                    "tkid": "R24_9",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R24_10",
+                    "tk": "cheap"
+                },
+                {
+                    "tkid": "R24_11",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R24_12",
+                    "tk": "and"
+                },
+                {
+                    "tkid": "R24_13",
+                    "tk": "convenient"
+                },
+                {
+                    "tkid": "R24_14",
+                    "tk": "."
+                }
+            ],
+            "Overall": "Pos"
+        },
+        {
+            "rvid": 25,
+            "rvarr": [
+                {
+                    "tkid": "R25_0",
+                    "tk": "What"
+                },
+                {
+                    "tkid": "R25_1",
+                    "tk": "area"
+                },
+                {
+                    "tkid": "R25_2",
+                    "tk": "are"
+                },
+                {
+                    "tkid": "R25_3",
+                    "tk": "you"
+                },
+                {
+                    "tkid": "R25_4",
+                    "tk": "in"
+                },
+                {
+                    "tkid": "R25_5",
+                    "tk": "?"
+                },
+                {
+                    "tkid": "R25_6",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R25_7",
+                    "tk": "had"
+                },
+                {
+                    "tkid": "R25_8",
+                    "tk": "sporradic"
+                },
+                {
+                    "tkid": "R25_9",
+                    "tk": "issues"
+                },
+                {
+                    "tkid": "R25_10",
+                    "tk": "when"
+                },
+                {
+                    "tkid": "R25_11",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R25_12",
+                    "tk": "lived"
+                },
+                {
+                    "tkid": "R25_13",
+                    "tk": "in"
+                },
+                {
+                    "tkid": "R25_14",
+                    "tk": "SF"
+                },
+                {
+                    "tkid": "R25_15",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R25_16",
+                    "tk": "which"
+                },
+                {
+                    "tkid": "R25_17",
+                    "tk": "almost"
+                },
+                {
+                    "tkid": "R25_18",
+                    "tk": "always"
+                },
+                {
+                    "tkid": "R25_19",
+                    "tk": "wound"
+                },
+                {
+                    "tkid": "R25_20",
+                    "tk": "up"
+                },
+                {
+                    "tkid": "R25_21",
+                    "tk": "being"
+                },
+                {
+                    "tkid": "R25_22",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R25_23",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R25_24",
+                    "tk": "was"
+                },
+                {
+                    "tkid": "R25_25",
+                    "tk": "on"
+                },
+                {
+                    "tkid": "R25_26",
+                    "tk": "Sprint",
+                    "aspect": true,
+                    "sentiment": "Neg"
+                },
+                {
+                    "tkid": "R25_27",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R25_28",
+                    "tk": "had"
+                },
+                {
+                    "tkid": "R25_29",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R25_30",
+                    "tk": "change"
+                },
+                {
+                    "tkid": "R25_31",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R25_32",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R25_33",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R25_34",
+                    "tk": "T - Mo",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R25_35",
+                    "tk": "with"
+                },
+                {
+                    "tkid": "R25_36",
+                    "tk": "my"
+                },
+                {
+                    "tkid": "R25_37",
+                    "tk": "switcher"
+                },
+                {
+                    "tkid": "R25_38",
+                    "tk": "app"
+                },
+                {
+                    "tkid": "R25_39",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R25_40",
+                    "tk": "Now"
+                },
+                {
+                    "tkid": "R25_41",
+                    "tk": "that"
+                },
+                {
+                    "tkid": "R25_42",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R25_43",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R25_44",
+                    "tk": "m"
+                },
+                {
+                    "tkid": "R25_45",
+                    "tk": "in"
+                },
+                {
+                    "tkid": "R25_46",
+                    "tk": "upper"
+                },
+                {
+                    "tkid": "R25_47",
+                    "tk": "east"
+                },
+                {
+                    "tkid": "R25_48",
+                    "tk": "bay"
+                },
+                {
+                    "tkid": "R25_49",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R25_50",
+                    "tk": "if"
+                },
+                {
+                    "tkid": "R25_51",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R25_52",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R25_53",
+                    "tk": "m"
+                },
+                {
+                    "tkid": "R25_54",
+                    "tk": "not"
+                },
+                {
+                    "tkid": "R25_55",
+                    "tk": "on"
+                },
+                {
+                    "tkid": "R25_56",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R25_57",
+                    "tk": ""
+                },
+                {
+                    "tkid": "R25_58",
+                    "tk": "T - Mo",
+                    "aspect": true,
+                    "sentiment": "Pos"
+                },
+                {
+                    "tkid": "R25_59",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R25_60",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R25_61",
+                    "tk": "don"
+                },
+                {
+                    "tkid": "R25_62",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R25_63",
+                    "tk": "t"
+                },
+                {
+                    "tkid": "R25_64",
+                    "tk": "have"
+                },
+                {
+                    "tkid": "R25_65",
+                    "tk": "shit"
+                },
+                {
+                    "tkid": "R25_66",
+                    "tk": "for"
+                },
+                {
+                    "tkid": "R25_67",
+                    "tk": "connection"
+                },
+                {
+                    "tkid": "R25_68",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R25_69",
+                    "tk": "Sprint",
+                    "aspect": true,
+                    "sentiment": "Neg"
+                },
+                {
+                    "tkid": "R25_70",
+                    "tk": "is"
+                },
+                {
+                    "tkid": "R25_71",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R25_72",
+                    "tk": "literal"
+                },
+                {
+                    "tkid": "R25_73",
+                    "tk": "worst"
+                },
+                {
+                    "tkid": "R25_74",
+                    "tk": "network"
+                },
+                {
+                    "tkid": "R25_75",
+                    "tk": "in"
+                },
+                {
+                    "tkid": "R25_76",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R25_77",
+                    "tk": "world"
+                },
+                {
+                    "tkid": "R25_78",
+                    "tk": "around"
+                },
+                {
+                    "tkid": "R25_79",
+                    "tk": "here"
+                },
+                {
+                    "tkid": "R25_80",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R25_81",
+                    "tk": "Also"
+                },
+                {
+                    "tkid": "R25_82",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R25_83",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R25_84",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R25_85",
+                    "tk": "ve"
+                },
+                {
+                    "tkid": "R25_86",
+                    "tk": "been"
+                },
+                {
+                    "tkid": "R25_87",
+                    "tk": "randomly"
+                },
+                {
+                    "tkid": "R25_88",
+                    "tk": "connecting"
+                },
+                {
+                    "tkid": "R25_89",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R25_90",
+                    "tk": "some"
+                },
+                {
+                    "tkid": "R25_91",
+                    "tk": "unknown"
+                },
+                {
+                    "tkid": "R25_92",
+                    "tk": "network"
+                },
+                {
+                    "tkid": "R25_93",
+                    "tk": "here"
+                },
+                {
+                    "tkid": "R25_94",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R25_95",
+                    "tk": "and"
+                },
+                {
+                    "tkid": "R25_96",
+                    "tk": "Fi",
+                    "aspect": true,
+                    "sentiment": "Neg"
+                },
+                {
+                    "tkid": "R25_97",
+                    "tk": "refuses"
+                },
+                {
+                    "tkid": "R25_98",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R25_99",
+                    "tk": "put"
+                },
+                {
+                    "tkid": "R25_100",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R25_101",
+                    "tk": "block"
+                },
+                {
+                    "tkid": "R25_102",
+                    "tk": "on"
+                },
+                {
+                    "tkid": "R25_103",
+                    "tk": "it"
+                },
+                {
+                    "tkid": "R25_104",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R25_105",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R25_106",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R25_107",
+                    "tk": "m"
+                },
+                {
+                    "tkid": "R25_108",
+                    "tk": "kind"
+                },
+                {
+                    "tkid": "R25_109",
+                    "tk": "of"
+                },
+                {
+                    "tkid": "R25_110",
+                    "tk": "at"
+                },
+                {
+                    "tkid": "R25_111",
+                    "tk": "my"
+                },
+                {
+                    "tkid": "R25_112",
+                    "tk": "end"
+                },
+                {
+                    "tkid": "R25_113",
+                    "tk": "with"
+                },
+                {
+                    "tkid": "R25_114",
+                    "tk": "Fi",
+                    "aspect": true,
+                    "sentiment": "Neg"
+                },
+                {
+                    "tkid": "R25_115",
+                    "tk": "."
+                },
+                {
+                    "tkid": "R25_116",
+                    "tk": "Once"
+                },
+                {
+                    "tkid": "R25_117",
+                    "tk": "the"
+                },
+                {
+                    "tkid": "R25_118",
+                    "tk": "Pixel"
+                },
+                {
+                    "tkid": "R25_119",
+                    "tk": "6"
+                },
+                {
+                    "tkid": "R25_120",
+                    "tk": "comes"
+                },
+                {
+                    "tkid": "R25_121",
+                    "tk": "out"
+                },
+                {
+                    "tkid": "R25_122",
+                    "tk": ","
+                },
+                {
+                    "tkid": "R25_123",
+                    "tk": "I"
+                },
+                {
+                    "tkid": "R25_124",
+                    "tk": "'"
+                },
+                {
+                    "tkid": "R25_125",
+                    "tk": "m"
+                },
+                {
+                    "tkid": "R25_126",
+                    "tk": "going"
+                },
+                {
+                    "tkid": "R25_127",
+                    "tk": "to"
+                },
+                {
+                    "tkid": "R25_128",
+                    "tk": "be"
+                },
+                {
+                    "tkid": "R25_129",
+                    "tk": "taking"
+                },
+                {
+                    "tkid": "R25_130",
+                    "tk": "a"
+                },
+                {
+                    "tkid": "R25_131",
+                    "tk": "hard"
+                },
+                {
+                    "tkid": "R25_132",
+                    "tk": "reconsider"
+                },
+                {
+                    "tkid": "R25_133",
+                    "tk": "."
+                }
+            ],
+            "Overall": "Neu"
+        }
+    ]
+}

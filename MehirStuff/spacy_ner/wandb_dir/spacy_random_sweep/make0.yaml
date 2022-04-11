@@ -1,0 +1,33 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: spacy-job0
+  namespace: recommeddit
+spec:
+  template:
+    spec:
+      affinity:
+        nodeAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            nodeSelectorTerms:
+            - matchExpressions:
+              - key: nvidia.com/gpu.product
+                operator: In
+                values:
+                - NVIDIA-GeForce-RTX-3090
+      containers:
+      - name: spacy-pod
+        image: mehir123/spacy:latest
+        command: ["/bin/sh"]
+        args: ["-c", "wandb agent mehir/ner_final/ky86u4rc && sleep 10"]
+        resources:
+          limits:
+            memory: 10Gi
+            cpu: 1
+            nvidia.com/gpu: 1
+          requests:
+            memory: 10Gi
+            cpu: 1
+            nvidia.com/gpu: 1
+      restartPolicy: Never     
+  backoffLimit: 4

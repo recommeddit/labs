@@ -4,7 +4,7 @@ import spacy
 nlp = spacy.load('en_core_web_sm', disable=['tok2vec','tagger','parser', 'ner', 'attribute_ruler', 'lemmatizer'])
 
 """ GLOBALS """
-MAX_SEQ_LENGTH = 85 
+MAX_SEQ_LENGTH = 85
 
 def json_to_terms(j):
     """
@@ -16,6 +16,7 @@ def json_to_terms(j):
         arr = comment['rvarr']
         sentence = []
         entities = []  # (position, entity, sentiment)
+        comment_terms = []  # list of associated data
         tokens = 0
         for pos, token in enumerate(arr):
             tokens += sum(1 for tok in nlp(token['tk']))
@@ -25,7 +26,7 @@ def json_to_terms(j):
             sentence.append(token['tk'])
             if 'aspect' in token and 'sentiment' in token:
                 entities.append([pos, token['tk'], token['sentiment']])
-        if len(entities) == 0:
+        if not entities: 
             continue
         for ent in entities:
             s = sentence.copy()
@@ -35,8 +36,9 @@ def json_to_terms(j):
             elif ent[2] == 'Neg':
                 ent[2] = '-1'
             else:
-                ent[2] = '0'
-            terms.append([' '.join(s), ent[1], ent[2]])
+                ent[2] = '1'  # Treats Neutral as Positive for our purposes
+            comment_terms.append([' '.join(s), ent[1], ent[2]])
+        terms.append(comment_terms)        
     return terms
 
 def print_terms(terms, outfile):
@@ -44,8 +46,9 @@ def print_terms(terms, outfile):
     Prints data given terms from json_to_terms output
     """
     with open(outfile, 'w') as f:
-        for term in terms:
-            print(term[0], term[1], term[2], sep='\n', end='\n', file=f)
+        for comment_term in terms:
+            for term in comment_term:
+                print(term[0], term[1], term[2], sep='\n', end='\n', file=f)
 
 def load_json(infile):
     """
@@ -60,7 +63,7 @@ def main():
     """
     # Options
     parser = argparse.ArgumentParser(description='Converts PyAbsa .json data into .raw format')
-    parser.add_argument('--files', default='rawDataFiles/', type=str, help='Directory with _only_ json files (default rawDataFiles)')
+    parser.add_argument('--files', default='../rawDataFiles/', type=str, help='Directory with _only_ json files (default rawDataFiles)')
     parser.add_argument('--trainprop', default=0.9, type=float, help='Proportion of train data (default 0.1)')
     parser.add_argument('--trainfile', default='./docker/pyabsa_files/datasets/custom/train.raw', type=str, help='Location to output training data (default cleanDataFiles/train.raw')
     parser.add_argument('--testfile', default='./docker/pyabsa_files/datasets/custom/test.raw', type=str, help='Location to output testing data (default cleanDataFiles/test.raw')

@@ -1,0 +1,32 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: spacy-job3
+  namespace: recommeddit
+spec:
+  template:
+    spec:
+      containers:
+      - name: spacy-pod
+        image: mehir123/spacy:latest
+        command: ["/bin/sh"]
+        args: ["-c", "wandb agent mehir/spacy_ner/5sxp9iui & wandb agent mehir/spacy_ner/5sxp9iui"]
+        resources:
+          limits:
+            memory: 10Gi
+            cpu: 2
+            nvidia.com/gpu: 1
+            ephemeral-storage: 5Gi    
+          requests:
+            memory: 10Gi
+            cpu: 2
+            nvidia.com/gpu: 1
+            ephemeral-storage: 5Gi    
+        volumeMounts:
+        - mountPath: /tempstore
+          name: tempstore
+      volumes:
+        - name: tempstore
+          emptyDir: {}
+      restartPolicy: Never     
+  backoffLimit: 4

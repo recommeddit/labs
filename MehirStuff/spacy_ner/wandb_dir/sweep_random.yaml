@@ -1,0 +1,44 @@
+command:
+  - spacy
+  - train  
+  - config_wandb.cfg
+  - --gpu-id=0
+  - ${args}
+method: random
+project: ner_final
+name: random_sweep2  
+metric:
+  goal: maximize
+  name: ents_f
+parameters:
+  training.optimizer.learn_rate.initial_rate:
+    max: 0.0001
+    min: 0.00001
+    distribution: uniform
+  training.optimizer.learn_rate.warmup_steps:
+    max: 1000
+    min: 10
+  training.optimizer.beta2:
+    max: 1
+    min: 0.99
+    distribution: uniform
+  training.optimizer.beta1:
+    max: 1
+    min: 0.7
+    distribution: uniform
+  training.optimizer.L2:
+    max: 0.02
+    min: 0.005
+    distribution: uniform
+  training.dropout:
+    max: 0.2
+    min: 0.05
+    distribution: uniform
+  training.optimizer.learn_rate.total_steps:
+    max: 80000
+    min: 10000
+  components.transformer.model.name:
+    values: ["roberta-base","roberta-large","bert-base-uncased","bert-large-uncased","studio-ousia/luke-large","studio-ousia/luke-large"]
+  components.ner.model.hidden_width:
+    values: [8, 16, 32, 64, 128]
+

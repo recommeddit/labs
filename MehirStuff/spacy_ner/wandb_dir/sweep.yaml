@@ -1,0 +1,39 @@
+command:
+  - spacy
+  - train  
+  - config_wandb.cfg
+  - --gpu-id=0
+  - ${args}
+method: bayes
+project: ner_test
+name: ner_sweep  
+metric:
+  goal: maximize
+  name: ents_f
+parameters:
+  training.optimizer.learn_rate.initial_rate:
+    max: 0.0005
+    min: 0.000005
+    distribution: uniform
+  training.optimizer.learn_rate.warmup_steps:
+    max: 2000
+    min: 100
+  training.optimizer.beta2:
+    max: 1
+    min: 0.99
+    distribution: uniform
+  training.optimizer.beta1:
+    max: 1
+    min: 0.8
+    distribution: uniform
+  training.optimizer.L2:
+    max: 0.02
+    min: 0.005
+    distribution: uniform
+  training.dropout:
+    max: 0.2
+    min: 0.05
+    distribution: uniform
+  training.optimizer.learn_rate.total_steps:
+    max: 80000
+    min: 10000
